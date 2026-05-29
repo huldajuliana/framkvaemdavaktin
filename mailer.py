@@ -14,17 +14,20 @@ log = logging.getLogger("mailer")
 
 
 def send(subject: str, html_body: str) -> bool:
-    host = os.environ.get("SMTP_HOST")
-    port = int(os.environ.get("SMTP_PORT", "587"))
-    user = os.environ.get("SMTP_USER")
-    password = os.environ.get("SMTP_PASS")
-    sender = os.environ.get("EMAIL_FROM", user or "")
-    recipients = os.environ.get("EMAIL_TO", "")
+    host = os.environ.get("SMTP_HOST", "").strip()
+    user = os.environ.get("SMTP_USER", "").strip()
+    password = os.environ.get("SMTP_PASS", "").strip()
+    sender = os.environ.get("EMAIL_FROM", "").strip() or user
+    recipients = os.environ.get("EMAIL_TO", "").strip()
 
+    # Engar SMTP-stillingar (eða þær tómar) -> sleppum pósti, vefurinn keyrir samt.
     if not (host and user and password and recipients):
         log.warning("SMTP-breytur vantar — sleppi pósti. "
                     "(Settu SMTP_HOST, SMTP_USER, SMTP_PASS, EMAIL_TO.)")
         return False
+
+    port_raw = os.environ.get("SMTP_PORT", "").strip()
+    port = int(port_raw) if port_raw.isdigit() else 587
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject
