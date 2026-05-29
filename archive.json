@@ -1119,5 +1119,26 @@
   "tsort": "",
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 27
+ },
+ "d28246cb5e5c7439": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "16 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-05-29",
+  "url": "https://www.ruv.is/frettir/erlent/2026-05-29-esb-losar-sjodi-ungverjalands-476713/",
+  "title": "ESB losar sjóði Ungverjalands",
+  "sum": "Evrópusambandið hefur opnað fyrir aðgang að fé til Ungverjalands sem var fryst vegna áralangra deilna við Viktor Orban og stjórn hans. Þetta tilkynnti Ursula Von Der Leyen, forseti framkvæmdastjórnar ESB í morgun, eftir fund með Peter Magya",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-29T16:11:22.178703+00:00",
+  "id": 1
  }
 }
