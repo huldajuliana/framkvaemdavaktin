@@ -13,13 +13,33 @@ def _text(item: dict) -> str:
 
 def is_relevant(item: dict) -> bool:
     t = _text(item)
-    if any(neg in t for neg in C.NEGATIVE_KEYWORDS):
-        # leyfum samt ef sterkt framkvæmdaorð er líka til staðar
-        if not any(k in t for k in ("framkvæmd", "íbúð", "deiliskipulag", "útboð")):
-            return False
+    # Afdráttarlaus höfnun á augljóslega ótengdum flokkum (sakamál, dómsmál,
+    # menning, íþróttir, andlát). Þessi orð koma nær aldrei fyrir í alvöru
+    # framkvæmdafréttum, svo ef eitthvert þeirra finnst er fréttinni hafnað.
+    if any(neg in t for neg in C.NEGATIVE_KEYWORDS) or any(neg in t for neg in _HARD_NEGATIVES):
+        return False
+    # Nafn verktaka -> telst framkvæmdatengt.
     if any(b in t for b in C.BUILDER_HINTS):
         return True
-    return any(k in t for k in C.KEYWORDS)
+    # Annars þarf framkvæmdaorð. Sleppum of almenna orðinu "íbúð " (eitt og sér),
+    # sem hleypti inn hvaða frétt sem nefndi íbúð.
+    return any(k in t for k in C.KEYWORDS if k != "íbúð ")
+
+
+# Sterk útilokunarorð — fréttir sem innihalda þessi eru ekki framkvæmdafréttir.
+_HARD_NEGATIVES = [
+    # sakamál / dómsmál
+    "líkamsárás", "fangelsi", "ákær", "saksókn", "héraðsdóm", "hæstirétt",
+    "landsrétt", "kynferðis", "nauðgun", "manndráp", "fíkniefn", "ofbeldi",
+    # menning / fólk
+    "listamaður", "listamenn", "bæjarlistamaður", "tónleikar", "hljómsveit",
+    "leikrit", "kvikmynd", "leikari", "leikkona", "söngvar", "rithöfundur",
+    "leiksýning",
+    # íþróttir
+    "landslið", "deildarmeistar", "íslandsmeistar", "leikmaður", "leikmenn",
+    # annað
+    "andlát", "minningarorð",
+]
 
 
 def region_of(item: dict) -> str:
@@ -190,12 +210,12 @@ def extract_dates(item: dict) -> dict:
 
     sd = _date_near(t, ["framkvæmdir hefjast", "framkvæmdir hefjist", "framkvæmdir hófust",
                         "verktími", "hefjast í", "hófust í", "skóflustunga",
-                        "fara á fullt", "framkvæmdir eiga", "frá "])
+                        "fara á fullt", "framkvæmdir eiga"])
     if sd:
         out["start"] = sd[0]
 
-    ed = _date_near(t, ["verklok", "verkloka", "verki lýkur", "lýkur", "tilbúin",
-                        "lokið", "verður lokið", "ljúka", "verktíma", "til "])
+    ed = _date_near(t, ["verklok", "verkloka", "verki lýkur", "tilbúin",
+                        "verður lokið", "verktíma"])
     if ed:
         out["end"] = ed[0]
 

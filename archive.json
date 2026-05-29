@@ -448,27 +448,6 @@
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 3
  },
- "9fa591450feded68": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-05-29",
-  "url": "https://www.visir.is/g/20262890237d/jonmundur-baejarlistamadur-gardabaejar-2026",
-  "title": "Jón­mundur bæjar­lista­maður Garða­bæjar 2026",
-  "sum": "Jónmundur Grétarsson leikari var útnefndur bæjarlistamaður Garðabæjar við hátíðlega athöfn í Sveinatungu á Garðatorgi í gær.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 4
- },
  "f13c04c9c172fc47": {
   "region": "Landið allt",
   "type": "Íbúðir",
@@ -531,27 +510,6 @@
   "tsort": "",
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 29
- },
- "32c5aacbac7bb1a8": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-05-28",
-  "url": "https://www.visir.is/g/20262890030d/redst-a-dottur-sina-eftir-ad-hun-rak-honum-lodrung",
-  "title": "Réðst á dóttur sína eftir að hún rak honum löðrung",
-  "sum": "Karlmaður hlaut í gær skilorðsbundinn fangelsisdóm í Héraðsdómi Norðurlands eystra fyrir að ráðast á dóttur sína á heimili þeirra í febrúar 2024.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 30
  },
  "446cfae3c71037ac": {
   "region": "Suðurnes",
@@ -637,90 +595,6 @@
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 34
  },
- "c1cfa6f2e7ec375d": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-05-28",
-  "url": "https://www.visir.is/g/20262889610d/saga-af-tveimur-kronum-retturinn-til-ad-drukkna-i-nafni-fullveldis",
-  "title": "Saga af tveimur krónum: Rétturinn til að drukkna í nafni full­veldis",
-  "sum": "Íslendingar og Danir eiga margt sameiginlegt. Við deilum ríkri sögu, dálæti á hönnun, velferðarkerfi sem byggir nafn sitt á norrænni gildum og hugsjón og ríkri hefð fyrir því að kvarta yfir veðrinu. Ef þú kíkir í veskið hjá vegfaranda á Str",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 35
- },
- "b100e82c6545ecd0": {
-  "region": "Landið allt",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/erlent/2026-05-29-eitursali-jatar-sok-476710/",
-  "title": "Eitursali játar sök",
-  "sum": "Kanadískur karlmaður hefur játað sök fyrir að hafa aðstoðað 14 manns við að fremja sjálfsvíg með því að selja þeim eitur í gegnum netið. Samkvæmt kanadískum yfirvöldum hefur maðurinn sent 1.200 pakka með eitri til fólks í 41 landi víðs vega",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 6
- },
- "0f5ae08d5cc19632": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Í byggingu",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/innlent/2026-05-29-ort-staekkandi-risi-jons-asgeirs-kaupir-25-fasteignir-af-kaupfelagi-476706/",
-  "title": "Ört stækkandi risi Jóns Ásgeirs kaupir 25 fasteignir af kaupfélagi",
-  "sum": "Forstjóri smásölufyrirtækisins Dranga segir að ekki til standi að opna aftur verslun í Bolungarvík á Vestfjörðum eftir að Kjörbúðinni þar var lokað nú í maí. Þetta segir forstjórinn, Auður Daníelsdóttir, þegar hún er spurð út í kaup Dranga ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 7
- },
- "007d4b36ceb2c427": {
-  "region": "Suðurnes",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Verklok",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-05-29-aegir-sindri-skilyrtur-af-reynslunni-475799/",
-  "title": "Ægir Sindri skilyrtur af reynslunni",
-  "sum": "„Það er gott að koma þessu út. Ég er búin að vera að hugsa um hana svo lengi og síðustu undanfarna mánuði er ég búinn að vera svolítið á kafi í þessu. Það er bara næs að koma því frá mér og koma þessu út og klára dæmið,“ segir Ægir um tíund",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 8
- },
  "92a0f27571c8daf9": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -742,90 +616,6 @@
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 9
  },
- "af528610142a06c7": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/innlent/2026-05-29-undirbua-thjodaratkvaedagreidslu-um-esb-thetta-er-vissulega-askorun-476699/",
-  "title": "Undirbúa þjóðaratkvæðagreiðslu um ESB – „Þetta er vissulega áskorun“",
-  "sum": "Landskjörstjórn leggur allt kapp á að útbúa kynningarefni fyrir þjóðaratkvæðagreiðslu um aðildarviðræður Íslands við Evrópusambandið. Alþingi samþykkti í gær þingsályktunartillögu um framhald aðildarviðræðna og þjóðaratkvæðagreiðsla verður ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 10
- },
- "5d731ac1a423f56c": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/erlent/2026-05-29-adalraedismadur-russlands-rekinn-heim-fra-rumeniu-476691/",
-  "title": "Aðalræðismaður Rússlands rekinn heim frá Rúmeníu",
-  "sum": "Rúmenar hafa rekið aðalræðismann Rússlands heim og lokað aðalræðisskrifstofu eftir að rússneskur dróni lenti á íbúðarhúsnæði í rúmensku borginni Galati í nótt. Atvikið er það alvarlegasta í landinu síðan stríð braust út í Úkraínu. Kona og u",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 11
- },
- "26a969b78bb0cdc3": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/innlent/2026-05-29-bardi-mann-og-stappadi-a-hofdi-hans-476679/",
-  "title": "Barði mann og stappaði á höfði hans",
-  "sum": "Héraðsdómur Reykjavíkur dæmdi karlmann í átta mánaða fangelsi fyrir sérstaklega hættulega líkamsárás og fleiri brot. Hann réðst á annan mann í íbúð í Reykjavík í febrúar 2023 og barði manninn ítrekað í höfuðið þar til hann féll í gólfið. Þá",
-  "tender": "",
-  "start": "2023",
-  "end": "2025",
-  "tsort": "2023-01",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 12
- },
- "3a39d53c1af828d0": {
-  "region": "Vesturland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Í byggingu",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-05-29-samfelag-i-bleyti-framlag-islands-a-naesta-feneyjatviaeringi-i-arkitektur-476677/",
-  "title": "Samfélag í bleyti framlag Íslands á næsta Feneyjatvíæringi í arkitektúr",
-  "sum": "Sýningin Samfélag í bleyti verður framlag Íslands á 20. alþjóðlega Feneyjatvíæringnum í arkitektúr sem hefst í maí á næsta ári. Sýningarstjóri er Marcos Zotes, einn eigenda Basalt arkitekta. Með honum í teymi eru arkitektarnir Hrólfur Karl ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 13
- },
  "142d3faf2989bfd4": {
   "region": "Landið allt",
   "type": "Íbúðir",
@@ -846,27 +636,6 @@
   "tsort": "",
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 14
- },
- "afd0be0f59e57b22": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Verklok",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-05-29-molturiddari-i-33-ar-eg-vissi-alveg-hvad-eg-var-ad-gera-og-thetta-var-hluti-af-mer-476563/",
-  "title": "Mölturiddari í 33 ár: „Ég vissi alveg hvað ég var að gera og þetta var hluti af mér“",
-  "sum": "„Allt sem þú fékkst hjá kaþólsku kirkjunni fannst mér gefa mér svo mikið. Mér fannst ég einhvern veginn vera kominn heim,“ segir Hreinn Líndal óperusöngvari sem er einn af átta íslenskum Mölturiddurum. Möltureglan, elsta riddarareglan í hei",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 15
  },
  "a9d72fe331a3a74a": {
   "region": "Höfuðborgarsvæðið",
