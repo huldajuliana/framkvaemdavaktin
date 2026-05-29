@@ -1,0 +1,47 @@
+name: Framkvæmdavaktin – dagleg keyrsla
+
+on:
+  schedule:
+    # Ísland er á UTC allt árið, svo 12:00 UTC = 12:00 að íslenskum tíma.
+    - cron: "0 12 * * *"
+  workflow_dispatch:        # leyfir handvirka keyrslu úr "Actions" flipanum
+
+permissions:
+  contents: write           # til að vista docs/ og archive.json aftur í safnið
+
+concurrency:
+  group: framkvaemdavaktin
+  cancel-in-progress: false
+
+jobs:
+  safna:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sækja kóða
+        uses: actions/checkout@v4
+
+      - name: Setja upp Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Setja upp pakka
+        run: pip install -r requirements.txt
+
+      - name: Keyra safnara
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python main.py
+
+      - name: Vista uppfærða síðu og afritavörn
+        run: |
+          git config user.name  "framkvaemdavaktin-bot"
+          git config user.email "actions@github.com"
+          git add docs/index.html archive.json
+          git commit -m "Sjálfvirk uppfærsla $(date -u +%Y-%m-%d)" || echo "Engar breytingar."
+          git push

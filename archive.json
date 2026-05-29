@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Framkvæmdavaktin</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,900&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f2ede2;
+    --paper-2:#e9e2d3;
+    --ink:#16140f;
+    --ink-soft:#46423a;
+    --muted:#8c8475;
+    --line:#d6cdb9;
+    --accent:#0a4ea0;          /* BYKO blár */
+    --accent-2:#ffcb05;        /* BYKO gulur */
+    --slate:#33454f;
+    --moss:#5b6f3f;
+    --card:#fbf8f1;
+    --shadow:0 1px 0 rgba(22,20,15,.06), 0 14px 28px -22px rgba(22,20,15,.45);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:"Public Sans",sans-serif;
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+    background-image:
+      radial-gradient(circle at 1px 1px, rgba(22,20,15,.04) 1px, transparent 0);
+    background-size:22px 22px;
+  }
+  .wrap{max-width:1080px;margin:0 auto;padding:0 24px}
+
+  /* ---------- Masthead ---------- */
+  header.masthead{
+    border-bottom:3px solid var(--ink);
+    padding-top:34px;
+    background:linear-gradient(180deg, rgba(255,255,255,.35), transparent);
+  }
+  .kicker{
+    font-family:"IBM Plex Mono",monospace;
+    font-size:11px;letter-spacing:.32em;text-transform:uppercase;
+    color:var(--accent);font-weight:600;
+    display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;
+    border-bottom:1px solid var(--line);padding-bottom:10px;margin-bottom:14px;
+  }
+  .title{
+    font-family:"Fraunces",serif;
+    font-weight:900;
+    font-size:clamp(40px,8vw,86px);
+    line-height:.92;
+    letter-spacing:-.02em;
+    margin-bottom:6px;
+  }
+  .title .hi{
+    color:var(--accent-2);
+    -webkit-text-stroke:2px var(--accent);
+    paint-order:stroke fill;
+  }
+  .subtitle{
+    font-family:"Fraunces",serif;font-style:italic;
+    font-size:clamp(15px,2.4vw,20px);
+    color:var(--ink-soft);max-width:640px;margin-bottom:18px;
+  }
+  .hazard{height:8px;background:
+    repeating-linear-gradient(135deg,var(--accent) 0 14px, var(--accent-2) 14px 28px);
+    opacity:1}
+
+  /* ---------- Notice ---------- */
+  .notice{
+    background:var(--paper-2);
+    border:1px solid var(--line);
+    border-left:4px solid var(--accent);
+    padding:14px 18px;margin:24px 0;border-radius:4px;
+    font-size:13.5px;color:var(--ink-soft);
+  }
+  .notice b{color:var(--ink)}
+
+  /* ---------- Stats ---------- */
+  .stats{
+    display:grid;grid-template-columns:repeat(4,1fr);gap:1px;
+    background:var(--line);border:1px solid var(--line);border-radius:6px;
+    overflow:hidden;margin:22px 0;
+  }
+  .stat{background:var(--card);padding:16px 18px}
+  .stat .n{font-family:"Fraunces",serif;font-weight:600;font-size:30px;line-height:1}
+  .stat .l{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.14em;
+    text-transform:uppercase;color:var(--muted);margin-top:7px}
+  @media(max-width:620px){.stats{grid-template-columns:repeat(2,1fr)}}
+
+  /* ---------- Filter toolbar ---------- */
+  .toolbar{
+    position:sticky;top:0;z-index:20;
+    background:var(--paper);
+    border:1px solid var(--line);border-radius:8px;
+    padding:16px 18px;margin:0 0 30px;
+    box-shadow:var(--shadow);
+  }
+  .toolbar.stuck{border-radius:0 0 8px 8px}
+  .frow{display:flex;gap:18px;flex-wrap:wrap;align-items:flex-end}
+  .fgroup{display:flex;flex-direction:column;gap:8px}
+  .fgroup label{
+    font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.16em;
+    text-transform:uppercase;color:var(--muted);font-weight:600;
+  }
+  .chips{display:flex;gap:6px;flex-wrap:wrap}
+  .chip{
+    font-family:"Public Sans",sans-serif;font-size:12.5px;font-weight:600;
+    border:1px solid var(--line);background:var(--card);color:var(--ink-soft);
+    padding:6px 12px;border-radius:999px;cursor:pointer;transition:.15s;
+    white-space:nowrap;
+  }
+  .chip:hover{border-color:var(--ink)}
+  .chip.on{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+  .chip.on.acc{background:var(--accent);border-color:var(--accent)}
+  select,input[type=text]{
+    font-family:"Public Sans",sans-serif;font-size:13px;color:var(--ink);
+    border:1px solid var(--line);background:var(--card);
+    padding:8px 11px;border-radius:6px;min-width:170px;
+  }
+  input[type=text]{min-width:200px}
+  select:focus,input:focus{outline:2px solid var(--accent);outline-offset:1px}
+  .toolfoot{
+    display:flex;justify-content:space-between;align-items:center;
+    margin-top:14px;padding-top:12px;border-top:1px dashed var(--line);flex-wrap:wrap;gap:10px;
+  }
+  .count{font-family:"IBM Plex Mono",monospace;font-size:12px;color:var(--ink-soft)}
+  .count b{color:var(--accent)}
+  .reset{
+    background:none;border:none;cursor:pointer;color:var(--ink-soft);
+    font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.1em;
+    text-transform:uppercase;text-decoration:underline;text-underline-offset:3px;
+  }
+  .reset:hover{color:var(--accent)}
+
+  /* ---------- Region section ---------- */
+  .region{margin-bottom:38px;animation:fade .4s ease both}
+  .region-head{
+    display:flex;align-items:baseline;gap:14px;
+    border-bottom:2px solid var(--ink);padding-bottom:8px;margin-bottom:18px;
+  }
+  .region-head h2{
+    font-family:"Fraunces",serif;font-weight:600;font-size:26px;letter-spacing:-.01em;
+  }
+  .region-head .rc{
+    font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--muted);
+    letter-spacing:.1em;
+  }
+
+  /* ---------- Cards ---------- */
+  .grid{display:grid;grid-template-columns:repeat(2,1fr);gap:16px}
+  @media(max-width:760px){.grid{grid-template-columns:1fr}}
+  .card{
+    background:var(--card);border:1px solid var(--line);border-radius:8px;
+    padding:18px 18px 16px;display:flex;flex-direction:column;gap:11px;
+    box-shadow:var(--shadow);transition:.18s;position:relative;overflow:hidden;
+  }
+  .card:hover{transform:translateY(-2px);border-color:var(--ink)}
+  .card .src{
+    display:flex;justify-content:space-between;align-items:center;
+    font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.08em;
+    color:var(--muted);text-transform:uppercase;
+  }
+  .card .src .srcname{color:var(--slate);font-weight:600}
+  .card h3{
+    font-family:"Fraunces",serif;font-weight:600;font-size:19px;line-height:1.18;
+    letter-spacing:-.01em;
+  }
+  .card p{font-size:13.5px;color:var(--ink-soft);line-height:1.55}
+  .tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:2px}
+  .tag{
+    font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.06em;
+    text-transform:uppercase;padding:3px 8px;border-radius:4px;font-weight:600;
+    border:1px solid transparent;
+  }
+  .t-type{background:rgba(51,69,79,.1);color:var(--slate);border-color:rgba(51,69,79,.2)}
+  .t-verk{background:rgba(10,78,160,.1);color:var(--accent);border-color:rgba(10,78,160,.28)}
+  .t-status{background:rgba(91,111,63,.12);color:var(--moss);border-color:rgba(91,111,63,.28)}
+  .scalebar{
+    display:flex;align-items:center;gap:9px;margin-top:auto;padding-top:11px;
+    border-top:1px dashed var(--line);
+  }
+  .pip{display:flex;gap:3px}
+  .pip i{width:7px;height:13px;border-radius:1px;background:var(--line);display:block}
+  .pip i.f{background:var(--accent)}
+  .scaletxt{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--ink)}
+  .scaletxt b{color:var(--accent)}
+  .scalefig{font-size:11.5px;color:var(--muted);margin-left:auto;font-family:"IBM Plex Mono",monospace}
+  .readlink{
+    font-family:"IBM Plex Mono",monospace;font-size:11px;font-weight:600;letter-spacing:.08em;
+    text-transform:uppercase;color:var(--ink);text-decoration:none;
+    display:inline-flex;align-items:center;gap:5px;align-self:flex-start;
+  }
+  .readlink:hover{color:var(--accent)}
+  .readlink span{transition:.15s}
+  .readlink:hover span{transform:translateX(3px)}
+
+  .empty{
+    text-align:center;padding:60px 20px;color:var(--muted);
+    font-family:"Fraunces",serif;font-style:italic;font-size:19px;
+  }
+
+  /* ---------- Dagsetningar á spjöldum ---------- */
+  .dates{display:flex;flex-wrap:wrap;gap:6px;margin-top:2px}
+  .dchip{font-family:"IBM Plex Mono",monospace;font-size:10.5px;display:inline-flex;
+    gap:5px;align-items:center;padding:3px 8px;border-radius:4px;border:1px solid var(--line);
+    color:var(--ink-soft);background:rgba(255,203,5,.16)}
+  .dchip b{color:var(--ink);font-weight:600}
+
+  /* ---------- Yfirlits-rofi (listi / tímalína) ---------- */
+  .viewbar{display:flex;gap:6px;margin:0 0 22px}
+  .vbtn{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.1em;
+    text-transform:uppercase;font-weight:600;padding:9px 16px;border:1px solid var(--line);
+    background:var(--card);color:var(--ink-soft);cursor:pointer;border-radius:6px;transition:.15s}
+  .vbtn:hover{border-color:var(--ink)}
+  .vbtn.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+
+  /* ---------- Tímalína ---------- */
+  .tl{position:relative;margin-left:6px;padding-left:30px;border-left:2px solid var(--line)}
+  .tl-year{font-family:"Fraunces",serif;font-weight:600;font-size:23px;
+    margin:24px 0 14px -30px;padding-left:30px;color:var(--ink)}
+  .tl-row{position:relative;margin-bottom:16px;animation:fade .35s ease both}
+  .tl-row::before{content:"";position:absolute;left:-37px;top:6px;width:11px;height:11px;
+    border-radius:50%;background:var(--accent);border:2px solid var(--paper)}
+  .tl-row.t-frm::before{background:var(--slate)}
+  .tl-date{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.06em;
+    color:var(--accent);font-weight:600;text-transform:uppercase}
+  .tl-row.t-frm .tl-date{color:var(--slate)}
+  .tl-card{background:var(--card);border:1px solid var(--line);border-radius:7px;
+    padding:13px 15px;margin-top:5px;box-shadow:var(--shadow)}
+  .tl-card h3{font-family:"Fraunces",serif;font-weight:600;font-size:16px;line-height:1.2;margin-bottom:7px}
+  .tl-card h3 a{color:var(--ink);text-decoration:none}
+  .tl-card h3 a:hover{color:var(--accent)}
+  .tl-meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+
+  /* ---------- Legend ---------- */
+  .legend{
+    margin:10px 0 50px;border:1px solid var(--line);border-radius:8px;
+    background:var(--paper-2);overflow:hidden;
+  }
+  .legend summary{
+    cursor:pointer;padding:15px 20px;font-family:"IBM Plex Mono",monospace;
+    font-size:11.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink);
+    font-weight:600;list-style:none;display:flex;justify-content:space-between;
+  }
+  .legend summary::-webkit-details-marker{display:none}
+  .legend[open] summary{border-bottom:1px solid var(--line)}
+  .legend .lbody{padding:18px 20px;display:grid;grid-template-columns:1fr 1fr;gap:26px}
+  @media(max-width:620px){.legend .lbody{grid-template-columns:1fr}}
+  .legend h4{font-family:"Fraunces",serif;font-size:16px;margin-bottom:10px}
+  .legend ul{list-style:none;display:flex;flex-direction:column;gap:7px}
+  .legend li{font-size:12.5px;color:var(--ink-soft);display:flex;gap:9px;align-items:flex-start}
+  .legend li b{color:var(--ink);font-family:"IBM Plex Mono",monospace;font-size:11px;
+    white-space:nowrap;padding-top:1px}
+
+  footer{
+    border-top:3px solid var(--ink);padding:28px 0 50px;
+    font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--muted);
+    letter-spacing:.06em;line-height:1.8;
+  }
+  footer b{color:var(--ink-soft)}
+  @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="kicker">
+      <span>Daglegt yfirlit framkvæmda · Ísland</span>
+      <span id="dateline">— · Uppfært kl. 12:00</span>
+    </div>
+    <h1 class="title">Framkvæmda<span class="hi">vaktin</span></h1>
+    <p class="subtitle">Fréttatilkynningar um íbúðauppbyggingu, innviði og atvinnuframkvæmdir — flokkað eftir landshlutum, verktökum og stærðargráðu.</p>
+  </div>
+  <div class="hazard"></div>
+</header>
+
+<main class="wrap">
+
+  <div class="notice">
+    <b>Uppfært sjálfkrafa.</b> Þessi síða safnar framkvæmdafréttum daglega kl. 12:00 úr RSS-straumum mbl.is, Vísis, RÚV, HMS, Vegagerðarinnar, Stjórnarráðsins og vefjum sveitarfélaga. Safnið byggist upp jafnt og þétt — ekkert eyðist út. Skiptu milli yfirlits eftir landshlutum og tímalínu útboða og framkvæmda hér að neðan. Útdrættir koma úr efnisstraumum miðlanna; smelltu á hverja frétt til að lesa hana hjá heimildinni.
+  </div>
+
+  <section class="stats" id="stats"></section>
+
+  <div class="toolbar" id="toolbar">
+    <div class="frow">
+      <div class="fgroup" style="flex:1 1 100%">
+        <label>Landshluti</label>
+        <div class="chips" id="f-region"></div>
+      </div>
+    </div>
+    <div class="frow" style="margin-top:14px">
+      <div class="fgroup">
+        <label>Ár</label>
+        <div class="chips" id="f-year"></div>
+      </div>
+      <div class="fgroup">
+        <label>Tegund</label>
+        <div class="chips" id="f-type"></div>
+      </div>
+      <div class="fgroup">
+        <label>Staða framkvæmda</label>
+        <div class="chips" id="f-status"></div>
+      </div>
+      <div class="fgroup">
+        <label>Stærðargráða</label>
+        <div class="chips" id="f-scale"></div>
+      </div>
+      <div class="fgroup">
+        <label>Verktaki</label>
+        <select id="f-verk"><option value="">Allir verktakar</option></select>
+      </div>
+      <div class="fgroup" style="flex:1 1 220px">
+        <label>Leit</label>
+        <input type="text" id="f-search" placeholder="Leita í fyrirsögnum og texta…">
+      </div>
+    </div>
+    <div class="toolfoot">
+      <span class="count" id="count"></span>
+      <button class="reset" id="reset">Núllstilla síur</button>
+    </div>
+  </div>
+
+  <div class="viewbar">
+    <button class="vbtn on" data-view="region">Eftir landshluta</button>
+    <button class="vbtn" data-view="timeline">Tímalína</button>
+  </div>
+
+  <div id="results"></div>
+
+  <details class="legend">
+    <summary><span>Skilgreiningar · stærðargráða og upphaf framkvæmda</span><span>＋</span></summary>
+    <div class="lbody">
+      <div>
+        <h4>Stærðargráða</h4>
+        <ul>
+          <li><b>RISA</b><span>Yfir 15 ma.kr. eða 400+ íbúðir — landsverkefni og stærstu mannvirki.</span></li>
+          <li><b>STÓR</b><span>5–15 ma.kr. eða 100–400 íbúðir.</span></li>
+          <li><b>MIÐLUNGS</b><span>1–5 ma.kr. eða 20–100 íbúðir.</span></li>
+          <li><b>LÍTIL</b><span>Undir 1 ma.kr. eða færri en 20 íbúðir, viðhald og smærri verk.</span></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Upphaf framkvæmda (staða)</h4>
+        <ul>
+          <li><b>SKIPULAG</b><span>Deiliskipulag, umhverfismat eða viljayfirlýsing — ekki komið í útboð.</span></li>
+          <li><b>ÚTBOÐ</b><span>Verk fyrirhugað eða auglýst í útboði, beðið verktaka.</span></li>
+          <li><b>HAFNAR</b><span>Framkvæmdir nýhafnar — skóflustunga tekin eða jarðvinna byrjuð.</span></li>
+          <li><b>Í BYGGINGU</b><span>Verk í virkri framvindu.</span></li>
+          <li><b>VERKLOK</b><span>Verklok áætluð á næstunni eða dagsetning tilgreind.</span></li>
+        </ul>
+      </div>
+    </div>
+  </details>
+
+</main>
+
+<footer class="wrap">
+  <div>FRAMKVÆMDAVAKTIN</div>
+  <div>Heimildir: mbl.is · visir.is · ruv.is · hms.is · vegagerdin.is · stjornarradid.is · vefir sveitarfélaga (Norðurþing, Akureyri, bb.is o.fl.) · verktakar (ÍAV, Ístak)</div>
+</footer>
+
+<script>
+/* ---------- Gögn: raunverulegar nýlegar framkvæmdafréttir ---------- */
+const NEWS = [{"id": 17, "region": "Höfuðborgarsvæðið", "type": "Íbúðir", "scale": "Stór", "scaleFig": "112 íbúðir", "verk": ["Óútboðið"], "status": "Skipulag", "src": "mbl.is", "date": "2026-05-28", "url": "https://www.mbl.is/frettir/innlent/2026/05/28/nidurrif_og_uppbygging_i_vogabyggd/", "title": "Þrjú hús við Kleppsmýrarveg víkja fyrir 112 íbúða fjölbýli í Vogabyggð", "sum": "Reykjavíkurborg hefur samþykkt breytingu á deiliskipulagi Vogabyggðar (svæði 2) eftir umsókn Kanon arkitekta. Þrjú hús með verslun og þjónustu við Kleppsmýrarveg 8 og Bátavog 2 verða rifin og lóðirnar sameinaðar undir nýtt 112 íbúða fjölbýli; íbúðir í hverfinu eru nú um 890.", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 11, "region": "Norðurland eystra", "type": "Innviðir", "scale": "Stór", "scaleFig": "300 m stálþil", "verk": ["Vegagerðin (verkkaupi)"], "status": "Útboð", "src": "Norðurþing", "date": "2026-05-27", "url": "https://www.nordurthing.is/is/frettir/utbodsverk-hja-vegagerdinni-arid-2026", "title": "Stálþilsframkvæmd boðin út í Húsavíkurhöfn í sumar", "sum": "Endurbygging og lenging Þvergarðs um 300 m verður boðin út í sumar, í framhaldi af greftri fyrir nýtt stálþil og fordýpkun hafnarinnar.", "tender": "sumar 2026", "tsort": "2026-07", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 12, "region": "Norðurland eystra", "type": "Innviðir", "scale": "Stór", "scaleFig": "10 km / 3 brýr", "verk": ["Vegagerðin (verkkaupi)"], "status": "Skipulag", "src": "Norðurþing / Vegagerðin", "date": "2026-05-27", "url": "https://www.nordurthing.is/is/frettir/utbodsverk-hja-vegagerdinni-arid-2026#nordausturvegur", "title": "Allt að þrjár nýjar brýr á Norðausturvegi um Skjálfandafljót", "sum": "Ný- og endurbygging Norðausturvegar (85) á 10 km kafla í Kinn, með allt að þremur nýjum brúm. Útboð fyrirhugað í lok 2026 og verklok árið 2028.", "tender": "lok 2026", "end": "2028", "tsort": "2026-12", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 14, "region": "Vestfirðir", "type": "Innviðir", "scale": "Miðlungs", "scaleFig": "Endurbætur", "verk": ["Vegagerðin (verkkaupi)"], "status": "Útboð", "src": "Vegagerðin", "date": "2026-05-27", "url": "https://www.vegagerdin.is/framkvaemdir/utbod/auglyst-utbod/#bildudalsvegur", "title": "Bíldudalsvegur (63) um Mikladal boðinn út — 2. áfangi", "sum": "Vegagerðin auglýsti útboð 26-016 fyrir endurbætur á Bíldudalsvegi um Mikladal, sem er annar áfangi verksins.", "tender": "27. maí 2026", "tsort": "2026-05", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 13, "region": "Vestfirðir", "type": "Innviðir", "scale": "Stór", "scaleFig": "210 m brú", "verk": ["Vegagerðin (verkkaupi)"], "status": "Útboð", "src": "bb.is", "date": "2026-05-26", "url": "https://bb.is/2026/05/vegagerdin-bruin-yfir-gufufjodr-ekki-i-utbod-enn/", "title": "Lokaáfangi í Gufudalssveit: 210 m netbogabrú yfir Djúpafjörð", "sum": "Vegagerðin stefnir að útboði 210 m netbogabrúar yfir Djúpafjörð, lokaáfanga umfangsmikilla vegaframkvæmda. Verklok eru nú boðuð í lok árs 2028.", "tender": "maí 2026", "end": "lok 2028", "tsort": "2026-05", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 5, "region": "Höfuðborgarsvæðið", "type": "Innviðir", "scale": "Stór", "scaleFig": "5,6 km", "verk": ["ÍAV"], "status": "Verklok", "src": "ÍAV / Vegagerðin", "date": "2026-05-20", "url": "https://www.vegagerdin.is/framkvaemdir/framkvaemdafrettir/", "title": "ÍAV í lokaáfanga tvöföldunar Reykjanesbrautar við Straumsvík", "sum": "Síðasti áfangi tvöföldunar á um 5,6 km kafla við álverið í Straumsvík, ásamt brúm og undirgöngum fyrir akandi, gangandi og hjólandi. Verklok áætluð í júní 2026.", "start": "júní 2023", "end": "júní 2026", "tsort": "2026-06", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 9, "region": "Suðurland", "type": "Innviðir", "scale": "Miðlungs", "scaleFig": "Vegabætur", "verk": ["Vegagerðin (verkkaupi)"], "status": "Útboð", "src": "Vegagerðin", "date": "2026-05-18", "url": "https://www.vegagerdin.is/framkvaemdir/utbod/auglyst-utbod/", "title": "Vegagerðin býður út Önundarholtsveg (311)", "sum": "Útboð 26-084 nær til vegabóta á kaflanum Gaulverjabæjarvegur–Villingaholtsvegur og var auglýst í maí 2026.", "tender": "maí 2026", "tsort": "2026-05", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 16, "region": "Vesturland", "type": "Innviðir", "scale": "Miðlungs", "scaleFig": "2026–2027", "verk": ["Vegagerðin (verkkaupi)"], "status": "Útboð", "src": "Vegagerðin", "date": "2026-05-18", "url": "https://www.vegagerdin.is/framkvaemdir/utbod/auglyst-utbod/#efnisvinnsla", "title": "Vegagerðin býður út malarslitlag og efnisvinnslu á Vesturlandi", "sum": "Útboð fyrir efnisvinnslu og malarslitlag á Vesturlandi árin 2026–2027 var auglýst í maí.", "tender": "maí 2026", "end": "2027", "tsort": "2026-05", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 7, "region": "Suðurland", "type": "Innviðir", "scale": "Risa", "scaleFig": "≈18 ma.kr.", "verk": ["Í útboðsferli"], "status": "Hafnar", "src": "Vísir", "date": "2026-05-10", "url": "https://www.visir.is/t/2715/Vegager%C3%B0/default", "title": "Ný brú yfir Ölfusá við Selfoss — um 18 ma.kr. og 150 störf", "sum": "Fyrsta skóflustunga nýrrar Ölfusárbrúar hefur verið tekin. Verkið skapar um 150 störf og fjármögnun er tryggð með veggjaldi yfir brúna.", "start": "vor 2026", "end": "≈2029", "tsort": "2026-05", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 1, "region": "Höfuðborgarsvæðið", "type": "Íbúðir", "scale": "Risa", "scaleFig": "1.200–1.400 íb.", "verk": ["Óútboðið"], "status": "Skipulag", "src": "Stjórnarráðið", "date": "2026-04-28", "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/28/Riki-og-borg-semja-um-storfellda-uppbyggingu-ibuda-1.200-1.400-nyjar-ibudir-byggdar-a-rikislodum", "title": "Ríki og borg semja um allt að 1.400 íbúðir á ríkislóðum í Reykjavík", "sum": "Samkomulag ríkis og Reykjavíkurborgar gerir ráð fyrir 1.200–1.400 íbúðum á næstu árum á lóðum og í eignum ríkisins, m.a. í Borgartúni, við Laugarnesveg og austan Korpúlfsstaða.", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 3, "region": "Höfuðborgarsvæðið", "type": "Innviðir", "scale": "Stór", "scaleFig": "Verklok 2027", "verk": ["Reykjavíkurborg", "Veitur"], "status": "Hafnar", "src": "Reykjavíkurborg", "date": "2026-04-15", "url": "https://reykjavik.is/framkvaemdir", "title": "Umfangsmikil gatnamóta- og Borgarlínuframkvæmd hefst í Reykjavík", "sum": "Reykjavíkurborg og Veitur hófu í apríl endurgerð gatnamóta og göturýmis ásamt uppbyggingu Borgarlínu á svæðinu. Stefnt er að verklokum fyrir árslok 2027.", "start": "apríl 2026", "end": "árslok 2027", "tsort": "2026-04", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 4, "region": "Höfuðborgarsvæðið", "type": "Innviðir", "scale": "Risa", "scaleFig": "15,9 ma.kr.", "verk": ["Ístak", "ÞG verk"], "status": "Í byggingu", "src": "Stjórnarráðið", "date": "2026-04-10", "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/04/10/Samningur-um-innri-fragangi-medferdarkjarna-nys-Landspitala-vid-Hringbraut", "title": "Ístak semur um innri frágang meðferðarkjarna Landspítala", "sum": "Samningur við Ístak nær yfir um 55.000 m² frá kjallara upp á 4. hæð, einn stærsti samningur Hringbrautarverkefnisins. ÞG verk vinnur að legudeildum á 5. og 6. hæð.", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 2, "region": "Landið allt", "type": "Íbúðir", "scale": "Risa", "scaleFig": "8.971 íb.", "verk": ["Ýmsir"], "status": "Í byggingu", "src": "HMS / mbl.is", "date": "2026-03-24", "url": "https://www.mbl.is/frettir/innlent/2026/03/24/fullklarudum_oseldum_ibudum_fjolgad_gridarlega/", "title": "HMS: tæplega 9.000 íbúðir í byggingu — flestar í Reykjavík og Hafnarfirði", "sum": "Nýjasta talning HMS sýnir hafnar framkvæmdir við 8.971 íbúð. Mest er byggt á höfuðborgarsvæðinu en óseldum fullbúnum íbúðum fjölgar jafnframt hratt.", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 8, "region": "Suðurland", "type": "Íbúðir", "scale": "Stór", "scaleFig": "605 íb. (Árborg)", "verk": ["Ýmsir"], "status": "Í byggingu", "src": "HMS / mbl.is", "date": "2026-03-24", "url": "https://www.mbl.is/frettir/innlent/2026/03/24/fullklarudum_oseldum_ibudum_fjolgad_gridarlega/#arborg", "title": "Íbúðauppbygging þéttist á Suðurlandi — 605 íbúðir í Árborg", "sum": "Árborg er fjölmennasti uppbyggingarstaður utan höfuðborgarsvæðisins með 605 íbúðir í byggingu, og 32% aukning mælist í Hveragerði milli talninga.", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 10, "region": "Norðurland eystra", "type": "Atvinna", "scale": "Risa", "scaleFig": "fleiri áfangar", "verk": ["Staðbundnir verktakar"], "status": "Í byggingu", "src": "akureyri.net / Vísir", "date": "2026-02-26", "url": "https://www.akureyri.net/is/frettir/glatvarmi-nyttur-og-thjonustuhus-reist", "title": "atNorth heldur áfram uppbyggingu gagnavers á Akureyri", "sum": "Stærsta gagnaversfyrirtæki landsins byggir áfram á Hlíðarvöllum ofan Akureyrar. Verkið nýtir að mestu staðbundna verktaka og glatvarmi fer í samfélagsverkefni í bænum.", "start": "2026", "end": "mitt 2027", "tsort": "2026-06", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"id": 15, "region": "Landið allt", "type": "Íbúðir", "scale": "Stór", "scaleFig": "Landsverkefni", "verk": ["Ríki / sveitarfélög"], "status": "Skipulag", "src": "Stjórnarráðið", "date": "2026-02-24", "url": "https://www.stjornarradid.is/efst-a-baugi/frettir/stok-frett/2026/02/24/Viljayfirlysing-undirritud-um-husnaedisuppbyggingu-a-landsbyggdinni", "title": "Viljayfirlýsing um aukna húsnæðisuppbyggingu á landsbyggðinni", "sum": "Ríki, Samband íslenskra sveitarfélaga og HMS undirrituðu viljayfirlýsingu um fjölbreyttar húsnæðislausnir í byggðakjörnum utan höfuðborgarsvæðisins.", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"region": "Landið allt", "type": "Íbúðir", "scale": "Stór", "scaleFig": "~6.000 íb.", "verk": ["Ýmsir"], "status": "Í byggingu", "src": "mbl.is", "date": "2026-02-22", "url": "https://www.mbl.is/frettir/innlent/2026/02/22/haegir_a_byggingu_ibuda_naestu_arin/", "title": "Samtök iðnaðarins: dregur úr íbúðauppbyggingu næstu árin", "sum": "Um 6.000 íbúðir voru í byggingu samanborið við 9.000 árið 2023, og SI rekur samdráttinn til hárra vaxta og hertra lánaskilyrða.", "tender": "", "start": "", "end": "", "tsort": "", "first_seen": "2026-05-29T10:56:35.270367+00:00", "id": 17}, {"id": 6, "region": "Höfuðborgarsvæðið", "type": "Innviðir", "scale": "Stór", "scaleFig": "allt að 7,5 ár", "verk": ["ÍAV", "Ístak", "Stéttarfélagið"], "status": "Útboð", "src": "Veitur", "date": "2025-12-18", "url": "https://www.veitur.is/frettir/veitur-semja-vid-Istak-stettafelagi-og-IAV", "title": "Veitur gera 7,5 ára rammasamning við ÍAV, Ístak og Stéttarfélagið", "sum": "Fyrsti rammasamningur Veitna af þessu umfangi nær yfir viðhald lagna, heimlagnir og nýframkvæmdir veitukerfa undir einum samningi, með um 3.600 tilboðsliðum.", "tender": "des. 2025", "end": "allt að 7,5 ár", "tsort": "2025-12", "first_seen": "2026-05-29T10:56:35.270367+00:00"}, {"region": "Norðurland eystra", "type": "Atvinna", "scale": "Risa", "scaleFig": "~12 ma.kr.", "verk": ["Staðbundnir verktakar"], "status": "Í byggingu", "src": "akureyri.net", "date": "2024-01-29", "url": "https://www.akureyri.net/is/frettir/aforma-staekkun-gagnaversins-a-arinu", "title": "atNorth áformar stækkun gagnavers á Akureyri", "sum": "Næsti áfangi gagnaversins, með áætlað efnahagslegt fótspor um 12 milljarða króna, var að mestu á árinu 2024.", "tender": "", "start": "2024", "end": "", "tsort": "2024-01", "first_seen": "2026-05-29T10:56:35.270367+00:00", "id": 19}, {"region": "Norðurland eystra", "type": "Atvinna", "scale": "Risa", "scaleFig": "~12 ma.kr.", "verk": ["Staðbundnir verktakar"], "status": "Verklok", "src": "akureyri.net", "date": "2023-06-10", "url": "https://www.akureyri.net/is/frettir/nytt-gagnaver-atnorth-vigt-a-akureyri", "title": "atNorth vígir fyrsta áfanga gagnavers á Akureyri", "sum": "Fyrsti áfangi gagnavers atNorth að Hlíðarvöllum ofan Akureyrar var formlega opnaður; verkið reis á um 11 mánuðum og var að mestu unnið af heimamönnum.", "tender": "", "start": "2022", "end": "júní 2023", "tsort": "2023-06", "first_seen": "2026-05-29T10:56:35.270367+00:00", "id": 20}];
+
+/* ---------- Uppsetning ---------- */
+const REGIONS = ["Höfuðborgarsvæðið","Suðurnes","Vesturland","Vestfirðir",
+  "Norðurland vestra","Norðurland eystra","Austurland","Suðurland","Landið allt"];
+const TYPES = ["Íbúðir","Innviðir","Atvinna"];
+const STATUSES = ["Skipulag","Útboð","Hafnar","Í byggingu","Verklok"];
+const SCALES = ["Risa","Stór","Miðlungs","Lítil"];
+const SCALE_LABEL = {Risa:"Risaframkvæmd","Stór":"Stór","Miðlungs":"Miðlungs","Lítil":"Lítil"};
+const SCALE_PIPS = {Risa:4,"Stór":3,"Miðlungs":2,"Lítil":1};
+
+const state = {view:"region", region:"", type:"", scale:"", status:"", year:"", verk:"", q:""};
+
+/* dagsetning efst */
+const today = new Date();
+document.getElementById("dateline").textContent =
+  today.toLocaleDateString("is-IS",{weekday:"long",day:"numeric",month:"long",year:"numeric"})
+  + " · Uppfært kl. 12:00";
+
+/* síu-flísar */
+function buildChips(elId, values, key, labelMap){
+  const el = document.getElementById(elId);
+  const all = document.createElement("button");
+  all.className="chip on"; all.textContent="Allt"; all.dataset.val="";
+  el.appendChild(all);
+  values.forEach(v=>{
+    const c=document.createElement("button");
+    c.className="chip"+(key==="verk"?" ":"");
+    c.textContent = labelMap?labelMap[v]:v; c.dataset.val=v;
+    el.appendChild(c);
+  });
+  el.addEventListener("click",e=>{
+    if(!e.target.classList.contains("chip"))return;
+    state[key]=e.target.dataset.val;
+    [...el.children].forEach(ch=>{
+      ch.classList.toggle("on", ch.dataset.val===state[key]);
+      if(key==="region"||key==="scale") ch.classList.toggle("acc", ch.classList.contains("on")&&ch.dataset.val!=="");
+    });
+    render();
+  });
+}
+buildChips("f-region", REGIONS, "region");
+buildChips("f-type", TYPES, "type");
+buildChips("f-status", STATUSES, "status");
+buildChips("f-scale", SCALES, "scale", SCALE_LABEL);
+const YEARS=[...new Set(NEWS.map(n=>(n.date||"").slice(0,4)).filter(Boolean))].sort().reverse();
+buildChips("f-year", YEARS, "year");
+
+/* yfirlits-rofi: listi eftir landshluta vs tímalína */
+document.querySelectorAll(".vbtn").forEach(b=>b.addEventListener("click",()=>{
+  state.view=b.dataset.view;
+  document.querySelectorAll(".vbtn").forEach(x=>x.classList.toggle("on",x===b));
+  render();
+}));
+
+/* verktaka-fellilisti */
+const verkSet = [...new Set(NEWS.flatMap(n=>n.verk))].sort((a,b)=>a.localeCompare(b,"is"));
+const verkSel = document.getElementById("f-verk");
+verkSet.forEach(v=>{const o=document.createElement("option");o.value=v;o.textContent=v;verkSel.appendChild(o);});
+verkSel.addEventListener("change",e=>{state.verk=e.target.value;render();});
+
+document.getElementById("f-search").addEventListener("input",e=>{
+  state.q=e.target.value.toLowerCase().trim();render();
+});
+document.getElementById("reset").addEventListener("click",()=>{
+  state.region=state.type=state.scale=state.status=state.year=state.verk=state.q="";
+  verkSel.value=""; document.getElementById("f-search").value="";
+  document.querySelectorAll(".chips").forEach(c=>{
+    [...c.children].forEach((ch,i)=>{ch.classList.toggle("on",i===0);ch.classList.remove("acc");});
+  });
+  render();
+});
+
+/* sticky skuggi */
+const tb=document.getElementById("toolbar");
+const obs=new IntersectionObserver(([e])=>tb.classList.toggle("stuck",e.intersectionRatio<1),{threshold:[1]});
+/* statistík */
+function renderStats(){
+  const s=document.getElementById("stats");
+  const byType=t=>NEWS.filter(n=>n.type===t).length;
+  const tenders=NEWS.filter(n=>n.tender || n.status==="Útboð").length;
+  s.innerHTML=`
+    <div class="stat"><div class="n">${NEWS.length}</div><div class="l">Fréttir í safni</div></div>
+    <div class="stat"><div class="n">${byType("Íbúðir")}</div><div class="l">Íbúðauppbygging</div></div>
+    <div class="stat"><div class="n">${byType("Innviðir")}</div><div class="l">Innviðir</div></div>
+    <div class="stat"><div class="n">${tenders}</div><div class="l">Útboð á skrá</div></div>`;
+}
+
+function pips(scale){
+  const f=SCALE_PIPS[scale];
+  let h='<span class="pip">';
+  for(let i=0;i<4;i++) h+=`<i class="${i<f?'f':''}"></i>`;
+  return h+'</span>';
+}
+function dateChips(n){
+  let h="";
+  if(n.tender) h+=`<span class="dchip"><b>Útboð</b> ${n.tender}</span>`;
+  if(n.start)  h+=`<span class="dchip"><b>Framkvæmdir</b> ${n.start}</span>`;
+  if(n.end)    h+=`<span class="dchip"><b>Verklok</b> ${n.end}</span>`;
+  return h?`<div class="dates">${h}</div>`:"";
+}
+function card(n){
+  const d=new Date(n.date).toLocaleDateString("is-IS",{day:"numeric",month:"short"});
+  const verkTags=n.verk.map(v=>`<span class="tag t-verk">${v}</span>`).join("");
+  return `<article class="card">
+    <div class="src"><span class="srcname">${n.src}</span><span>${d}</span></div>
+    <h3>${n.title}</h3>
+    <p>${n.sum}</p>
+    <div class="tags">
+      <span class="tag t-type">${n.type}</span>
+      <span class="tag t-status">${n.status}</span>
+      ${verkTags}
+    </div>
+    ${dateChips(n)}
+    <div class="scalebar">
+      ${pips(n.scale)}
+      <span class="scaletxt"><b>${SCALE_LABEL[n.scale]}</b></span>
+      <span class="scalefig">${n.scaleFig}</span>
+    </div>
+    <a class="readlink" href="${n.url}" target="_blank" rel="noopener">Lesa frétt <span>→</span></a>
+  </article>`;
+}
+
+function renderTimeline(items){
+  const dated=items.filter(n=>n.tsort).sort((a,b)=>String(a.tsort).localeCompare(String(b.tsort)));
+  if(!dated.length)
+    return `<div class="empty">Engar tímasettar framkvæmdir passa við valdar síur.</div>`;
+  let html='<div class="tl">', curYear="";
+  dated.forEach(n=>{
+    const yr=String(n.tsort).slice(0,4);
+    if(yr!==curYear){curYear=yr; html+=`<div class="tl-year">${yr}</div>`;}
+    const cls = n.tender ? "t-utb" : "t-frm";
+    const label = n.tender ? ("Útboð · "+n.tender)
+                : n.start  ? ("Framkvæmdir · "+n.start)
+                : ("Verklok · "+(n.end||""));
+    let meta="";
+    if(n.tender) meta+=`<span class="dchip"><b>Útboð</b> ${n.tender}</span>`;
+    if(n.start)  meta+=`<span class="dchip"><b>Framkvæmdir</b> ${n.start}</span>`;
+    if(n.end)    meta+=`<span class="dchip"><b>Verklok</b> ${n.end}</span>`;
+    html+=`<div class="tl-row ${cls}">
+      <span class="tl-date">${label}</span>
+      <div class="tl-card">
+        <h3><a href="${n.url}" target="_blank" rel="noopener">${n.title}</a></h3>
+        <div class="tags">
+          <span class="tag t-type">${n.region}</span>
+          <span class="tag t-status">${n.status}</span>
+          <span class="tag t-verk">${SCALE_LABEL[n.scale]}</span>
+        </div>
+        <div class="tl-meta">${meta}</div>
+      </div></div>`;
+  });
+  return html+'</div>';
+}
+
+function match(n){
+  if(state.region && n.region!==state.region) return false;
+  if(state.type && n.type!==state.type) return false;
+  if(state.status && n.status!==state.status) return false;
+  if(state.scale && n.scale!==state.scale) return false;
+  if(state.year && !(n.date||"").startsWith(state.year)) return false;
+  if(state.verk && !n.verk.includes(state.verk)) return false;
+  if(state.q && !(n.title+" "+n.sum+" "+n.verk.join(" ")).toLowerCase().includes(state.q)) return false;
+  return true;
+}
+
+function render(){
+  const res=document.getElementById("results");
+  const filtered=NEWS.filter(match);
+  document.getElementById("count").innerHTML=
+    `Sýni <b>${filtered.length}</b> af ${NEWS.length} fréttum`;
+  if(state.view==="timeline"){ res.innerHTML=renderTimeline(filtered); return; }
+  if(!filtered.length){
+    res.innerHTML=`<div class="empty">Engar fréttir passa við valdar síur.</div>`;return;
+  }
+  let html="";
+  const order=[...REGIONS].filter(r=>r!=="Landið allt").concat("Landið allt");
+  order.forEach(r=>{
+    const items=filtered.filter(n=>n.region===r);
+    if(!items.length)return;
+    html+=`<section class="region">
+      <div class="region-head"><h2>${r}</h2><span class="rc">${items.length} ${items.length===1?'frétt':'fréttir'}</span></div>
+      <div class="grid">${items.map(card).join("")}</div>
+    </section>`;
+  });
+  res.innerHTML=html;
+}
+
+renderStats();
+render();
+</script>
+</body>
+</html>

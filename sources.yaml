@@ -1,0 +1,91 @@
+# ---------------------------------------------------------------------------
+# Heimildir fyrir Framkvæmdavaktina.
+# Hver heimild er RSS-straumur (helst) eða einföld HTML-fréttasíða (fallback).
+#
+# type: rss  -> lesið með feedparser (mælt með, traustast)
+# type: html -> lesið með requests + BeautifulSoup (fyrir síður án RSS)
+#
+# Bættu við eins mörgum sveitarfélögum og þú vilt. Ef straumur svarar ekki
+# er honum einfaldlega sleppt og það skráð í loggið — restin keyrir áfram.
+# ---------------------------------------------------------------------------
+
+sources:
+  # ---- Landsmiðlar -------------------------------------------------------
+  - name: "mbl.is – innlent"
+    type: rss
+    url: "https://www.mbl.is/feeds/innlent/"
+
+  - name: "mbl.is – viðskipti"
+    type: rss
+    url: "https://www.mbl.is/feeds/vidskipti/"
+
+  - name: "Vísir – allt"
+    type: rss
+    url: "https://www.visir.is/rss/allt"
+
+  - name: "RÚV – fréttir"
+    type: rss
+    url: "https://www.ruv.is/rss/frettir"
+
+  # ---- Opinberar stofnanir ----------------------------------------------
+  - name: "Stjórnarráðið – fréttir"
+    type: rss
+    url: "https://www.stjornarradid.is/rss/news/"
+
+  - name: "HMS – fréttir"
+    type: html
+    url: "https://hms.is/frettir"
+    # HTML fallback: bendir á fréttalista. Stilltu 'item_selector' ef útlit breytist.
+    item_selector: "a"
+    base: "https://hms.is"
+
+  - name: "Vegagerðin – framkvæmdafréttir"
+    type: html
+    url: "https://www.vegagerdin.is/framkvaemdir/framkvaemdafrettir/"
+    item_selector: "a"
+    base: "https://www.vegagerdin.is"
+
+  # ---- Sveitarfélög (dæmi – bættu við eftir þörf) -----------------------
+  - name: "Reykjavíkurborg – fréttir"
+    type: html
+    url: "https://reykjavik.is/frettir"
+    item_selector: "a"
+    base: "https://reykjavik.is"
+
+  - name: "Akureyrarbær – fréttir"
+    type: html
+    url: "https://www.akureyri.is/is/frettir"
+    item_selector: "a"
+    base: "https://www.akureyri.is"
+
+  - name: "Norðurþing – fréttir"
+    type: html
+    url: "https://www.nordurthing.is/is/frettir"
+    item_selector: "a"
+    base: "https://www.nordurthing.is"
+
+# ---------------------------------------------------------------------------
+# BAKFYLLING (valfrjáls) — notað af backfill.py til að ganga aftur í tímann.
+# Bættu 'archive' við heimild til að virkja. {page} er sett inn fyrir hverja síðu.
+# Dæmi (afvirkjað — afritaðu inn í heimild að ofan og stilltu eftir þörf):
+#
+#   - name: "Stjórnarráðið – fréttasafn"
+#     type: html
+#     url: "https://www.stjornarradid.is/efst-a-baugi/frettir/"
+#     item_selector: "a"
+#     base: "https://www.stjornarradid.is"
+#     archive:
+#       url_template: "https://www.stjornarradid.is/efst-a-baugi/frettir/?page={page}"
+#       pages: 40
+#       delay: 1.0
+#
+#   - name: "Vegagerðin – samningum lokið (saga)"
+#     type: html
+#     url: "https://www.vegagerdin.is/framkvaemdir/utbod/samningum-lokid/"
+#     item_selector: "a"
+#     base: "https://www.vegagerdin.is"
+#     archive:
+#       url_template: "https://www.vegagerdin.is/framkvaemdir/utbod/samningum-lokid/?page={page}"
+#       pages: 30
+#       delay: 1.0
+# ---------------------------------------------------------------------------

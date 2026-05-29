@@ -1,0 +1,41 @@
+{
+  "_comment": "Valin raunveruleg lykilverkefni með staðfestum slóðum, til að gefa safninu sögulega dýpt strax. Bættu við að vild. Bakfylling úr opinberum söfnum (backfill.py) sækir svo dýpra.",
+  "items": [
+    {
+      "region": "Norðurland eystra", "type": "Atvinna", "scale": "Risa",
+      "scaleFig": "~12 ma.kr.", "verk": ["Staðbundnir verktakar"],
+      "status": "Verklok", "src": "akureyri.net", "date": "2023-06-10",
+      "url": "https://www.akureyri.net/is/frettir/nytt-gagnaver-atnorth-vigt-a-akureyri",
+      "title": "atNorth vígir fyrsta áfanga gagnavers á Akureyri",
+      "sum": "Fyrsti áfangi gagnavers atNorth að Hlíðarvöllum ofan Akureyrar var formlega opnaður; verkið reis á um 11 mánuðum og var að mestu unnið af heimamönnum.",
+      "tender": "", "start": "2022", "end": "júní 2023", "tsort": "2023-06"
+    },
+    {
+      "region": "Norðurland eystra", "type": "Atvinna", "scale": "Risa",
+      "scaleFig": "~12 ma.kr.", "verk": ["Staðbundnir verktakar"],
+      "status": "Í byggingu", "src": "akureyri.net", "date": "2024-01-29",
+      "url": "https://www.akureyri.net/is/frettir/aforma-staekkun-gagnaversins-a-arinu",
+      "title": "atNorth áformar stækkun gagnavers á Akureyri",
+      "sum": "Næsti áfangi gagnaversins, með áætlað efnahagslegt fótspor um 12 milljarða króna, var að mestu á árinu 2024.",
+      "tender": "", "start": "2024", "end": "", "tsort": "2024-01"
+    },
+    {
+      "region": "Norðurland eystra", "type": "Atvinna", "scale": "Stór",
+      "scaleFig": "þjónustuhús", "verk": ["Staðbundnir verktakar"],
+      "status": "Í byggingu", "src": "akureyri.net", "date": "2025-07-03",
+      "url": "https://www.akureyri.net/is/frettir/glatvarmi-nyttur-og-thjonustuhus-reist",
+      "title": "atNorth reisir þjónustuhús og nýtir glatvarma á Akureyri",
+      "sum": "Samhliða stækkun gagnaversins reisir atNorth þjónustuhús og samdi við Akureyrarbæ um nýtingu glatvarma í samfélagsverkefni, m.a. nýtt gróðurhús.",
+      "tender": "", "start": "2025", "end": "", "tsort": "2025-07"
+    },
+    {
+      "region": "Landið allt", "type": "Íbúðir", "scale": "Stór",
+      "scaleFig": "~6.000 íb.", "verk": ["Ýmsir"],
+      "status": "Í byggingu", "src": "mbl.is", "date": "2026-02-22",
+      "url": "https://www.mbl.is/frettir/innlent/2026/02/22/haegir_a_byggingu_ibuda_naestu_arin/",
+      "title": "Samtök iðnaðarins: dregur úr íbúðauppbyggingu næstu árin",
+      "sum": "Um 6.000 íbúðir voru í byggingu samanborið við 9.000 árið 2023, og SI rekur samdráttinn til hárra vaxta og hertra lánaskilyrða.",
+      "tender": "", "start": "", "end": "", "tsort": ""
+    }
+  ]
+}
