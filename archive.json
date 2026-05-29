@@ -490,27 +490,6 @@
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 28
  },
- "aae77df2b64d8558": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-05-28",
-  "url": "https://www.visir.is/g/20262890127d/hvalbatarnir-komnir-ur-klossun-fyrir-vertidina",
-  "title": "Hvalbátarnir komnir úr klössun fyrir ver­tíðina",
-  "sum": "Hvalveiðibátnum Hval 8 var núna undir kvöld rennt úr slippnum í Reykjavíkurhöfn eftir klössun en áður var búið að yfirfara Hval 9. Þetta þykja ótvíræð merki um að Hvalur hf. stefni á stórhvalaveiðar í sumar.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 29
- },
  "446cfae3c71037ac": {
   "region": "Suðurnes",
   "type": "Innviðir",
@@ -552,27 +531,6 @@
   "tsort": "",
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 32
- },
- "122d067a3b1d405f": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Risa",
-  "scaleFig": "28,7 ma.kr.",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-05-28",
-  "url": "https://www.visir.is/g/20262889848d/esb-sektar-temu-um-28-7-milljarda-krona",
-  "title": "ESB sektar Temu um 28,7 milljarða króna",
-  "sum": "Framkvæmdastjórn Evrópusambandsins lagði tvö hundruð milljóna evra sekt á kínversku netverslunina Temu fyrir að selja ólöglegan varning í Evrópu í dag. Sektin er sú stærsta frá því að lög um stafræna þjónustu tóku gildi í álfunni.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 33
  },
  "2a86a4be75af8bdc": {
   "region": "Landið allt",
@@ -636,27 +594,6 @@
   "tsort": "",
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 14
- },
- "a9d72fe331a3a74a": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/erlent/2026-05-29-utanrikisradherra-noregs-i-vidtali-vid-ruv-ees-samningurinn-er-erfidari-i-framkvaemd-en-adur-476587/",
-  "title": "Utanríkisráðherra Noregs í viðtali við RÚV: „EES-samningurinn er erfiðari í framkvæmd en áður“",
-  "sum": "„EES-samningurinn er mikilvægasti alþjóðasamningur okkar; hann er líflína okkar inn á evrópska efnahagssvæðið og okkar efnahagur er evrópskur. En í allri hreinskilni, þá er þetta að verða erfiðara,\" sagði Espen Barth Eide utanríkisráðherra ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 16
  },
  "4a0661c0956202c7": {
   "region": "Landið allt",
@@ -867,131 +804,5 @@
   "tsort": "",
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 26
- },
- "ae8388b14d1ce1fd": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Norðurþing – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.nordurthing.is/is/frettir/hreinsunardagurinn-a-raufarhofn-27mai",
-  "title": "Hreinsunardagurinn á Raufarhöfn 27.maí",
-  "sum": "Hreinsunardagurinn á Raufarhöfn 27.maí",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 27
- },
- "d28246cb5e5c7439": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Risa",
-  "scaleFig": "16 ma.kr.",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Verklok",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/erlent/2026-05-29-esb-losar-sjodi-ungverjalands-476713/",
-  "title": "ESB losar sjóði Ungverjalands",
-  "sum": "Evrópusambandið hefur opnað fyrir aðgang að fé til Ungverjalands sem var fryst vegna áralangra deilna við Viktor Orban og stjórn hans. Þetta tilkynnti Ursula Von Der Leyen, forseti framkvæmdastjórnar ESB í morgun, eftir fund með Peter Magya",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T16:11:22.178703+00:00",
-  "id": 1
- },
- "c1cfa6f2e7ec375d": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-05-28",
-  "url": "https://www.visir.is/g/20262889610d/saga-af-tveimur-kronum-retturinn-til-ad-drukkna-i-nafni-fullveldis",
-  "title": "Saga af tveimur krónum: Rétturinn til að drukkna í nafni full­veldis",
-  "sum": "Íslendingar og Danir eiga margt sameiginlegt. Við deilum ríkri sögu, dálæti á hönnun, velferðarkerfi sem byggir nafn sitt á norrænni gildum og hugsjón og ríkri hefð fyrir því að kvarta yfir veðrinu. Ef þú kíkir í veskið hjá vegfaranda á Str",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T16:47:34.128796+00:00",
-  "id": 4
- },
- "0f5ae08d5cc19632": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Í byggingu",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/innlent/2026-05-29-ort-staekkandi-risi-jons-asgeirs-kaupir-25-fasteignir-af-kaupfelagi-476706/",
-  "title": "Ört stækkandi risi Jóns Ásgeirs kaupir 25 fasteignir af kaupfélagi",
-  "sum": "Forstjóri smásölufyrirtækisins Dranga segir að ekki til standi að opna aftur verslun í Bolungarvík á Vestfjörðum eftir að Kjörbúðinni þar var lokað nú í maí. Þetta segir forstjórinn, Auður Daníelsdóttir, þegar hún er spurð út í kaup Dranga ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T16:47:34.128796+00:00",
-  "id": 1
- },
- "af528610142a06c7": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/innlent/2026-05-29-undirbua-thjodaratkvaedagreidslu-um-esb-thetta-er-vissulega-askorun-476699/",
-  "title": "Undirbúa þjóðaratkvæðagreiðslu um ESB – „Þetta er vissulega áskorun“",
-  "sum": "Landskjörstjórn leggur allt kapp á að útbúa kynningarefni fyrir þjóðaratkvæðagreiðslu um aðildarviðræður Íslands við Evrópusambandið. Alþingi samþykkti í gær þingsályktunartillögu um framhald aðildarviðræðna og þjóðaratkvæðagreiðsla verður ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T16:47:34.128796+00:00",
-  "id": 2
- },
- "5d731ac1a423f56c": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/erlent/2026-05-29-adalraedismadur-russlands-rekinn-heim-fra-rumeniu-476691/",
-  "title": "Aðalræðismaður Rússlands rekinn heim frá Rúmeníu",
-  "sum": "Rúmenar hafa rekið aðalræðismann Rússlands heim og lokað aðalræðisskrifstofu eftir að rússneskur dróni lenti á íbúðarhúsnæði í rúmensku borginni Galati í nótt. Atvikið er það alvarlegasta í landinu síðan stríð braust út í Úkraínu. Kona og u",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T16:47:34.128796+00:00",
-  "id": 3
  }
 }

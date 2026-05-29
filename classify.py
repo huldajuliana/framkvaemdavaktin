@@ -21,9 +21,10 @@ def is_relevant(item: dict) -> bool:
     # Nafn verktaka -> telst framkvæmdatengt.
     if any(b in t for b in C.BUILDER_HINTS):
         return True
-    # Annars þarf framkvæmdaorð. Sleppum of almenna orðinu "íbúð " (eitt og sér),
-    # sem hleypti inn hvaða frétt sem nefndi íbúð.
-    return any(k in t for k in C.KEYWORDS if k != "íbúð ")
+    # Annars þarf framkvæmdaorð. Sleppum of almennum orðum sem valda ruslfréttum:
+    # "íbúð " (hvaða íbúð sem er) og "höfn" (passar við hafnarbæi eins og
+    # Reykjavíkurhöfn). Raunverulegar hafnarframkvæmdir nota "stálþil"/"hafnargerð".
+    return any(k in t for k in C.KEYWORDS if k not in ("íbúð ", "höfn"))
 
 
 # Sterk útilokunarorð — fréttir sem innihalda þessi eru ekki framkvæmdafréttir.
@@ -37,6 +38,11 @@ _HARD_NEGATIVES = [
     "leiksýning",
     # íþróttir
     "landslið", "deildarmeistar", "íslandsmeistar", "leikmaður", "leikmenn",
+    # stjórnmál / utanríkismál (orðið "framkvæmd" á líka við um framkvæmd samninga)
+    "utanríkisráðherra", "ees-samning", "evrópska efnahagssvæð", "evrópusamband",
+    "þjóðaratkvæð", "sendiherra", "aðalræðismaður", "fullveldi", "alþjóðasamning",
+    # sjávarútvegur (hvalveiði, vertíð o.fl. — "höfn" á við hafnarbæi)
+    "hvalveiði", "hvalbát", "vertíð", "loðnu", "makríl", "fiskveiði", "þorskveiði",
     # annað
     "andlát", "minningarorð",
 ]
