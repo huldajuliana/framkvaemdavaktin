@@ -804,5 +804,278 @@
   "tsort": "",
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 26
+ },
+ "dcf8adb0578520da": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-05-29",
+  "url": "https://www.ruv.is/frettir/innlent/2026-05-29-nyr-meirihluti-vill-fjolga-radum-og-fella-nidur-reglur-um-floggun-fana-476717/",
+  "title": "Nýr meirihluti vill fjölga ráðum og fella niður reglur um flöggun fána",
+  "sum": "Fyrsti fundur nýrrar borgarstjórnar fer fram í Ráðhúsi Reykjavíkur þriðjudaginn 2. júní. Nýr meirihluti Sjálfstæðisflokks, Viðreisnar og Framsóknarflokks mun leggja fram ýmsar tillögur. Kosning borgarstjóra auk forseta og varaforseta borgar",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-29T16:56:12.934208+00:00",
+  "id": 1
+ },
+ "0f5ae08d5cc19632": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-05-29",
+  "url": "https://www.ruv.is/frettir/innlent/2026-05-29-ort-staekkandi-risi-jons-asgeirs-kaupir-25-fasteignir-af-kaupfelagi-476706/",
+  "title": "Ört stækkandi risi Jóns Ásgeirs kaupir 25 fasteignir af kaupfélagi",
+  "sum": "Forstjóri smásölufyrirtækisins Dranga segir að ekki standi til að opna aftur verslun í Bolungarvík á Vestfjörðum eftir að Kjörbúðinni þar var lokað nú í maí. Þetta segir forstjórinn, Auður Daníelsdóttir, þegar hún er spurð út í kaup Dranga ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-29T16:56:12.934208+00:00",
+  "id": 2
+ },
+ "a85d0dfbf0bd0969": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-05-29",
+  "url": "https://byggingar.is/fresta-utbodi-i-bru-yfir-djupafjord/?utm_source=rss&utm_medium=rss&utm_campaign=fresta-utbodi-i-bru-yfir-djupafjord",
+  "title": "Fresta útboði í brú yfir Djúpafjörð um óákveðinn tíma",
+  "sum": "Fresta útboði í brú yfir Djúpafjörð Óvíst er hvenær útboð hefst vegna smíði brúar yfir Djúpafjörð. Stefnt var að því að verkið yrði boðið út um síðustu áramót. Tafir verða á útboði Vegagerðarinnar í smíði brúar yfir Djúpafjörð. Til stóð að ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-29T16:56:12.934208+00:00",
+  "id": 3
+ },
+ "1b3137daf3ec201c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-05-29",
+  "url": "https://byggingar.is/rofahus-hvolsvelli-utbod/?utm_source=rss&utm_medium=rss&utm_campaign=rofahus-hvolsvelli-utbod",
+  "title": "30.06.2026 Rofahús Hvolsvelli útboð auglýst af RARIK",
+  "sum": "Rofahús Hvolsvelli útboð Útboðið Rofahús Hvolsvelli hefur verið auglýst af RARIK vegna byggingar nýs rofahúss á Hvolsvelli sem mun styrkja raforkuinnviði fyrirtækisins á svæðinu. Útboðið ber númerið RARIK 26022 og nær til byggingar nýs rofa",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-29T16:56:12.934208+00:00",
+  "id": 4
+ },
+ "874bee7039c72b63": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-05-29",
+  "url": "https://byggingar.is/byggingarstjorn-og-verkeftirlit-vegna-staekkunar-grunnskola-thorlakshafnar-utbod/?utm_source=rss&utm_medium=rss&utm_campaign=byggingarstjorn-og-verkeftirlit-vegna-staekkunar-grunnskola-thorlakshafnar-utbod",
+  "title": "05.06.2026 Byggingarstjórn og verkeftirlit vegna stækkunar Grunnskóla Þorlákshafnar -Útboð",
+  "sum": "Byggingarstjórn og verkeftirlit vegna stækkunar Grunnskóla Þorlákshafnar -Útboð Byggingarstjórn og verkeftirlit vegna stækkunar Grunnskóla Þorlákshafnar – Útboð hefur verið auglýst af Sveitarfélaginu Ölfusi. Umhverfis-, framkvæmda- og veitu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-29T16:56:12.934208+00:00",
+  "id": 5
+ },
+ "631455a168e7316f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-05-29",
+  "url": "https://byggingar.is/hraunbaer-107-a-b-vidgerdir-utanhuss-utbod/?utm_source=rss&utm_medium=rss&utm_campaign=hraunbaer-107-a-b-vidgerdir-utanhuss-utbod",
+  "title": "05.06.2026 Hraunbær 107 A-B Viðgerðir utanhúss – Útboð",
+  "sum": "Útboð: Félagsbústaðir hf óska eftir tilboðum í verkið: Hraunbær 107 A-B Viðgerðir utanhúss. Verkið felst í þak- og utanhússviðgerðum s.s endurnýjun á þakjárni, viðgerðum að timbursvölum, endurnýjun á gluggum og hurðum sem og endurnýjun á ut",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-29T16:56:12.934208+00:00",
+  "id": 6
+ },
+ "19b7c13b2141541b": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-05-29",
+  "url": "https://byggingar.is/leikskolinn-grandaborg-opnun-utbods/?utm_source=rss&utm_medium=rss&utm_campaign=leikskolinn-grandaborg-opnun-utbods",
+  "title": "Leikskólinn Grandaborg opnun útboðs – B.Ó. smiðir með lægsta tilboð",
+  "sum": "Leikskólinn Grandaborg opnun útboðs Opnun útboðs vegna Leikskólann Grandaborg fór fram þann 28. maí 2026 vegna útboðs Reykjavíkurborgar nr. 16304 um kennslustofur, hönnun, smíði og lóðafrágang. Tilboð voru opnuð í Borgartúni 12–14 í Reykjav",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-29T16:56:12.934208+00:00",
+  "id": 7
+ },
+ "e985d8d825b83180": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-05-28",
+  "url": "https://byggingar.is/sjukrahusid-a-akureyri-framkvaemdir-hefjast-i-juni/?utm_source=rss&utm_medium=rss&utm_campaign=sjukrahusid-a-akureyri-framkvaemdir-hefjast-i-juni",
+  "title": "Sjúkrahúsið á Akureyri framkvæmdir hefjast í júní – Samið við GV gröfur ehf.",
+  "sum": "Sjúkrahúsið á Akureyri framkvæmdir Sjúkrahúsið á Akureyri framkvæmdir hefjast í júní eftir að Nýr Landspítali ohf. samdi við GV gröfur ehf. á Akureyri um fyrsta áfanga stækkunar sjúkrahússins. Akureyrarbær hefur þegar gefið út byggingarleyf",
+  "tender": "",
+  "start": "júní 2026",
+  "end": "",
+  "tsort": "2026-06",
+  "first_seen": "2026-05-29T16:56:12.934208+00:00",
+  "id": 9
+ },
+ "e40370626c8d8815": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-05-28",
+  "url": "https://byggingar.is/baett-adgengi-vid-bidstodvar-straeto-utbod/?utm_source=rss&utm_medium=rss&utm_campaign=baett-adgengi-vid-bidstodvar-straeto-utbod",
+  "title": "10.06.2026 Bætt aðgengi við biðstöðvar Strætó útboð hjá Reykjavíkurborg",
+  "sum": "Bætt aðgengi við biðstöðvar Strætó útboð Bætt aðgengi við biðstöðvar Strætó hefur verið auglýst af Reykjavíkurborg vegna framkvæmda við 36 biðstöðvar víðsvegar um borgina með það að markmiði að bæta aðgengi farþega. Verkið er unnið fyrir Um",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-29T16:56:12.934208+00:00",
+  "id": 10
+ },
+ "cd803451c8a4219e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-05-28",
+  "url": "https://byggingar.is/holabrekkuskoli-opnun-utbods-endurgerd-hus-3/?utm_source=rss&utm_medium=rss&utm_campaign=holabrekkuskoli-opnun-utbods-endurgerd-hus-3",
+  "title": "Hólabrekkuskóli opnun útboðs – Tindhagur með lægsta tilboð í endurgerð Hús 3",
+  "sum": "Hólabrekkuskóli opnun útboðs Hólabrekkuskóli opnun útboðs fór fram þann 27. maí 2026 vegna endurgerðar á Húsi 3 fyrir Umhverfis- og skipulagssvið Reykjavíkurborgar. Alls bárust ellefu tilboð í framkvæmdina og reyndist Tindhagur ehf. vera me",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-29T16:56:12.934208+00:00",
+  "id": 11
+ },
+ "c162e26a99b68582": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-05-28",
+  "url": "https://byggingar.is/utbod-a-bildudalsvegi-um-mikladal-endurbaetur/?utm_source=rss&utm_medium=rss&utm_campaign=utbod-a-bildudalsvegi-um-mikladal-endurbaetur",
+  "title": "09.06.2026 Útboð á Bíldudalsvegi um Mikladal, endurbætur",
+  "sum": "Útboð á Bíldudalsvegi Útboð Vegagerðarinnar vegna endurbóta á Bíldudalsvegi um Mikladal hefur verið auglýst og felur verkefnið í sér endurbyggingu á um 3,9 kílómetra kafla á Vestfjörðum. Verkið nær frá enda fyrsta áfanga á Mikladal og niður",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-29T16:56:12.934208+00:00",
+  "id": 12
+ },
+ "332c6f976eac1b02": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-05-28",
+  "url": "https://byggingar.is/visbendingar-um-ad-oryggisuttekt-vanti-a-studlum/?utm_source=rss&utm_medium=rss&utm_campaign=visbendingar-um-ad-oryggisuttekt-vanti-a-studlum",
+  "title": "Vísbendingar um að öryggisúttekt vanti á Stuðlum",
+  "sum": "Öryggisúttekt Umboðsmaður Alþingis hefur kallað eftir svörum frá Barna- og fjölskyldustofu vegna ábendingar um að ekki hafi farið fram öryggisúttekt á neyðarvistunardeild Stuðla eftir framkvæmdir vegna eldsvoða haustið 2024. Sautján ára pil",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-29T16:56:12.934208+00:00",
+  "id": 13
+ },
+ "dac02f2355fd31d8": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Reykjavíkurborg – fréttir",
+  "date": "2026-05-29",
+  "url": "https://reykjavik.is/frettir/2026/hefja-samstarf-um-uppbyggingu-serskolaurraeda",
+  "title": "Hefja samstarf um uppbyggingu sérskólaúrræða",
+  "sum": "Hefja samstarf um uppbyggingu sérskólaúrræða",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-29T16:56:12.934208+00:00",
+  "id": 8
  }
 }
