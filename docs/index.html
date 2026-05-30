@@ -15,8 +15,8 @@
     --ink-soft:#46423a;
     --muted:#8c8475;
     --line:#d6cdb9;
-    --accent:#0a4ea0;          /* BYKO blár */
-    --accent-2:#ffcb05;        /* BYKO gulur */
+    --accent:#244268;          /* BYKO blár (navy úr merki) */
+    --accent-2:#e9cc4c;        /* BYKO gulur (gylltur úr merki) */
     --slate:#33454f;
     --moss:#5b6f3f;
     --card:#fbf8f1;
@@ -52,6 +52,7 @@
   .title{
     font-family:"Fraunces",serif;
     font-weight:900;
+    color:var(--accent);
     font-size:clamp(40px,8vw,86px);
     line-height:.92;
     letter-spacing:-.02em;
@@ -511,7 +512,7 @@ function card(n){
 }
 
 function renderTimeline(items){
-  const dated=items.filter(n=>n.tsort).sort((a,b)=>String(a.tsort).localeCompare(String(b.tsort)));
+  const dated=items.filter(n=>n.tsort).sort((a,b)=>String(b.tsort).localeCompare(String(a.tsort)));
   if(!dated.length)
     return `<div class="empty">Engar tímasettar framkvæmdir passa við valdar síur.</div>`;
   let html='<div class="tl">', curYear="";
