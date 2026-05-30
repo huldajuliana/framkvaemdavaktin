@@ -1434,5 +1434,47 @@
   "tsort": "",
   "first_seen": "2026-05-30T08:34:06.228728+00:00",
   "id": 1
+ },
+ "d54b0b3e68a1f3c7": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-05-30",
+  "url": "https://byggingar.is/fiskholl-opnun-tilboda-grofuthjonusta-olgeirs-laegst/?utm_source=rss&utm_medium=rss&utm_campaign=fiskholl-opnun-tilboda-grofuthjonusta-olgeirs-laegst",
+  "title": "Fiskhóll opnun tilboða – Gröfuþjónusta Olgeirs ehf. lægst um gatnagerð og lagnir",
+  "sum": "Fiskhóll opnun tilboða – Gröfuþjónusta Olgeirs ehf. fær samning um gatnagerð og lagnir Fiskhóll opnun tilboða var til umfjöllunar á fundi bæjarráðs Hornafjarðar þann 26. maí 2026. Þar var tekin ákvörðun um að ganga til samninga við Gröfuþjó",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T08:51:54.888566+00:00",
+  "id": 1
+ },
+ "2b8d818f5ba0a762": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Reykjavíkurborg – fréttir",
+  "date": "2026-05-30",
+  "url": "https://reykjavik.is/husnaedi",
+  "title": "Húsnæði Fjölbreyttur og sveigjanlegur húsnæðismarkaður.",
+  "sum": "Húsnæði Fjölbreyttur og sveigjanlegur húsnæðismarkaður.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T08:51:54.888566+00:00",
+  "id": 2
  }
 }
