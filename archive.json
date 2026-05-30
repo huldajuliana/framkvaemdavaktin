@@ -1413,5 +1413,26 @@
   "tsort": "2026-01",
   "first_seen": "2026-05-30T07:44:21.164001+00:00",
   "id": 3
+ },
+ "0639190f9e65d037": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-05-30",
+  "url": "https://www.mbl.is/frettir/innlent/2026/05/30/tekur_undir_ord_bjarna/",
+  "title": "Tekur undir orð Bjarna",
+  "sum": "Daði Már Kristófersson, fjármála- og efnahagsráðherra, tekur undir orð sem Bjarni Benediktsson, framkvæmdastjóri Samtaka atvinnulífsins, lét falla í viðtali við Morgunblaðið í gær um að íslenskt atvinnulíf væri komið í ójafnvægi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T08:34:06.228728+00:00",
+  "id": 1
  }
 }
