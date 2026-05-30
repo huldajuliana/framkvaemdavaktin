@@ -1350,5 +1350,68 @@
   "tsort": "",
   "first_seen": "2026-05-30T07:17:35.906308+00:00",
   "id": 13
+ },
+ "8b42e002f13ec4a2": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "2.000 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-05-30",
+  "url": "https://byggingar.is/ny-verkstaedis-og-lagerbygging-hellisheidi-ris-fyrir-orku-natturunnar/?utm_source=rss&utm_medium=rss&utm_campaign=ny-verkstaedis-og-lagerbygging-hellisheidi-ris-fyrir-orku-natturunnar",
+  "title": "Ný verkstæðis- og lagerbygging Hellisheiði rís fyrir Orku náttúrunnar",
+  "sum": "Ný verkstæðis- og lagerbygging Hellisheiði Ný verkstæðis- og lagerbygging Hellisheiði er komin á framkvæmdastig eftir að Orka náttúrunnar hóf undirbúning að umfangsmikilli uppbyggingu á Hellisheiði sem mun styrkja rekstur og þjónustu fyrirt",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T07:44:21.164001+00:00",
+  "id": 1
+ },
+ "16b7573ee9724eda": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-05-30",
+  "url": "https://byggingar.is/silfurbraut-opnun-tilboda-gatnagerd-og-lagnir/?utm_source=rss&utm_medium=rss&utm_campaign=silfurbraut-opnun-tilboda-gatnagerd-og-lagnir",
+  "title": "Silfurbraut opnun tilboða – gatnagerð og lagnir -Rósaberg ehf. lægstbjóðandi",
+  "sum": "Silfurbraut opnun tilboða – Rósaberg fær samning um gatnagerð og lagnir Silfurbraut opnun tilboða fór fram hjá Sveitarfélaginu Hornafirði og hefur bæjarráð samþykkt að ganga til samninga við lægstbjóðanda, Rósaberg ehf., vegna framkvæmda vi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T07:44:21.164001+00:00",
+  "id": 2
+ },
+ "7dc4369a0cc30f8b": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-05-30",
+  "url": "https://byggingar.is/vidhald-leiksvaeda-i-laugardal-2026-opnun-utbods-groinn-ehf-med-laegsta-tilbod/?utm_source=rss&utm_medium=rss&utm_campaign=vidhald-leiksvaeda-i-laugardal-2026-opnun-utbods-groinn-ehf-med-laegsta-tilbod",
+  "title": "Viðhald leiksvæða í Laugardal 2026 opnun útboðs – Gróinn ehf. með lægsta tilboð",
+  "sum": "Viðhald leiksvæða í Laugardal 2026 opnun útboðs – Gróinn ehf. með lægsta tilboð Viðhald leiksvæða í Laugardal 2026 opnun útboðs fór fram þann 28. maí 2026 hjá Reykjavíkurborg vegna verðfyrirspurnar nr. 16310 um viðhald leiksvæða í Laugardal",
+  "tender": "2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-01",
+  "first_seen": "2026-05-30T07:44:21.164001+00:00",
+  "id": 3
  }
 }
