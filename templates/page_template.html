@@ -287,7 +287,7 @@
   <div class="wrap">
     <div class="kicker">
       <span>Daglegt yfirlit framkvæmda · Ísland</span>
-      <span id="dateline">— · Uppfært kl. 12:00</span>
+      <span id="dateline">— · Uppfært kl. 9 og 13</span>
     </div>
     <h1 class="title">Framkvæmda<span class="hi">vaktin</span></h1>
     <p class="subtitle">Fréttatilkynningar um íbúðauppbyggingu, innviði og atvinnuframkvæmdir — flokkað eftir landshlutum, verktökum og stærðargráðu.</p>
@@ -298,7 +298,7 @@
 <main class="wrap">
 
   <div class="notice">
-    <b>Uppfært sjálfkrafa.</b> Þessi síða safnar framkvæmdafréttum daglega kl. 12:00 úr RSS-straumum mbl.is, Vísis, RÚV, HMS, Vegagerðarinnar, Stjórnarráðsins og vefjum sveitarfélaga. Safnið byggist upp jafnt og þétt — ekkert eyðist út. Skiptu milli yfirlits eftir landshlutum og tímalínu útboða og framkvæmda hér að neðan. Útdrættir koma úr efnisstraumum miðlanna; smelltu á hverja frétt til að lesa hana hjá heimildinni.
+    <b>Uppfært sjálfkrafa.</b> Þessi síða safnar framkvæmdafréttum tvisvar á dag (kl. 9 og 13) úr RSS-straumum mbl.is, Vísis, RÚV, byggingar.is, HMS, Vegagerðarinnar, Stjórnarráðsins og vefjum sveitarfélaga. Safnið byggist upp jafnt og þétt — ekkert eyðist út. Skiptu milli yfirlits eftir landshlutum og tímalínu útboða og framkvæmda hér að neðan. Útdrættir koma úr efnisstraumum miðlanna; smelltu á hverja frétt til að lesa hana hjá heimildinni.
   </div>
 
   <section class="stats" id="stats"></section>
@@ -402,7 +402,7 @@ const state = {view:"region", region:"", type:"", scale:"", status:"", year:"", 
 const today = new Date();
 document.getElementById("dateline").textContent =
   today.toLocaleDateString("is-IS",{weekday:"long",day:"numeric",month:"long",year:"numeric"})
-  + " · Uppfært kl. 12:00";
+  + " · Uppfært kl. 9 og 13";
 
 /* síu-flísar */
 function buildChips(elId, values, key, labelMap){
