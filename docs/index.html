@@ -102,6 +102,20 @@
     box-shadow:var(--shadow);
   }
   .toolbar.stuck{border-radius:0 0 8px 8px}
+  .toolbar summary{
+    display:flex;align-items:center;gap:14px;cursor:pointer;list-style:none;
+    font-family:"IBM Plex Mono",monospace;font-size:12px;letter-spacing:.12em;
+    text-transform:uppercase;font-weight:600;color:var(--ink);
+  }
+  .toolbar summary::-webkit-details-marker{display:none}
+  .toolbar .tb-count{
+    font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.04em;
+    text-transform:none;color:var(--muted);font-weight:400;
+  }
+  .toolbar .plus{margin-left:auto;font-size:20px;line-height:1;color:var(--accent);
+    transition:transform .2s ease}
+  .toolbar[open] .plus{transform:rotate(45deg)}
+  .toolbar[open] summary{margin-bottom:18px;padding-bottom:14px;border-bottom:1px solid var(--line)}
   .frow{display:flex;gap:18px;flex-wrap:wrap;align-items:flex-end}
   .fgroup{display:flex;flex-direction:column;gap:8px}
   .fgroup label{
@@ -289,7 +303,9 @@
 
   <section class="stats" id="stats"></section>
 
-  <div class="toolbar" id="toolbar">
+  <details class="toolbar" id="toolbar">
+    <summary><span>Leit og síur</span><span class="tb-count" id="count"></span><span class="plus">＋</span></summary>
+    <div class="filterbody">
     <div class="frow">
       <div class="fgroup" style="flex:1 1 100%">
         <label>Landshluti</label>
@@ -323,10 +339,10 @@
       </div>
     </div>
     <div class="toolfoot">
-      <span class="count" id="count"></span>
       <button class="reset" id="reset">Núllstilla síur</button>
     </div>
-  </div>
+    </div>
+  </details>
 
   <div class="viewbar">
     <button class="vbtn on" data-view="region">Eftir landshluta</button>
@@ -444,6 +460,8 @@ document.getElementById("reset").addEventListener("click",()=>{
 
 /* sticky skuggi */
 const tb=document.getElementById("toolbar");
+// Sjálfgefið: síur opnar á tölvu, lokaðar á síma (svo fréttir sjáist strax)
+if(window.matchMedia("(min-width:760px)").matches) tb.setAttribute("open","");
 const obs=new IntersectionObserver(([e])=>tb.classList.toggle("stuck",e.intersectionRatio<1),{threshold:[1]});
 /* statistík */
 function renderStats(){
