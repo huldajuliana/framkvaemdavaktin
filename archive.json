@@ -1518,5 +1518,173 @@
   "tsort": "",
   "first_seen": "2026-05-30T10:46:45.645449+00:00",
   "id": 2
+ },
+ "8871552a64ec059e": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-05-30",
+  "url": "https://www.mbl.is/frettir/innlent/2026/05/30/eldur_kviknadi_i_einbylishusi_i_vogum/",
+  "title": "Eldur kviknaði í einbýlishúsi í Vogum",
+  "sum": "Eldur kviknaði í kjallara í einbýlishúsi í Vogum á Vatnsleysu fyrir skömmu.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T14:41:54.010913+00:00",
+  "id": 1
+ },
+ "65a0db544cbaf8d9": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-05-30",
+  "url": "https://www.mbl.is/frettir/innlent/2026/05/30/takmarkadur_adgangur_ad_bilastaedum_vegna_malbikuna/",
+  "title": "Takmarkaður aðgangur að bílastæðum vegna malbikunar",
+  "sum": "Takmarkaður aðgangur verður að P2 bílastæðum komu megin við flugstöðina á Keflavíkurflugvelli á mánudag vegna malbikunarframkvæmda.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T14:41:54.010913+00:00",
+  "id": 2
+ },
+ "26322798a16f1052": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Jáverk"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-05-30",
+  "url": "https://www.visir.is/g/20262888945d/segir-magnad-ad-fa-ad-sja-verk-bjarkar-a-listahatid",
+  "title": "Segir magnað að fá að sjá verk Bjarkar á Lista­hátíð",
+  "sum": "Listahátíð í Reykjavík verður sett klukkan tvö í dag en hátíðin stendur yfir til 14. júní. Alls eru viðburðir hátíðarinnar um sextíu talsins og flytjendur um þrettán hundruð en Björk Guðmundsdóttir er meðal listamanna sem koma fram á hátíði",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T14:41:54.010913+00:00",
+  "id": 3
+ },
+ "0da99bad8ac3536c": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-05-30",
+  "url": "https://www.visir.is/g/20262890796d/takmarkad-adgengi-ad-p2-bilastaedum-vegna-malbikunar",
+  "title": "Tak­markað að­gengi að P2-bílastæðum vegna mal­bikunar",
+  "sum": "Takmarkaður aðgangur verður að P2-bílastæðunum komumegin við flugstöðina á Keflavíkurflugvelli á mánudaginn 1. júní næstkomandi vegna malbikunarframkvæmda.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T14:41:54.010913+00:00",
+  "id": 4
+ },
+ "95609d05b1e091c6": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-05-30",
+  "url": "https://www.ruv.is/frettir/innlent/2026-05-30-einn-fluttur-a-heilbrigdisstofnun-vegna-eldsvoda-i-vogum-476763/",
+  "title": "Einn fluttur á heilbrigðisstofnun vegna eldsvoða í Vogum",
+  "sum": "Eldur kviknaði í bílskúr einbýlishúss í Vogum í dag. Einn var fluttur til athugunar með sjúkrabíl á Heilbrigðisstofnun Suðurnesja með væg einkenni reykeitrunar. Guðmundur Jónsson varðstjóri hjá brunavörnum Suðurnesja segir slökkviliðið búið",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T14:41:54.010913+00:00",
+  "id": 5
+ },
+ "e2fa53902a60a716": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-05-30",
+  "url": "https://www.ruv.is/frettir/innlent/2026-05-30-vistkerfi-berskjoldud-fyrir-agengum-tegundum-476752/",
+  "title": "Vistkerfi berskjölduð fyrir ágengum tegundum",
+  "sum": "Óskýrt regluverk um ágengar framandi tegundir þýðir að vistkerfi og menningararfur í íslenskri náttúru eru óvarin. Sæunn Júlía Sigurjónsdóttir, líffræðingur hjá Náttúruminjasafni Íslands, segir mikilvægt að tekið sé á þessu í fyrirhugaðri a",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T14:41:54.010913+00:00",
+  "id": 6
+ },
+ "d7e894076b2bebb8": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-05-30",
+  "url": "https://www.ruv.is/frettir/erlent/2026-05-30-varar-vid-storri-aras-russa-a-ukrainu-476759/",
+  "title": "Varar við stórri árás Rússa á Úkraínu",
+  "sum": "Volodymyr Zelensky forseti Úkraínu segir stjórnvöld hafa upplýsingar um að Rússar séu að undirbúa umfangsmikla árás á landið. Úkraínumenn halda á sama tíma áfram árásum á olíuinnviði í Rússlandi. Rússar skutu fjölda dróna á Úkraínu um síðus",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T14:41:54.010913+00:00",
+  "id": 7
+ },
+ "13f3da36fe9a3ec7": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-05-30",
+  "url": "https://www.ruv.is/frettir/innlent/2026-05-30-eldur-i-einbylishusi-i-vogum-476757/",
+  "title": "Eldur í einbýlishúsi í Vogum",
+  "sum": "Eldur logar í kjallara í einbýlishúsnæði í Vogunum. Brunavörnum Suðurnesja barst tilkynning um dökkan reyk sem barst frá kjallaranum. Eyþór Rúnar Þórarinsson slökkviliðsstjóri segir einn dælubíl og einn sjúkrabíl á vettvangi. Slökkvilið hóf",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T14:41:54.010913+00:00",
+  "id": 8
  }
 }
