@@ -11,6 +11,16 @@ def _text(item: dict) -> str:
     return (item["title"] + " " + item.get("summary", "")).lower()
 
 
+# Markaðs-/talningarefni um húsnæði — íbúðamarkaður, leigumarkaður, talningar HMS o.fl.
+# Þetta telst framkvæmdatengt enda lýsir það framboði og uppbyggingu íbúða.
+_HOUSING_MARKET = [
+    "íbúðamarkað", "húsnæðismarkað", "leigumarkað", "fasteignamarkað",
+    "íbúðatalning", "talningar á íbúð", "talning á íbúð", "fullbúnar íbúðir",
+    "íbúðum fjölgar", "framboð íbúða", "íbúðir í byggingu", "íbúðauppbygging",
+    "mánaðarskýrsla hms", "íbúðaþörf", "húsnæðisþörf",
+]
+
+
 def is_relevant(item: dict) -> bool:
     t = _text(item)
     # Afdráttarlaus höfnun á augljóslega ótengdum flokkum (sakamál, dómsmál,
@@ -18,12 +28,20 @@ def is_relevant(item: dict) -> bool:
     # framkvæmdafréttum, svo ef eitthvert þeirra finnst er fréttinni hafnað.
     if any(neg in t for neg in C.NEGATIVE_KEYWORDS) or any(neg in t for neg in _HARD_NEGATIVES):
         return False
+    # Traust heimild: HMS (Húsnæðis- og mannvirkjastofnun) fjallar nær eingöngu um
+    # húsnæði, mannvirki og íbúðamarkað — treystum efni þaðan (t.d. mánaðarskýrslum
+    # og talningum á íbúðamarkaði), nema það hafi lent í hörðu útilokuninni að ofan.
+    if "hms.is" in item.get("link", "").lower() or "hms" in item.get("source", "").lower():
+        return True
     # Nafn verktaka -> telst framkvæmdatengt.
     if any(b in t for b in C.BUILDER_HINTS):
         return True
     # Annars þarf framkvæmdaorð. Sleppum of almennum orðum sem valda ruslfréttum:
     # "íbúð " (hvaða íbúð sem er) og "höfn" (passar við hafnarbæi eins og
     # Reykjavíkurhöfn). Raunverulegar hafnarframkvæmdir nota "stálþil"/"hafnargerð".
+    # Markaðs-/talningarefni um húsnæði telst líka framkvæmdatengt (óháð heimild).
+    if any(k in t for k in _HOUSING_MARKET):
+        return True
     return any(k in t for k in C.KEYWORDS if k not in ("íbúð ", "höfn"))
 
 
