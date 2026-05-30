@@ -1476,5 +1476,47 @@
   "tsort": "",
   "first_seen": "2026-05-30T08:51:54.888566+00:00",
   "id": 2
+ },
+ "bd78a79d0728ddca": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-05-30",
+  "url": "https://www.visir.is/g/20262890724d/ad-byggja-bru-til-theirra-sem-bida",
+  "title": "Að byggja brú til þeirra sem bíða",
+  "sum": "Það myndast alltaf örlítið hik þegar kennari segir: „Nú ætlum við að vinna saman í hópum.“ Flest börn snúa sér strax að einhverjum. Stólar færast til, blöð ganga á milli handa og samtöl byrja næstum ósjálfrátt.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T10:46:45.645449+00:00",
+  "id": 1
+ },
+ "10f3203d89687abe": {
+  "region": "Norðurland vestra",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-05-30",
+  "url": "https://www.ruv.is/frettir/innlent/2026-05-30-bondi-i-skagafirdi-heimsfraeg-a-tiktok-var-alls-ekki-ad-buast-vid-thessu-476692/",
+  "title": "Bóndi í Skagafirði heimsfræg á TikTok: „Var alls ekki að búast við þessu“",
+  "sum": "Bóndi í Skagafirðinum hefur meðfram bústörfum haldið úti TikTok-aðgangi þar sem hún sýnir frá daglegu lífi í sveitinni. Lambið Soup og kiðlingurinn Kiddi hafa þar borið hæst og er aðgangurinn með rúmlega 100.000 fylgjendur. „Þetta var ekker",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-30T10:46:45.645449+00:00",
+  "id": 2
  }
 }
