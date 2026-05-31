@@ -1938,5 +1938,110 @@
   "tsort": "2026-06",
   "first_seen": "2026-05-31T10:55:39.397566+00:00",
   "id": 6
+ },
+ "e1eea7f095851937": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-05-31",
+  "url": "https://www.visir.is/g/20262891063d/hrod-og-slaem-throun-a-fasteignamarkadi",
+  "title": "Hröð og slæm þróun á fast­eigna­markaði",
+  "sum": "Leigufélög gætu gleypt húsnæðismarkaðinn á Íslandi verði ekkert gert til að laga ástandið á markaði að sögn fasteignasala. Hlutfall íbúða í eigu einstaklinga lækkar hratt.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-31T14:46:28.662217+00:00",
+  "id": 1
+ },
+ "bb39d1d8bdf38449": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-05-31",
+  "url": "https://www.visir.is/g/20262891028d/leigufelog-gaetu-gleypt-husnaedismarkadinn",
+  "title": "Leigufélög gætu gleypt húsnæðismarkaðinn",
+  "sum": "Leigufélög gætu gleypt húsnæðismarkaðinn á Íslandi verði ekkert gert til að laga ástandið á markaði að sögn fasteignasala. Hlutfall íbúða í eigu einstaklinga lækkar hratt.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-31T14:46:28.662217+00:00",
+  "id": 2
+ },
+ "a0f1e0a470a5bcb4": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-05-31",
+  "url": "https://www.ruv.is/frettir/innlent/2026-05-31-aslaug-arna-flytur-heim-tekur-saeti-a-thingi-og-bydur-i-veislu-476806/",
+  "title": "Áslaug Arna flytur heim, tekur sæti á þingi og býður í veislu",
+  "sum": "Áslaug Arna Sigurbjörnsdóttir, þingmaður Sjálfstæðisflokksins, er flutt aftur til landsins og tekur senn á ný sæti á þingi. Áslaug hefur síðasta vetur verið í leyfi frá þingmennsku og stundað nám í New York en hún útskrifaðist á dögunum. Í ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-31T14:46:28.662217+00:00",
+  "id": 3
+ },
+ "f89156ca44439cd8": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-05-31",
+  "url": "https://www.ruv.is/frettir/innlent/2026-05-31-hefdi-haldid-ad-thad-vaeru-brynni-verkefni-i-borginni-en-fanareglur-476802/",
+  "title": "Hefði haldið að það væru brýnni verkefni í borginni en fánareglur",
+  "sum": "Borgarstjórn kemur saman á fundi á þriðjudaginn og tekur fyrir tillögur nýs meirihluta Sjálfstæðisflokks, Viðreisnar og Framsóknarflokks. Fulltrúar meirihlutans leggja til að reglur um notkun fána við stjórnsýsluhús borgarinnar verði fellda",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-31T14:46:28.662217+00:00",
+  "id": 4
+ },
+ "b6f0357364fd7469": {
+  "region": "Suðurland",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-05-31",
+  "url": "https://www.ruv.is/frettir/innlent/2026-05-31-stada-ferdathjonustunnar-er-god-i-sumar-segir-hotelstjori-hotels-rangar-476796/",
+  "title": "„Staða ferðaþjónustunnar er góð í sumar“ segir hótelstjóri Hótels Rangár",
+  "sum": "Staða ferðaþjónustunnar er góð í sumar segir Friðrik Pálsson á Hótel Rangá. Hann setur hins vegar spurningarmerki við haustið. Friðrik Pálsson er eigandi og hótelstjóri Hótels Rangár í Rangárþingi ytra. Á hótelinu eru um 50 herbergi og þar ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-05-31T14:46:28.662217+00:00",
+  "id": 5
  }
 }
