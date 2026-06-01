@@ -21,6 +21,10 @@ KEYWORDS = [
     "gagnaver", "verksmiðja", "iðnaðarhúsnæði", "virkjun", "hótel",
     "útboð", "alútboð", "verktaki", "verktakar", "mannvirki", "mannvirkjagerð",
     "skóflustunga", "fokhelt", "reisugilli",
+    # Hönnunar-/skipulagsstig: arkitektasamkeppnir og tillögur (SKIPULAG)
+    "arkitekt", "samkeppni um", "hönnunarsamkeppni", "skipulagssamkeppni",
+    "arkitektasamkeppni", "rammaskipulag", "vinningstillag", "vinningstillög",
+    "skipulagstillag", "deiliskipulagstillag", "skipulagslýsing",
 ]
 
 # Orð sem útiloka frétt (draga úr ruslfréttum). Notað varlega.
@@ -130,6 +134,11 @@ CONTRACTORS = {
     "veitur": "Veitur (verkkaupi)",
     "reykjavíkurborg": "Reykjavíkurborg (verkkaupi)",
     "kanon arkitekt": "Kanon arkitektar (hönnun)",
+    "ask arkitekt": "ASK arkitektar (hönnun)",
+    "basalt arkitekt": "Basalt arkitektar (hönnun)",
+    "yrki arkitekt": "Yrki arkitektar (hönnun)",
+    "arkís": "Arkís arkitektar (hönnun)",
+    "batteríið": "Batteríið arkitektar (hönnun)",
 }
 DEFAULT_CONTRACTOR = "Óútboðið"
 
@@ -156,7 +165,11 @@ STATUS_RULES = [
                "bjóða út", "bauð út", "auglýs", "tilboð", "alútboð",
                "rammasamning"]),
     ("Skipulag", ["deiliskipulag", "aðalskipulag", "skipulagsbreyting",
-                  "umhverfismat", "viljayfirlýsing", "áform", "fyrirhuga"]),
+                  "rammaskipulag", "skipulagslýsing", "umhverfismat",
+                  "viljayfirlýsing", "áform", "fyrirhuga",
+                  "samkeppni um", "hönnunarsamkeppni", "skipulagssamkeppni",
+                  "arkitektasamkeppni", "vinningstillag", "vinningstillög",
+                  "skipulagstillag", "tillaga", "kynnt tillög", "arkitekt"]),
 ]
 DEFAULT_STATUS = "Skipulag"
 

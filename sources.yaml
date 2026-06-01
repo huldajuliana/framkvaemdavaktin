@@ -69,6 +69,26 @@ sources:
     item_selector: "a"
     base: "https://www.nordurthing.is"
 
+  # ---- Hönnun / arkitektúr / skipulag -----------------------------------
+  # Hér birtast arkitektasamkeppnir og skipulagstillögur (SKIPULAG-stig),
+  # sem rata sjaldan á viðskiptastrauma. Yfirfarðu slóðir eftir fyrstu
+  # keyrslu — þær sem skila engu birtast með "!" í Actions-logginu.
+  - name: "Arkitektafélag Íslands"
+    type: rss
+    url: "https://ai.is/feed/"
+
+  - name: "Skipulagsstofnun – auglýsingar og kynningar"
+    type: html
+    url: "https://www.skipulag.is/skipulagsmal/auglysingar-og-kynningar/"
+    item_selector: "a"
+    base: "https://www.skipulag.is"
+
+  - name: "Akureyri.net – fréttir"
+    type: html
+    url: "https://www.akureyri.net/is/frettir"
+    item_selector: "a"
+    base: "https://www.akureyri.net"
+
 # ---------------------------------------------------------------------------
 # BAKFYLLING (valfrjáls) — notað af backfill.py til að ganga aftur í tímann.
 # Bættu 'archive' við heimild til að virkja. {page} er sett inn fyrir hverja síðu.
