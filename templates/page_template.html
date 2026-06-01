@@ -346,7 +346,8 @@
   </details>
 
   <div class="viewbar">
-    <button class="vbtn on" data-view="region">Eftir landshluta</button>
+    <button class="vbtn on" data-view="nyjast">Allar nýjustu</button>
+    <button class="vbtn" data-view="region">Eftir landshluta</button>
     <button class="vbtn" data-view="timeline">Tímalína</button>
   </div>
 
@@ -397,7 +398,7 @@ const SCALES = ["Risa","Stór","Miðlungs","Lítil"];
 const SCALE_LABEL = {Risa:"Risaframkvæmd","Stór":"Stór","Miðlungs":"Miðlungs","Lítil":"Lítil"};
 const SCALE_PIPS = {Risa:4,"Stór":3,"Miðlungs":2,"Lítil":1};
 
-const state = {view:"region", region:"", type:"", scale:"", status:"", year:"", verk:"", q:""};
+const state = {view:"nyjast", region:"", type:"", scale:"", status:"", year:"", verk:"", q:""};
 
 /* dagsetning efst */
 const today = new Date();
@@ -561,6 +562,11 @@ function render(){
   if(state.view==="timeline"){ res.innerHTML=renderTimeline(filtered); return; }
   if(!filtered.length){
     res.innerHTML=`<div class="empty">Engar fréttir passa við valdar síur.</div>`;return;
+  }
+  if(state.view==="nyjast"){
+    const sorted=[...filtered].sort((a,b)=>String(b.date||"").localeCompare(String(a.date||"")));
+    res.innerHTML=`<div class="grid">${sorted.map(card).join("")}</div>`;
+    return;
   }
   let html="";
   const order=[...REGIONS].filter(r=>r!=="Landið allt").concat("Landið allt");
