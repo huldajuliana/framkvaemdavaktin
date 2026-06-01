@@ -21,6 +21,13 @@ _HOUSING_MARKET = [
 ]
 
 
+def _builder_in(t: str) -> bool:
+    """Satt ef verktakanafn finnst í texta — en aðeins í UPPHAFI orðs, svo
+    undirstrengir valdi ekki ruslfréttum (t.d. "Já verk" má ekki passa við
+    "sjá verk", né "Eykt" við "reykt"). Beygingar í enda leyfast ("Ístaks")."""
+    return any(re.search(r"(?<!\w)" + re.escape(b), t) for b in C.BUILDER_HINTS)
+
+
 def is_relevant(item: dict) -> bool:
     t = _text(item)
     # Afdráttarlaus höfnun á augljóslega ótengdum flokkum (sakamál, dómsmál,
@@ -33,8 +40,8 @@ def is_relevant(item: dict) -> bool:
     # og talningum á íbúðamarkaði), nema það hafi lent í hörðu útilokuninni að ofan.
     if "hms.is" in item.get("link", "").lower() or "hms" in item.get("source", "").lower():
         return True
-    # Nafn verktaka -> telst framkvæmdatengt.
-    if any(b in t for b in C.BUILDER_HINTS):
+    # Nafn verktaka (í upphafi orðs) -> telst framkvæmdatengt.
+    if _builder_in(t):
         return True
     # Annars þarf framkvæmdaorð. Sleppum of almennum orðum sem valda ruslfréttum:
     # "íbúð " (hvaða íbúð sem er) og "höfn" (passar við hafnarbæi eins og
@@ -42,7 +49,10 @@ def is_relevant(item: dict) -> bool:
     # Markaðs-/talningarefni um húsnæði telst líka framkvæmdatengt (óháð heimild).
     if any(k in t for k in _HOUSING_MARKET):
         return True
-    return any(k in t for k in C.KEYWORDS if k not in ("íbúð ", "höfn"))
+    # Hreinsum "false friends": "framkvæmdastjóri"/"framkvæmdastjórn" (starfsheiti)
+    # og "framkvæmdavald" (stjórnmál) mega ekki kveikja á lykilorðinu "framkvæmd".
+    t_kw = t.replace("framkvæmdastjór", " ").replace("framkvæmdavald", " ")
+    return any(k in t_kw for k in C.KEYWORDS if k not in ("íbúð ", "höfn"))
 
 
 # Sterk útilokunarorð — fréttir sem innihalda þessi eru ekki framkvæmdafréttir.
