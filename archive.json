@@ -1938,5 +1938,110 @@
   "tsort": "",
   "first_seen": "2026-06-01T14:59:29.957365+00:00",
   "id": 1
+ },
+ "33050d663786fec4": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-01",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/01/skjalftinn_for_ekki_fram_hja_starfsfolki_og_gestum/",
+  "title": "Skjálftinn fór ekki fram hjá starfsfólki og gestum",
+  "sum": "Jarðskjálftinn sem varð á Mosfellsheiði síðdegis í dag hafði engin áhrif á starfsemi Hellisheiðarvirkjunar eða jarðhitasýningu Orkuveitu Reykjavíkur í Hellisheiðarvirkjun.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-01T18:39:42.743087+00:00",
+  "id": 1
+ },
+ "f3f52c596f7435b9": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-01",
+  "url": "https://www.visir.is/g/20262891584d/hafnar-asokunum-um-nytt-hernadarbrolt-japana",
+  "title": "Hafnar á­sökunum um nýtt hernaðar­brölt Japana",
+  "sum": "Ráðamenn víða um Asíu hyggja á aukna hernaðaruppbyggingu og þá að miklu leyti vegna áhyggja af gífurlegri uppbyggingu í Kína. Kínverjar kalla eftir samstöðu gegn nýju hernaðarbrölti Japana, sem hafna slíkum ásökunum og benda á uppbygginguna",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-01T18:39:42.743087+00:00",
+  "id": 2
+ },
+ "f168d1338b7f9c34": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-01",
+  "url": "https://www.visir.is/g/20262891632d/jardhiti-sem-samkeppnisforskot",
+  "title": "Jarð­hiti sem samkeppnisforskot",
+  "sum": "Hvar er best að byggja upp starfsemi sem byggir á orku? Í heimi þar sem samkeppni um hreina orku, innviði og hæft starfsfólk fer vaxandi skiptir staðsetning sífellt meira máli.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-01T18:39:42.743087+00:00",
+  "id": 3
+ },
+ "476355e2df0b135f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-01-370-misstu-vinnuna-i-hopuppsognum-i-mai-476904/",
+  "title": "370 misstu vinnuna í hópuppsögnum í maí",
+  "sum": "Alls bárust fjórar tilkynningar um hópuppsagnir í maí 2026, þar sem 370 starfsmönnum var sagt upp störfum. Frá þessu segir á vef Vinnumálastofnunar. Flestar uppsagnirnar í maí tengdust gistingu og ferðaþjónustu.RÚV / Ágúst Ólafsson Flestir ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-01T18:39:42.743087+00:00",
+  "id": 4
+ },
+ "7703c41e4720e2c6": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-01",
+  "url": "https://byggingar.is/landsvirkjun-profar-sjalfvirkt-flygildi-til-eftirlits-a-thjorsarsvaedi/?utm_source=rss&utm_medium=rss&utm_campaign=landsvirkjun-profar-sjalfvirkt-flygildi-til-eftirlits-a-thjorsarsvaedi",
+  "title": "Landsvirkjun prófar sjálfvirkt flygildi til eftirlits á Þjórsársvæði",
+  "sum": "Landsvirkjun prófar sjálfvirkt flygildi til eftirlits á Þjórsársvæði Landsvirkjun prófar sjálfvirkt flygildi til eftirlits á Þjórsársvæði í nýju tilraunaverkefni sem unnið er í samstarfi við Svarma ehf. Markmið verkefnisins er að bæta eftir",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-01T18:39:42.743087+00:00",
+  "id": 5
  }
 }
