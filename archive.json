@@ -1917,5 +1917,26 @@
   "tsort": "",
   "first_seen": "2026-06-01T12:58:43.176138+00:00",
   "id": 6
+ },
+ "b9d195083c27cdb2": {
+  "region": "Suðurland",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-01-90-ara-afmaeli-ungmennafelags-selfoss-fagnad-476855/",
+  "title": "90 ára afmæli Ungmennafélags Selfoss fagnað",
+  "sum": "Ungmennafélag Selfoss var stofnað annan í hvítasunnu 1. júní 1936 og fagnar 90 ára afmæli í dag. Haldið var upp á afmælið í gær á Hótel Selfossi þar sem ýmsir voru heiðraðir, auk þess sem boðið var upp á glæsilegt kaffihlaðborð. Helgi S. Ha",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-01T14:59:29.957365+00:00",
+  "id": 1
  }
 }
