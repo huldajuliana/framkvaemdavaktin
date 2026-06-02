@@ -117,6 +117,9 @@ _HARD_NEGATIVES = [
     "hlutabréf", "frumútboð", "kauphöll", "skuldabréf", "verðbréf", "hlutafjárútboð",
     # sprengingar / stórslys (ekki framkvæmd þótt "verksmiðja"/"hús" komi við sögu)
     "sprakk", "höggbylgja", "í loft upp", "sprengju", "eldur kom upp",
+    # þingnefndir / rannsóknarskýrslur (aldrei byggingarfréttir, þótt orð eins og
+    # "uppbygging"/"framkvæmd" komi fyrir aftarlega í löngum texta) og menntastefna
+    "rannsóknarnefnd", "skólastefn",
 ]
 
 
@@ -226,7 +229,17 @@ def classify(item: dict) -> dict:
 
 
 def classify_all(items: list) -> list:
-    return [classify(it) for it in items if is_relevant(it)]
+    # Dæmum relevans á SAMA stytta útdrætti og verður geymdur (sbr. 'sum'[:240] í
+    # classify) svo söfnun og sjálfhreinsun séu samkvæmar. Annars getur frétt með
+    # lykilorð aftarlega í löngum texta sloppið inn við söfnun en fallið við
+    # hreinsun (af því geymslan klippir textann) — og hringrásast inn/út endalaust.
+    out = []
+    for it in items:
+        probe = dict(it)
+        probe["summary"] = (it.get("summary") or it.get("title", "") or "")[:240]
+        if is_relevant(probe):
+            out.append(classify(it))
+    return out
 
 
 def refilter_archive(archive: dict) -> dict:
