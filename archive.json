@@ -1708,48 +1708,6 @@
   "first_seen": "2026-06-02T07:39:07.104885+00:00",
   "id": 6
  },
- "5302ee27528dc5dc": {
-  "region": "Vesturland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-01",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-01-hringvegurinn-lokadur-vid-esjumela-til-kl-7-i-fyrramalid-476913/",
-  "title": "Hringvegurinn lokaður við Esjumela til kl. 7 í fyrramálið",
-  "sum": "Hringvegurinn verður lokaður í norðurátt á 670 metra kafla við Esjumela og 1.500 metra kafla við Kollafjörð frá klukkan 21 í kvöld til 7 í fyrramálið. Hjáleið verður um Þingvallaveg, Kjósarskarð og Hvalfjarðarveg. Verið er að fræsa og malbi",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-02T07:39:07.104885+00:00",
-  "id": 7
- },
- "476355e2df0b135f": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-01",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-01-370-misstu-vinnuna-i-hopuppsognum-i-mai-476904/",
-  "title": "370 misstu vinnuna í hópuppsögnum í maí",
-  "sum": "Alls bárust fjórar tilkynningar um hópuppsagnir í maí 2026, þar sem 370 starfsmönnum var sagt upp störfum. Frá þessu segir á vef Vinnumálastofnunar. Flestar uppsagnirnar í maí tengdust gistingu og ferðaþjónustu.RÚV / Ágúst Ólafsson Flestir ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-02T07:39:07.104885+00:00",
-  "id": 8
- },
  "db3150dbdcf5adf9": {
   "region": "Suðurnes",
   "type": "Innviðir",
@@ -1813,6 +1771,48 @@
   "first_seen": "2026-06-02T07:39:07.104885+00:00",
   "id": 3
  },
+ "5302ee27528dc5dc": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-01-hringvegurinn-lokadur-vid-esjumela-til-kl-7-i-fyrramalid-476913/",
+  "title": "Hringvegurinn lokaður við Esjumela til kl. 7 í fyrramálið",
+  "sum": "Hringvegurinn verður lokaður í norðurátt á 670 metra kafla við Esjumela og 1.500 metra kafla við Kollafjörð frá klukkan 21 í kvöld til 7 í fyrramálið. Hjáleið verður um Þingvallaveg, Kjósarskarð og Hvalfjarðarveg. Verið er að fræsa og malbi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T07:44:28.871427+00:00",
+  "id": 1
+ },
+ "476355e2df0b135f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-01-370-misstu-vinnuna-i-hopuppsognum-i-mai-476904/",
+  "title": "370 misstu vinnuna í hópuppsögnum í maí",
+  "sum": "Alls bárust fjórar tilkynningar um hópuppsagnir í maí 2026, þar sem 370 starfsmönnum var sagt upp störfum. Frá þessu segir á vef Vinnumálastofnunar. Flestar uppsagnirnar í maí tengdust gistingu og ferðaþjónustu.RÚV / Ágúst Ólafsson Flestir ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T07:44:28.871427+00:00",
+  "id": 2
+ },
  "e83d300e949a4620": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -1831,7 +1831,7 @@
   "start": "",
   "end": "",
   "tsort": "",
-  "first_seen": "2026-06-02T07:39:07.104885+00:00",
-  "id": 9
+  "first_seen": "2026-06-02T07:44:28.871427+00:00",
+  "id": 3
  }
 }
