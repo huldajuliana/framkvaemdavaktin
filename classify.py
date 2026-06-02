@@ -20,6 +20,21 @@ _HOUSING_MARKET = [
     "mánaðarskýrsla hms", "íbúðaþörf", "húsnæðisþörf",
 ]
 
+# Veik lykilorð: húsgerðir sem birtast oft í ÓSKYLDUM fréttum (brunar, slys,
+# stríð, viðburðir). Þau duga EKKI ein og sér — það þarf framkvæmda-samhengi með.
+_WEAK_TYPES = [
+    "einbýli", "fjölbýli", "fjölbýlishús", "raðhús", "hótel",
+    "atvinnuhúsnæði", "skrifstofuhúsnæði", "verslunarhúsnæði", "iðnaðarhúsnæði",
+]
+
+# Samhengisorð sem staðfesta að um framkvæmd/byggingu sé að ræða. Eitt þeirra
+# þarf að fylgja veiku lykilorði til að fréttin teljist framkvæmdafrétt.
+_CONTEXT = [
+    "framkvæmd", "bygging", "byggja", "byggð", "byggt", "byggður", "byggi",
+    "reisa", "rís", "reist", "útboð", "skipulag", "lóð", "niðurrif", "nýbygg",
+    "fokhelt", "skóflustung", "verktak", "uppbygg", "áform", "fyrirhug", "hófst",
+]
+
 
 def _builder_in(t: str) -> bool:
     """Satt ef verktakanafn finnst í texta — en aðeins í UPPHAFI orðs, svo
@@ -52,7 +67,14 @@ def is_relevant(item: dict) -> bool:
     # Hreinsum "false friends": "framkvæmdastjóri"/"framkvæmdastjórn" (starfsheiti)
     # og "framkvæmdavald" (stjórnmál) mega ekki kveikja á lykilorðinu "framkvæmd".
     t_kw = t.replace("framkvæmdastjór", " ").replace("framkvæmdavald", " ")
-    return any(k in t_kw for k in C.KEYWORDS if k not in ("íbúð ", "höfn"))
+    # Sterk lykilorð (ótvíræð framkvæmdaorð) duga ein og sér.
+    if any(k in t_kw for k in C.KEYWORDS if k not in _WEAK_TYPES and k not in ("íbúð ", "höfn")):
+        return True
+    # Veik lykilorð (húsgerðir) hleypa frétt aðeins inn EF framkvæmda-samhengi fylgir
+    # — annars er t.d. brunafrétt um "einbýlishús" ekki framkvæmdafrétt.
+    if any(w in t_kw for w in _WEAK_TYPES) and any(c in t_kw for c in _CONTEXT):
+        return True
+    return False
 
 
 # Sterk útilokunarorð — fréttir sem innihalda þessi eru ekki framkvæmdafréttir.
@@ -73,6 +95,17 @@ _HARD_NEGATIVES = [
     "hvalveiði", "hvalbát", "vertíð", "loðnu", "makríl", "fiskveiði", "þorskveiði",
     # annað
     "andlát", "minningarorð",
+    # stríð / hernaður (byggingarorð eins og "uppbygging"/"fjölbýlishús" mega
+    # ekki kveikja á hernaðar- eða stríðsfréttum)
+    "hernað", "dróna", "dróni", "drónum", "loftárás", "innrás", "vopnabúna", "eldflaug",
+    # eldsvoðar / slys / útkall (ekki byggingarfréttir þótt hús komi við sögu)
+    "eldsvoð", "kviknaði", "bruna", "brunavörn", "slökkvilið", "sjúkrabíl", "reykeitrun",
+    # félög / afmæli / hátíðahöld (t.d. "Hótel X" sem veislustaður)
+    "ungmennafélag", "íþróttafélag", "afmæli",
+    # menntastefna (ekki bygging skóla)
+    "skólakerfi",
+    # minniháttar viðhald — malbikun bílastæða/gatna, aðgangstilkynningar
+    "malbikun",
 ]
 
 
@@ -183,6 +216,28 @@ def classify(item: dict) -> dict:
 
 def classify_all(items: list) -> list:
     return [classify(it) for it in items if is_relevant(it)]
+
+
+def refilter_archive(archive: dict) -> dict:
+    """Endurmetur allt vistað safn með NÚVERANDI is_relevant og skilar aðeins
+    færslum sem standast. Notað til sjálfhreinsunar svo eldra rusl (sem komst inn
+    með lausari síu) hverfi sjálfkrafa. Aðeins ranglega flokkað efni fer út.
+
+    Öryggishemill: ef sían myndi henda meira en 60% safnsins er það líklega villa
+    í síunni — þá skilum við safninu ÓBREYTTU frekar en að tapa raunverulegum
+    fréttum."""
+    kept = {
+        k: r for k, r in archive.items()
+        if is_relevant({
+            "title": r.get("title", ""),
+            "summary": r.get("sum", ""),
+            "link": r.get("url", ""),
+            "source": r.get("src", ""),
+        })
+    }
+    if archive and len(kept) < len(archive) * 0.4:
+        return archive
+    return kept
 
 
 # ---------------------------------------------------------------------------

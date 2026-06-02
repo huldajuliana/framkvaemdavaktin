@@ -36,6 +36,14 @@ def main():
     log.info("%d af %d fréttum töldust framkvæmdafréttir", len(records), len(raw))
 
     archive = store.load()
+    # Sjálfhreinsun: endurmeta allt safnið með NÚVERANDI síu og fjarlægja efni sem
+    # stenst hana ekki lengur (t.d. eldra rusl sem komst inn með lausari síu).
+    # Aðeins ranglega flokkað efni fer út; raunverulegar fréttir haldast.
+    _before = len(archive)
+    archive = classify.refilter_archive(archive)
+    if len(archive) != _before:
+        log.info("Sjálfhreinsun: fjarlægði %d ranglega flokkaðar færslur (%d eftir)",
+                 _before - len(archive), len(archive))
     new = store.merge(archive, records)
     log.info("%d nýjar fréttir bættust í safnið (%d alls)", len(new), len(archive))
 
