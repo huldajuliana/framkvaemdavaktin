@@ -1771,27 +1771,6 @@
   "first_seen": "2026-06-02T12:40:10.388023+00:00",
   "id": 2
  },
- "764602dda3345c57": {
-  "region": "Vestfirðir",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-02",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-02-skyrslan-um-snjoflodin-a-sudavik-laerdomsrik-og-standi-fyrir-sinu-476958/",
-  "title": "Skýrslan um snjóflóðin á Súðavík lærdómsrík og standi fyrir sínu",
-  "sum": "Stjórnskipunar- og eftirlitsnefnd Alþingis telur skýrslu rannsóknarnefndar Alþingis um snjóflóðið í Súðavík 16. janúar 1995 hafa staðið fyrir sínu. Í umsögn nefndarinnar segir að skýrslan sé greinargóð og vönduð og hafi dregið vel fram atbu",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-02T12:40:10.388023+00:00",
-  "id": 3
- },
  "9110e73c71e92b36": {
   "region": "Suðurnes",
   "type": "Íbúðir",
@@ -1812,27 +1791,6 @@
   "tsort": "",
   "first_seen": "2026-06-02T12:40:10.388023+00:00",
   "id": 4
- },
- "5302ee27528dc5dc": {
-  "region": "Vesturland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-01",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-01-hringvegurinn-lokadur-vid-esjumela-til-kl-7-i-fyrramalid-476913/",
-  "title": "Hringvegurinn lokaður við Esjumela til kl. 7 í fyrramálið",
-  "sum": "Hringvegurinn verður lokaður í norðurátt á 670 metra kafla við Esjumela og 1.500 metra kafla við Kollafjörð frá klukkan 21 í kvöld til 7 í fyrramálið. Hjáleið verður um Þingvallaveg, Kjósarskarð og Hvalfjarðarveg. Verið er að fræsa og malbi",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-02T12:40:10.388023+00:00",
-  "id": 6
  },
  "8e08cfe329c287de": {
   "region": "Landið allt",
@@ -1855,7 +1813,112 @@
   "first_seen": "2026-06-02T12:40:10.388023+00:00",
   "id": 5
  },
- "e83d300e949a4620": {
+ "0619d9a61b8a07bd": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-02",
+  "url": "https://www.visir.is/g/20262892167d/kari-beisladur-vid-vadoldu",
+  "title": "Kári beislaður við Vaðöldu",
+  "sum": "Framkvæmdir eru nú hafnar við vindorkuver Landsvirkjunar á Vaðöldu. Þetta er stórframkvæmd í orkuöflun með umtalsverð áhrif. Framleiðslugeta vindorku er meira á veturna en á sumrin sem er einmitt öfugt við vatnsaflsvirkjanir. Kerfislega vin",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T17:25:18.563604+00:00",
+  "id": 1
+ },
+ "809dd931ba580d0f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-02",
+  "url": "https://www.visir.is/g/20262892055d/framkvaemd-skolastefnu-faer-falleinkunn",
+  "title": "Fram­kvæmd skóla­stefnu fær fall­ein­kunn",
+  "sum": "Framkvæmd stefnunnar um skóla án aðgreiningar virðist fá falleinkunn hjá tveimur af helstu kyndilberum stefnunnar á sínum tíma. Stefnan sjálf um að öll börn sæki nám í hverfisskóla er ljómandi falleg og styður göfug markmið um jöfnuð og sam",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T17:25:18.563604+00:00",
+  "id": 2
+ },
+ "3eea003c0f1d8415": {
+  "region": "Suðurnes",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-02",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-02-sjaldgaeft-ad-fasteignamat-laekki-ad-raunvirdi-476965/",
+  "title": "Sjaldgæft að fasteignamat lækki að raunvirði",
+  "sum": "Jónas Atli Gunnarsson, hagfræðingur hjá Húsnæðis-, mannvirkja- og skipulagsstofnun (HMS), segir að það gerist sjaldan að fasteignamat lækki að raunvirði á milli ára. Minni hækkun miðað við síðastliðin ár skýrist af kólnun sem hefur orðið á ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T17:25:18.563604+00:00",
+  "id": 3
+ },
+ "c474ec08a27c64ad": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-02",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-02-ny-borgarstjorn-tekin-vid-476963/",
+  "title": "Ný borgarstjórn tekin við",
+  "sum": "Fyrsti borgarstjórnarfundur nýs meirihluta í Reykjavík hófst klukkan tólf á hádegi. Björg Magnúsdóttir, oddviti Viðreisnar, hefur tekið við sem forseti borgarstjórnar og Einar Þorsteinsson er formaður borgarráðs. Hildur Björnsdóttir er form",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T17:25:18.563604+00:00",
+  "id": 4
+ },
+ "764602dda3345c57": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-02",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-02-skyrslan-um-snjoflodin-a-sudavik-laerdomsrik-og-standi-fyrir-sinu-476958/",
+  "title": "Skýrslan um snjóflóðin á Súðavík lærdómsrík og standi fyrir sínu",
+  "sum": "Stjórnskipunar- og eftirlitsnefnd Alþingis telur skýrslu rannsóknarnefndar Alþingis um snjóflóðið í Súðavík 16. janúar 1995 hafa staðið fyrir sínu. Í umsögn nefndarinnar segir að skýrslan sé greinargóð og vönduð og hafi dregið vel fram atbu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T17:25:18.563604+00:00",
+  "id": 5
+ },
+ "c2ca11a8d8582736": {
   "region": "Landið allt",
   "type": "Innviðir",
   "scale": "Miðlungs",
@@ -1865,15 +1928,58 @@
   ],
   "status": "Útboð",
   "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-01",
-  "url": "https://byggingar.is/grundarfjardarbaer-semur-vid-fyrirtak/?utm_source=rss&utm_medium=rss&utm_campaign=grundarfjardarbaer-semur-vid-fyrirtak",
-  "title": "Grundarfjarðarbær semur við Fyrirtak málningarþjónustu ehf. um utanhússviðgerðir á íþróttahúsi",
-  "sum": "Grundarfjarðarbær Utanhússviðgerðir á íþróttahúsi Grundarfjarðar hafa verið boðnar út og hefur bæjarráð Grundarfjarðarbæjar samþykkt að ganga til samninga við lægstbjóðanda, Fyrirtak málningarþjónustu ehf. Málið var tekið fyrir á fundi bæja",
+  "date": "2026-06-02",
+  "url": "https://byggingar.is/fsre-auglysir-eftir-vardveisluhusnaedi/?utm_source=rss&utm_medium=rss&utm_campaign=fsre-auglysir-eftir-vardveisluhusnaedi",
+  "title": "19.06.2026 FSRE auglýsir eftir varðveisluhúsnæði",
+  "sum": "FSRE auglýsir eftir varðveisluhúsnæði fyrir Þjóðskjalasafn, Listasafn og Náttúruminjasafn Íslands FSRE auglýsir eftir varðveisluhúsnæði á höfuðborgarsvæðinu fyrir Þjóðskjalasafn Íslands, Listasafn Íslands og Náttúruminjasafn Íslands. Framkv",
   "tender": "",
   "start": "",
   "end": "",
   "tsort": "",
-  "first_seen": "2026-06-02T12:40:10.388023+00:00",
+  "first_seen": "2026-06-02T17:25:18.563604+00:00",
+  "id": 6
+ },
+ "90c4021e9a5f832a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)",
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-02",
+  "url": "https://byggingar.is/saebrautarstokkur-kynningarfundur/?utm_source=rss&utm_medium=rss&utm_campaign=saebrautarstokkur-kynningarfundur",
+  "title": "Sæbrautarstokkur – yfir 100 manns mættu á kynningarfund um framkvæmdina",
+  "sum": "Sæbrautarstokkur – yfir 100 manns mættu á kynningarfund um framkvæmdina Sæbrautarstokkur var til umræðu á opnum kynningarfundi sem Reykjavíkurborg, Vegagerðin og Betri samgöngur stóðu fyrir í Vogaskóla þann 1. júní. Á annað hundrað manns mæ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T17:25:18.563604+00:00",
   "id": 7
+ },
+ "f532ea0b2f282ffc": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-02",
+  "url": "https://byggingar.is/austurvegur-2-endurnyjun-radhustrappa-a-selfossi/?utm_source=rss&utm_medium=rss&utm_campaign=austurvegur-2-endurnyjun-radhustrappa-a-selfossi",
+  "title": "11.06.2026 Austurvegur 2 – endurnýjun ráðhústrappa á Selfossi",
+  "sum": "Útboð: Austurvegur 2 – endurnýjun ráðhústrappa á Selfossi Austurvegur 2 endurnýjun ráðhústrappa er nýtt útboð sem Sveitarfélagið Árborg hefur auglýst vegna framkvæmda við Ráðhús Árborgar á Selfossi. Verkið felur í sér rif eldri trappa og st",
+  "tender": "16. júní 2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-06",
+  "first_seen": "2026-06-02T17:25:18.563604+00:00",
+  "id": 8
  }
 }
