@@ -106,6 +106,10 @@ _HARD_NEGATIVES = [
     "skólakerfi",
     # minniháttar viðhald — malbikun bílastæða/gatna, aðgangstilkynningar
     "malbikun",
+    # fjármál / hlutabréfamarkaður ("útboð" á líka við um hlutafjárútboð á markaði)
+    "hlutabréf", "frumútboð", "kauphöll", "skuldabréf", "verðbréf", "hlutafjárútboð",
+    # sprengingar / stórslys (ekki framkvæmd þótt "verksmiðja"/"hús" komi við sögu)
+    "sprakk", "höggbylgja", "í loft upp", "sprengju", "eldur kom upp",
 ]
 
 
