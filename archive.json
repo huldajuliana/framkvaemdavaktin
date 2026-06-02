@@ -406,27 +406,6 @@
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 2
  },
- "f13c04c9c172fc47": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-05-29",
-  "url": "https://www.visir.is/g/20262890162d/tveir-saerdir-eftir-ad-russneskur-droni-lendir-a-fjolbylishusi-i-rumeniu",
-  "title": "Tveir særðir eftir að rúss­neskur dróni lendir á fjöl­býlis­húsi í Rúmeníu",
-  "sum": "Tveir særðust þegar dróni sem var þáttur af árás Rússa á Úkraínu var flogið á fjölbýlishús í Galati í austurhluta Rúmeníu. Tvær F-16 þotur og þyrla voru sendar á loft og skilaboð send til íbúa á svæðinu.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 5
- },
  "446cfae3c71037ac": {
   "region": "Suðurnes",
   "type": "Innviðir",
@@ -510,27 +489,6 @@
   "tsort": "",
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 9
- },
- "142d3faf2989bfd4": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/erlent/2026-05-29-bregdast-okvaeda-vid-dronasprengingu-i-rumeniu-476664/",
-  "title": "Bregðast ókvæða við drónasprengingu í Rúmeníu",
-  "sum": "Ráðamenn á Vesturlöndum hafa brugðist ókvæða við eftir að rússneskur dróni sprakk á þaki fjölbýlishúss í Galati í Rúmeníu. Tugir þurftu að yfirgefa heimili sín og kona og unglingspiltur særðust. Nicusor Dan, forseti Rúmeníu, boðaði fund í v",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 14
  },
  "342cc06159ca7a33": {
   "region": "Landið allt",
@@ -910,27 +868,6 @@
   "first_seen": "2026-05-29T16:56:12.934208+00:00",
   "id": 12
  },
- "332c6f976eac1b02": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-05-28",
-  "url": "https://byggingar.is/visbendingar-um-ad-oryggisuttekt-vanti-a-studlum/?utm_source=rss&utm_medium=rss&utm_campaign=visbendingar-um-ad-oryggisuttekt-vanti-a-studlum",
-  "title": "Vísbendingar um að öryggisúttekt vanti á Stuðlum",
-  "sum": "Öryggisúttekt Umboðsmaður Alþingis hefur kallað eftir svörum frá Barna- og fjölskyldustofu vegna ábendingar um að ekki hafi farið fram öryggisúttekt á neyðarvistunardeild Stuðla eftir framkvæmdir vegna eldsvoða haustið 2024. Sautján ára pil",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T16:56:12.934208+00:00",
-  "id": 13
- },
  "dac02f2355fd31d8": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -1204,111 +1141,6 @@
   "first_seen": "2026-05-30T10:46:45.645449+00:00",
   "id": 1
  },
- "8871552a64ec059e": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-05-30",
-  "url": "https://www.mbl.is/frettir/innlent/2026/05/30/eldur_kviknadi_i_einbylishusi_i_vogum/",
-  "title": "Eldur kviknaði í einbýlishúsi í Vogum",
-  "sum": "Eldur kviknaði í kjallara í einbýlishúsi í Vogum á Vatnsleysu fyrir skömmu.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-30T14:41:54.010913+00:00",
-  "id": 1
- },
- "65a0db544cbaf8d9": {
-  "region": "Suðurnes",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-05-30",
-  "url": "https://www.mbl.is/frettir/innlent/2026/05/30/takmarkadur_adgangur_ad_bilastaedum_vegna_malbikuna/",
-  "title": "Takmarkaður aðgangur að bílastæðum vegna malbikunar",
-  "sum": "Takmarkaður aðgangur verður að P2 bílastæðum komu megin við flugstöðina á Keflavíkurflugvelli á mánudag vegna malbikunarframkvæmda.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-30T14:41:54.010913+00:00",
-  "id": 2
- },
- "0da99bad8ac3536c": {
-  "region": "Suðurnes",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-05-30",
-  "url": "https://www.visir.is/g/20262890796d/takmarkad-adgengi-ad-p2-bilastaedum-vegna-malbikunar",
-  "title": "Tak­markað að­gengi að P2-bílastæðum vegna mal­bikunar",
-  "sum": "Takmarkaður aðgangur verður að P2-bílastæðunum komumegin við flugstöðina á Keflavíkurflugvelli á mánudaginn 1. júní næstkomandi vegna malbikunarframkvæmda.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-30T14:41:54.010913+00:00",
-  "id": 4
- },
- "95609d05b1e091c6": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-30",
-  "url": "https://www.ruv.is/frettir/innlent/2026-05-30-einn-fluttur-a-heilbrigdisstofnun-vegna-eldsvoda-i-vogum-476763/",
-  "title": "Einn fluttur á heilbrigðisstofnun vegna eldsvoða í Vogum",
-  "sum": "Eldur kviknaði í bílskúr einbýlishúss í Vogum í dag. Einn var fluttur til athugunar með sjúkrabíl á Heilbrigðisstofnun Suðurnesja með væg einkenni reykeitrunar. Guðmundur Jónsson varðstjóri hjá brunavörnum Suðurnesja segir slökkviliðið búið",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-30T14:41:54.010913+00:00",
-  "id": 5
- },
- "13f3da36fe9a3ec7": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-30",
-  "url": "https://www.ruv.is/frettir/innlent/2026-05-30-eldur-i-einbylishusi-i-vogum-476757/",
-  "title": "Eldur í einbýlishúsi í Vogum",
-  "sum": "Eldur logar í kjallara í einbýlishúsnæði í Vogunum. Brunavörnum Suðurnesja barst tilkynning um dökkan reyk sem barst frá kjallaranum. Eyþór Rúnar Þórarinsson slökkviliðsstjóri segir einn dælubíl og einn sjúkrabíl á vettvangi. Slökkvilið hóf",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-30T14:41:54.010913+00:00",
-  "id": 8
- },
  "27bac0eed8627416": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -1372,27 +1204,6 @@
   "first_seen": "2026-05-31T10:55:39.397566+00:00",
   "id": 8
  },
- "3b6f7aab6d7d95cb": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-05-30",
-  "url": "https://www.visir.is/g/20262890813d/nagranni-fluttur-a-hss-eftir-bruna-i-vogum",
-  "title": "Ná­granni fluttur á HSS eftir bruna í Vogum",
-  "sum": "Tilkynning barst Brunavörnum Suðurnesja klukkan 11:50 um mikinn og svartan reyk sem kæmi út um glugga á neðri hæð einbýlishúss í Vogum á Vatnsleysuströnd.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-31T10:55:39.397566+00:00",
-  "id": 9
- },
  "77eae5115d7fcba4": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -1413,27 +1224,6 @@
   "tsort": "",
   "first_seen": "2026-05-31T10:55:39.397566+00:00",
   "id": 3
- },
- "33825d04a6ef1b72": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-30",
-  "url": "https://www.ruv.is/frettir/innlent/2026-05-30-serskolar-megi-ekki-vera-leid-til-ad-faera-fotlud-born-ur-almennu-skolakerfi-476714/",
-  "title": "Sérskólar megi ekki vera leið til að færa fötluð börn úr almennu skólakerfi",
-  "sum": "Landssamtökin Þroskahjálp óttast að of mikil áhersla sé lögð á uppbyggingu sérskóla fyrir börn sem þurfa sérþjónustu og ekki næg á að tryggja að sú þjónusta standi til boða innan almenna skólakerfisins. Þroskahjálp vinnur að réttindum og ha",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-31T10:55:39.397566+00:00",
-  "id": 11
  },
  "6d10c11847cee869": {
   "region": "Landið allt",
@@ -1497,48 +1287,6 @@
   "tsort": "",
   "first_seen": "2026-05-31T14:46:28.662217+00:00",
   "id": 2
- },
- "b6f0357364fd7469": {
-  "region": "Suðurland",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-31",
-  "url": "https://www.ruv.is/frettir/innlent/2026-05-31-stada-ferdathjonustunnar-er-god-i-sumar-segir-hotelstjori-hotels-rangar-476796/",
-  "title": "„Staða ferðaþjónustunnar er góð í sumar“ segir hótelstjóri Hótels Rangár",
-  "sum": "Staða ferðaþjónustunnar er góð í sumar segir Friðrik Pálsson á Hótel Rangá. Hann setur hins vegar spurningarmerki við haustið. Friðrik Pálsson er eigandi og hótelstjóri Hótels Rangár í Rangárþingi ytra. Á hótelinu eru um 50 herbergi og þar ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-31T14:46:28.662217+00:00",
-  "id": 5
- },
- "ee479cd0dbcef322": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-05-31",
-  "url": "https://www.mbl.is/frettir/innlent/2026/05/31/umferdarteppa_i_kollafirdi_vegna_framkvaemda/",
-  "title": "Umferðarteppa í Kollafirði vegna framkvæmda",
-  "sum": "Mikil umferðarteppa hefur myndast á Vesturlandsvegi við Kollafjörð vegna malbikunarframkvæmda á svæðinu.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-01T09:47:38.400582+00:00",
-  "id": 9
  },
  "eec9cfc7f1c8fa10": {
   "region": "Landið allt",
@@ -1623,27 +1371,6 @@
   "tsort": "",
   "first_seen": "2026-06-01T09:47:38.400582+00:00",
   "id": 13
- },
- "3f7334263358bc03": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Verklok",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-01",
-  "url": "https://www.ruv.is/frettir/erlent/2026-06-01-rannsokn-synir-russneskan-uppruna-drona-sem-flaug-a-fjolbylishus-i-galati-476833/",
-  "title": "Rannsókn sýnir rússneskan uppruna dróna sem flaug á fjölbýlishús í Galati",
-  "sum": "Nicusor Dan Rúmeníuforseti greindi frá því að dróninn sem flaug inn í lofthelgi landsins á föstudaginn er rússneskur af gerðinni Geran-2, samkvæmt niðurstöðum skýrslu rannsóknarhóps þarlendra sérfræðinga. Allar áletranir á flygildinu voru m",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-01T09:47:38.400582+00:00",
-  "id": 3
  },
  "c439bb8d6894842c": {
   "region": "Höfuðborgarsvæðið",
@@ -1771,27 +1498,6 @@
   "first_seen": "2026-06-01T09:47:38.400582+00:00",
   "id": 8
  },
- "5e1b16deddebbf2f": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Veitur (verkkaupi)"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-05-31",
-  "url": "https://www.visir.is/g/20262891175d/undirbua-ibuafund-thar-sem-farid-verdi-yfir-stodu-mala",
-  "title": "Undir­búa íbúafund þar sem farið verði yfir stöðu mála",
-  "sum": "Veitur hafa stöðvað borun í Skammadal og vinna nú að undirbúningi upplýsingafundar fyrir íbúa og hagaðila í kjölfar umræðu um mengun í Varmá. Leit að heitu vatni í dalnum, sem er í Mosfellsbæ, hefur valdið litabreytingum á vatninu í ánni. Á",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-01T12:58:43.176138+00:00",
-  "id": 7
- },
  "8f7f0f572e5caa74": {
   "region": "Norðurland vestra",
   "type": "Innviðir",
@@ -1812,48 +1518,6 @@
   "tsort": "",
   "first_seen": "2026-06-01T12:58:43.176138+00:00",
   "id": 1
- },
- "ece8503c0a31f94c": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-01",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-01-um-thad-bil-400-jardskjalftar-a-hellisheidi-undanfarinn-solarhring-476836/",
-  "title": "Um það bil 400 jarðskjálftar á Hellisheiði undanfarinn sólarhring",
-  "sum": "Um það bil 400 jarðskjálftar hafa mælst á Hellisheiði nærri Litlu kaffistofunni undanfarinn sólarhring. Upptök þeirra eru um þrjá kílómetra vestan við Húsmúla. Aðsend mynd / Kristján Sævald Pétursson Hrinan, sem hófst í gær, virðist ekki í ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-01T12:58:43.176138+00:00",
-  "id": 2
- },
- "e83d300e949a4620": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Útboð",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-01",
-  "url": "https://byggingar.is/grundarfjardarbaer-semur-vid-fyrirtak/?utm_source=rss&utm_medium=rss&utm_campaign=grundarfjardarbaer-semur-vid-fyrirtak",
-  "title": "Grundarfjarðarbær semur við Fyrirtak málningarþjónustu ehf. um utanhússviðgerðir á íþróttahúsi",
-  "sum": "Grundarfjarðarbær Utanhússviðgerðir á íþróttahúsi Grundarfjarðar hafa verið boðnar út og hefur bæjarráð Grundarfjarðarbæjar samþykkt að ganga til samninga við lægstbjóðanda, Fyrirtak málningarþjónustu ehf. Málið var tekið fyrir á fundi bæja",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-01T12:58:43.176138+00:00",
-  "id": 3
  },
  "877050a51e433205": {
   "region": "Norðurland eystra",
@@ -1918,27 +1582,6 @@
   "first_seen": "2026-06-01T12:58:43.176138+00:00",
   "id": 6
  },
- "b9d195083c27cdb2": {
-  "region": "Suðurland",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-01",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-01-90-ara-afmaeli-ungmennafelags-selfoss-fagnad-476855/",
-  "title": "90 ára afmæli Ungmennafélags Selfoss fagnað",
-  "sum": "Ungmennafélag Selfoss var stofnað annan í hvítasunnu 1. júní 1936 og fagnar 90 ára afmæli í dag. Haldið var upp á afmælið í gær á Hótel Selfossi þar sem ýmsir voru heiðraðir, auk þess sem boðið var upp á glæsilegt kaffihlaðborð. Helgi S. Ha",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-01T14:59:29.957365+00:00",
-  "id": 1
- },
  "33050d663786fec4": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -1959,27 +1602,6 @@
   "tsort": "",
   "first_seen": "2026-06-01T18:39:42.743087+00:00",
   "id": 1
- },
- "f3f52c596f7435b9": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-01",
-  "url": "https://www.visir.is/g/20262891584d/hafnar-asokunum-um-nytt-hernadarbrolt-japana",
-  "title": "Hafnar á­sökunum um nýtt hernaðar­brölt Japana",
-  "sum": "Ráðamenn víða um Asíu hyggja á aukna hernaðaruppbyggingu og þá að miklu leyti vegna áhyggja af gífurlegri uppbyggingu í Kína. Kínverjar kalla eftir samstöðu gegn nýju hernaðarbrölti Japana, sem hafna slíkum ásökunum og benda á uppbygginguna",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-01T18:39:42.743087+00:00",
-  "id": 2
  },
  "f168d1338b7f9c34": {
   "region": "Landið allt",
@@ -2002,27 +1624,6 @@
   "first_seen": "2026-06-01T18:39:42.743087+00:00",
   "id": 3
  },
- "476355e2df0b135f": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-01",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-01-370-misstu-vinnuna-i-hopuppsognum-i-mai-476904/",
-  "title": "370 misstu vinnuna í hópuppsögnum í maí",
-  "sum": "Alls bárust fjórar tilkynningar um hópuppsagnir í maí 2026, þar sem 370 starfsmönnum var sagt upp störfum. Frá þessu segir á vef Vinnumálastofnunar. Flestar uppsagnirnar í maí tengdust gistingu og ferðaþjónustu.RÚV / Ágúst Ólafsson Flestir ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-01T18:39:42.743087+00:00",
-  "id": 4
- },
  "7703c41e4720e2c6": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -2043,5 +1644,194 @@
   "tsort": "",
   "first_seen": "2026-06-01T18:39:42.743087+00:00",
   "id": 5
+ },
+ "f3b3fdfd218405a7": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-06-01",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/06/01/anthropic_heldur_fileflt_a_hlutabrefamarkad/",
+  "title": "Anthropic heldur fíleflt á hlutabréfamarkað",
+  "sum": "Stjórn gervigreindarstórfyrirtækisins Anthropic hefur tilkynnt að fyrirtækið hafi lagt fram trúnaðarumsókn um leyfi til frumútboðs hlutabréfa, og slær þannig helsta keppinaut sínum, OpenAI, við í kapphlaupinu sem nú ríkir í Kísildalnum um a",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T07:39:07.104885+00:00",
+  "id": 4
+ },
+ "3d48946864c48dd6": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-01",
+  "url": "https://www.visir.is/g/20262891793d/flugeldaverksmidja-sprakk-i-loft-upp",
+  "title": "Flugeldaverksmiðja sprakk í loft upp",
+  "sum": "Kröftug höggbylgja braut glugga og olli skemmdum á húsum í margra kílómetra fjarlægð eftir að eldur kom upp í flugeldaverksmiðju á Möltu. Röð öflugra sprenginga varð í kjölfarið og tveir eru á sjúkrahúsi með áverka af völdum höggsins.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T07:39:07.104885+00:00",
+  "id": 5
+ },
+ "685ebefbf9bdf6b8": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-01-ljosvist-i-ibudum-tryggd-i-nyju-akvaedi-476923/",
+  "title": "Ljósvist í íbúðum tryggð í nýju ákvæði",
+  "sum": "Ný ákvæði um ljósvist í byggingarreglugerð, sem tóku gildi 1. maí síðastliðinn, eiga að tryggja að allar íbúðir njóti héðan í frá nægrar dagsbirtu. Sérfræðingar segja ljósvist hafa setið á hakanum árum saman við þéttingu byggðar, með alvarl",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T07:39:07.104885+00:00",
+  "id": 6
+ },
+ "5302ee27528dc5dc": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-01-hringvegurinn-lokadur-vid-esjumela-til-kl-7-i-fyrramalid-476913/",
+  "title": "Hringvegurinn lokaður við Esjumela til kl. 7 í fyrramálið",
+  "sum": "Hringvegurinn verður lokaður í norðurátt á 670 metra kafla við Esjumela og 1.500 metra kafla við Kollafjörð frá klukkan 21 í kvöld til 7 í fyrramálið. Hjáleið verður um Þingvallaveg, Kjósarskarð og Hvalfjarðarveg. Verið er að fræsa og malbi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T07:39:07.104885+00:00",
+  "id": 7
+ },
+ "476355e2df0b135f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-01-370-misstu-vinnuna-i-hopuppsognum-i-mai-476904/",
+  "title": "370 misstu vinnuna í hópuppsögnum í maí",
+  "sum": "Alls bárust fjórar tilkynningar um hópuppsagnir í maí 2026, þar sem 370 starfsmönnum var sagt upp störfum. Frá þessu segir á vef Vinnumálastofnunar. Flestar uppsagnirnar í maí tengdust gistingu og ferðaþjónustu.RÚV / Ágúst Ólafsson Flestir ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T07:39:07.104885+00:00",
+  "id": 8
+ },
+ "db3150dbdcf5adf9": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-02",
+  "url": "https://byggingar.is/tjarnargata-12-innrettingar-og-bunadur-utbod/?utm_source=rss&utm_medium=rss&utm_campaign=tjarnargata-12-innrettingar-og-bunadur-utbod",
+  "title": "02.07.2026 Reykjanesbær„Tjarnargata 12 – Innréttingar og búnaður“ -Útboð",
+  "sum": "Tjarnargata 12 – Innréttingar og búnaður Tjarnargata 12 – Innréttingar og búnaður er nýtt útboð sem Reykjanesbær hefur auglýst fyrir hönd umhverfis- og framkvæmdasviðs sveitarfélagsins. Um er að ræða útboð nr. 31-26-003 sem nær til innrétti",
+  "tender": "2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-01",
+  "first_seen": "2026-06-02T07:39:07.104885+00:00",
+  "id": 1
+ },
+ "d426fb37fa9071aa": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-02",
+  "url": "https://byggingar.is/innvidaradherra-var-gestur-a-adalfundi-mannvirkis/?utm_source=rss&utm_medium=rss&utm_campaign=innvidaradherra-var-gestur-a-adalfundi-mannvirkis",
+  "title": "Innviðaráðherra var gestur á aðalfundi Mannvirkis",
+  "sum": "Innviðaráðherra var gestur á aðalfundi Mannvirkis Innviðaráðherra var gestur á aðalfundi Mannvirkis – félags verktaka, þar sem fjallað var um stöðu innviðauppbyggingar og framtíð mannvirkjageirans á Íslandi. Aðalfundurinn fór fram í Húsi at",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T07:39:07.104885+00:00",
+  "id": 2
+ },
+ "0ece4dab4f5e9671": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-02",
+  "url": "https://byggingar.is/ljosvist-i-ibudum-tryggd-i-nyju-akvaedi/?utm_source=rss&utm_medium=rss&utm_campaign=ljosvist-i-ibudum-tryggd-i-nyju-akvaedi",
+  "title": "Ljósvist í íbúðum tryggð í nýju ákvæði",
+  "sum": "Ljósvist í íbúðum tryggð í nýju ákvæði Ný ákvæði um ljósvist í byggingarreglugerð eiga að tryggja að allar íbúðir njóti héðan í frá nægrar dagsbirtu. Sérfræðingar segja ljósvist hafa setið á hakanum árum saman við þéttingu byggðar, með alva",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T07:39:07.104885+00:00",
+  "id": 3
+ },
+ "e83d300e949a4620": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-01",
+  "url": "https://byggingar.is/grundarfjardarbaer-semur-vid-fyrirtak/?utm_source=rss&utm_medium=rss&utm_campaign=grundarfjardarbaer-semur-vid-fyrirtak",
+  "title": "Grundarfjarðarbær semur við Fyrirtak málningarþjónustu ehf. um utanhússviðgerðir á íþróttahúsi",
+  "sum": "Grundarfjarðarbær Utanhússviðgerðir á íþróttahúsi Grundarfjarðar hafa verið boðnar út og hefur bæjarráð Grundarfjarðarbæjar samþykkt að ganga til samninga við lægstbjóðanda, Fyrirtak málningarþjónustu ehf. Málið var tekið fyrir á fundi bæja",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T07:39:07.104885+00:00",
+  "id": 9
  }
 }
