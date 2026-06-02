@@ -31,7 +31,8 @@ _WEAK_TYPES = [
 # þarf að fylgja veiku lykilorði til að fréttin teljist framkvæmdafrétt.
 _CONTEXT = [
     "framkvæmd", "bygging", "byggja", "byggð", "byggt", "byggður", "byggi",
-    "reisa", "rís", "reist", "útboð", "skipulag", "lóð", "niðurrif", "nýbygg",
+    "reisa", "rís", "reist", "útboð", "skipulag", "byggingarlóð", "lóðaúthlut",
+    "niðurrif", "nýbygg",
     "fokhelt", "skóflustung", "verktak", "uppbygg", "áform", "fyrirhug", "hófst",
 ]
 
@@ -67,6 +68,12 @@ def is_relevant(item: dict) -> bool:
     # Hreinsum "false friends": "framkvæmdastjóri"/"framkvæmdastjórn" (starfsheiti)
     # og "framkvæmdavald" (stjórnmál) mega ekki kveikja á lykilorðinu "framkvæmd".
     t_kw = t.replace("framkvæmdastjór", " ").replace("framkvæmdavald", " ")
+    # "framkvæmd stefnu/laga/áætlunar/skólastefnu" = INNLEIÐING stefnu/laga, ekki
+    # bygging — látum slíkt ekki kveikja á "framkvæmd". (Heldur "Framkvæmdir hefjast
+    # við ..." óbreyttu, því þar fylgir ekki stefnu-/laga-orð.)
+    t_kw = re.sub(
+        r"framkvæmd\w*\s+(stefn|skólastefn|menntastefn|lag|áætlun|fjárlag|samning|regln|sáttmál)\w*",
+        " ", t_kw)
     # Sterk lykilorð (ótvíræð framkvæmdaorð) duga ein og sér.
     if any(k in t_kw for k in C.KEYWORDS if k not in _WEAK_TYPES and k not in ("íbúð ", "höfn")):
         return True
