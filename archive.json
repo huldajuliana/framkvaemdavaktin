@@ -1729,6 +1729,90 @@
   "first_seen": "2026-06-02T07:39:07.104885+00:00",
   "id": 3
  },
+ "09bf76ee95243ba0": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-02",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/02/endurskoda_sudurlandsbraut_strax/",
+  "title": "Endurskoða Suðurlandsbraut strax",
+  "sum": "Endurskoðun deiliskipulags við Suðurlandsbraut, lengri afgreiðslutími sundlauga og niðurfelling reglna um notkun fána við Ráðhúsið eru dæmi um tillögur sem nýr meirihluti Sjálfstæðisflokks, Viðreisnar og Framsóknar mun leggja fram á fyrsta ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T12:40:10.388023+00:00",
+  "id": 1
+ },
+ "1f6d2daa589ea1db": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-02",
+  "url": "https://www.visir.is/g/20262891925d/nytt-og-mikid-golfsvaedi-i-hafnarfirdi-komid-a-veg",
+  "title": "Nýtt og mikið golfs­væði í Hafnar­firði komið á veg",
+  "sum": "Hafnfirðingar eru komnir vel á veg með hugmyndavinnu sem snýr að gríðarlega metnaðarfullri uppbyggingu á golfsvæði í Snókalöndum við Bláfjallaveg. Gert er ráð fyrir uppbyggingu hvorki meira né minna en þriggja valla – tveggja 18 holu valla ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T12:40:10.388023+00:00",
+  "id": 2
+ },
+ "764602dda3345c57": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-02",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-02-skyrslan-um-snjoflodin-a-sudavik-laerdomsrik-og-standi-fyrir-sinu-476958/",
+  "title": "Skýrslan um snjóflóðin á Súðavík lærdómsrík og standi fyrir sínu",
+  "sum": "Stjórnskipunar- og eftirlitsnefnd Alþingis telur skýrslu rannsóknarnefndar Alþingis um snjóflóðið í Súðavík 16. janúar 1995 hafa staðið fyrir sínu. Í umsögn nefndarinnar segir að skýrslan sé greinargóð og vönduð og hafi dregið vel fram atbu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T12:40:10.388023+00:00",
+  "id": 3
+ },
+ "9110e73c71e92b36": {
+  "region": "Suðurnes",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-02",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-02-fasteignamat-laekkar-ad-raunvirdi-milli-ara-476941/",
+  "title": "Fasteignamat lækkar að raunvirði milli ára",
+  "sum": "Heildarmat fasteigna fyrir árið 2027 nemur 17,8 þúsund milljörðum sem er 2,1% hækkun frá því í fyrra. Að raunvirði hefur fasteignamat hins vegar lækkað milli ára. Kólnun á fasteignamarkaði veldur því að fasteignaverð hefur ekki haldið í við",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-02T12:40:10.388023+00:00",
+  "id": 4
+ },
  "5302ee27528dc5dc": {
   "region": "Vesturland",
   "type": "Innviðir",
@@ -1747,10 +1831,10 @@
   "start": "",
   "end": "",
   "tsort": "",
-  "first_seen": "2026-06-02T08:11:25.724616+00:00",
-  "id": 1
+  "first_seen": "2026-06-02T12:40:10.388023+00:00",
+  "id": 6
  },
- "476355e2df0b135f": {
+ "8e08cfe329c287de": {
   "region": "Landið allt",
   "type": "Innviðir",
   "scale": "Miðlungs",
@@ -1758,18 +1842,18 @@
   "verk": [
    "Óútboðið"
   ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-01",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-01-370-misstu-vinnuna-i-hopuppsognum-i-mai-476904/",
-  "title": "370 misstu vinnuna í hópuppsögnum í maí",
-  "sum": "Alls bárust fjórar tilkynningar um hópuppsagnir í maí 2026, þar sem 370 starfsmönnum var sagt upp störfum. Frá þessu segir á vef Vinnumálastofnunar. Flestar uppsagnirnar í maí tengdust gistingu og ferðaþjónustu.RÚV / Ágúst Ólafsson Flestir ",
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-02",
+  "url": "https://byggingar.is/landsvirkjun-opnun-utbods-spennir-tht31/?utm_source=rss&utm_medium=rss&utm_campaign=landsvirkjun-opnun-utbods-spennir-tht31",
+  "title": "Landsvirkjun opnun útboðs – Tilboð opnuð í spenni fyrir Þeistareykjavirkjun",
+  "sum": "Landsvirkjun opnun útboðs – Tilboð opnuð í spenni fyrir Þeistareykjavirkjun Landsvirkjun hefur opnað tilboð í útboði vegna nýs aflspennis fyrir Þeistareykjavirkjun. Um er að ræða útboð nr. 2026-29 – THT31: Generator Step-up Transformer, þar",
   "tender": "",
   "start": "",
   "end": "",
   "tsort": "",
-  "first_seen": "2026-06-02T08:11:25.724616+00:00",
-  "id": 2
+  "first_seen": "2026-06-02T12:40:10.388023+00:00",
+  "id": 5
  },
  "e83d300e949a4620": {
   "region": "Landið allt",
@@ -1789,7 +1873,7 @@
   "start": "",
   "end": "",
   "tsort": "",
-  "first_seen": "2026-06-02T08:11:25.724616+00:00",
-  "id": 3
+  "first_seen": "2026-06-02T12:40:10.388023+00:00",
+  "id": 7
  }
 }
