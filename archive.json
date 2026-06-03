@@ -2066,5 +2066,68 @@
   "tsort": "",
   "first_seen": "2026-06-03T13:15:45.636458+00:00",
   "id": 9
+ },
+ "1c5ee961713f5bd2": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-03",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/03/kort_miklar_framkvaemdir_um_allt_land/",
+  "title": "Kort: Miklar framkvæmdir um allt land",
+  "sum": "Vegagerðin hefur fjölmörg verkefni á sínu borði á þessu ári eins og sjá má á kortinu.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-03T18:01:03.237743+00:00",
+  "id": 1
+ },
+ "dd2043916a1cc2c9": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-03",
+  "url": "https://www.visir.is/g/20262892733d/keili-formlega-slitid",
+  "title": "Keili form­lega slitið",
+  "sum": "Félaginu Keili, miðstöð vísinda, fræða og atvinnulífs ehf. hefur formlega verið slitið en námsbrautir skólans hafa flestar verið færðar undir hatta annarra námsstofnana. Háskólabrú Keilis heldur áfram undir Háskóla Íslands.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-03T18:01:03.237743+00:00",
+  "id": 2
+ },
+ "be1fdcd39a959235": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "2 km",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-03",
+  "url": "https://byggingar.is/miklar-framkvaemdir-um-allt-land/?utm_source=rss&utm_medium=rss&utm_campaign=miklar-framkvaemdir-um-allt-land",
+  "title": "Miklar framkvæmdir um allt land",
+  "sum": "Miklar framkvæmdir um allt land hjá Vegagerðinni Eitt af helstu verkefnum Vegagerðarinnar á höfuðborgarsvæðinu í sumar er nýbygging Arnarnesvegar á tæplega 2 km kafla milli Rjúpnavegar og Breiðholtsbrautar. Nú þegar hefur verið byggð akstur",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-03T18:01:03.237743+00:00",
+  "id": 3
  }
 }
