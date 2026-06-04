@@ -123,6 +123,10 @@ _HARD_NEGATIVES = [
     # þingnefndir / rannsóknarskýrslur (aldrei byggingarfréttir, þótt orð eins og
     # "uppbygging"/"framkvæmd" komi fyrir aftarlega í löngum texta) og menntastefna
     "rannsóknarnefnd", "skólastefn",
+    # erlendar framkvæmdir (vefurinn er EINGÖNGU um íslenskar framkvæmdir) — t.d.
+    # stórframkvæmdir Kushner/Trump í Albaníu. Stofninn "alban" nær öllum
+    # beygingum (Albanir/Albanía/Albaníu/albanskur).
+    "alban", "kushner",
 ]
 
 
