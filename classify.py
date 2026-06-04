@@ -68,6 +68,9 @@ def is_relevant(item: dict) -> bool:
     # Hreinsum "false friends": "framkvæmdastjóri"/"framkvæmdastjórn" (starfsheiti)
     # og "framkvæmdavald" (stjórnmál) mega ekki kveikja á lykilorðinu "framkvæmd".
     t_kw = t.replace("framkvæmdastjór", " ").replace("framkvæmdavald", " ")
+    # "háskólabrú" (aðfaranám, t.d. hjá Keili) er NÁMSLEIÐ, ekki samgöngubrú — má
+    # ekki kveikja á lykilorðinu "brú ". Hreinsum áður en lykilorð eru metin.
+    t_kw = t_kw.replace("háskólabrú", " ")
     # "framkvæmd stefnu/laga/áætlunar/skólastefnu" = INNLEIÐING stefnu/laga, ekki
     # bygging — látum slíkt ekki kveikja á "framkvæmd". (Heldur "Framkvæmdir hefjast
     # við ..." óbreyttu, því þar fylgir ekki stefnu-/laga-orð.)
