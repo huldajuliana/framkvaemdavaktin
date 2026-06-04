@@ -2172,27 +2172,6 @@
   "first_seen": "2026-06-04T09:20:42.473817+00:00",
   "id": 1
  },
- "39314d678f58aef4": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Hafnar",
-  "src": "Vísir – allt",
-  "date": "2026-06-04",
-  "url": "https://www.visir.is/g/20262892943d/albanir-motmaela-hardlega-fyrirhugadri-milljardamaeringaparadis",
-  "title": "Albanir mót­mæla harð­lega fyrir­hugaðri milljarðamæringaparadís",
-  "sum": "Mótmæli gegn fyrirhuguðum stórframkvæmdum félags Jared Kushner og Ivönku Trump eru að verða daglegt brauð í Albaníu. Mótmælendur og náttúruverndarsamtök segja framkvæmdir hafnar án þess að málið hafi farið í ferli og fengið tilhlýðilega umf",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-04T09:20:42.473817+00:00",
-  "id": 2
- },
  "e3a03c8f85fc4607": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -2297,5 +2276,68 @@
   "tsort": "",
   "first_seen": "2026-06-04T09:20:42.473817+00:00",
   "id": 5
+ },
+ "0a19101280fb3435": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-04",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/04/rannsoknir_a_jardlogum_lofa_godu/",
+  "title": "Rannsóknir á jarðlögum lofa góðu",
+  "sum": "Rannsóknarborunum til að kanna berglög í Vestmannaeyjum til undirbúnings mögulegum jarðgöngum á milli lands og Eyja lýkur um næstu helgi og segir Árni Sigfússon stjórnarformaður Eyjaganga í samtali við Morgunblaðið að næst verði farið í bor",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T10:29:37.845742+00:00",
+  "id": 1
+ },
+ "3eb1cf8dacc93753": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-04",
+  "url": "https://www.visir.is/g/20262892966d/vaeri-frabaert-ef-landspitalinn-vildi-reka-leikskola",
+  "title": "Væri frá­bært ef Land­spítalinn vildi reka leik­skóla",
+  "sum": "Hildur Björnsdóttir, nýr borgarstjóri, vill vera borgarstjóri allra Reykvíkinga og að allir fái að blómstra í borginni. Hún setur samgöngu- og leikskólamál á oddinn og segir nauðsynlegt að minnka kvaðir á húsnæðisuppbyggingaraðila. Nýr meir",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T10:29:37.845742+00:00",
+  "id": 2
+ },
+ "8d5c526f9ef36501": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Stór",
+  "scaleFig": "180 íbúðir",
+  "verk": [
+   "Jáverk"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-04",
+  "url": "https://byggingar.is/javerk-lykur-svansvottun-allra-180-ibuda-a-digraneshaed/?utm_source=rss&utm_medium=rss&utm_campaign=javerk-lykur-svansvottun-allra-180-ibuda-a-digraneshaed",
+  "title": "JÁVERK lýkur Svansvottun allra 180 íbúða á Digraneshæð",
+  "sum": "JÁVERK lýkur Svansvottun allra 180 íbúða á Digraneshæð Allar 180 íbúðir JÁVERK á Digraneshæð eru nú orðnar Svansvottaðar eftir að félagið lauk Svansvottunarferlinu fyrir síðasta áfanga verkefnisins. Þar með hefur öll uppbyggingin á þessum í",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T10:29:37.845742+00:00",
+  "id": 3
  }
 }
