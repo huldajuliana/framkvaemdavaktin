@@ -2339,5 +2339,26 @@
   "tsort": "",
   "first_seen": "2026-06-04T10:29:37.845742+00:00",
   "id": 3
+ },
+ "5163f031bc5436dd": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-04",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/04/hafa_reist_fyrstu_vindmylluna_af_28/",
+  "title": "Hafa reist fyrstu vindmylluna af 28",
+  "sum": "&bdquo;Þetta eru tímamót og nú fer að komast einhver svipur á framkvæmdina og umhverfið hér í Vaðölduveri,&ldquo; segir Gunnar Aron Ólason, upplýsingafulltrúi nýframkvæmda hjá Landsvirkjun.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T11:51:38.686769+00:00",
+  "id": 1
  }
 }
