@@ -2360,5 +2360,132 @@
   "tsort": "",
   "first_seen": "2026-06-04T11:51:38.686769+00:00",
   "id": 1
+ },
+ "9242c16f0a504e06": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-04",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/04/banaslys_i_umferdinni_metinn_ohaefur_til_aksturs/",
+  "title": "Banaslys í umferðinni: Metinn óhæfur til aksturs",
+  "sum": "Ökumaður sem lést í umferðarslysi við gatnamót Vatnagarða og Sundagarða í Reykjavík í september á síðasta ári hafði verið metinn óhæfur til aksturs vegna heilsufars aðeins nokkrum dögum áður en slysið varð.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T16:20:54.588961+00:00",
+  "id": 1
+ },
+ "047363d804ea329c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-04",
+  "url": "https://www.visir.is/g/20262893240d/vill-leysa-floskuhalsinn-i-raforkumalum-vestfjarda-med-lagabreytingu",
+  "title": "Vill leysa flösku­hálsinn í raf­orku­málum Vest­fjarða með laga­breytingu",
+  "sum": "Umhverfis-, orku- og loftslagsráðherra, segir að stóri flöskuhálsinn í raforkumálum Vestfjarða liggi í því hvernig tengikostnaður nýrra virkjana er reiknaður. Hann boðar frumvarp næsta haust sem eigi að greiða leið fyrir Hvalárvirkjun, Aust",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T16:20:54.588961+00:00",
+  "id": 2
+ },
+ "5512aa875c47284d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-04",
+  "url": "https://www.visir.is/g/20262893211d/an-okurettinda-og-ohaefur-til-aksturs-thegar-banaslysid-vard",
+  "title": "Án öku­réttinda og ó­hæfur til aksturs þegar bana­slysið varð",
+  "sum": "Karlmaður á áttræðisaldri sem lést í bílslysi á gatnamótum Sundagarða og Vatnagarða í september í fyrra var án ökuréttinda og hafði verið metinn óhæfur til aksturs vegna heilsufars. Maðurinn var auk þess ekki í belti þegar slysið varð og te",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T16:20:54.588961+00:00",
+  "id": 3
+ },
+ "392afc172e7ca653": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)",
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-04",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-04-ahrif-sundabruar-neikvaedari-en-sundaganga-ad-mati-hms-477110/",
+  "title": "Áhrif Sundabrúar neikvæðari en Sundaganga að mati HMS",
+  "sum": "Húsnæðis-, mannvirkja- og skipulagsstofnun segir Sundagöng hafa minni neikvæð áhrif en Sundabrú. Stofnunin telur Vegagerðina hafa varpað fullnægjandi ljósi á umhverfisáhrif fyrirhugaðra framkvæmda á Sundabraut. Framkvæmdin sé engu að síður ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T16:20:54.588961+00:00",
+  "id": 4
+ },
+ "fdf195dac60f8bfd": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-04",
+  "url": "https://byggingar.is/ahrif-sundabruar-neikvaedari-en-sundaganga-ad-mati-hms/?utm_source=rss&utm_medium=rss&utm_campaign=ahrif-sundabruar-neikvaedari-en-sundaganga-ad-mati-hms",
+  "title": "Áhrif Sundabrúar neikvæðari en Sundaganga að mati HMS",
+  "sum": "Áhrif Sundabrúar neikvæðari en Sundaganga að mati HMS Húsnæðis-, mannvirkja- og skipulagsstofnun telur að Sundabrú muni almennt hafa neikvæðari áhrif en Sundagöng. Óvissa er um áhrif á umhverfisþætti og mikilvægt að lágmarka þá áður en leyf",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T16:20:54.588961+00:00",
+  "id": 5
+ },
+ "5b2f063f78b2c65c": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-04",
+  "url": "https://byggingar.is/22-06-2026-reykjanesbaer-bydur-ut-thjonustu-og-vidhald-gatnalysingar/?utm_source=rss&utm_medium=rss&utm_campaign=22-06-2026-reykjanesbaer-bydur-ut-thjonustu-og-vidhald-gatnalysingar",
+  "title": "22.06.2026 Reykjanesbær býður út þjónustu og viðhald gatnalýsingar",
+  "sum": "Reykjanesbær býður út þjónustu og viðhald gatnalýsingar Reykjanesbær býður út þjónustu og viðhald gatnalýsingar í sveitarfélaginu samkvæmt útboði nr. 2698. Um er að ræða þjónustusamning vegna viðhalds gatna- og stígalýsingarkerfis í eigu Re",
+  "tender": "22. júní 2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-06",
+  "first_seen": "2026-06-04T16:20:54.588961+00:00",
+  "id": 6
  }
 }
