@@ -2088,27 +2088,6 @@
   "first_seen": "2026-06-03T18:01:03.237743+00:00",
   "id": 1
  },
- "dd2043916a1cc2c9": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-03",
-  "url": "https://www.visir.is/g/20262892733d/keili-formlega-slitid",
-  "title": "Keili form­lega slitið",
-  "sum": "Félaginu Keili, miðstöð vísinda, fræða og atvinnulífs ehf. hefur formlega verið slitið en námsbrautir skólans hafa flestar verið færðar undir hatta annarra námsstofnana. Háskólabrú Keilis heldur áfram undir Háskóla Íslands.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-03T18:01:03.237743+00:00",
-  "id": 2
- },
  "be1fdcd39a959235": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -2129,5 +2108,194 @@
   "tsort": "",
   "first_seen": "2026-06-03T18:01:03.237743+00:00",
   "id": 3
+ },
+ "f279ee6ac57530c4": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-03",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/03/hefur_mikla_thydingu_fyrir_kaupendur_fasteigna/",
+  "title": "Hefur mikla þýðingu fyrir kaupendur fasteigna",
+  "sum": "Benedikt Gíslason, bankastjóri Arion banka, segir niðurstöður fasteignamats Húsnæðis- og mannvirkjastofnunar (HMS) gera almenningi auðveldara fyrir að komast inn á húsnæðismarkaðinn.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T09:20:42.473817+00:00",
+  "id": 6
+ },
+ "aa8a7d6a989de4da": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-06-03",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/03/oll_fyrirtaeki_landsins_stola_a_icelandair/",
+  "title": "Öll fyrirtæki landsins stóla á Icelandair",
+  "sum": "Það samgöngukerfi sem Icelandair hefur byggt upp hefur grundvallaráhrif á uppbyggingu gagnavera og landeldis hér á landi. Fyrirtækin stóla á leiðakerfið. Þetta er mat sérfræðings.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T09:20:42.473817+00:00",
+  "id": 7
+ },
+ "bb6c6ce923d9b4a4": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-04",
+  "url": "https://www.visir.is/g/20262892966d/-eg-vil-vera-borgarstjori-allra-reykvikinga-",
+  "title": "„Ég vil vera borgar­stjóri allra Reyk­víkinga“",
+  "sum": "Hildur Björnsdóttir, nýr borgarstjóri, vill vera borgarstjóri allra Reykvíkinga og að allir fái að blómstra í borginni. Hún setur samgöngu- og leikskólamál á oddinn og segir nauðsynlegt að minnka kvaðir á húsnæðisuppbyggingaraðila. Nýr meir",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T09:20:42.473817+00:00",
+  "id": 1
+ },
+ "39314d678f58aef4": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "Vísir – allt",
+  "date": "2026-06-04",
+  "url": "https://www.visir.is/g/20262892943d/albanir-motmaela-hardlega-fyrirhugadri-milljardamaeringaparadis",
+  "title": "Albanir mót­mæla harð­lega fyrir­hugaðri milljarðamæringaparadís",
+  "sum": "Mótmæli gegn fyrirhuguðum stórframkvæmdum félags Jared Kushner og Ivönku Trump eru að verða daglegt brauð í Albaníu. Mótmælendur og náttúruverndarsamtök segja framkvæmdir hafnar án þess að málið hafi farið í ferli og fengið tilhlýðilega umf",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T09:20:42.473817+00:00",
+  "id": 2
+ },
+ "e3a03c8f85fc4607": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-06-03",
+  "url": "https://www.visir.is/g/20262892847d/okumenn-seu-of-otholinmodir-fyrir-steypta-vegi",
+  "title": "Öku­menn séu of ó­þolin­móðir fyrir steypta vegi",
+  "sum": "Oddur Sigurðsson Hagalín, forstöðumaður stoðdeildar Vegagerðarinnar, segir að þó svo að það sé svipaður kostnaður við að steypa og malbika götur taki steypan lengri tíma að þorna og vegfarendur hafi litla þolinmæði. Hann telur mikilvægara a",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T09:20:42.473817+00:00",
+  "id": 8
+ },
+ "5b57a8b97afcfd9b": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-06-03",
+  "url": "https://www.visir.is/g/20262892796d/fyrstu-spar-verslanirnar-opna-um-helgina",
+  "title": "Fyrstu Spar-verslanirnar opna um helgina",
+  "sum": "Fyrstu Spar-verslanirnar verða opnaðar á laugardaginn við Barónsstíg í Reykjavík og Staðarberg í Hafnarfirði. Greint var frá því í febrúar að Krambúðir, Kjörbúðir og 10–11 yrðu Spar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T09:20:42.473817+00:00",
+  "id": 9
+ },
+ "f379bb2891f7c58b": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-04",
+  "url": "https://byggingar.is/engin-tilbod-barust-i-endurbaetur-a-hofgardi-a-hofn/?utm_source=rss&utm_medium=rss&utm_campaign=engin-tilbod-barust-i-endurbaetur-a-hofgardi-a-hofn",
+  "title": "Engin tilboð bárust í endurbætur á Hofgarði á Höfn",
+  "sum": "Engin tilboð bárust í endurbætur á Hofgarði á Höfn Ekkert tilboð barst í útboð vegna endurbóta á Hofgarði þegar tilboðsfrestur rann út. Málið var tekið fyrir á fundi bæjarráðs Hornafjarðar þann 2. júní 2026. Umsjónar-, eftirlits- og ábyrgða",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T09:20:42.473817+00:00",
+  "id": 3
+ },
+ "9ccb187dcb9679e6": {
+  "region": "Norðurland vestra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-04",
+  "url": "https://byggingar.is/th-hansen-ehf-faer-jardvinnuverkefni-vid-nytt-menningarhus-i-skagafirdi/?utm_source=rss&utm_medium=rss&utm_campaign=th-hansen-ehf-faer-jardvinnuverkefni-vid-nytt-menningarhus-i-skagafirdi",
+  "title": "Þ. Hansen ehf. fær jarðvinnuverkefni við nýtt menningarhús í Skagafirði",
+  "sum": "Þ. Hansen ehf. fær jarðvinnuverkefni við nýtt menningarhús í Skagafirði Þ. Hansen ehf. var lægstbjóðandi í jarðvinnu vegna nýs menningarhúss á Sauðárkróki og hefur byggðarráð Skagafjarðar fagnað niðurstöðu útboðsins. Málið var tekið fyrir á",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T09:20:42.473817+00:00",
+  "id": 4
+ },
+ "0b396e83bd145964": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-04",
+  "url": "https://byggingar.is/framkvaemdir-hafnar-a-laugavegi-vid-hlemm/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-hafnar-a-laugavegi-vid-hlemm",
+  "title": "Framkvæmdir hafnar á Laugavegi við Hlemm",
+  "sum": "Framkvæmdir hafnar á Laugavegi við Hlemm Framkvæmdir eru hafnar á Laugavegi við Hlemm þar sem ráðist hefur verið í heildarendurgerð götustæðis og gangstétta á kaflanum milli Hlemms og Katrínartúns. Verkið er hluti af fyrstu lotu Borgarlínu ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-04T09:20:42.473817+00:00",
+  "id": 5
  }
 }
