@@ -2592,5 +2592,68 @@
   "tsort": "",
   "first_seen": "2026-06-05T12:07:16.516029+00:00",
   "id": 4
+ },
+ "b874b4f625b1ac9b": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-05",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/05/thverpolitisk_samstada_i_grindavik/",
+  "title": "Þverpólitísk samstaða í Grindavík",
+  "sum": "Oddvitar allra flokka í Grindavíkurbæ lýstu yfir skýrum vilja til að vinna saman að áframhaldandi uppbyggingu samfélagsins í bænum og því myndaðist enginn meirihluti.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-05T15:55:28.078450+00:00",
+  "id": 1
+ },
+ "5a2a1807a56f17cb": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-05",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-05-otholandi-olykt-i-ibudahverfi-i-hafnarfirdi-477203/",
+  "title": "„Óþolandi“ ólykt í íbúðahverfi í Hafnarfirði",
+  "sum": "Sterka og óþægilega lykt frá Colas Íslandi leggur yfir íbúðabyggð í Hafnarfirði. Ólyktina má rekja til fimm þúsund tonna bikfarms sem Colas fékk í febrúar. Hörður Þorsteinsson, framkvæmdastjóri heilbrigðiseftirlitsins á höfuðborgarsvæðinu, ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-05T15:55:28.078450+00:00",
+  "id": 2
+ },
+ "8a002ac986859d5a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Reykjavíkurborg – fréttir",
+  "date": "2026-06-05",
+  "url": "https://reykjavik.is/frettir/2026/godgerdarhlaup-bruarskola-stydur-vid-uppbyggingu-bryndisarhlidar",
+  "title": "Góðgerðarhlaup Brúarskóla styður við uppbyggingu Bryndísarhlíðar",
+  "sum": "Góðgerðarhlaup Brúarskóla styður við uppbyggingu Bryndísarhlíðar",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-05T15:55:28.078450+00:00",
+  "id": 3
  }
 }
