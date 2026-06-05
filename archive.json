@@ -2487,5 +2487,110 @@
   "tsort": "2026-06",
   "first_seen": "2026-06-04T16:20:54.588961+00:00",
   "id": 6
+ },
+ "f3c978e6a6fb461f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-05",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/05/verid_ad_lofa_jardgongum_ut_um_allar_trissur/",
+  "title": "„Verið að lofa jarðgöngum út um allar trissur“",
+  "sum": "Ekki er verið að ræða stóru málin í umræðu um samgönguáætlun á Alþingi, að mati Guðlaugs Þórs Þórðarsonar, þingmanns Sjálfstæðisflokksins.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-05T12:07:16.516029+00:00",
+  "id": 1
+ },
+ "8d0646acbb172b5c": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-05",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/05/segja_stjornvold_standa_i_vegi_fyrir_grindvikingum/",
+  "title": "Segja stjórnvöld standa í vegi fyrir Grindvíkingum",
+  "sum": "Bæjarstjórn Grindavíkur lýsir miklum vonbrigðum með þá neikvæðu og fjandsamlegu afstöðu sem hún segir stjórnvöld sýna gagnvart skjótri enduruppbyggingu bæjarfélagsins.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-05T12:07:16.516029+00:00",
+  "id": 2
+ },
+ "57d30b54fbf67b76": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-04",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-04-tvaer-vindmyllur-i-vadolduveri-risnar-477154/",
+  "title": "Tvær vindmyllur í Vaðölduveri risnar",
+  "sum": "Tvær vindmyllur af 28 hafa verið reistar á Vaðöldu fyrir ofan Búrfellsvirkjun. Yfirverkefnastjóri segir framkvæmdum miða vel og gerir ráð fyrir að fyrstu 14 vindmyllurnar verði komnar í gang fyrir árslok. Framkvæmdasvæðið á stærð við byggða",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-05T12:07:16.516029+00:00",
+  "id": 5
+ },
+ "830e453cfdea291e": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Stór",
+  "scaleFig": "9 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-05",
+  "url": "https://byggingar.is/stefnt-a-9-milljarda-framkvaemdir/?utm_source=rss&utm_medium=rss&utm_campaign=stefnt-a-9-milljarda-framkvaemdir",
+  "title": "Stefnt á 9 milljarða framkvæmdir",
+  "sum": "Stefnt á 9 milljarða framkvæmdir Fram undan er mikil uppbygging hafnarmannvirkja í Fjarðabyggð og standa vonir til að þannig takist að renna enn sterkari stoðum undir atvinnulífið á svæðinu. Ragnar Sigurðsson, formaður bæjarráðs og oddviti ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-05T12:07:16.516029+00:00",
+  "id": 3
+ },
+ "85ed3e11ac0169a9": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-05",
+  "url": "https://byggingar.is/tvaer-vindmyllur-i-vadolduveri-risnar/?utm_source=rss&utm_medium=rss&utm_campaign=tvaer-vindmyllur-i-vadolduveri-risnar",
+  "title": "Tvær vindmyllur í Vaðölduveri risnar",
+  "sum": "Tvær vindmyllur í Vaðölduveri risnar Framkvæmdum í Vaðöldveri, fyrsta vindorkuveri landsins, miðar vel, segir yfirverkefnastjóri. Tvær vindmyllur hafa risið á tæplega tveimur vikum. Tvær vindmyllur af 28 hafa verið reistar á Vaðöldu fyrir o",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-05T12:07:16.516029+00:00",
+  "id": 4
  }
 }
