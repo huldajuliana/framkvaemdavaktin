@@ -2655,5 +2655,47 @@
   "tsort": "",
   "first_seen": "2026-06-05T15:55:28.078450+00:00",
   "id": 3
+ },
+ "935bb8966c5f4788": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Vísir – allt",
+  "date": "2026-06-05",
+  "url": "https://www.visir.is/g/20262893793d/endurbaetur-kostudu-415-milljonir-veggfodur-fyrir-nitjan-milljonir-og-ljos-fyrir-ellefu",
+  "title": "Endur­bætur kostuðu 415 milljónir: Vegg­fóður fyrir ní­tján milljónir og ljós fyrir ellefu",
+  "sum": "Endurbætur á ráðherrabústaðnum við Tjarnargötu kostuðu alls um 415 milljónir króna. Framkvæmdirnar hófust haustið 2023 og stóðu yfir í rúmlega tvö og hálft ár. Veggfóður sem prýðir veggi hússins kostaði rúmlega nítján milljónir, ljós og lam",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-06T10:52:34.398739+00:00",
+  "id": 1
+ },
+ "4e56e1fd3c69c143": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-05",
+  "url": "https://byggingar.is/fasteignamarkadur-milli-steins-og-sleggju/?utm_source=rss&utm_medium=rss&utm_campaign=fasteignamarkadur-milli-steins-og-sleggju",
+  "title": "Fasteignamarkaður milli steins og sleggju",
+  "sum": "Fasteignamarkaður milli steins og sleggju Í nýrri skýrslu sem unnin var fyrir Landsbankann af Reykjavík Economics kemur fram að fasteignamarkaðurinn er á milli steins og sleggju. Vextir eru háir, óvissa er í efnahagsmálum og lengri tíma tek",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-06T10:52:34.398739+00:00",
+  "id": 2
  }
 }
