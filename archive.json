@@ -2697,5 +2697,26 @@
   "tsort": "",
   "first_seen": "2026-06-06T10:52:34.398739+00:00",
   "id": 2
+ },
+ "3882dc2ddbd7cd7f": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-06",
+  "url": "https://byggingar.is/skuldsetning-i-byggingaridnadi-mikid-ahyggjuefni/?utm_source=rss&utm_medium=rss&utm_campaign=skuldsetning-i-byggingaridnadi-mikid-ahyggjuefni",
+  "title": "Skuldsetning í byggingariðnaði mikið áhyggjuefni",
+  "sum": "Skuldsetning í byggingariðnaði mikið áhyggjuefni Sviðsstjóri mannvirkjasviðs Samtaka iðnaðarins segir aukna skuldsetningu í byggingariðnaði mikið áhyggjuefni. Hagfræðingur HMS segir að íbúðir og hverfi hafi verið skipulögð fyrir fólk sem er",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-06T14:42:24.480610+00:00",
+  "id": 1
  }
 }
