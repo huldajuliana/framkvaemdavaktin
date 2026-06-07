@@ -2718,5 +2718,131 @@
   "tsort": "",
   "first_seen": "2026-06-06T14:42:24.480610+00:00",
   "id": 1
+ },
+ "830b131ed0fa60d3": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-07",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-07-baldur-heldur-aftur-til-eyja-477332/",
+  "title": "Baldur heldur aftur til Eyja",
+  "sum": "Breiðafjarðaferjan Baldur er á leið suður fyrir land. Hún siglir á milli Landeyjahafnar og Vestmannaeyja frá og með morgundeginum, 8. júní, að beiðni Vegagerðarinnar. Baldur fór síðustu áætlunarferðina á Breiðafirði í bili í gær. Ferjan Sær",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-07T11:08:12.318092+00:00",
+  "id": 1
+ },
+ "8cc7a895fd56aeb9": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "24 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-07",
+  "url": "https://www.ruv.is/frettir/erlent/2026-06-07-vilja-nyta-iranskt-fe-til-ad-borga-fyrir-enduruppbyggingu-i-persafloarikjum-477329/",
+  "title": "Vilja nýta íranskt fé til að borga fyrir enduruppbyggingu í Persaflóaríkjum",
+  "sum": "Bandarísk stjórnvöld hyggjast fjármagna enduruppbyggingu og viðgerðir sem þarf að ráðast í í Persaflóaríkjum vegna stríðsins í Mið-Austurlöndum með írönsku fé. Þetta hefur Reuters eftir heimildarmanni innan úr bandaríska stjórnkerfinu. Í fr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-07T11:08:12.318092+00:00",
+  "id": 2
+ },
+ "f8990f7ef98820ef": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-06",
+  "url": "https://www.ruv.is/frettir/erlent/2026-06-06-fullyrdir-ad-iranir-eigi-litid-eftir-af-flugskeytum-i-vopnaburi-sinu-477316/",
+  "title": "Fullyrðir að Íranir eigi lítið eftir af flugskeytum í vopnabúri sínu",
+  "sum": "Íranar eiga aðeins um fimmtung eftir af flugskeytum, mun minna en áður en Bandaríkin og Ísrael hófu árásir 28. febrúar. Þetta sagði Bandaríkjaforseti í viðtali í Meet The Press hjá NBC-sjónvarpsstöðinni í nótt. Ástæða þess að ekki hafi teki",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-07T11:08:12.318092+00:00",
+  "id": 3
+ },
+ "8c47bf1a26f12cf0": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-06",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-06-thingfundi-slitid-eftir-gagnryni-a-fundarhald-a-sjomannadagshelgi-477315/",
+  "title": "Þingfundi slitið eftir gagnrýni á fundarhald á sjómannadagshelgi",
+  "sum": "Þingfundi var slitið klukkan 17:16 í dag. Til umræðu var frumvarp til laga um innviðafélag um fjármögnun og uppbyggingu mikilvægra samgöngumannvirkja. Þingmenn minnihlutans höfðu gagnrýnt það fyrirkomulag að boðað væri til þingfundar laugar",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-07T11:08:12.318092+00:00",
+  "id": 4
+ },
+ "c5f0aacd7df1328c": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-06",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-06-upplifa-sig-sem-afgangsstaerd-og-ad-ekki-se-a-thau-hlustad-477223/",
+  "title": "Upplifa sig sem afgangsstærð og að ekki sé á þau hlustað",
+  "sum": "Meirihluti umhverfis- og samgöngunefndar Alþingis vill færa fjármuni sem voru eyrnamerktir fyrirhugaðri færslu hringvegar um Egilsstaði og gerð hringtorgs, í það að flýta framkvæmdum við veginn um Öxi. Dagmar Ýr Stefánsdóttir, sveitarstjóri",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-07T11:08:12.318092+00:00",
+  "id": 5
+ },
+ "7cf1a7862dff7a14": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-06",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-06-baejarstjorn-kopavogs-vill-skoda-uppbyggingu-a-eigin-hitaveitu-477308/",
+  "title": "Bæjarstjórn Kópavogs vill skoða uppbyggingu á eigin hitaveitu",
+  "sum": "Sjálfstæðisflokkurinn gengur til meirihlutasamstarfs með Framsóknarflokknum í Kópavogi þrátt fyrir að hafa hreinan meirihluta í bæjarstjórn. Ásdís Kristjánsdóttir verður áfram bæjarstjóri. Hún segir einhug hafa verið um að halda samstarfinu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-07T11:08:12.318092+00:00",
+  "id": 6
  }
 }
