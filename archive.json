@@ -3117,5 +3117,47 @@
   "tsort": "2026-01",
   "first_seen": "2026-06-08T13:05:35.079448+00:00",
   "id": 13
+ },
+ "c96d77ab3f2f0398": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-08",
+  "url": "https://byggingar.is/nato-bodar-forval-vegna-uppbyggingar-eldsneytishafnar-i-la-spezia-a-italiu/?utm_source=rss&utm_medium=rss&utm_campaign=nato-bodar-forval-vegna-uppbyggingar-eldsneytishafnar-i-la-spezia-a-italiu",
+  "title": "NATO boðar forval vegna uppbyggingar eldsneytishafnar í La Spezia á Ítalíu",
+  "sum": "NATO boðar forval vegna uppbyggingar eldsneytishafnar í La Spezia á Ítalíu Mannvirkjadeild ítalska varnarmálaráðuneytisins hefur auglýst forval vegna umfangsmikils verkefnis tengdu uppbyggingu eldsneytishafnar NATO í La Spezia á Ítalíu. Ver",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-08T16:50:12.995134+00:00",
+  "id": 1
+ },
+ "fb134cda22951a2e": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-08",
+  "url": "https://byggingar.is/vegagerdin-bydur-ut-vetrarthjonustu-a-fjardarheidi/?utm_source=rss&utm_medium=rss&utm_campaign=vegagerdin-bydur-ut-vetrarthjonustu-a-fjardarheidi",
+  "title": "23.06.2026 Vegagerðin býður út vetrarþjónustu á Fjarðarheiði",
+  "sum": "Vegagerðin býður út vetrarþjónustu á Fjarðarheiði Vegagerðin býður út vetrarþjónustu á Fjarðarheiði fyrir tímabilið 2026–2029. Um er að ræða hraðútboð vegna snjómoksturs og hálkuvarna á Austursvæði með vörubifreiðum. Samningurinn verður til",
+  "tender": "",
+  "start": "2026",
+  "end": "2029",
+  "tsort": "2026-01",
+  "first_seen": "2026-06-08T16:50:12.995134+00:00",
+  "id": 2
  }
 }
