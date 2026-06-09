@@ -3034,27 +3034,6 @@
   "first_seen": "2026-06-08T13:05:35.079448+00:00",
   "id": 13
  },
- "c96d77ab3f2f0398": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Útboð",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-08",
-  "url": "https://byggingar.is/nato-bodar-forval-vegna-uppbyggingar-eldsneytishafnar-i-la-spezia-a-italiu/?utm_source=rss&utm_medium=rss&utm_campaign=nato-bodar-forval-vegna-uppbyggingar-eldsneytishafnar-i-la-spezia-a-italiu",
-  "title": "NATO boðar forval vegna uppbyggingar eldsneytishafnar í La Spezia á Ítalíu",
-  "sum": "NATO boðar forval vegna uppbyggingar eldsneytishafnar í La Spezia á Ítalíu Mannvirkjadeild ítalska varnarmálaráðuneytisins hefur auglýst forval vegna umfangsmikils verkefnis tengdu uppbyggingu eldsneytishafnar NATO í La Spezia á Ítalíu. Ver",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-08T16:50:12.995134+00:00",
-  "id": 1
- },
  "fb134cda22951a2e": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -3117,27 +3096,6 @@
   "tsort": "2027-01",
   "first_seen": "2026-06-09T08:49:44.246764+00:00",
   "id": 3
- },
- "1f71eff5b57a02ae": {
-  "region": "Suðurnes",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-08",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-08-skemmdir-unnar-a-fridudum-fornleifum-477459/",
-  "title": "Skemmdir unnar á friðuðum fornleifum",
-  "sum": "Spellvirki hafa verið unnin á friðuðum fornleifum nærri Hafnarfjarðarkaupstað. Mannvirki var reist í 150 ára gamalli fjárborg sem talið er að nýta eigi sem gufubað. Páll Ásgeir Ásgeirsson leiðsögumaður gerði sér ferð að fornminjunum eftir a",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-09T08:49:44.246764+00:00",
-  "id": 4
  },
  "f79edb1689f2d48a": {
   "region": "Landið allt",
