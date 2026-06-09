@@ -3138,5 +3138,26 @@
   "tsort": "",
   "first_seen": "2026-06-09T08:49:44.246764+00:00",
   "id": 5
+ },
+ "3634ca06002f9cd0": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-09",
+  "url": "https://byggingar.is/grafa-og-grjot-ehf-laegstbjodandi-vid-gatnagerd-og-veitulagnir-i-arnarlandi/?utm_source=rss&utm_medium=rss&utm_campaign=grafa-og-grjot-ehf-laegstbjodandi-vid-gatnagerd-og-veitulagnir-i-arnarlandi",
+  "title": "Grafa og grjót ehf. lægstbjóðandi við gatnagerð og veitulagnir í Arnarlandi",
+  "sum": "Grafa og grjót ehf. lægstbjóðandi við gatnagerð og veitulagnir í Arnarlandi Bæjarráð Garðabæjar hefur samþykkt að ganga til samninga við Gröfu og grjót ehf. um framkvæmd gatnagerðar og lagningu veitukerfa í Arnarlandi eftir opnun tilboða í ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-09T11:58:22.230275+00:00",
+  "id": 1
  }
 }
