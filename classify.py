@@ -136,6 +136,13 @@ _HARD_NEGATIVES = [
     # ferjusiglingar / áætlunarferðir — rekstur farþegaferja er ekki framkvæmd.
     # (Vegagerðin nefnd sem útgerðaraðili ferju má ekki kveikja á "vegagerð".)
     "áætlunarferð",
+    # skemmdarverk á fornminjum/friðlýstu — frétt um spjöll er ekki framkvæmd þótt
+    # "mannvirki" komi fyrir. (Höfnum EKKI á "fornleif" — gild frétt er t.d.
+    # "fornleifar fundust við framkvæmdir, verki frestað".)
+    "spellvirki",
+    # erlendar framkvæmdir á Ítalíu (t.d. NATO-eldsneytishöfn í La Spezia).
+    # (Höfnum EKKI á "nato" — NATO-framkvæmdir á Íslandi, t.d. Keflavík, eru gildar.)
+    "la spezia", "ítalí",
 ]
 
 
