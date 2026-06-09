@@ -75,7 +75,7 @@ def is_relevant(item: dict) -> bool:
     # bygging — látum slíkt ekki kveikja á "framkvæmd". (Heldur "Framkvæmdir hefjast
     # við ..." óbreyttu, því þar fylgir ekki stefnu-/laga-orð.)
     t_kw = re.sub(
-        r"framkvæmd\w*\s+(stefn|skólastefn|menntastefn|lag|áætlun|fjárlag|samning|regln|sáttmál)\w*",
+        r"framkvæmd\w*\s+(stefn|skólastefn|menntastefn|lag|áætlun|fjárlag|samning|regln|sáttmál|kosning)\w*",
         " ", t_kw)
     # Sterk lykilorð (ótvíræð framkvæmdaorð) duga ein og sér.
     if any(k in t_kw for k in C.KEYWORDS if k not in _WEAK_TYPES and k not in ("íbúð ", "höfn")):
@@ -127,6 +127,15 @@ _HARD_NEGATIVES = [
     # stórframkvæmdir Kushner/Trump í Albaníu. Stofninn "alban" nær öllum
     # beygingum (Albanir/Albanía/Albaníu/albanskur).
     "alban", "kushner",
+    # erlendar fréttir frá Mið-Austurlöndum/Persaflóa (t.d. enduruppbygging eftir
+    # stríð) — kveikja oft á "uppbygging"/"bygging".
+    "persaflóa", "mið-austurl",
+    # þingfundir / þingsköp — frétt um þingfundinn SJÁLFAN (slit, fundarhald,
+    # gagnrýni á boðun) er ekki byggingarfrétt þótt rætt sé um innviðafrumvörp.
+    "þingfund",
+    # ferjusiglingar / áætlunarferðir — rekstur farþegaferja er ekki framkvæmd.
+    # (Vegagerðin nefnd sem útgerðaraðili ferju má ekki kveikja á "vegagerð".)
+    "áætlunarferð",
 ]
 
 
