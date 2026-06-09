@@ -2719,48 +2719,6 @@
   "first_seen": "2026-06-06T14:42:24.480610+00:00",
   "id": 1
  },
- "830b131ed0fa60d3": {
-  "region": "Vesturland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-07",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-07-baldur-heldur-aftur-til-eyja-477332/",
-  "title": "Baldur heldur aftur til Eyja",
-  "sum": "Breiðafjarðaferjan Baldur er á leið suður fyrir land. Hún siglir á milli Landeyjahafnar og Vestmannaeyja frá og með morgundeginum, 8. júní, að beiðni Vegagerðarinnar. Baldur fór síðustu áætlunarferðina á Breiðafirði í bili í gær. Ferjan Sær",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-07T11:08:12.318092+00:00",
-  "id": 1
- },
- "8cc7a895fd56aeb9": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Risa",
-  "scaleFig": "24 ma.kr.",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Í byggingu",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-07",
-  "url": "https://www.ruv.is/frettir/erlent/2026-06-07-vilja-nyta-iranskt-fe-til-ad-borga-fyrir-enduruppbyggingu-i-persafloarikjum-477329/",
-  "title": "Vilja nýta íranskt fé til að borga fyrir enduruppbyggingu í Persaflóaríkjum",
-  "sum": "Bandarísk stjórnvöld hyggjast fjármagna enduruppbyggingu og viðgerðir sem þarf að ráðast í í Persaflóaríkjum vegna stríðsins í Mið-Austurlöndum með írönsku fé. Þetta hefur Reuters eftir heimildarmanni innan úr bandaríska stjórnkerfinu. Í fr",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-07T11:08:12.318092+00:00",
-  "id": 2
- },
  "f8990f7ef98820ef": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -2781,27 +2739,6 @@
   "tsort": "",
   "first_seen": "2026-06-07T11:08:12.318092+00:00",
   "id": 3
- },
- "8c47bf1a26f12cf0": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-06",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-06-thingfundi-slitid-eftir-gagnryni-a-fundarhald-a-sjomannadagshelgi-477315/",
-  "title": "Þingfundi slitið eftir gagnrýni á fundarhald á sjómannadagshelgi",
-  "sum": "Þingfundi var slitið klukkan 17:16 í dag. Til umræðu var frumvarp til laga um innviðafélag um fjármögnun og uppbyggingu mikilvægra samgöngumannvirkja. Þingmenn minnihlutans höfðu gagnrýnt það fyrirkomulag að boðað væri til þingfundar laugar",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-07T11:08:12.318092+00:00",
-  "id": 4
  },
  "c5f0aacd7df1328c": {
   "region": "Austurland",
@@ -2949,27 +2886,6 @@
   "tsort": "",
   "first_seen": "2026-06-08T13:05:35.079448+00:00",
   "id": 10
- },
- "bfde1771c10aa88c": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-07",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-07-profudu-rafraena-kjorskra-i-fyrsta-sinn-i-vor-heppin-ad-fa-adra-kosningu-i-agust-477361/",
-  "title": "Prófuðu rafræna kjörskrá í fyrsta sinn í vor: „Heppin að fá aðra kosningu í ágúst“",
-  "sum": "Fyrstu prófanir á notkun rafrænnar kjörskrár í nýafstöðnum sveitarstjórnarkosningum lofa góðu. Rafrænni kjörskrá er ætlað að stuðla að aukinni skilvirkni við framkvæmd kosninga. Þjóðskrá vinnur að því að þróa kerfi sem heldur utan um rafræn",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-08T13:05:35.079448+00:00",
-  "id": 11
  },
  "a5b79e132bf1a5b4": {
   "region": "Landið allt",
@@ -3159,5 +3075,110 @@
   "tsort": "2026-01",
   "first_seen": "2026-06-08T16:50:12.995134+00:00",
   "id": 2
+ },
+ "a8c0cf99e13384f8": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-09",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/09/adsend_grein_raesum_velarnar_en_hvar_eru_peningarni/",
+  "title": "Aðsend grein: Ræsum vélarnar – en hvar eru peningarnir?",
+  "sum": "Þegar ríkisstjórnin kynnti nýja samgönguáætlun voru yfirlýsingarnar háfleygar. Kynningarfundur var haldinn undir yfirskriftinni „Ræsum vélarnar“ og landsmönnum sagt að nú væri loksins komið að stórsókn í uppbyggingu samgönguinnviða.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-09T08:49:44.246764+00:00",
+  "id": 1
+ },
+ "292388cbbef6b9ee": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-08",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-08-vilja-ad-haett-verdi-vid-lokun-hjukrunarheimilis-a-selfossi-477462/",
+  "title": "Vilja að hætt verði við lokun hjúkrunarheimilis á Selfossi",
+  "sum": "Aðstandendum hjúkrunarheimilisins Ljósheima á Selfossi hefur verið tilkynnt að því verði lokað á næsta ári. Skortur er á hjúkrunarrýmum og ráðherra kynnti áætlun um uppbyggingu í mars. Þá voru yfir sjö hundruð á biðlista. Á Ljósheimum á Sel",
+  "tender": "",
+  "start": "2027",
+  "end": "",
+  "tsort": "2027-01",
+  "first_seen": "2026-06-09T08:49:44.246764+00:00",
+  "id": 3
+ },
+ "1f71eff5b57a02ae": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-08",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-08-skemmdir-unnar-a-fridudum-fornleifum-477459/",
+  "title": "Skemmdir unnar á friðuðum fornleifum",
+  "sum": "Spellvirki hafa verið unnin á friðuðum fornleifum nærri Hafnarfjarðarkaupstað. Mannvirki var reist í 150 ára gamalli fjárborg sem talið er að nýta eigi sem gufubað. Páll Ásgeir Ásgeirsson leiðsögumaður gerði sér ferð að fornminjunum eftir a",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-09T08:49:44.246764+00:00",
+  "id": 4
+ },
+ "f79edb1689f2d48a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-09",
+  "url": "https://byggingar.is/oryggisdagur-istaks-hf-arid-2026-var-haldin-i-mai/?utm_source=rss&utm_medium=rss&utm_campaign=oryggisdagur-istaks-hf-arid-2026-var-haldin-i-mai",
+  "title": "Öryggisdagur Ístaks hf. árið 2026 var haldin í maí",
+  "sum": "Öryggisdagur Ístaks hf. árið 2026 var haldin í maí Öryggisdagur Ístaks hf. árið 2026 var haldinn 29. maí með þátttöku starfsfólks víðs vegar um Ísland og á Grænlandi. Markmið dagsins var að efla öryggisvitund og styrkja viðbragðsgetu starfs",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-09T08:49:44.246764+00:00",
+  "id": 2
+ },
+ "3de9f00782aad808": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-08",
+  "url": "https://byggingar.is/framkvaemdir-ganga-vel-vid-hus-heilbrigdisvisindasvids-haskola-islands/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-ganga-vel-vid-hus-heilbrigdisvisindasvids-haskola-islands",
+  "title": "Framkvæmdir ganga vel við Hús Heilbrigðisvísindasviðs Háskóla Íslands",
+  "sum": "Framkvæmdir ganga vel við Hús Heilbrigðisvísindasviðs Háskóla Íslands Framkvæmdir ganga vel við Hús Heilbrigðisvísindasviðs Háskóla Íslands og nálgast nú mikilvæg tímamót í uppbyggingu mannvirkisins. Mest allri steypuvinnu er lokið og verke",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-09T08:49:44.246764+00:00",
+  "id": 5
  }
 }
