@@ -3159,5 +3159,89 @@
   "tsort": "",
   "first_seen": "2026-06-09T11:58:22.230275+00:00",
   "id": 1
+ },
+ "4b6c9729c11d055a": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-09",
+  "url": "https://www.visir.is/g/20262895179d/uppbygging-nyrra-hverfa-skapar-storf-fyrir-allt-ad-250-starfsgreinar",
+  "title": "Upp­bygging nýrra hverfa skapar störf fyrir allt að 250 starfs­greinar",
+  "sum": "Opinber umræða um íbúðauppbyggingu varðar oftast fjölda íbúða í uppbyggingu, skipulag eða kostnað.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-09T15:57:05.219994+00:00",
+  "id": 1
+ },
+ "76f345950e2b7336": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-09",
+  "url": "https://www.visir.is/g/20262895092d/safnad-fyrir-foreldra-bergs-ottos",
+  "title": "Safnað fyrir for­eldra Bergs Ottós",
+  "sum": "Stofnað hefur verið til söfnunar fyrir fjölskyldu Bergs Ottós Thomsen Kárasonar. Bergur Ottó fæddist 17. febrúar síðastliðinn en lést sviplega á laugardagsmorgun.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-09T15:57:05.219994+00:00",
+  "id": 2
+ },
+ "9d3df8ad45d480db": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-09",
+  "url": "https://byggingar.is/nyr-hringvegur-um-hornafjord-verdur-formlega-opnadur-24-juni/?utm_source=rss&utm_medium=rss&utm_campaign=nyr-hringvegur-um-hornafjord-verdur-formlega-opnadur-24-juni",
+  "title": "Nýr Hringvegur um Hornafjörð verður formlega opnaður 24. júní",
+  "sum": "Nýr Hringvegur um Hornafjörð verður formlega opnaður 24. júní Vegagerðin mun formlega opna nýjan Hringveg um Hornafjörð þann 24. júní 2026. Með opnuninni styttist Hringvegurinn um 12 kílómetra og einbreiðum brúm á þjóðveginum fækkar um þrjá",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-09T15:57:05.219994+00:00",
+  "id": 3
+ },
+ "4797879f0534a30a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-09",
+  "url": "https://byggingar.is/fsre-bydur-ut-jardvinnu-vegna-nybyggingar-vid-laekjargotu-1/?utm_source=rss&utm_medium=rss&utm_campaign=fsre-bydur-ut-jardvinnu-vegna-nybyggingar-vid-laekjargotu-1",
+  "title": "10.07.2026 FSRE býður út jarðvinnu vegna nýbyggingar við Lækjargötu 1",
+  "sum": "FSRE býður út jarðvinnu vegna nýbyggingar við Lækjargötu 1 Framkvæmdasýslan – Ríkiseignir (FSRE) hefur auglýst útboð vegna jarðvinnuframkvæmda fyrir nýbyggingu við Lækjargötu 1 í Reykjavík fyrir hönd Forsætisráðuneytisins. Um er að ræða umf",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-09T15:57:05.219994+00:00",
+  "id": 4
  }
 }
