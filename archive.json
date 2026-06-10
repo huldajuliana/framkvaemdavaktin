@@ -3327,5 +3327,89 @@
   "tsort": "",
   "first_seen": "2026-06-10T12:53:58.175628+00:00",
   "id": 3
+ },
+ "cda470aabaa3a924": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-10",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/10/gunnar_lindal_radinn_til_nlsh/",
+  "title": "Gunnar Líndal ráðinn til NLSH",
+  "sum": "Gunnar Líndal Sigurðsson hefur verið ráðinn sem staðarverkfræðingur hjá Nýjum Landspítala ohf. (NLSH) vegna uppbyggingar félagsins á nýrri byggingu við Sjúkrahús Akureyrar (SAk).",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-10T16:36:02.595422+00:00",
+  "id": 1
+ },
+ "682c1a22188cc789": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-10",
+  "url": "https://www.visir.is/g/20262895822d/framkvaemdir-vid-hvammsvirkjun-i-vari-ut-arid",
+  "title": "Fram­kvæmdir við Hvammsvirkjun í vari út árið",
+  "sum": "Lögmaður Landsvirkjunar í máli sem landeigendur við Þjórsá höfðuðu til að stöðva framkvæmdir við Hvammsvirkjun segir framkvæmdirnar í vari út árið, hvað sem líður mögulegri áfrýjun landeigendanna.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-10T16:36:02.595422+00:00",
+  "id": 2
+ },
+ "f83c15374c8e4a8b": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-10",
+  "url": "https://www.visir.is/g/20262895722d/radinn-stadarverkfraedingur-nys-landspitala-a-akureyri",
+  "title": "Ráðinn staðar­verk­fræðingur Nýs Land­spítala á Akur­eyri",
+  "sum": "Gunnar Líndal Sigurðsson hefur verið ráðinn sem staðarverkfræðingur hjá Nýjum Landspítala ohf. (NLSH) vegna uppbyggingar félagsins á nýrri byggingu við Sjúkrahús Akureyrar (SAk).",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-10T16:36:02.595422+00:00",
+  "id": 3
+ },
+ "63c61f525a86183c": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-10",
+  "url": "https://byggingar.is/arnarnesvegur-tekur-a-sig-mynd/?utm_source=rss&utm_medium=rss&utm_campaign=arnarnesvegur-tekur-a-sig-mynd",
+  "title": "Arnar­nesvegur tekur á sig mynd",
+  "sum": "Arnar­nesvegur tekur á sig mynd Nýr Arnarnesvegur og tengdar framkvæmdir eru óðum að taka á sig mynd. Unnið er við uppsetningu umferðarljósa við gatnamót Breiðholtsbrautar og Arnarnesvegar og er áætlað að opna þennan veghluta fyrir umferð u",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-10T16:36:02.595422+00:00",
+  "id": 4
  }
 }
