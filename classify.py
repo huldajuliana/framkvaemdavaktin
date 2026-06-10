@@ -71,11 +71,13 @@ def is_relevant(item: dict) -> bool:
     # "háskólabrú" (aðfaranám, t.d. hjá Keili) er NÁMSLEIÐ, ekki samgöngubrú — má
     # ekki kveikja á lykilorðinu "brú ". Hreinsum áður en lykilorð eru metin.
     t_kw = t_kw.replace("háskólabrú", " ")
+    # mánuðurinn "febrúar" inniheldur "brúar" — má ekki kveikja á brúar-lykilorðinu.
+    t_kw = t_kw.replace("febrúar", " ")
     # "framkvæmd stefnu/laga/áætlunar/skólastefnu" = INNLEIÐING stefnu/laga, ekki
     # bygging — látum slíkt ekki kveikja á "framkvæmd". (Heldur "Framkvæmdir hefjast
     # við ..." óbreyttu, því þar fylgir ekki stefnu-/laga-orð.)
     t_kw = re.sub(
-        r"framkvæmd\w*\s+(stefn|skólastefn|menntastefn|lag|áætlun|fjárlag|samning|regln|sáttmál|kosning)\w*",
+        r"framkvæmd\w*\s+(stefn|skólastefn|menntastefn|lag|áætlun|fjárlag|samning|regln|sáttmál|kosning|farsæld)\w*",
         " ", t_kw)
     # Sterk lykilorð (ótvíræð framkvæmdaorð) duga ein og sér.
     if any(k in t_kw for k in C.KEYWORDS if k not in _WEAK_TYPES and k not in ("íbúð ", "höfn")):
@@ -143,6 +145,9 @@ _HARD_NEGATIVES = [
     # erlendar framkvæmdir á Ítalíu (t.d. NATO-eldsneytishöfn í La Spezia).
     # (Höfnum EKKI á "nato" — NATO-framkvæmdir á Íslandi, t.d. Keflavík, eru gildar.)
     "la spezia", "ítalí",
+    # sakamál: skotárásir o.fl. — "árásin framkvæmd" (sögnin að framkvæma) er ekki
+    # bygging.
+    "skotárás",
 ]
 
 
