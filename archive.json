@@ -1372,27 +1372,6 @@
   "first_seen": "2026-06-01T09:47:38.400582+00:00",
   "id": 13
  },
- "c439bb8d6894842c": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-31",
-  "url": "https://www.ruv.is/frettir/innlent/2026-05-31-lupinur-spretta-upp-ur-svidinni-jord-476515/",
-  "title": "Lúpínur spretta upp úr sviðinni jörð",
-  "sum": "Framkvæmdastjóri Skógræktarfélags Kópavogs segir að næstu misserin verði eldvarnir við Guðmundarlund bættar. Lundurinn slapp naumlega í miklum gróðureldum í febrúar og þar sem áður var mosi sprettur nú upp lúpína. Tugir hektara brunnu í gró",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-01T09:47:38.400582+00:00",
-  "id": 14
- },
  "0692875b82fe1a10": {
   "region": "Landið allt",
   "type": "Íbúðir",
@@ -2193,27 +2172,6 @@
   "first_seen": "2026-06-04T09:20:42.473817+00:00",
   "id": 8
  },
- "5b57a8b97afcfd9b": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Verklok",
-  "src": "Vísir – allt",
-  "date": "2026-06-03",
-  "url": "https://www.visir.is/g/20262892796d/fyrstu-spar-verslanirnar-opna-um-helgina",
-  "title": "Fyrstu Spar-verslanirnar opna um helgina",
-  "sum": "Fyrstu Spar-verslanirnar verða opnaðar á laugardaginn við Barónsstíg í Reykjavík og Staðarberg í Hafnarfirði. Greint var frá því í febrúar að Krambúðir, Kjörbúðir og 10–11 yrðu Spar.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-04T09:20:42.473817+00:00",
-  "id": 9
- },
  "f379bb2891f7c58b": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -2614,27 +2572,6 @@
   "first_seen": "2026-06-05T15:55:28.078450+00:00",
   "id": 1
  },
- "5a2a1807a56f17cb": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-05",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-05-otholandi-olykt-i-ibudahverfi-i-hafnarfirdi-477203/",
-  "title": "„Óþolandi“ ólykt í íbúðahverfi í Hafnarfirði",
-  "sum": "Sterka og óþægilega lykt frá Colas Íslandi leggur yfir íbúðabyggð í Hafnarfirði. Ólyktina má rekja til fimm þúsund tonna bikfarms sem Colas fékk í febrúar. Hörður Þorsteinsson, framkvæmdastjóri heilbrigðiseftirlitsins á höfuðborgarsvæðinu, ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-05T15:55:28.078450+00:00",
-  "id": 2
- },
  "8a002ac986859d5a": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -2718,27 +2655,6 @@
   "tsort": "",
   "first_seen": "2026-06-06T14:42:24.480610+00:00",
   "id": 1
- },
- "f8990f7ef98820ef": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Í byggingu",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-06",
-  "url": "https://www.ruv.is/frettir/erlent/2026-06-06-fullyrdir-ad-iranir-eigi-litid-eftir-af-flugskeytum-i-vopnaburi-sinu-477316/",
-  "title": "Fullyrðir að Íranir eigi lítið eftir af flugskeytum í vopnabúri sínu",
-  "sum": "Íranar eiga aðeins um fimmtung eftir af flugskeytum, mun minna en áður en Bandaríkin og Ísrael hófu árásir 28. febrúar. Þetta sagði Bandaríkjaforseti í viðtali í Meet The Press hjá NBC-sjónvarpsstöðinni í nótt. Ástæða þess að ekki hafi teki",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-07T11:08:12.318092+00:00",
-  "id": 3
  },
  "c5f0aacd7df1328c": {
   "region": "Austurland",
@@ -3181,27 +3097,6 @@
   "first_seen": "2026-06-09T15:57:05.219994+00:00",
   "id": 1
  },
- "76f345950e2b7336": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-09",
-  "url": "https://www.visir.is/g/20262895092d/safnad-fyrir-foreldra-bergs-ottos",
-  "title": "Safnað fyrir for­eldra Bergs Ottós",
-  "sum": "Stofnað hefur verið til söfnunar fyrir fjölskyldu Bergs Ottós Thomsen Kárasonar. Bergur Ottó fæddist 17. febrúar síðastliðinn en lést sviplega á laugardagsmorgun.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-09T15:57:05.219994+00:00",
-  "id": 2
- },
  "9d3df8ad45d480db": {
   "region": "Austurland",
   "type": "Innviðir",
@@ -3265,48 +3160,6 @@
   "first_seen": "2026-06-10T12:18:50.921046+00:00",
   "id": 8
  },
- "44bfef741ade717b": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-10",
-  "url": "https://www.visir.is/g/20262895482d/tolf-latnir-og-niu-saerdir-eftir-skotaras-i-johannesarborg",
-  "title": "Tólf látnir og níu særðir eftir skot­á­rás í Jóhannesar­borg",
-  "sum": "Að minnsta kosti tólf eru látnir og níu særðir eftir skotárás í Cleveland, úthverfi Jóhannesarborgar í Suður-Afríku, í gærkvöldi. Samkvæmt lögreglu var árásin framkvæmd að tíu eða fleiri einstaklingum.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-10T12:18:50.921046+00:00",
-  "id": 1
- },
- "615c38cff7f0c064": {
-  "region": "Suðurnes",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-10",
-  "url": "https://www.visir.is/g/20262895316d/fjarfestu-i-karllaegum-felogum-og-badu-sidan-um-fund-med-forstjoranum",
-  "title": "Fjár­festu í karllægum fé­lögum og báðu síðan um fund með for­stjóranum",
-  "sum": "Erla Ósk Ásgeirsdóttir, stjórnarkona og fjárfestir, tók við formennsku Jafnvægisvogar FKA í febrúar á þessu ári. Hún segist sérstaklega horfa til þess að fá fleiri skráð félög, lífeyrissjóði, ríkisfyrirtæki og sveitarfélög til að skrá sig í",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-10T12:18:50.921046+00:00",
-  "id": 2
- },
  "04afff57a04ba08a": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -3327,27 +3180,6 @@
   "tsort": "",
   "first_seen": "2026-06-10T12:18:50.921046+00:00",
   "id": 9
- },
- "50759a2e140151c7": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Verklok",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-10",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-10-oraunhaefar-vaentingar-um-aukna-farsaeld-barna-477633/",
-  "title": "Óraunhæfar væntingar um aukna farsæld barna",
-  "sum": "Ófullnægjandi undirbúningur hefur haft neikvæð áhrif á innleiðingu og framkvæmd farsældarlaga. Þetta er niðurstaða stjórnsýsluúttektar Ríkisendurskoðunar . Lög um farsæld barna tóku gildi í upphafi árs 2022 í ráðherratíð Ásmundar Einars Dað",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-10T12:18:50.921046+00:00",
-  "id": 3
  },
  "7c2c1c6e0d6cd6e2": {
   "region": "Höfuðborgarsvæðið",
@@ -3432,5 +3264,68 @@
   "tsort": "",
   "first_seen": "2026-06-10T12:18:50.921046+00:00",
   "id": 7
+ },
+ "40326bef8d6da20e": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "1.440 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-10",
+  "url": "https://byggingar.is/kalka-bydur-ut-honnun-og-framleidslu-a-1-440-fermetra-stalgrindarhusi-i-reykjanesbae/?utm_source=rss&utm_medium=rss&utm_campaign=kalka-bydur-ut-honnun-og-framleidslu-a-1-440-fermetra-stalgrindarhusi-i-reykjanesbae",
+  "title": "24.06.2026 Kalka býður út hönnun og framleiðslu á 1.440 fermetra stálgrindarhúsi í Reykjanesbæ",
+  "sum": "Kalka býður út hönnun og framleiðslu á 1.440 fermetra stálgrindarhúsi í Reykjanesbæ Kalka sf. hefur auglýst útboð á hönnun, framleiðslu og afhendingu nýs stálgrindarhúss sem rísa mun við Berghólabraut 7 í Reykjanesbæ. Um er að ræða 1.440 fe",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-10T12:53:58.175628+00:00",
+  "id": 1
+ },
+ "958ffa584d2bca24": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-10",
+  "url": "https://byggingar.is/throttur-ehf-med-laegsta-tilbodid-i-endurbaetur-a-bildudalsvegi-um-mikladal/?utm_source=rss&utm_medium=rss&utm_campaign=throttur-ehf-med-laegsta-tilbodid-i-endurbaetur-a-bildudalsvegi-um-mikladal",
+  "title": "Þróttur ehf. með lægsta tilboðið í endurbætur á Bíldudalsvegi um Mikladal",
+  "sum": "Þróttur ehf. með lægsta tilboðið í endurbætur á Bíldudalsvegi um Mikladal Þrjú tilboð bárust þegar Vegagerðin opnaði tilboð í verkið „Bíldudalsvegur (63), um Mikladal – endurbætur, 2. áfangi“. Lægsta tilboðið kom frá Þrótti ehf. á Akranesi ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-10T12:53:58.175628+00:00",
+  "id": 2
+ },
+ "cbca400599677131": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-10",
+  "url": "https://byggingar.is/vegagerdin-bydur-ut-vestfjardaveg-um-gufudalssveit-og-210-metra-netbogabru-yfir-djupafjord/?utm_source=rss&utm_medium=rss&utm_campaign=vegagerdin-bydur-ut-vestfjardaveg-um-gufudalssveit-og-210-metra-netbogabru-yfir-djupafjord",
+  "title": "14.07.2026 Vegagerðin býður út Vestfjarðaveg um Gufudalssveit og 210 metra netbogabrú yfir Djúpafjörð",
+  "sum": "Vegagerðin býður út Vestfjarðaveg um Gufudalssveit og 210 metra netbogabrú yfir Djúpafjörð Vegagerðin hefur auglýst útboð á nýbyggingu Vestfjarðavegar (60) um Gufudalssveit á kaflanum Skálanes – Hallsteinsnes. Verkefnið felur meðal annars í",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-10T12:53:58.175628+00:00",
+  "id": 3
  }
 }
