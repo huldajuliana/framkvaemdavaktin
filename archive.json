@@ -3411,5 +3411,278 @@
   "tsort": "",
   "first_seen": "2026-06-10T16:36:02.595422+00:00",
   "id": 4
+ },
+ "fb6087cea07ec116": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-11",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/11/fresta_framkvaemdum_i_hlidunum/",
+  "title": "Fresta framkvæmdum í Hlíðunum",
+  "sum": "Framkvæmdum og endurbótum sem fyrirhugaðar voru á Lönguhlíð og Drápuhlíð í Reykjavík hefur verið slegið á frest. Íbúum var tilkynnt um þetta á dögunum og sagt að vegna tafa sem orðið hafa muni ekki nást ásættanlegur árangur fyrir veturinn v",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T12:44:04.991301+00:00",
+  "id": 1
+ },
+ "41e832178a911136": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-10",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/10/nyjar_ibudir_seljast_ekki_a_asettu_verdi/",
+  "title": "Nýjar íbúðir seljast ekki á ásettu verði",
+  "sum": "„Það sem einkennir markaðinn núna er að nýjar íbúðir seljast ekki á ásettu verði.“",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T12:44:04.991301+00:00",
+  "id": 12
+ },
+ "bddc4db0a650e9f5": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-11",
+  "url": "https://www.visir.is/g/20262896151d/radstofun-baldurs-til-eyja-brjoti-gegn-samningi",
+  "title": "Ráð­stöfun Baldurs til Eyja brjóti gegn samningi",
+  "sum": "Sveitarstjóri Vesturbyggðar telur að vafi leiki á hvort samningur Vegagerðarinnar heimili það að Baldur sé nýttur til siglinga milli lands og Eyja samhliða Herjólfi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T12:44:04.991301+00:00",
+  "id": 2
+ },
+ "14af56bbcf080be6": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-06-11",
+  "url": "https://www.visir.is/g/20262896140d/bruin-yfir-djupafjord-bodin-ut",
+  "title": "Brúin yfir Djúpa­fjörð boðin út",
+  "sum": "Vegagerðin hefur boðið út nýbyggingu Vestfjarðavegar á um 4,6 kílómetra kafla yfir Djúpafjörð og Gufufjörð. Bygging 210 metra langrar bogabrúar yfir Djúpafjörð er innifalin í verkinu. Verkinu skal að fullu lokið 1. október 2028.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T12:44:04.991301+00:00",
+  "id": 3
+ },
+ "420acee7352b4951": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-11",
+  "url": "https://www.visir.is/g/20262896089d/sorglegt-hve-fair-kopavogsbuar-hafi-skrifad-undir-listann",
+  "title": "Sorg­legt hve fáir Kópavogsbúar hafi skrifað undir listann",
+  "sum": "Vinir Hamraborgar segja það sorglegt hve fáir Kópavogsbúar hafi skrifað nafn sitt undir undirskriftarlista þar sem skorað er á bæjaryfirvöld að endurskoða áform um þéttingu og uppbyggingu í miðbæ Kópavogs. Einn þeirra segir draumatölu undir",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T12:44:04.991301+00:00",
+  "id": 4
+ },
+ "ac8c77a98043ed4b": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-11",
+  "url": "https://www.visir.is/g/20262896004d/olga-i-samfylkingu-thessi-olog-eru-ekki-i-okkar-nafni-sett-",
+  "title": "Ólga í Sam­fylkingu: „Þessi ó­lög eru ekki í okkar nafni sett“",
+  "sum": "Hópur félagsmanna Samfylkingarinnar og óflokksbundið jafnaðarfólk mótmælir brottfararstöð ríkisstjórnarinnar í aðsendri grein á vef Vísis í dag. 55 skrifa undir greinina og mótmæla lagasetningunni og krefjast þess að framkvæmdin verði stöðv",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T12:44:04.991301+00:00",
+  "id": 5
+ },
+ "4ff4bac36bcea04f": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-10",
+  "url": "https://www.visir.is/g/20262895632d/nyir-kaelar-og-kjuklingastadur-i-lindunum-eftir-staerstu-endurbaetur-kronunnar",
+  "title": "Nýir kælar og kjúklingastaður í Lindunum eftir stærstu endur­bætur Krónunnar",
+  "sum": "Verslun Krónunnar í Lindum í Kópavogi verður opnuð aftur á morgun eftir umfangsmiklar framkvæmdir sem staðið hafa yfir frá því í apríl.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T12:44:04.991301+00:00",
+  "id": 13
+ },
+ "22c59d14e1c2a65d": {
+  "region": "Suðurnes",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-11",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-11-segja-afstodu-stjornvalda-gegn-enduruppbyggingu-i-grindavik-fjandsamlega-477764/",
+  "title": "Segja afstöðu stjórnvalda gegn enduruppbyggingu í Grindavík fjandsamlega",
+  "sum": "Járngerður, hagsmunasamtök íbúa um framtíð og endurreisn Grindavíkur, tekur undir með nýkjörinni bæjarstjórn Grindavíkur þar sem bæjarstjórn segir afstöðu stjórnvalda gagnvart skjótri enduruppbyggingu bæjarins neikvæða og fjandsamlega. Þett",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T12:44:04.991301+00:00",
+  "id": 6
+ },
+ "d8791e3611683cf4": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-11",
+  "url": "https://byggingar.is/altis-ehf-med-laegsta-tilbod-i-endurnyjun-vallarlysingar-a-varmarvelli/?utm_source=rss&utm_medium=rss&utm_campaign=altis-ehf-med-laegsta-tilbod-i-endurnyjun-vallarlysingar-a-varmarvelli",
+  "title": "Altis ehf. með lægsta tilboð í endurnýjun vallarlýsingar á Varmárvelli",
+  "sum": "Altis ehf. með lægsta tilboð í endurnýjun vallarlýsingar á Varmárvelli Fjögur tilboð bárust í útboð Mosfellsbæjar vegna endurnýjunar vallarlýsingar á gervigrasvelli Varmár. Lægsta tilboðið kom frá Altis ehf. og var það talsvert undir kostna",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T12:44:04.991301+00:00",
+  "id": 7
+ },
+ "b8edbebd939d7630": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-11",
+  "url": "https://byggingar.is/oskatak-ehf-faer-samning-um-gatnagerd-vid-gullhellu-i-kapelluhrauni/?utm_source=rss&utm_medium=rss&utm_campaign=oskatak-ehf-faer-samning-um-gatnagerd-vid-gullhellu-i-kapelluhrauni",
+  "title": "Óskatak ehf. fær samning um gatnagerð við Gullhellu í Kapelluhrauni",
+  "sum": "Óskatak ehf. fær samning um gatnagerð við Gullhellu í Kapelluhrauni Umhverfis- og framkvæmdaráð Hafnarfjarðar hefur samþykkt að ganga til samninga við Óskatak ehf. vegna gatnagerðar við Gullhellu í Kapelluhrauni 2. Málið var tekið fyrir á f",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T12:44:04.991301+00:00",
+  "id": 8
+ },
+ "10231e7190e9afea": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-11",
+  "url": "https://byggingar.is/engar-hindranir-i-vegi-fyrir-hvammsvirkjun/?utm_source=rss&utm_medium=rss&utm_campaign=engar-hindranir-i-vegi-fyrir-hvammsvirkjun",
+  "title": "Engar hindranir í vegi fyrir Hvammsvirkjun",
+  "sum": "Engar hindranir í vegi fyrir Hvammsvirkjun Lögmaður landeigenda sem stefndu íslenska ríkinu og Landsvirkjun vegna Hvammsvirkjunar segir að ekki verði höfðað þriðja málið vegna framkvæmdarinnar. Landsvirkjun segist ekki hafa getað beðið um b",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T12:44:04.991301+00:00",
+  "id": 9
+ },
+ "085561a1f66805e5": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-11",
+  "url": "https://byggingar.is/ljosthing-ehf-laegstbjodandi-i-utbodi-um-baett-adgengi-vid-bidstodvar-straeto/?utm_source=rss&utm_medium=rss&utm_campaign=ljosthing-ehf-laegstbjodandi-i-utbodi-um-baett-adgengi-vid-bidstodvar-straeto",
+  "title": "Ljósþing ehf. lægstbjóðandi í útboði um bætt aðgengi við biðstöðvar Strætó",
+  "sum": "Ljósþing ehf. lægstbjóðandi í útboði um bætt aðgengi við biðstöðvar Strætó Tilboð hafa verið opnuð í útboði Reykjavíkurborgar vegna verkefnisins „Bætt aðgengi við biðstöðvar Strætó 2026“. Lægsta tilboðið barst frá Ljósþingi ehf. og nam það ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T12:44:04.991301+00:00",
+  "id": 10
+ },
+ "cb84e52944eb4e14": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-11",
+  "url": "https://byggingar.is/nyjar-ibudir-seljast-ekki-a-asettu-verdi/?utm_source=rss&utm_medium=rss&utm_campaign=nyjar-ibudir-seljast-ekki-a-asettu-verdi",
+  "title": "Nýjar íbúðir seljast ekki á ásettu verði",
+  "sum": "Nýjar íbúðir seljast ekki á ásettu verði „Það sem einkennir markaðinn núna er að nýjar íbúðir seljast ekki á ásettu verði,“ segir Jónas Atli Gunnarsson yfirhagfræðingur HMS. Á höfuðborgarsvæðinu eru 1.486 nýjar íbúðir óseldar, en 2.232 eldr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T12:44:04.991301+00:00",
+  "id": 11
  }
 }
