@@ -3684,5 +3684,89 @@
   "tsort": "",
   "first_seen": "2026-06-11T12:44:04.991301+00:00",
   "id": 11
+ },
+ "974b0c21196a4b74": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-11",
+  "url": "https://www.visir.is/g/20262896279d/saka-israela-um-thjodernishreinsun-a-vesturbakkanum",
+  "title": "Saka Ísraela um þjóðernishreinsun á Vestur­bakkanum",
+  "sum": "Mannréttindasamtökin Amnesty International hafa sakað Ísraela um þjóðernishreinsanir gegn Palestínumönnum á Vesturbakkanum. Rannsakendur samtakanna segja aukinn hraða á uppbyggingu landtökubyggða á Vesturbakkanum og hún sé studd af ríkinu. ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T16:56:02.762895+00:00",
+  "id": 1
+ },
+ "9d387999155c81fd": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-11",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-11-leggur-til-ad-laun-baejarstjora-og-kjorinna-fulltrua-haekki-ekki-477792/",
+  "title": "Leggur til að laun bæjarstjóra og kjörinna fulltrúa hækki ekki",
+  "sum": "Glænýtt bæjarráð á Akureyri lagði til, á öðrum fundi sínum í gær, að kjörnir fulltrúar og bæjarstjóri fái ekki vísitöluhækkun launa sem koma á til framkvæmda 1. júlí. „Stærsta hagsmunamál heimila og fyrirtækja eru verðbólga og vextir. Við e",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T16:56:02.762895+00:00",
+  "id": 2
+ },
+ "4aee83fbff7ec33f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-11",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-11-althjodleg-logregluadgerd-islenskir-innvidir-notadir-i-tengslum-vid-peningathvaetti-477804/",
+  "title": "Alþjóðleg lögregluaðgerð: Íslenskir innviðir notaðir í tengslum við peningaþvætti",
+  "sum": "Lögreglan á höfuðborgarsvæðinu tók þátt í alþjóðlegri lögregluaðgerð þar sem ráðist var gegn netþjónustu sem gekk undir nafninu AudiA6. Samkvæmt lögreglunni á höfuðborgarsvæðinu voru íslenskir innviðir notaðir af brotamönnum. Steinarr Krist",
+  "tender": "",
+  "start": "2022",
+  "end": "2025",
+  "tsort": "2022-01",
+  "first_seen": "2026-06-11T16:56:02.762895+00:00",
+  "id": 3
+ },
+ "390f59fd0435c78a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-11",
+  "url": "https://byggingar.is/krafla-ehf-med-laegsta-tilbod-i-stigagerd-vid-arbaejarkirkju/?utm_source=rss&utm_medium=rss&utm_campaign=krafla-ehf-med-laegsta-tilbod-i-stigagerd-vid-arbaejarkirkju",
+  "title": "Krafla ehf. með lægsta tilboð í stígagerð við Árbæjarkirkju",
+  "sum": "Krafla ehf. með lægsta tilboð í stígagerð við Árbæjarkirkju Krafla ehf. átti lægsta tilboðið í verðfyrirspurn Reykjavíkurborgar vegna framkvæmda við nýjan stíg og yfirborðsfrágang við Árbæjarkirkju. Tilboðið var tæplega 18% undir kostnaðará",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-11T16:56:02.762895+00:00",
+  "id": 4
  }
 }
