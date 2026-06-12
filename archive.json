@@ -3957,5 +3957,89 @@
   "tsort": "",
   "first_seen": "2026-06-12T12:17:55.731114+00:00",
   "id": 1
+ },
+ "7881a09e8c1aa299": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-12",
+  "url": "https://www.visir.is/g/20262896777d/samgonguaaetlun-samthykkt-a-althingi",
+  "title": "Samgönguáætlun sam­þykkt á Al­þingi",
+  "sum": "Alþingi hefur samþykkt Samgönguáætlun fyrir árin 2026 til 2040 ásamt fimm ára aðgerðaáætlun fyrir árin 2026 til 2030. Atkvæði með voru þrjátíu og þrjú en tuttugu og þrír þingmenn sátu hjá. Samgönguáætlun forgangsraðar framkvæmdum hins opinb",
+  "tender": "",
+  "start": "2026",
+  "end": "2040",
+  "tsort": "2026-01",
+  "first_seen": "2026-06-12T16:20:05.241354+00:00",
+  "id": 1
+ },
+ "15e4aa835b6d9be8": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-12",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-12-kemur-harkalega-nidur-a-ferdathjonustunni-477806/",
+  "title": "Kemur harkalega niður á ferðaþjónustunni",
+  "sum": "Gerður Björk Sveinsdóttir bæjarstjóri Vesturbyggðar segist hafa fyrst heyrt af ákvörðun Vegagerðarinnar, um að taka ferjuna Baldur tímabundið úr áætlunarsiglingum yfir Breiðafjörð, í fjölmiðlum. Hún segir að lítið samráð hafi átt sér stað í",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-12T16:20:05.241354+00:00",
+  "id": 2
+ },
+ "7efd393b7ab4deec": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-12",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-12-vidhald-bruarinnar-yfir-jokulsa-a-fjollum-dregst-a-langinn-477921/",
+  "title": "Viðhald brúarinnar yfir Jökulsá á Fjöllum dregst á langinn",
+  "sum": "Viðhald og málningarvinna við brúna yfir Jökulsá á Fjöllum hefur tekið lengri tíma en til stóð. Verkið hófst 26. maí og átti að ljúka 16. júní. Mikil úrkoma hefur tafið málningarvinnu og því er ljóst að henni lýkur ekki fyrr en undir lok má",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-12T16:20:05.241354+00:00",
+  "id": 3
+ },
+ "c8ccd6406eede0dd": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-12",
+  "url": "https://byggingar.is/landsnet-bydur-ut-staekkun-tengivirkis-i-thorlakshofn/?utm_source=rss&utm_medium=rss&utm_campaign=landsnet-bydur-ut-staekkun-tengivirkis-i-thorlakshofn",
+  "title": "14.07.2026 Landsnet býður út stækkun tengivirkis í Þorlákshöfn",
+  "sum": "Landsnet býður út stækkun tengivirkis í Þorlákshöfn Landsnet hefur auglýst útboð vegna stækkunar 66 kV tengivirkis í Þorlákshöfn og byggingar nýs húss fyrir spólu og spenni. Verkefnið felur jafnframt í sér afhendingu, uppsetningu og tenging",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-12T16:20:05.241354+00:00",
+  "id": 4
  }
 }
