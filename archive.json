@@ -3768,5 +3768,173 @@
   "tsort": "",
   "first_seen": "2026-06-11T16:56:02.762895+00:00",
   "id": 4
+ },
+ "e0e1427f70175b18": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-12",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/12/sumt_leidir_madur_hja_ser/",
+  "title": "„Sumt leiðir maður hjá sér“",
+  "sum": "Jóhann Páll Jóhannsson umverfis-, orku- og loftslagsráðherra, segir að boraframkvæmdir sem mengum hlaust af í Varmá í Mosfellsbæ hafi farið fram á grundvelli leyfa sem gefin voru út löngu áður en lagabreytingarnar voru samþykktar og tóku gi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-12T09:20:39.789697+00:00",
+  "id": 1
+ },
+ "69d1ac4ad08594b9": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-12",
+  "url": "https://www.visir.is/g/20262896514d/framtidin-i-spegli-fyrirsagna-hversdagsins",
+  "title": "Fram­tíðin í spegli fyrir­sagna hvers­dagsins",
+  "sum": "Kreppa dagsins tekur reglulega yfir allt súrefnið í kerfinu. Þá situr minna eftir fyrir innviði, loftslagsaðlögun, menntun, orkuuppbyggingu eða aðra hægfara uppbyggingarþætti sem ráða þó mestu um stöðu samfélaga til lengri tíma.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-12T09:20:39.789697+00:00",
+  "id": 2
+ },
+ "89e8fdca5fcda4e0": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-11",
+  "url": "https://www.visir.is/g/20262896311d/allt-ad-200-ara-veggjakrot-fannst-vid-framkvaemdir",
+  "title": "Allt að 200 ára veggja­krot fannst við fram­kvæmdir",
+  "sum": "Torlæs skilaboð rituð með krít komu í ljós við framkvæmdir í Menntaskólanum í Reykjavík. Skilaboðin gætu verið hátt í tvö hundruð ára gömul. Starfsmenn skólans leita nú á náðir almennings við að leysa gátuna.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-12T09:20:39.789697+00:00",
+  "id": 7
+ },
+ "16607c06a7a8413f": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-11",
+  "url": "https://www.visir.is/g/20262896407d/thad-er-verid-ad-efla-framhaldsskola-og-verkmenntun",
+  "title": "Það er verið að efla fram­halds­skóla og verk­menntun",
+  "sum": "Nú stendur fyrir dyrum stækkun fimm verknámsskóla víðs vegar um land. Framkvæmdir eru komnar vel á veg í Breiðholti og fram undan eru verkefni á Suðurnesjum, Akureyri, Ísafirði og Sauðárkróki.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-12T09:20:39.789697+00:00",
+  "id": 8
+ },
+ "ec125c619f9d2ebe": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-12",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-12-hafnar-malflutningi-landverndar-um-mengun-i-varma-477871/",
+  "title": "Hafnar málflutningi Landverndar um mengun í Varmá",
+  "sum": "Jóhann Páll Jóhannsson umverfis-, orku- og loftslagsráðherra segir ekkert samhengi á milli nýlegra lagabreytinga um jarðboranir og mengunar sem orðið hefur vart í Varmá í Mosfellsbæ. Hann segir borframkvæmdirnar sem ollu menguninni hafa far",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-12T09:20:39.789697+00:00",
+  "id": 3
+ },
+ "076f334739cdf63a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-12",
+  "url": "https://byggingar.is/fagtaekni-med-laegsta-tilbod-i-rafkerfi-nys-medferdarkjarna-landspitala/?utm_source=rss&utm_medium=rss&utm_campaign=fagtaekni-med-laegsta-tilbod-i-rafkerfi-nys-medferdarkjarna-landspitala",
+  "title": "Fagtækni með lægsta tilboð í rafkerfi nýs meðferðarkjarna Landspítala",
+  "sum": "Fagtækni með lægsta tilboð í rafkerfi nýs meðferðarkjarna Landspítala Tilboð hafa verið opnuð í útboði Nýs Landspítala ohf. vegna rafkerfa í meðferðarkjarna frá kjallara K2 upp á fjórðu hæð. Fagtækni hf., í samstarfi við Raftækni ehf. og Ví",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-12T09:20:39.789697+00:00",
+  "id": 4
+ },
+ "2a5eaedf3e40abcf": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-12",
+  "url": "https://byggingar.is/verkfraedistofa-reykjavikur-med-laegsta-tilbod-i-eftirlit-vegna-arbaejarkirkju/?utm_source=rss&utm_medium=rss&utm_campaign=verkfraedistofa-reykjavikur-med-laegsta-tilbod-i-eftirlit-vegna-arbaejarkirkju",
+  "title": "Verkfræðistofa Reykjavíkur með lægsta tilboð í eftirlit vegna Árbæjarkirkju",
+  "sum": "Verkfræðistofa Reykjavíkur með lægsta tilboð í eftirlit vegna Árbæjarkirkju Verkfræðistofa Reykjavíkur ehf. átti lægsta tilboðið í verðfyrirspurn Reykjavíkurborgar vegna eftirlits með framkvæmdum við nýjan stíg og yfirborðsfrágang við Árbæj",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-12T09:20:39.789697+00:00",
+  "id": 5
+ },
+ "8c83143c3a6d1d3d": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-12",
+  "url": "https://byggingar.is/krefjast-thess-ad-fa-ad-hafa-sjo-ibudir-i-einbylishusi/?utm_source=rss&utm_medium=rss&utm_campaign=krefjast-thess-ad-fa-ad-hafa-sjo-ibudir-i-einbylishusi",
+  "title": "Krefjast þess að fá að hafa sjö íbúðir í einbýlishúsi",
+  "sum": "Krefjast þess að fá að hafa sjö íbúðir í einbýlishúsi Eigendur einbýlishúss í Breiðholti hafa kært þá ákvörðun byggingarfulltrúa Reykjavíkurborgar að þeir skuli færa húsið til fyrra horfs en innréttaðar hafa verið sjö íbúðir í húsinu. Ráðis",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-12T09:20:39.789697+00:00",
+  "id": 6
  }
 }
