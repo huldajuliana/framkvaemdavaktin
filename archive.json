@@ -3936,5 +3936,26 @@
   "tsort": "",
   "first_seen": "2026-06-12T09:20:39.789697+00:00",
   "id": 6
+ },
+ "540bec2db2e10e3a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-12",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/12/ihugudu_ad_kasta_ser_fram_af_bru/",
+  "title": "Íhuguðu að kasta sér fram af brú",
+  "sum": "Ming Ting Mancel og fjölskylda hennar íhuguðu að kasta sér fram á brú til að taka eigið líf í heimsókninni til Íslands. Það þótti þeim þó ekki ákjósanlegur kostur þar sem þau voru hér yfir sumartímann og gátu þá ekki gert það í skjóli nætur",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-12T12:17:55.731114+00:00",
+  "id": 1
  }
 }
