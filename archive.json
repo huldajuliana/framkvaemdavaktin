@@ -4104,5 +4104,68 @@
   "tsort": "2029-01",
   "first_seen": "2026-06-13T11:12:50.364668+00:00",
   "id": 3
+ },
+ "82e979db63d61b30": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-13",
+  "url": "https://byggingar.is/hafnir-isafjardarbaejar-bjoda-ut-mottokubyggingu-vid-hrafnatanga/?utm_source=rss&utm_medium=rss&utm_campaign=hafnir-isafjardarbaejar-bjoda-ut-mottokubyggingu-vid-hrafnatanga",
+  "title": "29.06.2026 Hafnir Ísafjarðarbæjar bjóða út móttökubyggingu við Hrafnatanga",
+  "sum": "Hafnir Ísafjarðarbæjar bjóða út móttökubyggingu við Hrafnatanga Hafnir Ísafjarðarbæjar hafa auglýst útboð vegna byggingar nýrrar móttökuaðstöðu við Hrafnatanga á Ísafirði. Mannvirkið mun þjóna ferðamönnum, tollayfirvöldum og öðrum þjónustua",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-13T15:02:03.676444+00:00",
+  "id": 1
+ },
+ "e167f51bbd2a303e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-13",
+  "url": "https://byggingar.is/myndir-hotelturninn-a-skulagotu-er-naer-tilbuinn/?utm_source=rss&utm_medium=rss&utm_campaign=myndir-hotelturninn-a-skulagotu-er-naer-tilbuinn",
+  "title": "Myndir: Hótelturninn á Skúlagötu er nær tilbúinn",
+  "sum": "Hótelturninn á Skúlagötu er nær tilbúinn Uppbygging 17 hæða hótelturns á Skúlagötu 26 í Reykjavík er langt komin og má gera ráð fyrir að framkvæmdum ljúki í sumar. Með því er komið í ljós hvernig byggingin fellur inn í borgarlandslagið. Hún",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-13T15:02:03.676444+00:00",
+  "id": 2
+ },
+ "7371e91ec9e1280d": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-13",
+  "url": "https://byggingar.is/ny-innisundlaug-a-akureyri-opnar-i-sumar/?utm_source=rss&utm_medium=rss&utm_campaign=ny-innisundlaug-a-akureyri-opnar-i-sumar",
+  "title": "Ný innisundlaug á Akureyri opnar í sumar",
+  "sum": "Ný innisundlaug á Akureyri opnar í sumar Framkvæmdir hafa staðið á innilaug Sundlaugar Akureyrar í nær tvö ár. Forstöðumaður sundlauga Akureyrar segir einungis nokkrar vikur í opnun á nýrri og bjartari innilaug með betra aðgengi. Ný innisun",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-13T15:02:03.676444+00:00",
+  "id": 3
  }
 }
