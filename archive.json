@@ -4041,5 +4041,68 @@
   "tsort": "",
   "first_seen": "2026-06-12T16:20:05.241354+00:00",
   "id": 4
+ },
+ "f989896101419d1f": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-13",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/13/myndir_hotelturninn_a_skulagotu_er_naer_tilbuinn/",
+  "title": "Myndir: Hótelturninn á Skúlagötu er nær tilbúinn",
+  "sum": "Uppbygging 17 hæða hótelturns á Skúlagötu 26 í Reykjavík er langt komin og má gera ráð fyrir að framkvæmdum ljúki í sumar. Með því er komið í ljós hvernig byggingin fellur inn í borgarlandslagið. Hún markar tímamót í íslenskri byggingarsögu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-13T11:12:50.364668+00:00",
+  "id": 1
+ },
+ "10b77561e6fb7ce5": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-06-12",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/06/12/hildur_soffia_nyr_markadsstjori_nathan/",
+  "title": "Hildur Soffía nýr markaðsstjóri Nathan",
+  "sum": "Hildur Soffía Vignisdóttir hefur verið ráðin í starf markaðsstjóra nýs markaðssviðs Nathan og er ráðningin liður áframhaldandi uppbyggingu í kjölfari sameiningar 1912, Nathan Olsen og Ekrunnar, sem starfa nú undir sameiginlega vörumerki Nat",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-13T11:12:50.364668+00:00",
+  "id": 2
+ },
+ "b99a5ece724fc67d": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-12",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-12-ekki-oedlilegt-ad-leikskolastjori-se-ekki-upplystur-um-fyrirhugad-nidurrif-477948/",
+  "title": "Ekki óeðlilegt að leikskólastjóri sé ekki upplýstur um fyrirhugað niðurrif",
+  "sum": "Ólafur Brynjar Bjarkason, skrifstofustjóri leikskólamála Reykjavíkurborgar, segir það ekki óeðlilegt að skólastjóri leikskólans Ægisborgar hafi ekki verið upplýstur um áform um að rífa húsnæði skólans og byggja nýtt á sömu lóð. Ásmundur Kri",
+  "tender": "",
+  "start": "",
+  "end": "2029",
+  "tsort": "2029-01",
+  "first_seen": "2026-06-13T11:12:50.364668+00:00",
+  "id": 3
  }
 }
