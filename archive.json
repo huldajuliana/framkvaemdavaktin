@@ -4167,5 +4167,68 @@
   "tsort": "",
   "first_seen": "2026-06-13T15:02:03.676444+00:00",
   "id": 3
+ },
+ "52b7f379ecf7ca97": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-14",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/14/gaeta_tharf_hofsemi_i_vindorkuframleidslu/",
+  "title": "Gæta þarf hófsemi í vindorkuframleiðslu",
+  "sum": "Ábyrg uppbygging vindorku gæti verið háð því að rekstraraðili þessarar óstöðugu orkuframleiðslu búi einnig yfir annarri stöðugri framleiðslu, til að mæta þeim áskorunum sem fylgja sveiflukenndu framleiðslumynstri vindorkunnar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-14T11:29:05.459327+00:00",
+  "id": 1
+ },
+ "234689ea0b819c3b": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-14",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/14/thetta_verdur_svona_algjort_lifsgaedasvaedi/",
+  "title": "„Þetta verður svona algjört lífsgæðasvæði“",
+  "sum": "Umfangsmiklar framkvæmdir eru hafnar við Hlemmsvæðið í Reykjavík þar sem unnið er nú t.a.m. að því að byggja nýtt torgsvæði sem og uppbyggingu borgarlínunnar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-14T11:29:05.459327+00:00",
+  "id": 2
+ },
+ "5c93da0cd64d9910": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-13",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-13-jardbodin-taka-miklum-breytingum-477211/",
+  "title": "Jarðböðin taka miklum breytingum",
+  "sum": "Framkvæmdir hafa staðið yfir við jarðböðin við Mývatn í nokkur ár og þau hafa verið lokuð síðan um áramót. Nú er farið að sjá fyrir endann á framkvæmdum og stefnt að því að opna 30. júní. Þar er núna nýtt þjónustuhús, ný búningaaðstaða og s",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-14T11:29:05.459327+00:00",
+  "id": 3
  }
 }
