@@ -4230,5 +4230,68 @@
   "tsort": "",
   "first_seen": "2026-06-14T11:29:05.459327+00:00",
   "id": 3
+ },
+ "70a219d7c1ea76ed": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-14",
+  "url": "https://byggingar.is/nordurorka-bydur-ut-hitaveitumannvirki-vid-ytri-haga-i-dalvikurbyggd/?utm_source=rss&utm_medium=rss&utm_campaign=nordurorka-bydur-ut-hitaveitumannvirki-vid-ytri-haga-i-dalvikurbyggd",
+  "title": "08.07.2026 Norðurorka býður út hitaveitumannvirki við Ytri-Haga í Dalvíkurbyggð",
+  "sum": "Norðurorka býður út hitaveitumannvirki við Ytri-Haga í Dalvíkurbyggð Norðurorka hf. hefur auglýst útboð vegna byggingar nýrrar dælustöðvar hitaveitu, borholuhúss og lokahúss við Ytri-Haga í Dalvíkurbyggð. Framkvæmdin er hluti af áframhaldan",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-14T15:07:47.969401+00:00",
+  "id": 1
+ },
+ "92f3e70f6d39d787": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-14",
+  "url": "https://byggingar.is/19-06-2026-isafjardarbaer-bydur-ut-fraveituframkvaemdir-a-thingeyri/?utm_source=rss&utm_medium=rss&utm_campaign=19-06-2026-isafjardarbaer-bydur-ut-fraveituframkvaemdir-a-thingeyri",
+  "title": "19.06.2026 Ísafjarðarbær býður út fráveituframkvæmdir á Þingeyri",
+  "sum": "Ísafjarðarbær býður út fráveituframkvæmdir á Þingeyri Ísafjarðarbær hefur auglýst útboð vegna framkvæmda við nýjar fráveitulagnir á Þingeyri. Verkið felur í sér lagningu fráveitukerfis fyrir yfirborðsvatn og skolp auk tenginga við núverandi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-14T15:07:47.969401+00:00",
+  "id": 2
+ },
+ "b2c41b884f2fdf57": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-14",
+  "url": "https://byggingar.is/thjonustumidstod-vegagerdarinnar-i-fellabae-su-fyrsta-sem-er-endurnyjud/?utm_source=rss&utm_medium=rss&utm_campaign=thjonustumidstod-vegagerdarinnar-i-fellabae-su-fyrsta-sem-er-endurnyjud",
+  "title": "Þjónustumiðstöð Vegagerðarinnar í Fellabæ sú fyrsta sem er endurnýjuð",
+  "sum": "Þjónustumiðstöð Vegagerðarinnar í Fellabæ sú fyrsta sem er endurnýjuð Framkvæmdir hafa staðið yfir í vetur við húsnæði þjónustumiðstöðvar Vegagerðarinnar í Fellabæ. Hún er fyrsta miðstöðin sem fær slíka yfirhalningu en gert er ráð fyrir að ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-14T15:07:47.969401+00:00",
+  "id": 3
  }
 }
