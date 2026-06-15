@@ -952,27 +952,6 @@
   "first_seen": "2026-05-30T07:17:35.906308+00:00",
   "id": 5
  },
- "83282901512813e6": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Í byggingu",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-30",
-  "url": "https://www.ruv.is/frettir/erlent/2026-05-30-havaerar-deilur-vegna-aforma-um-byggingu-staersta-gagnavers-heims-476742/",
-  "title": "Háværar deilur vegna áforma um byggingu stærsta gagnavers heims",
-  "sum": "Háværar deilur hafa risið vegna áforma kanadíska fjárfestisins Kevins O'Leary um að reisa það sem getur orðið stærsta gagnver heims í bandaríska ríkinu Utah. Slíkar deilur eru ekki óalgengar í Bandaríkjunum. Samkvæmt teikningum mun Stratos-",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-30T07:17:35.906308+00:00",
-  "id": 1
- },
  "83bc2f6052580902": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -3685,27 +3664,6 @@
   "first_seen": "2026-06-11T12:44:04.991301+00:00",
   "id": 11
  },
- "974b0c21196a4b74": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-11",
-  "url": "https://www.visir.is/g/20262896279d/saka-israela-um-thjodernishreinsun-a-vesturbakkanum",
-  "title": "Saka Ísraela um þjóðernishreinsun á Vestur­bakkanum",
-  "sum": "Mannréttindasamtökin Amnesty International hafa sakað Ísraela um þjóðernishreinsanir gegn Palestínumönnum á Vesturbakkanum. Rannsakendur samtakanna segja aukinn hraða á uppbyggingu landtökubyggða á Vesturbakkanum og hún sé studd af ríkinu. ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-11T16:56:02.762895+00:00",
-  "id": 1
- },
  "9d387999155c81fd": {
   "region": "Norðurland eystra",
   "type": "Innviðir",
@@ -3937,27 +3895,6 @@
   "first_seen": "2026-06-12T09:20:39.789697+00:00",
   "id": 6
  },
- "540bec2db2e10e3a": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-12",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/12/ihugudu_ad_kasta_ser_fram_af_bru/",
-  "title": "Íhuguðu að kasta sér fram af brú",
-  "sum": "Ming Ting Mancel og fjölskylda hennar íhuguðu að kasta sér fram á brú til að taka eigið líf í heimsókninni til Íslands. Það þótti þeim þó ekki ákjósanlegur kostur þar sem þau voru hér yfir sumartímann og gátu þá ekki gert það í skjóli nætur",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-12T12:17:55.731114+00:00",
-  "id": 1
- },
  "7881a09e8c1aa299": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -4062,27 +3999,6 @@
   "tsort": "",
   "first_seen": "2026-06-13T11:12:50.364668+00:00",
   "id": 1
- },
- "10b77561e6fb7ce5": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – viðskipti",
-  "date": "2026-06-12",
-  "url": "https://www.mbl.is/vidskipti/frettir/2026/06/12/hildur_soffia_nyr_markadsstjori_nathan/",
-  "title": "Hildur Soffía nýr markaðsstjóri Nathan",
-  "sum": "Hildur Soffía Vignisdóttir hefur verið ráðin í starf markaðsstjóra nýs markaðssviðs Nathan og er ráðningin liður áframhaldandi uppbyggingu í kjölfari sameiningar 1912, Nathan Olsen og Ekrunnar, sem starfa nú undir sameiginlega vörumerki Nat",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-13T11:12:50.364668+00:00",
-  "id": 2
  },
  "b99a5ece724fc67d": {
   "region": "Höfuðborgarsvæðið",
@@ -4293,5 +4209,173 @@
   "tsort": "",
   "first_seen": "2026-06-14T15:07:47.969401+00:00",
   "id": 3
+ },
+ "734e38d602cabe87": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-15",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/15/malbikad_i_artunsbrekku_i_vikunni/",
+  "title": "Malbikað í Ártúnsbrekku í vikunni",
+  "sum": "Vegagerðin áformar að malbika miðjuakrein í Ártúnsbrekku til austurs í vikunni.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-15T11:47:30.542792+00:00",
+  "id": 1
+ },
+ "7da7499f7299d122": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-15",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/15/vill_fa_ibudir_fyrir_ofan_donsku_krana/",
+  "title": "Vill fá íbúðir fyrir ofan Dönsku krána",
+  "sum": "Skipulagsfulltrúinn í Reykjavík hefur tekið vel í áform um breytingu á notkun þriðju og fjórðu hæðar hússins við Ingólfsstræti 3 í miðborg Reykjavíkur. Málstaður ehf. lagði fram fyrirspurn um hvort breyta mætti skrifstofum í húsinu í íbúðir",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-15T11:47:30.542792+00:00",
+  "id": 2
+ },
+ "1e6a10ecf721b8bc": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-14",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-14-osammala-um-ibudathorf-a-langanesi-477783/",
+  "title": "Ósammála um íbúðaþörf á Langanesi",
+  "sum": "Íbúðafélagið Brák hefur byggt fjórar íbúðir í Langanesbyggð á síðustu árum. Þær fóru strax í leigu og að sögn oddvita sveitarstjórnar er þörf fyrir fleiri. Í nýlegu yfirliti HMS er staðan metin þannig að að byggt hafi verið umfram nýja íbúð",
+  "tender": "",
+  "start": "2023",
+  "end": "2025",
+  "tsort": "2023-01",
+  "first_seen": "2026-06-15T11:47:30.542792+00:00",
+  "id": 8
+ },
+ "a89839c486e50153": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "830 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-15",
+  "url": "https://byggingar.is/mulathing-bydur-ut-staekkun-grunnskola-seydisfjardar/?utm_source=rss&utm_medium=rss&utm_campaign=mulathing-bydur-ut-staekkun-grunnskola-seydisfjardar",
+  "title": "15.07.2026 Múlaþing býður út stækkun Grunnskóla Seyðisfjarðar",
+  "sum": "Múlaþing býður út stækkun Grunnskóla Seyðisfjarðar Múlaþing hefur auglýst útboð vegna umfangsmikillar stækkunar Grunnskóla Seyðisfjarðar við Skólaveg 1. Verkefnið felur í sér um 830 fermetra viðbyggingu ásamt fullnaðarfrágangi innan- og uta",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-15T11:47:30.542792+00:00",
+  "id": 3
+ },
+ "88dee87057c2fbfb": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-15",
+  "url": "https://byggingar.is/landsnet-bydur-ut-staekkun-tengivirkis-i-thorlakshofn-2/?utm_source=rss&utm_medium=rss&utm_campaign=landsnet-bydur-ut-staekkun-tengivirkis-i-thorlakshofn-2",
+  "title": "14.07.2026 Landsnet býður út stækkun tengivirkis í Þorlákshöfn",
+  "sum": "Landsnet býður út stækkun tengivirkis í Þorlákshöfn Landsnet hefur auglýst útboð vegna stækkunar 66 kV tengivirkis í Þorlákshöfn. Verkefnið felur meðal annars í sér hönnun, afhendingu og uppsetningu háspennubúnaðar ásamt byggingu nýs húss f",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-15T11:47:30.542792+00:00",
+  "id": 4
+ },
+ "6681ca9ff2781b61": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-15",
+  "url": "https://byggingar.is/reykjavikurborg-bydur-ut-vetrarthjonustu-gongu-og-hjolaleida-til-arsins-2027/?utm_source=rss&utm_medium=rss&utm_campaign=reykjavikurborg-bydur-ut-vetrarthjonustu-gongu-og-hjolaleida-til-arsins-2027",
+  "title": "14.07.2026 Reykjavíkurborg býður út vetrarþjónustu göngu- og hjólaleiða til ársins 2027",
+  "sum": "Reykjavíkurborg býður út vetrarþjónustu göngu- og hjólaleiða til ársins 2027 Reykjavíkurborg hefur auglýst EES-samkeppnisútboð vegna vetrarþjónustu á göngu- og hjólaleiðum í borginni fyrir tímabilið 2026–2027. Útboðið tekur til snjómoksturs",
+  "tender": "",
+  "start": "2026",
+  "end": "2027",
+  "tsort": "2026-01",
+  "first_seen": "2026-06-15T11:47:30.542792+00:00",
+  "id": 5
+ },
+ "0597f048b1d0e3b1": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-15",
+  "url": "https://byggingar.is/osammala-um-ibudathorf-a-langanesi/?utm_source=rss&utm_medium=rss&utm_campaign=osammala-um-ibudathorf-a-langanesi",
+  "title": "Ósammála um íbúðaþörf á Langanesi",
+  "sum": "Ósammála um íbúðaþörf á Langanesi Húsnæðis- og mannvirkjastofnun og sveitarstjórnina í Langanesbyggð greinir á um þörf fyrir leiguíbúðir. Langnesingar vilja halda áfram uppbyggingu og koma hreyfingu á húsnæðismarkaðinn. Íbúðafélagið Brák he",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-15T11:47:30.542792+00:00",
+  "id": 6
+ },
+ "2a883b18178ad15e": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Norðurþing – fréttir",
+  "date": "2026-06-15",
+  "url": "https://www.nordurthing.is/is/frettir/vatryggingautbod-nordurthings-2027-2029",
+  "title": "Vátryggingaútboð Norðurþings 2027-2029",
+  "sum": "Vátryggingaútboð Norðurþings 2027-2029",
+  "tender": "",
+  "start": "2027",
+  "end": "2029",
+  "tsort": "2027-01",
+  "first_seen": "2026-06-15T11:47:30.542792+00:00",
+  "id": 7
  }
 }
