@@ -4377,5 +4377,154 @@
   "tsort": "2027-01",
   "first_seen": "2026-06-15T11:47:30.542792+00:00",
   "id": 7
+ },
+ "ccb3cc2b880c68cd": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-15",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/15/fleiri_leidir_inn_a_husnaedismarkad/",
+  "title": "Fleiri leiðir inn á húsnæðismarkað",
+  "sum": "Seðlabankastjóri álítur að almenningur sé almennt ekki meðvitaður um þau úrræði sem standa honum til boða varðandi fasteignakaup.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-15T15:12:59.488276+00:00",
+  "id": 1
+ },
+ "fcc7b8a1252e6608": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "16,8 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-06-15",
+  "url": "https://www.visir.is/g/20262897723d/svona-mun-nyja-thjodarhollin-lita-ut",
+  "title": "Svona mun nýja Þjóðarhöllin líta út",
+  "sum": "Samkeppnisútboði um hönnun og byggingu nýrrar Þjóðarhallar er lokið. Tilboð Íslenskra aðalverktaka upp á 16,8 milljarða króna var samþykkt. Myndir og myndbönd af hönnuninni má finna hér fyrir neðan.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-15T15:12:59.488276+00:00",
+  "id": 2
+ },
+ "6ec364a06c4a9a90": {
+  "region": "Suðurnes",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-15",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-15-nalaegd-vid-flugvoll-og-hofn-skapar-taekifaeri-i-helguvik-477816/",
+  "title": "Nálægð við flugvöll og höfn skapar tækifæri í Helguvík",
+  "sum": "Mikil atvinnutækifæri eru í Helguvík eftir að lokið verður við að rífa kísilverksmiðjuna í haust segir bæjarstjóri Reykjanesbæjar. Nálægð við flugvöll og höfn gegni þar lykilhlutverki. Áætlað er að niðurrifi á háum byggingum kísilverksmiðju",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-15T15:12:59.488276+00:00",
+  "id": 3
+ },
+ "dc60a80b9d3c6fb7": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-15",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-15-skertar-samgongur-i-grimsey-erum-vid-virkilega-ad-fara-aftur-i-fornold-478247/",
+  "title": "Skertar samgöngur í Grímsey: „Erum við virkilega að fara aftur í fornöld?“",
+  "sum": "Grímseyingar eru mjög ósáttir við fækkun ferða ferjunnar Sæfara til og frá eyjunni. Formaður hverfisráðs Grímseyjar segir að uppbygging sé ómöguleg haldi ferðum áfram að fækka. Í upphafi árs bjuggu 58 í Grímsey. Siglingin á milli Grímseyjar",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-15T15:12:59.488276+00:00",
+  "id": 4
+ },
+ "6cb566a8197ffebc": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "16,8 ma.kr.",
+  "verk": [
+   "ÍAV",
+   "Ístak",
+   "ASK arkitektar (hönnun)"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-15",
+  "url": "https://www.ruv.is/frettir/ithrottir/2026-06-15-islenskir-adalverktakar-valdir-til-ad-byggja-thjodarholl-478237/",
+  "title": "Íslenskir aðalverktakar valdir til að byggja þjóðarhöll",
+  "sum": "Íslenskir aðalverktakar og samstarfsfyrirtæki þeirra sjá um hönnun og byggingu þjóðarhallar í Laugardal í Reykjavík. Þar á að verða framtíðaraðstaða fyrir íþróttakeppni og iðkun. Þjóðarhöll, sem heldur utan um verkefnið fyrir ríki og borg, ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-15T15:12:59.488276+00:00",
+  "id": 5
+ },
+ "37ddfcf85ccaea75": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "16,8 ma.kr.",
+  "verk": [
+   "ÍAV"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-15",
+  "url": "https://byggingar.is/islenskir-adalverktakar-valdir-til-ad-hanna-og-byggja-thjodarholl/?utm_source=rss&utm_medium=rss&utm_campaign=islenskir-adalverktakar-valdir-til-ad-hanna-og-byggja-thjodarholl",
+  "title": "Íslenskir aðalverktakar valdir til að hanna og byggja þjóðarhöll",
+  "sum": "Íslenskir aðalverktakar valdir til að hanna og byggja þjóðarhöll Þjóðarhöll ehf. hefur gengið að tilboði Íslenskra aðalverktaka og samstarfsfyrirtækja þeirra um hönnun og byggingu þjóðarhallar í Laugardal. Tilboðið hljóðar upp á 16,8 millja",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-15T15:12:59.488276+00:00",
+  "id": 6
+ },
+ "c0e03d394ded641f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Reykjavíkurborg – fréttir",
+  "date": "2026-06-15",
+  "url": "https://reykjavik.is/frettir/2026/kynningarfundur-vegna-utbods-vetrarthjonustu-gongu-og-hjolaleida",
+  "title": "Kynningarfundur vegna útboðs á vetrarþjónustu göngu- og hjólaleiða",
+  "sum": "Kynningarfundur vegna útboðs á vetrarþjónustu göngu- og hjólaleiða",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-15T15:12:59.488276+00:00",
+  "id": 7
  }
 }
