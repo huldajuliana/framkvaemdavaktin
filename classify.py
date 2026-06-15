@@ -51,6 +51,10 @@ def is_relevant(item: dict) -> bool:
     # framkvæmdafréttum, svo ef eitthvert þeirra finnst er fréttinni hafnað.
     if any(neg in t for neg in C.NEGATIVE_KEYWORDS) or any(neg in t for neg in _HARD_NEGATIVES):
         return False
+    # Erlend frétt: nefnir erlent land/þjóðerni og hefur ekkert íslenskt akkeri.
+    # Vefurinn er eingöngu um íslenskar framkvæmdir.
+    if _is_foreign(t):
+        return False
     # Traust heimild: HMS (Húsnæðis- og mannvirkjastofnun) fjallar nær eingöngu um
     # húsnæði, mannvirki og íbúðamarkað — treystum efni þaðan (t.d. mánaðarskýrslum
     # og talningum á íbúðamarkaði), nema það hafi lent í hörðu útilokuninni að ofan.
@@ -125,13 +129,8 @@ _HARD_NEGATIVES = [
     # þingnefndir / rannsóknarskýrslur (aldrei byggingarfréttir, þótt orð eins og
     # "uppbygging"/"framkvæmd" komi fyrir aftarlega í löngum texta) og menntastefna
     "rannsóknarnefnd", "skólastefn",
-    # erlendar framkvæmdir (vefurinn er EINGÖNGU um íslenskar framkvæmdir) — t.d.
-    # stórframkvæmdir Kushner/Trump í Albaníu. Stofninn "alban" nær öllum
-    # beygingum (Albanir/Albanía/Albaníu/albanskur).
-    "alban", "kushner",
-    # erlendar fréttir frá Mið-Austurlöndum/Persaflóa (t.d. enduruppbygging eftir
-    # stríð) — kveikja oft á "uppbygging"/"bygging".
-    "persaflóa", "mið-austurl",
+    # (Erlend lönd / þjóðerni: sjá _FOREIGN_TERMS + _iceland_anchor hér að neðan.
+    # Þau hafna frétt aðeins ef ekkert íslenskt akkeri finnst í textanum.)
     # þingfundir / þingsköp — frétt um þingfundinn SJÁLFAN (slit, fundarhald,
     # gagnrýni á boðun) er ekki byggingarfrétt þótt rætt sé um innviðafrumvörp.
     "þingfund",
@@ -142,13 +141,79 @@ _HARD_NEGATIVES = [
     # "mannvirki" komi fyrir. (Höfnum EKKI á "fornleif" — gild frétt er t.d.
     # "fornleifar fundust við framkvæmdir, verki frestað".)
     "spellvirki",
-    # erlendar framkvæmdir á Ítalíu (t.d. NATO-eldsneytishöfn í La Spezia).
-    # (Höfnum EKKI á "nato" — NATO-framkvæmdir á Íslandi, t.d. Keflavík, eru gildar.)
-    "la spezia", "ítalí",
     # sakamál: skotárásir o.fl. — "árásin framkvæmd" (sögnin að framkvæma) er ekki
     # bygging.
     "skotárás",
+    # sjálfsvíg / sjálfsskaði — viðkvæmar fréttir sem mega ALDREI birtast á vaktinni
+    # þótt orð eins og "brú"/"hús" komi fyrir (t.d. "kasta sér fram af brú").
+    "sjálfsvíg", "sjálfsskað", "svipta sig líf", "kasta sér fram", "eigið líf",
+    # viðskipti / ráðningar — starfsmannafréttir ("uppbygging" fyrirtækis er ekki
+    # mannvirkjagerð), t.d. "ráðin í starf markaðsstjóra".
+    "markaðsstjór",
 ]
+
+# --- Erlendar fréttir ------------------------------------------------------
+# Vefurinn er EINGÖNGU um íslenskar framkvæmdir. Erlendar byggingar-/innviðafréttir
+# kveikja oft á "uppbygging"/"framkvæmd"/"höfn"/"mannvirki". Því höfnum við frétt
+# sem nefnir erlent land/þjóðerni — NEMA hún hafi líka íslenskt akkeri (íslenskt
+# staðanafn eða "ísland/íslensk"), svo innlend frétt sem nefnir útlönd haldist inni
+# (t.d. "norskt verktakafyrirtæki vann útboð í Reykjavík").
+#
+# Athugið: listinn er ekki tæmandi og beygingar/stofnar eru valdir til að rekast
+# EKKI á íslensk orð/staðanöfn — t.d. "dönsk" (ekki "dansk" sem leynist í
+# "danskennsla"), "noreg/norsk" (ekki "norð" sem er í "norðurland"), "austurrík"
+# (ekki "austurland"), "spænsk/spánverj" (ekki "spán" sem er í "spánnýr").
+_FOREIGN_TERMS = [
+    # Mið-Austurlönd / svæði sem hafa birst á vaktinni
+    "ísrael", "palestín", "vesturbakka", "gaza", "gasaströnd",
+    "persaflóa", "mið-austurl", "íran", "íransk", "írönsk", "írak",
+    "sýrland", "líbanon", "líbýa", "jemen", "sádi-arab", "katar", "dúbaí", "emírat",
+    "afganistan", "afgansk",
+    # Evrópa
+    "alban", "ítalí", "ítölsk", "la spezia",
+    "noreg", "norsk",
+    "svíþjóð", "sænsk", "svíar",
+    "danmörk", "dönsk", "danir",
+    "finnland", "finnsk",
+    "þýskaland", "þýsk", "þjóðverj",
+    "frakkland", "frönsk", "fransk",
+    "spánverj", "spænsk",
+    "portúgal", "portúgalsk", "holland", "hollensk", "belgí", "sviss", "svissnesk",
+    "austurrík", "austurrísk", "pólland", "pólverj",
+    "rússland", "rússnesk", "rússar", "úkraín",
+    "bretland", "bresk", "england", "englend", "skotland", "skosk",
+    "írland", "írsk", "grikkland", "grísk",
+    # Ameríka / Asía / Afríka
+    "bandarík", "kanada", "kanadísk", "mexíkó", "brasilí", "argentín",
+    "kína", "kínversk", "kínverj", "japan", "japansk",
+    "indland", "indversk", "tyrkland", "tyrknesk", "afrík",
+    # erlendir aðilar sem hafa birst (t.d. Kushner/Trump-paradís í Albaníu)
+    "kushner",
+]
+
+# Íslensk akkeri: staðanöfn úr REGION_KEYWORDS auk almennra íslenskra vísana.
+# Ef eitthvert þeirra finnst telst fréttin tengd Íslandi og fer EKKI í gegnum
+# erlendu síuna. (Sleppum "vegagerð" sem akkeri — það er almennt orð sem getur
+# átt við vegagerð erlendis líka.)
+_ICELAND_ANCHORS = [
+    "ísland", "íslensk", "íslend", "alþing", "sveitarfél",
+    "sundabraut", "borgarlína", "hringveg", "þjóðveg",
+    # Landshlutaheiti — REGION_KEYWORDS geymir bæjanöfn en EKKI landshlutaheitin
+    # sjálf. ("austurland" með -a- rekst ekki á erlenda orðið "mið-austurlönd"
+    # með -ö-.) "vestf"/"austf" ná Vestfjörðum/Austfjörðum og beygingum.
+    "höfuðborgarsvæð", "suðurnes", "vesturland", "vestf", "norðurland",
+    "austurland", "austf", "suðurland", "ísafjar",
+] + [kw for kws in C.REGION_KEYWORDS.values() for kw in kws]
+
+
+def _iceland_anchor(t: str) -> bool:
+    return any(a in t for a in _ICELAND_ANCHORS)
+
+
+def _is_foreign(t: str) -> bool:
+    """Satt ef erlent land/þjóðerni er nefnt OG ekkert íslenskt akkeri finnst."""
+    return any(f in t for f in _FOREIGN_TERMS) and not _iceland_anchor(t)
+
 
 
 def region_of(item: dict) -> str:
