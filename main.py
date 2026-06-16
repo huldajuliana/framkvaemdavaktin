@@ -45,6 +45,15 @@ def main():
         log.info("Sjálfhreinsun: fjarlægði %d ranglega flokkaðar færslur (%d eftir)",
                  _before - len(archive), len(archive))
     new = store.merge(archive, records)
+    # Afritahreinsun: sama frétt frá fleiri en einum miðli (t.d. miðill sem
+    # endurbirtir fyrirsögn annars) birtist aðeins einu sinni. Keyrt EFTIR merge
+    # svo nýjar tvítekningar náist strax. Heldur þeirri sem sást fyrst.
+    _before_dd = len(archive)
+    archive = classify.dedupe_archive(archive)
+    if len(archive) != _before_dd:
+        log.info("Afritahreinsun: fjarlægði %d tvítekningar (%d eftir)",
+                 _before_dd - len(archive), len(archive))
+        new = [r for r in new if store._key(r) in archive]
     log.info("%d nýjar fréttir bættust í safnið (%d alls)", len(new), len(archive))
 
     # Vefurinn sýnir ALLT safnið, nýjast efst

@@ -363,6 +363,41 @@ def refilter_archive(archive: dict) -> dict:
 
 
 # ---------------------------------------------------------------------------
+# Afritahreinsun: sama frétt frá fleiri en einum miðli
+# ---------------------------------------------------------------------------
+def _dedup_signature(title: str) -> str:
+    """Einkenni fréttar til að þekkja tvítekningar. Sami titill frá tveimur
+    miðlum gefur sama einkenni: lágstafir, án dagsetningarforskeytis sem sumir
+    miðlar setja fremst (t.d. "22.06.2026 ..."), og án greinarmerkja."""
+    t = (title or "").lower().strip()
+    t = re.sub(r"^\s*\d{1,2}\.\s*\d{1,2}\.\s*\d{2,4}\s*", "", t)  # dagsetningarforskeyti
+    t = re.sub(r"[^0-9a-záéíóúýðþæö ]+", " ", t)                   # aðeins bók-/tölustafir
+    return re.sub(r"\s+", " ", t).strip()
+
+
+def dedupe_archive(archive: dict) -> dict:
+    """Fjarlægir tvítekningar úr safninu: sömu frétt frá fleiri en einum miðli
+    (eins titill, óháð dagsetningarforskeyti eða greinarmerkjum). Heldur þeirri
+    færslu sem sást FYRST (elsta 'first_seen') svo röðun og saga haldist stöðug.
+    Aðeins augljósar tvítekningar (nákvæmlega samræmdur titill) eru sameinaðar —
+    ólíkar fréttir með svipaða titla haldast óbreyttar."""
+    seen = {}        # einkenni -> lykill sem haldið er
+    drop = set()
+    # elsta 'first_seen' fyrst -> sú færsla verður haldið, seinni tvítekningum sleppt
+    for k, r in sorted(archive.items(), key=lambda kv: kv[1].get("first_seen", "")):
+        sig = _dedup_signature(r.get("title", ""))
+        if not sig:
+            continue
+        if sig in seen:
+            drop.add(k)
+        else:
+            seen[sig] = k
+    if not drop:
+        return archive
+    return {k: r for k, r in archive.items() if k not in drop}
+
+
+# ---------------------------------------------------------------------------
 # Dagsetningar: útboð, framkvæmdir hefjast, verklok
 # ---------------------------------------------------------------------------
 _MON = "|".join(sorted(C.MONTHS, key=len, reverse=True))
