@@ -1962,27 +1962,6 @@
   "first_seen": "2026-06-03T18:01:03.237743+00:00",
   "id": 1
  },
- "be1fdcd39a959235": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "2 km",
-  "verk": [
-   "Vegagerðin (verkkaupi)"
-  ],
-  "status": "Í byggingu",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-03",
-  "url": "https://byggingar.is/miklar-framkvaemdir-um-allt-land/?utm_source=rss&utm_medium=rss&utm_campaign=miklar-framkvaemdir-um-allt-land",
-  "title": "Miklar framkvæmdir um allt land",
-  "sum": "Miklar framkvæmdir um allt land hjá Vegagerðinni Eitt af helstu verkefnum Vegagerðarinnar á höfuðborgarsvæðinu í sumar er nýbygging Arnarnesvegar á tæplega 2 km kafla milli Rjúpnavegar og Breiðholtsbrautar. Nú þegar hefur verið byggð akstur",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-03T18:01:03.237743+00:00",
-  "id": 3
- },
  "f279ee6ac57530c4": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -4212,27 +4191,6 @@
   "first_seen": "2026-06-15T15:12:59.488276+00:00",
   "id": 5
  },
- "37ddfcf85ccaea75": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Risa",
-  "scaleFig": "16,8 ma.kr.",
-  "verk": [
-   "ÍAV"
-  ],
-  "status": "Útboð",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-15",
-  "url": "https://byggingar.is/islenskir-adalverktakar-valdir-til-ad-hanna-og-byggja-thjodarholl/?utm_source=rss&utm_medium=rss&utm_campaign=islenskir-adalverktakar-valdir-til-ad-hanna-og-byggja-thjodarholl",
-  "title": "Íslenskir aðalverktakar valdir til að hanna og byggja þjóðarhöll",
-  "sum": "Íslenskir aðalverktakar valdir til að hanna og byggja þjóðarhöll Þjóðarhöll ehf. hefur gengið að tilboði Íslenskra aðalverktaka og samstarfsfyrirtækja þeirra um hönnun og byggingu þjóðarhallar í Laugardal. Tilboðið hljóðar upp á 16,8 millja",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-15T15:12:59.488276+00:00",
-  "id": 6
- },
  "c0e03d394ded641f": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -4548,27 +4506,6 @@
   "tsort": "2030-01",
   "first_seen": "2026-06-16T13:27:03.880015+00:00",
   "id": 2
- },
- "9c7c235b437a3694": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Útboð",
-  "src": "mbl.is – viðskipti",
-  "date": "2026-06-16",
-  "url": "https://www.mbl.is/vidskipti/frettir/2026/06/16/utbod_spacex_staerra_en_aaetlad_var/",
-  "title": "Útboð SpaceX stærra en áætlað var",
-  "sum": "SpaceX sankaði að sér 10 milljörðum bandaríkjadala, sem jafngildir rúmlega 1.240 milljörðum íslenskra króna, umfram það sem áætlað var þegar fyrirtækið fór á almennan markað á föstudaginn.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-16T13:27:03.880015+00:00",
-  "id": 3
  },
  "c9e4e425020e8912": {
   "region": "Suðurnes",
