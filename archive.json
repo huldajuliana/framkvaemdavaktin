@@ -4506,5 +4506,89 @@
   "tsort": "2026-01",
   "first_seen": "2026-06-16T09:55:57.907198+00:00",
   "id": 10
+ },
+ "99e3c38f2367a688": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-16",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/16/hamarsvirkjun_i_bidflokk_og_thrjar_i_orkunytingarfl/",
+  "title": "Hamarsvirkjun í biðflokk og þrjár í orkunýtingarflokk",
+  "sum": "Alþingi hefur samþykkt þingsályktunartillögu um breytingu á rammaáætlun, er snýr að vernd og orkunýtingu landsvæða. Með ákvörðuninni bætast þrír nýir virkjunarkostir í orkunýtingarflokk og tveir í biðflokk.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T13:27:03.880015+00:00",
+  "id": 1
+ },
+ "7c75af82e3b0b061": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-16",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/16/segir_framkvaemdir_hefjast_i_haust_og_ljuka_2030/",
+  "title": "Segir framkvæmdir hefjast í haust og ljúka 2030",
+  "sum": "Framkvæmdir við fyrirhugaða Þjóðarhöll í Laugardal munu hefjast í haust og á vormánuðum ársins 2030 verður höllin fullrisin og tilbúinn vettvangur íþróttaleikja, að sögn verkefnastjóra framkvæmdarinnar.",
+  "tender": "",
+  "start": "2030",
+  "end": "",
+  "tsort": "2030-01",
+  "first_seen": "2026-06-16T13:27:03.880015+00:00",
+  "id": 2
+ },
+ "9c7c235b437a3694": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-06-16",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/06/16/utbod_spacex_staerra_en_aaetlad_var/",
+  "title": "Útboð SpaceX stærra en áætlað var",
+  "sum": "SpaceX sankaði að sér 10 milljörðum bandaríkjadala, sem jafngildir rúmlega 1.240 milljörðum íslenskra króna, umfram það sem áætlað var þegar fyrirtækið fór á almennan markað á föstudaginn.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T13:27:03.880015+00:00",
+  "id": 3
+ },
+ "c9e4e425020e8912": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-16",
+  "url": "https://byggingar.is/reykjanesbaer-hafnar-ollum-tilbodum-i-lodarfragang-vid-myllubakkaskola/?utm_source=rss&utm_medium=rss&utm_campaign=reykjanesbaer-hafnar-ollum-tilbodum-i-lodarfragang-vid-myllubakkaskola",
+  "title": "Reykjanesbær hafnar öllum tilboðum í lóðarfrágang við Myllubakkaskóla",
+  "sum": "Reykjanesbær hafnar öllum tilboðum í lóðarfrágang við Myllubakkaskóla Bæjarráð Reykjanesbæjar hefur ákveðið að hafna öllum tilboðum sem bárust í útboð vegna lóðarfrágangs við Myllubakkaskóla, þar sem öll tilboðin reyndust yfir kostnaðaráætl",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T13:27:03.880015+00:00",
+  "id": 4
  }
 }
