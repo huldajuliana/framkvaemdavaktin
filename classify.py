@@ -147,6 +147,11 @@ _HARD_NEGATIVES = [
     # sjálfsvíg / sjálfsskaði — viðkvæmar fréttir sem mega ALDREI birtast á vaktinni
     # þótt orð eins og "brú"/"hús" komi fyrir (t.d. "kasta sér fram af brú").
     "sjálfsvíg", "sjálfsskað", "svipta sig líf", "kasta sér fram", "eigið líf",
+    # slys og dauðsföll — umferðar-/bíl-/vinnu-/bana-slys o.fl. eru ekki
+    # framkvæmdafréttir þótt staðsetning nefni "gatnamót"/"brú"/"hús". Stofninn
+    # "slys" nær banaslys/umferðarslys/bílslys/vinnuslys; "lést"/"fórst"/"lét lífið"
+    # ná dauðsföllum. ("andlát" er þegar á listanum hér að ofan.)
+    "slys", "lést", "fórst", "lét lífið", "drukkn",
     # viðskipti / ráðningar — starfsmannafréttir ("uppbygging" fyrirtækis er ekki
     # mannvirkjagerð), t.d. "ráðin í starf markaðsstjóra".
     "markaðsstjór",
