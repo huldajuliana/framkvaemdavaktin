@@ -4527,5 +4527,110 @@
   "tsort": "",
   "first_seen": "2026-06-16T13:27:03.880015+00:00",
   "id": 4
+ },
+ "cb85f807f00fecc5": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-16",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/16/endurskoda_bilastaedamal_i_midbaenum/",
+  "title": "Endurskoða bílastæðamál í miðbænum",
+  "sum": "Borgarstjórn samþykkti í dag að endurskoða gjaldskyldutíma bílastæða í miðborginni, vinna að því að einfalda rafræna greiðslumáta fyrir bílastæði og fara yfir reglur um hámarksfjölda bílastæða við nýbyggingar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T18:05:59.861855+00:00",
+  "id": 1
+ },
+ "89662877cb5eee74": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-16",
+  "url": "https://www.visir.is/g/20262898453d/raungengid-afram-i-haestu-haedum-nema-thad-komi-til-afoll-i-utflutningsgreinum",
+  "title": "Raun­gengið á­fram í hæstu hæðum nema það komi til á­föll í út­flutnings­greinum",
+  "sum": "Afar hátt afurðaverð í sjávarútvegi og verðhækkanir á áli samhliða því að vægi gagnaveranna í útflutningstekjum þjóðarbúsins fer vaxandi mun sennilega valda því að hliðra raungenginu til lengri tíma, að sögn greinenda Acro, en starfsemi gag",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T18:05:59.861855+00:00",
+  "id": 2
+ },
+ "557417dc4ea27cb7": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-16",
+  "url": "https://www.visir.is/g/20262898384d/skoda-hvada-bilastaedi-megi-aftur-taka-i-notkun",
+  "title": "Skoða hvaða bíla­stæði megi aftur taka í notkun",
+  "sum": "Reykjavíkurborg hyggst endurskoða gjaldskyldutíma bílastæða í miðborginni, einfalda rafræna greiðslumáta og fara yfir reglur um hámarksfjölda bílastæða við nýbyggingar. Þá verður einnig skoðaða hvort taka megi einhver stæði aftur í notkun.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T18:05:59.861855+00:00",
+  "id": 3
+ },
+ "d486151977a18124": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-16",
+  "url": "https://byggingar.is/laegsta-tilbodi-hafnad-i-gatnagerd-a-akureyri-finnur-ehf-faer-verkid/?utm_source=rss&utm_medium=rss&utm_campaign=laegsta-tilbodi-hafnad-i-gatnagerd-a-akureyri-finnur-ehf-faer-verkid",
+  "title": "Lægsta tilboði hafnað í gatnagerð á Akureyri – Finnur ehf. fær verkið",
+  "sum": "Lægsta tilboði hafnað í gatnagerð á Akureyri – Finnur ehf. fær verkið Umhverfis- og mannvirkjaráð Akureyrarbæjar hefur samþykkt að ganga til samninga við Finn ehf. um endurgerð Hamarstígs, Engi-, Víði-, Kringlumýrar og Einilundar, þrátt fyr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T18:05:59.861855+00:00",
+  "id": 4
+ },
+ "d0ed2115952426fd": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-16",
+  "url": "https://byggingar.is/endurbaetur-a-rannsoknardeild-hvest-a-isafirdi-bodnar-ut/?utm_source=rss&utm_medium=rss&utm_campaign=endurbaetur-a-rannsoknardeild-hvest-a-isafirdi-bodnar-ut",
+  "title": "13.08.2026 Endurbætur á rannsóknardeild HVEST á Ísafirði boðnar út",
+  "sum": "Endurbætur á rannsóknardeild HVEST á Ísafirði boðnar út Framkvæmdasýslan – Ríkiseignir (FSRE) hefur auglýst útboð vegna umfangsmikilla endurbóta á rannsóknardeild Heilbrigðisstofnunar Vestfjarða (HVEST) á Ísafirði. Verkefnið felur í sér end",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T18:05:59.861855+00:00",
+  "id": 5
  }
 }
