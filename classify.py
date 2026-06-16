@@ -192,8 +192,9 @@ _FOREIGN_TERMS = [
     "bandarík", "kanada", "kanadísk", "mexíkó", "brasilí", "argentín",
     "kína", "kínversk", "kínverj", "japan", "japansk",
     "indland", "indversk", "tyrkland", "tyrknesk", "afrík",
-    # erlendir aðilar sem hafa birst (t.d. Kushner/Trump-paradís í Albaníu)
-    "kushner",
+    # erlendir aðilar / fyrirtæki sem hafa birst (t.d. Kushner/Trump-paradís í
+    # Albaníu; SpaceX-hlutafjárútboð — "útboð" þýðir bæði verkútboð og hlutafjárútboð)
+    "kushner", "spacex",
 ]
 
 # Íslensk akkeri: staðanöfn úr REGION_KEYWORDS auk almennra íslenskra vísana.
@@ -212,6 +213,9 @@ _ICELAND_ANCHORS = [
 
 
 def _iceland_anchor(t: str) -> bool:
+    # Gengisumreikningur ("... íslenskra króna") er EKKI vísbending um íslenska
+    # frétt — algengt í erlendum fjármálafréttum. Fjarlægjum áður en akkeri metin.
+    t = re.sub(r"íslensk\w*\s+krón\w*", " ", t)
     return any(a in t for a in _ICELAND_ANCHORS)
 
 
@@ -375,23 +379,47 @@ def _dedup_signature(title: str) -> str:
     return re.sub(r"\s+", " ", t).strip()
 
 
+def _title_tokens(title: str):
+    """Orðmengi titils (án dagsetningarforskeytis/greinarmerkja) til líkindamats."""
+    s = re.sub(r"^\s*\d{1,2}\.\s*\d{1,2}\.\s*\d{2,4}\s*", "", (title or "").lower())
+    s = re.sub(r"[^0-9a-záéíóúýðþæö ]+", " ", s)
+    return frozenset(w for w in s.split() if len(w) > 2)
+
+
+# Titlar sem deila a.m.k. þetta hlutfall orða teljast sama frétt (endurorðuð
+# nær-eins fyrirsögn, t.d. "... til að byggja þjóðarhöll" vs "... til að hanna og
+# byggja þjóðarhöll"). Hærra en þetta til að sameina ALDREI ólík útboð með
+# formúlukenndum titlum ("X býður út Y").
+_DEDUP_TITLE_SIM = 0.72
+
+
 def dedupe_archive(archive: dict) -> dict:
-    """Fjarlægir tvítekningar úr safninu: sömu frétt frá fleiri en einum miðli
-    (eins titill, óháð dagsetningarforskeyti eða greinarmerkjum). Heldur þeirri
-    færslu sem sást FYRST (elsta 'first_seen') svo röðun og saga haldist stöðug.
-    Aðeins augljósar tvítekningar (nákvæmlega samræmdur titill) eru sameinaðar —
-    ólíkar fréttir með svipaða titla haldast óbreyttar."""
+    """Fjarlægir tvítekningar úr safninu: sömu frétt frá fleiri en einum miðli.
+    Tvítekning = nákvæmlega samræmdur titill (óháð dagsetningarforskeyti/
+    greinarmerkjum) EÐA mjög lík fyrirsögn (orðalíkindi >= _DEDUP_TITLE_SIM).
+    Heldur þeirri færslu sem sást FYRST (elsta 'first_seen') svo röðun og saga
+    haldist stöðug. Ólíkar fréttir með aðeins svipaða titla haldast óbreyttar."""
     seen = {}        # einkenni -> lykill sem haldið er
+    kept = []        # [(tokenset, lykill)] til líkindasamanburðar
     drop = set()
     # elsta 'first_seen' fyrst -> sú færsla verður haldið, seinni tvítekningum sleppt
     for k, r in sorted(archive.items(), key=lambda kv: kv[1].get("first_seen", "")):
-        sig = _dedup_signature(r.get("title", ""))
+        title = r.get("title", "")
+        sig = _dedup_signature(title)
         if not sig:
             continue
-        if sig in seen:
+        toks = _title_tokens(title)
+        is_dup = sig in seen
+        if not is_dup and toks:
+            for toks2, _ in kept:
+                if toks2 and len(toks & toks2) / len(toks | toks2) >= _DEDUP_TITLE_SIM:
+                    is_dup = True
+                    break
+        if is_dup:
             drop.add(k)
         else:
             seen[sig] = k
+            kept.append((toks, k))
     if not drop:
         return archive
     return {k: r for k, r in archive.items() if k not in drop}
