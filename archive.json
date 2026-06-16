@@ -1414,48 +1414,6 @@
   "first_seen": "2026-06-01T09:47:38.400582+00:00",
   "id": 6
  },
- "ae9c2b1f8d81a51f": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-01",
-  "url": "https://byggingar.is/hrod-og-slaem-throun-a-fasteignamarkadi/?utm_source=rss&utm_medium=rss&utm_campaign=hrod-og-slaem-throun-a-fasteignamarkadi",
-  "title": "Hröð og slæm þróun á fast­eigna­markaði",
-  "sum": "Hröð og slæm þróun á fast­eigna­markaði Leigufélög gætu gleypt húsnæðismarkaðinn á Íslandi verði ekkert gert til að laga ástandið á markaði að sögn fasteignasala. Hlutfall íbúða í eigu einstaklinga lækkar hratt. Í dag er 61 prósent íbúðarhú",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-01T09:47:38.400582+00:00",
-  "id": 7
- },
- "b45d39842d7a16d0": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-01",
-  "url": "https://byggingar.is/verktakar-hafa-reist-ser-hurdaras-um-oxl/?utm_source=rss&utm_medium=rss&utm_campaign=verktakar-hafa-reist-ser-hurdaras-um-oxl",
-  "title": "Verktakar hafa reist sér hurðarás um öxl",
-  "sum": "Verktakar hafa reist sér hurðarás um öxl Verktakar hafa reist sér hurðarás um öxl. Það stefnir í framkvæmdastopp í íbúðauppbyggingu að mati fasteignasala. 1700 nýjar íbúðir seljast ekki og verktakar sitja uppi með himinháan vaxtakostnað. Va",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-01T09:47:38.400582+00:00",
-  "id": 8
- },
  "8f7f0f572e5caa74": {
   "region": "Norðurland vestra",
   "type": "Innviðir",
@@ -1665,27 +1623,6 @@
   "tsort": "",
   "first_seen": "2026-06-02T07:39:07.104885+00:00",
   "id": 2
- },
- "0ece4dab4f5e9671": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-02",
-  "url": "https://byggingar.is/ljosvist-i-ibudum-tryggd-i-nyju-akvaedi/?utm_source=rss&utm_medium=rss&utm_campaign=ljosvist-i-ibudum-tryggd-i-nyju-akvaedi",
-  "title": "Ljósvist í íbúðum tryggð í nýju ákvæði",
-  "sum": "Ljósvist í íbúðum tryggð í nýju ákvæði Ný ákvæði um ljósvist í byggingarreglugerð eiga að tryggja að allar íbúðir njóti héðan í frá nægrar dagsbirtu. Sérfræðingar segja ljósvist hafa setið á hakanum árum saman við þéttingu byggðar, með alva",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-02T07:39:07.104885+00:00",
-  "id": 3
  },
  "09bf76ee95243ba0": {
   "region": "Landið allt",
@@ -1918,27 +1855,6 @@
   "tsort": "",
   "first_seen": "2026-06-03T13:15:45.636458+00:00",
   "id": 8
- },
- "cdfb0e5b343c62fe": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Vegagerðin (verkkaupi)"
-  ],
-  "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-03",
-  "url": "https://byggingar.is/fara-i-vegagerd-vegna-solmyrkvans/?utm_source=rss&utm_medium=rss&utm_campaign=fara-i-vegagerd-vegna-solmyrkvans",
-  "title": "Fara í vegagerð vegna sólmyrkvans",
-  "sum": "Fara í vegagerð vegna sólmyrkvans Tvö verkefni hjá Vegagerðinni eru sérstaklega tilgreind vegna sólmyrkvans í ágúst nk. Á Örlygshafnarvegi um Hvallátur og á milli Hvalskers og Skápadals verður vegurinn endurnýjaður. Sem dæmi um verkefni á h",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-03T13:15:45.636458+00:00",
-  "id": 4
  },
  "91e7737650e967d1": {
   "region": "Suðurnes",
@@ -2341,27 +2257,6 @@
   "first_seen": "2026-06-04T16:20:54.588961+00:00",
   "id": 4
  },
- "fdf195dac60f8bfd": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Vegagerðin (verkkaupi)"
-  ],
-  "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-04",
-  "url": "https://byggingar.is/ahrif-sundabruar-neikvaedari-en-sundaganga-ad-mati-hms/?utm_source=rss&utm_medium=rss&utm_campaign=ahrif-sundabruar-neikvaedari-en-sundaganga-ad-mati-hms",
-  "title": "Áhrif Sundabrúar neikvæðari en Sundaganga að mati HMS",
-  "sum": "Áhrif Sundabrúar neikvæðari en Sundaganga að mati HMS Húsnæðis-, mannvirkja- og skipulagsstofnun telur að Sundabrú muni almennt hafa neikvæðari áhrif en Sundagöng. Óvissa er um áhrif á umhverfisþætti og mikilvægt að lágmarka þá áður en leyf",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-04T16:20:54.588961+00:00",
-  "id": 5
- },
  "5b2f063f78b2c65c": {
   "region": "Suðurnes",
   "type": "Innviðir",
@@ -2466,27 +2361,6 @@
   "tsort": "",
   "first_seen": "2026-06-05T12:07:16.516029+00:00",
   "id": 3
- },
- "85ed3e11ac0169a9": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-05",
-  "url": "https://byggingar.is/tvaer-vindmyllur-i-vadolduveri-risnar/?utm_source=rss&utm_medium=rss&utm_campaign=tvaer-vindmyllur-i-vadolduveri-risnar",
-  "title": "Tvær vindmyllur í Vaðölduveri risnar",
-  "sum": "Tvær vindmyllur í Vaðölduveri risnar Framkvæmdum í Vaðöldveri, fyrsta vindorkuveri landsins, miðar vel, segir yfirverkefnastjóri. Tvær vindmyllur hafa risið á tæplega tveimur vikum. Tvær vindmyllur af 28 hafa verið reistar á Vaðöldu fyrir o",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-05T12:07:16.516029+00:00",
-  "id": 4
  },
  "b874b4f625b1ac9b": {
   "region": "Suðurnes",
@@ -2760,27 +2634,6 @@
   "tsort": "2026-01",
   "first_seen": "2026-06-08T13:05:35.079448+00:00",
   "id": 5
- },
- "34821a7bd9b6f3b5": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-08",
-  "url": "https://byggingar.is/framkvaemdir-naesta-arid/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-naesta-arid",
-  "title": "Framkvæmdir næsta árið",
-  "sum": "Framkvæmdir næsta árið Hluta Laugavegar hefur nú verið lokað vegna framkvæmda í tengslum við fyrstu lotu borgarlínu. Um er að ræða kaflann frá Hlemmi upp að Katrínartúni og gert er ráð fyrir því að framkvæmdir standi fram á næsta vor. Hefur",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-08T13:05:35.079448+00:00",
-  "id": 6
  },
  "4cf8a96ac6f06c0e": {
   "region": "Suðurland",
@@ -3601,27 +3454,6 @@
   "first_seen": "2026-06-11T12:44:04.991301+00:00",
   "id": 10
  },
- "cb84e52944eb4e14": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-11",
-  "url": "https://byggingar.is/nyjar-ibudir-seljast-ekki-a-asettu-verdi/?utm_source=rss&utm_medium=rss&utm_campaign=nyjar-ibudir-seljast-ekki-a-asettu-verdi",
-  "title": "Nýjar íbúðir seljast ekki á ásettu verði",
-  "sum": "Nýjar íbúðir seljast ekki á ásettu verði „Það sem einkennir markaðinn núna er að nýjar íbúðir seljast ekki á ásettu verði,“ segir Jónas Atli Gunnarsson yfirhagfræðingur HMS. Á höfuðborgarsvæðinu eru 1.486 nýjar íbúðir óseldar, en 2.232 eldr",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-11T12:44:04.991301+00:00",
-  "id": 11
- },
  "9d387999155c81fd": {
   "region": "Norðurland eystra",
   "type": "Innviðir",
@@ -4000,27 +3832,6 @@
   "first_seen": "2026-06-13T15:02:03.676444+00:00",
   "id": 1
  },
- "e167f51bbd2a303e": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-13",
-  "url": "https://byggingar.is/myndir-hotelturninn-a-skulagotu-er-naer-tilbuinn/?utm_source=rss&utm_medium=rss&utm_campaign=myndir-hotelturninn-a-skulagotu-er-naer-tilbuinn",
-  "title": "Myndir: Hótelturninn á Skúlagötu er nær tilbúinn",
-  "sum": "Hótelturninn á Skúlagötu er nær tilbúinn Uppbygging 17 hæða hótelturns á Skúlagötu 26 í Reykjavík er langt komin og má gera ráð fyrir að framkvæmdum ljúki í sumar. Með því er komið í ljós hvernig byggingin fellur inn í borgarlandslagið. Hún",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-13T15:02:03.676444+00:00",
-  "id": 2
- },
  "7371e91ec9e1280d": {
   "region": "Norðurland eystra",
   "type": "Innviðir",
@@ -4252,27 +4063,6 @@
   "first_seen": "2026-06-15T11:47:30.542792+00:00",
   "id": 3
  },
- "88dee87057c2fbfb": {
-  "region": "Suðurland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Útboð",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-15",
-  "url": "https://byggingar.is/landsnet-bydur-ut-staekkun-tengivirkis-i-thorlakshofn-2/?utm_source=rss&utm_medium=rss&utm_campaign=landsnet-bydur-ut-staekkun-tengivirkis-i-thorlakshofn-2",
-  "title": "14.07.2026 Landsnet býður út stækkun tengivirkis í Þorlákshöfn",
-  "sum": "Landsnet býður út stækkun tengivirkis í Þorlákshöfn Landsnet hefur auglýst útboð vegna stækkunar 66 kV tengivirkis í Þorlákshöfn. Verkefnið felur meðal annars í sér hönnun, afhendingu og uppsetningu háspennubúnaðar ásamt byggingu nýs húss f",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-15T11:47:30.542792+00:00",
-  "id": 4
- },
  "6681ca9ff2781b61": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -4293,27 +4083,6 @@
   "tsort": "2026-01",
   "first_seen": "2026-06-15T11:47:30.542792+00:00",
   "id": 5
- },
- "0597f048b1d0e3b1": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-15",
-  "url": "https://byggingar.is/osammala-um-ibudathorf-a-langanesi/?utm_source=rss&utm_medium=rss&utm_campaign=osammala-um-ibudathorf-a-langanesi",
-  "title": "Ósammála um íbúðaþörf á Langanesi",
-  "sum": "Ósammála um íbúðaþörf á Langanesi Húsnæðis- og mannvirkjastofnun og sveitarstjórnina í Langanesbyggð greinir á um þörf fyrir leiguíbúðir. Langnesingar vilja halda áfram uppbyggingu og koma hreyfingu á húsnæðismarkaðinn. Íbúðafélagið Brák he",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-15T11:47:30.542792+00:00",
-  "id": 6
  },
  "2a883b18178ad15e": {
   "region": "Norðurland eystra",
@@ -4695,48 +4464,6 @@
   "tsort": "",
   "first_seen": "2026-06-16T09:55:57.907198+00:00",
   "id": 6
- },
- "1f5993766c789d09": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-16",
-  "url": "https://byggingar.is/myndir-burdarverk-fossvogsbruar-skagar-upp-ur-sae/?utm_source=rss&utm_medium=rss&utm_campaign=myndir-burdarverk-fossvogsbruar-skagar-upp-ur-sae",
-  "title": "Myndir: Burðarverk Fossvogsbrúar skagar upp úr sæ",
-  "sum": "Burðarverk Fossvogsbrúar skagar upp úr sæ Framkvæmdum við Fossvogsbrú miðar vel áfram að sögn yfirverkstjóra og eru nú komnar á það stig að sjá má burðarverk brúarinnar skaga upp úr lygnu hafi milli Kársness og Skerjafjarðar. Allir staurarn",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-16T09:55:57.907198+00:00",
-  "id": 7
- },
- "6ef48a381c6e4bac": {
-  "region": "Norðurland eystra",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "9.100 m²",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Í byggingu",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-16",
-  "url": "https://byggingar.is/tilbod-reita-i-uppbyggingu-hjukrunarheimilis-valid/?utm_source=rss&utm_medium=rss&utm_campaign=tilbod-reita-i-uppbyggingu-hjukrunarheimilis-valid",
-  "title": "Til­boð Reita í upp­byggingu hjúkrunarheimilis valið",
-  "sum": "Til­boð Reita í upp­byggingu hjúkrunarheimilis valið Tilboð Reita í uppbyggingu á nýju hjúkrunarheimili á Akureyri var valið af Framkvæmdasýslunni – Ríkiseignum í útboði sem lauk nýlega. Hjúkrunarheimilið mun rísa við Þursaholt sex og rúma ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-16T09:55:57.907198+00:00",
-  "id": 8
  },
  "a5c02bfd8f31f263": {
   "region": "Vestfirðir",
