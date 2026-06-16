@@ -2298,27 +2298,6 @@
   "first_seen": "2026-06-04T11:51:38.686769+00:00",
   "id": 1
  },
- "9242c16f0a504e06": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-04",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/04/banaslys_i_umferdinni_metinn_ohaefur_til_aksturs/",
-  "title": "Banaslys í umferðinni: Metinn óhæfur til aksturs",
-  "sum": "Ökumaður sem lést í umferðarslysi við gatnamót Vatnagarða og Sundagarða í Reykjavík í september á síðasta ári hafði verið metinn óhæfur til aksturs vegna heilsufars aðeins nokkrum dögum áður en slysið varð.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-04T16:20:54.588961+00:00",
-  "id": 1
- },
  "047363d804ea329c": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -2339,27 +2318,6 @@
   "tsort": "",
   "first_seen": "2026-06-04T16:20:54.588961+00:00",
   "id": 2
- },
- "5512aa875c47284d": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-04",
-  "url": "https://www.visir.is/g/20262893211d/an-okurettinda-og-ohaefur-til-aksturs-thegar-banaslysid-vard",
-  "title": "Án öku­réttinda og ó­hæfur til aksturs þegar bana­slysið varð",
-  "sum": "Karlmaður á áttræðisaldri sem lést í bílslysi á gatnamótum Sundagarða og Vatnagarða í september í fyrra var án ökuréttinda og hafði verið metinn óhæfur til aksturs vegna heilsufars. Maðurinn var auk þess ekki í belti þegar slysið varð og te",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-04T16:20:54.588961+00:00",
-  "id": 3
  },
  "392afc172e7ca653": {
   "region": "Höfuðborgarsvæðið",
@@ -4526,5 +4484,300 @@
   "tsort": "",
   "first_seen": "2026-06-15T15:12:59.488276+00:00",
   "id": 7
+ },
+ "2bc14fe0e43a4a75": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-15",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/15/myndir_burdarverk_fossvogsbruar_skagar_upp_ur_sae/",
+  "title": "Myndir: Burðarverk Fossvogsbrúar skagar upp úr sæ",
+  "sum": "Framkvæmdum við Fossvogsbrú miðar vel áfram að sögn yfirverkstjóra og eru nú komnar á það stig að sjá má burðarverk brúarinnar skaga upp úr lygnu hafi milli Kársness og Skerjafjarðar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T09:55:57.907198+00:00",
+  "id": 11
+ },
+ "1ddfe6ce0946c537": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-06-16",
+  "url": "https://www.visir.is/g/20262898097d/segir-raunhaeft-ad-thjodarhollin-verdi-risin-arid-2030",
+  "title": "Segir raun­hæft að Þjóðarhöllin verði risin árið 2030",
+  "sum": "Teikningar fyrir Þjóðarhöllina, fjölnota íþróttamannvirki sem á að rísa í Laugardal, voru kynntar í gær. Nú er stefnt að því að ljúka verkinu árið 2030.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T09:55:57.907198+00:00",
+  "id": 1
+ },
+ "d03d3607cf83eb85": {
+  "region": "Norðurland vestra",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-16",
+  "url": "https://www.visir.is/g/20262897963d/hunvetningar-sja-fram-a-mikla-fjolgun-starfa",
+  "title": "Hún­vetningar sjá fram á mikla fjölgun starfa",
+  "sum": "Framkvæmdir eru hafnar við tvöföldun gagnavers Borealis við Blönduós til að mæta þörfum gervigreindarfyrirtækja og kalla þær á allt að tvöhundruð manns í vinnu á verktíma. Oddviti Húnabyggðar segir að milli þrjátíu og fjörutíu ný varanleg s",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T09:55:57.907198+00:00",
+  "id": 2
+ },
+ "6596b4229e0928f3": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-06-15",
+  "url": "https://www.visir.is/g/20262897960d/tilbod-reita-i-uppbyggingu-hjukrunarheimilis-valid",
+  "title": "Til­boð Reita í upp­byggingu hjúkrunarheimilis valið",
+  "sum": "Tilboð Reita í uppbyggingu á nýju hjúkrunarheimili á Akureyri var valið af Framkvæmdasýslunni – Ríkiseignum í útboði sem lauk nýlega. Hjúkrunarheimilið mun rísa við Þursaholt sex og rúma 140 íbúa.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T09:55:57.907198+00:00",
+  "id": 12
+ },
+ "1eb581ce03d063d2": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-16",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-16-framtid-sundabrautar-og-vandraedi-herjolfs-i-brennidepli-478309/",
+  "title": "Framtíð Sundabrautar og vandræði Herjólfs í brennidepli",
+  "sum": "Eyjólfur Ármannsson innviðaráðherra ræddi samgönguáætlun í Kastljósi kvöldsins. Hann sagði unnið að stofnun innviðafélags sem myndi halda utan um stórar framkvæmdir á borð við Fljótagöng og mögulega Sundabraut, en stefnt er á að hefja framk",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T09:55:57.907198+00:00",
+  "id": 3
+ },
+ "b14d02064543788e": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Stór",
+  "scaleFig": "8,9 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-16",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-16-reitir-aforma-uppbyggingu-a-nyju-hjukrunarheimili-a-akureyri-478310/",
+  "title": "Reitir áforma uppbyggingu á nýju hjúkrunarheimili á Akureyri",
+  "sum": "Tilboð Reita í uppbyggingu nýs hjúkrunarheimilis á Akureyri hefur verið valið hagstæðast í útboði Framkvæmdasýslunnar – Ríkiseigna (FSRE). Hjúkrunarheimilið mun rísa við Þursaholt 6 og verða um 9.100 fermetrar að stærð með rými fyrir 140 íb",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T09:55:57.907198+00:00",
+  "id": 4
+ },
+ "c3b32a16b68875ce": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "16,8 ma.kr.",
+  "verk": [
+   "ÍAV",
+   "Ístak"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-15",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-15-framkvaemdir-vid-nyja-thjodarholl-hefjast-i-haust-478292/",
+  "title": "Framkvæmdir við nýja þjóðarhöll hefjast í haust",
+  "sum": "Íslenskir aðalverktakar eiga að hanna og byggja nýja þjóðarhöll í Laugardal og hefjast framkvæmdir í haust. Verkefnisstjóri er bjartsýnn á að höllin verði tekin í notkun árið 2030. Tvö endanleg tilboð bárust í samkeppnisútboði Kostnaður hlj",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T09:55:57.907198+00:00",
+  "id": 13
+ },
+ "430482e8fec3039f": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-15",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-15-miltisbrandsgrafir-vida-i-borgarlandinu-477828/",
+  "title": "Miltisbrandsgrafir víða í borgarlandinu",
+  "sum": "Reglulega finnst mengaður jarðvegur hér á landi eða hann mengast í óhöppum sem verða við hinar og þessar framkvæmdir. Ekki eru margar leiðir í boði hér á landi til að farga honum. Mikilvægt er að merkja alla staði á landinu þar sem mengaðan",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T09:55:57.907198+00:00",
+  "id": 14
+ },
+ "79b750af12dda765": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-16",
+  "url": "https://byggingar.is/innanhussframkvaemdir-a-medferdarkjarna-nys-landspitala-a-fullri-ferd/?utm_source=rss&utm_medium=rss&utm_campaign=innanhussframkvaemdir-a-medferdarkjarna-nys-landspitala-a-fullri-ferd",
+  "title": "Innanhússframkvæmdir á meðferðarkjarna Nýs Landspítala á fullri ferð",
+  "sum": "Innanhússframkvæmdir á meðferðarkjarna Nýs Landspítala á fullri ferð Framkvæmdir við meðferðarkjarna Nýs Landspítala halda áfram af fullum krafti og vinna við innanhússfrágang legudeilda gengur vel. Verkið er nú á fjölmörgum stigum samtímis",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T09:55:57.907198+00:00",
+  "id": 5
+ },
+ "d05d631c99a5dd1b": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-16",
+  "url": "https://byggingar.is/vegagerdin-bydur-ut-thurrfraesingu-og-tvofalda-klaedingu-a-nordursvaedi/?utm_source=rss&utm_medium=rss&utm_campaign=vegagerdin-bydur-ut-thurrfraesingu-og-tvofalda-klaedingu-a-nordursvaedi",
+  "title": "30.06.2026 Vegagerðin býður út þurrfræsingu og tvöfalda klæðingu á Norðursvæði",
+  "sum": "Vegagerðin býður út þurrfræsingu og tvöfalda klæðingu á Norðursvæði Vegagerðin hefur auglýst útboð vegna þurrfræsingar og tvöfaldrar klæðingar á vegum á Norðursvæði sumarið 2026. Verkið er hluti af reglubundnu viðhaldi vegakerfisins og miða",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T09:55:57.907198+00:00",
+  "id": 6
+ },
+ "1f5993766c789d09": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-16",
+  "url": "https://byggingar.is/myndir-burdarverk-fossvogsbruar-skagar-upp-ur-sae/?utm_source=rss&utm_medium=rss&utm_campaign=myndir-burdarverk-fossvogsbruar-skagar-upp-ur-sae",
+  "title": "Myndir: Burðarverk Fossvogsbrúar skagar upp úr sæ",
+  "sum": "Burðarverk Fossvogsbrúar skagar upp úr sæ Framkvæmdum við Fossvogsbrú miðar vel áfram að sögn yfirverkstjóra og eru nú komnar á það stig að sjá má burðarverk brúarinnar skaga upp úr lygnu hafi milli Kársness og Skerjafjarðar. Allir staurarn",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T09:55:57.907198+00:00",
+  "id": 7
+ },
+ "6ef48a381c6e4bac": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "9.100 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-16",
+  "url": "https://byggingar.is/tilbod-reita-i-uppbyggingu-hjukrunarheimilis-valid/?utm_source=rss&utm_medium=rss&utm_campaign=tilbod-reita-i-uppbyggingu-hjukrunarheimilis-valid",
+  "title": "Til­boð Reita í upp­byggingu hjúkrunarheimilis valið",
+  "sum": "Til­boð Reita í upp­byggingu hjúkrunarheimilis valið Tilboð Reita í uppbyggingu á nýju hjúkrunarheimili á Akureyri var valið af Framkvæmdasýslunni – Ríkiseignum í útboði sem lauk nýlega. Hjúkrunarheimilið mun rísa við Þursaholt sex og rúma ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T09:55:57.907198+00:00",
+  "id": 8
+ },
+ "a5c02bfd8f31f263": {
+  "region": "Vestfirðir",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-16",
+  "url": "https://byggingar.is/framkvaemdir-vid-nyja-kalkorungaverksmidju-i-sudavik-ganga-vel/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-vid-nyja-kalkorungaverksmidju-i-sudavik-ganga-vel",
+  "title": "Framkvæmdir við nýja kalkörungaverksmiðju í Súðavík ganga vel",
+  "sum": "Framkvæmdir við nýja kalkörungaverksmiðju í Súðavík ganga vel Framkvæmdir hófust um miðjan apríl við byggingu á nýrru kalkþörungaverksmiðju á Langeyrinni í Álftafirði á vegum íslenska kalkörungaverksmiðjufélagsins ehf á Bíldudal. Félagið er",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-16T09:55:57.907198+00:00",
+  "id": 9
+ },
+ "32ba4ada0e4bfca0": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-16",
+  "url": "https://byggingar.is/thorlakshofn-bydur-ut-dypkunarframkvaemdir-fyrir-arid-2026/?utm_source=rss&utm_medium=rss&utm_campaign=thorlakshofn-bydur-ut-dypkunarframkvaemdir-fyrir-arid-2026",
+  "title": "30.06.2026 Þorlákshöfn býður út dýpkunarframkvæmdir fyrir árið 2026",
+  "sum": "Þorlákshöfn býður út dýpkunarframkvæmdir fyrir árið 2026 Verkið felur í sér dýpkun hafnarsvæðis með það að markmiði að viðhalda og bæta aðgengi skipa að höfninni. Samkvæmt útboðsgögnum er áætlað að dýpka alls um 16.000 rúmmetra (m³) af efni",
+  "tender": "2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-01",
+  "first_seen": "2026-06-16T09:55:57.907198+00:00",
+  "id": 10
  }
 }
