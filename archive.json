@@ -4779,5 +4779,68 @@
   "tsort": "",
   "first_seen": "2026-06-17T12:50:56.364742+00:00",
   "id": 5
+ },
+ "60d842c7f21ac3df": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-17",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/17/halendisvegir_odum_ad_opnast/",
+  "title": "Hálendisvegir óðum að opnast",
+  "sum": "Kjalvegur, sú hálendisleið sem jafnan opnast fyrst á vorin, er nú orðinn fær öllum bílum. Vegagerðin lét fyrir nokkrum dögum hefla veginn frá Gullfossi og inn á Hveravelli. Að norðan úr Blöndudal er vegurinn að stórum hluta uppbyggður og le",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-17T16:39:27.933640+00:00",
+  "id": 1
+ },
+ "e2ae843e15f82340": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-06-17",
+  "url": "https://www.visir.is/g/20262898758d/til-hamingju-med-thjodarholl-",
+  "title": "Til hamingju með Þjóðarhöll!",
+  "sum": "Loksins, loksins! Það er gríðarlega stór áfangi að hinu langa og margflókna útboðs- og samningaferli vegna Þjóðarhallar sé lokið - þannig að hægt sé að ráðast í þessa mikilvægu framkvæmd.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-17T16:39:27.933640+00:00",
+  "id": 2
+ },
+ "fe03df600b0c2793": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-17",
+  "url": "https://byggingar.is/steypustodin-namur-med-eina-tilbodid-i-efnisvinnslu-a-vesturlandi/?utm_source=rss&utm_medium=rss&utm_campaign=steypustodin-namur-med-eina-tilbodid-i-efnisvinnslu-a-vesturlandi",
+  "title": "Steypustöðin námur með eina tilboðið í efnisvinnslu á Vesturlandi",
+  "sum": "Steypustöðin námur með eina tilboðið í efnisvinnslu á Vesturlandi Vegagerðin hefur opnað tilboð í útboðinu „Efnisvinnsla á Vesturlandi 2026–2027, malarslitlag“. Eitt tilboð barst í verkið og var það frá Steypustöðinni námum ehf. í Hafnarfir",
+  "tender": "",
+  "start": "2026",
+  "end": "2027",
+  "tsort": "2026-01",
+  "first_seen": "2026-06-17T16:39:27.933640+00:00",
+  "id": 3
  }
 }
