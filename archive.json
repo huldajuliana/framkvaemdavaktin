@@ -4947,5 +4947,68 @@
   "tsort": "",
   "first_seen": "2026-06-18T09:17:19.184143+00:00",
   "id": 8
+ },
+ "38e4f405d86ebffd": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "5.620 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-18",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/18/hekluhusid_vikur_fyrir_nyjum_ibudum/",
+  "title": "Hekluhúsið víkur fyrir nýjum íbúðum",
+  "sum": "Byggingarfulltrúinn í Reykjavík hefur samþykkt niðurrif Hekluhússins við Laugaveg 174. Húsið er 5.620 fermetrar og hýsti starfsemi bílaumboðsins Heklu í áratugi. Samkvæmt deiliskipulagi verða byggðar þarna íbúðir auk verslunar- og þjónustuh",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-18T12:23:38.499262+00:00",
+  "id": 1
+ },
+ "94a1a35cc85351af": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-18",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/18/dagur_fagnar_hollinni_loksins_loksins/",
+  "title": "Dagur fagnar höllinni: „Loksins, loksins!“",
+  "sum": "Dagur B. Eggertsson, fyrrverandi borgarstjóri Reykjavíkur og sitjandi þingmaður Samfylkingarinnar, segir það mikil gleðitíðindi að loksins sjái fyrir upphaf byggingarframkvæmda við Þjóðarhöll í Laugardalnum í Reykjavík, þó að hann hafi búis",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-18T12:23:38.499262+00:00",
+  "id": 2
+ },
+ "dc029374c3ecbb0c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-18",
+  "url": "https://www.visir.is/g/20262898998d/hyggjast-sekta-leigusala-sem-skra-ekki-samninga",
+  "title": "Hyggjast sekta leigu­sala sem skrá ekki samninga",
+  "sum": "Vísbendingar eru um að væntingar séu litlar um hraða lækkun vaxta á næstunni segir yfirhagfræðingur Húsnæðis- og mannvirkjastofnunar. Þá séu áhrif vaxtahækkana síðustu mánaða ekki að fullu komin fram á fasteignamarkaði.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-18T12:23:38.499262+00:00",
+  "id": 3
  }
 }
