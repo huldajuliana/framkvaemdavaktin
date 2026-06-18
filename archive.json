@@ -4654,69 +4654,6 @@
   "first_seen": "2026-06-17T12:50:56.364742+00:00",
   "id": 6
  },
- "e8e6f094cf3040b8": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – viðskipti",
-  "date": "2026-06-17",
-  "url": "https://www.mbl.is/vidskipti/frettir/2026/06/17/nytt_endurskodunar_og_radgjafarfyrirtaeki/",
-  "title": "Nýtt endurskoðunar- og ráðgjafarfyrirtæki",
-  "sum": "Stofnað hefur verið nýtt endurskoðunar- og ráðgjafarfyrirtæki undir merkjum LOGOS, LOGOS endurskoðun & ráðgjöf ehf. Þorsteinn Pétur Guðjónsson, fyrrverandi forstjóri Deloitte, verður forstjóri og leiðir uppbyggingu félagsins.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-17T12:50:56.364742+00:00",
-  "id": 1
- },
- "44f57d8a6dab559c": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-17",
-  "url": "https://www.visir.is/g/20262898677d/nytt-endurskodunar-og-radgjafarfyrirtaeki-undir-merkjum-logos",
-  "title": "Nýtt endur­skoðunar- og ráð­gjafar­fyrir­tæki undir merkjum LOGOS",
-  "sum": "Stofnað hefur verið nýtt endurskoðunar- og ráðgjafarfyrirtæki undir merkjum LOGOS, LOGOS endurskoðun & ráðgjöf ehf. Þorsteinn Pétur Guðjónsson, fyrrverandi forstjóri Deloitte, verður forstjóri og leiðir uppbyggingu félagsins.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-17T12:50:56.364742+00:00",
-  "id": 2
- },
- "35c6cd3b19043de2": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-17",
-  "url": "https://www.visir.is/g/20262898100d/radleggur-midflokksmonnum-ad-breyta-um-ton",
-  "title": "Ráð­leggur Mið­flokksmönnum að breyta um tón",
-  "sum": "Hildur Björnsdóttir borgarstjóri segir að sér hafi orðið ljóst að sín biði uppbyggingarstarf í Sjálfstæðisflokknum eftir að flokkurinn var útilokaður úr meirihluta fyrir fjórum árum síðan. Hún ráðleggur Miðflokksmönnum að breyta um tón, spu",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-17T12:50:56.364742+00:00",
-  "id": 3
- },
  "8299cbcd401021c4": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -4842,5 +4779,173 @@
   "tsort": "2026-01",
   "first_seen": "2026-06-17T16:39:27.933640+00:00",
   "id": 3
+ },
+ "80821b49cae2b09d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-18",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/18/hundrada_thusunda_kostnadur_a_ibua/",
+  "title": "Hundraða þúsunda kostnaður á íbúa",
+  "sum": "Mikill kostnaður blasir við á komandi árum við uppbyggingu og rekstur fráveitukerfa sveitarfélaga til að uppfylla núgildandi reglur og ekki síður til að mæta auknum kröfum í fráveitutilskipun ESB, sem innleiða þarf hér á landi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-18T09:17:19.184143+00:00",
+  "id": 1
+ },
+ "2426137f2ede83cb": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "Vísir – allt",
+  "date": "2026-06-18",
+  "url": "https://www.visir.is/g/20262898873d/mikilvaegur-afangi-fyrir-nordurland-og-landid-allt",
+  "title": "Mikil­vægur á­fangi fyrir Norður­land og landið allt",
+  "sum": "Í dag, fimmtudaginn 18. júní 2026, verður tekin fyrsta skóflustungan að nýrri legudeild Sjúkrahússins á Akureyri. Það er stór stund fyrir sjúkrahúsið, starfsfólkið og samfélagið allt.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-18T09:17:19.184143+00:00",
+  "id": 2
+ },
+ "3feccc7cb51c8bc1": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Vísir – allt",
+  "date": "2026-06-18",
+  "url": "https://www.visir.is/g/20262898854d/throunin-i-tha-att-ad-verda-enn-meiri-kaupendamarkadur",
+  "title": "Þróunin í þá átt að verða enn meiri kaup­enda­markaður",
+  "sum": "Fasteignamarkaðurinn á Íslandi er enn í aðlögunarfasa með raunverðslækkunum og hægari sölu. Auglýsingatími íbúða hefur lengst töluvert undanfarið en tæplega fjórðungur allra íbúða sem auglýstar voru til sölu í byrjun júní hafði verið á sölu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-18T09:17:19.184143+00:00",
+  "id": 3
+ },
+ "73bce6a7c38e2d41": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-18",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-18-faekka-ferdum-straetisvagna-a-landsbyggdinni-478542/",
+  "title": "Fækka ferðum strætisvagna á landsbyggðinni",
+  "sum": "Vegagerðin fækkar ferðum á þremur leiðum landsbyggðastrætisvagna og leggur tvær niður. 25 leiðir eru í leiðarkerfinu sem liggur um allt land. Leiðirnar fimm taka breytingum í haust að undanskilinni leið 61 um Vestfirði sem verður ekki ekin ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-18T09:17:19.184143+00:00",
+  "id": 4
+ },
+ "e32ba1f374011c37": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-18",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-18-fjorda-hver-ibud-meira-en-ar-a-solulista-478540/",
+  "title": "Fjórða hver íbúð meira en ár á sölulista",
+  "sum": "Mjög hefur hægt á fasteignamarkaði og nú er svo komið að nærri fjórða hver íbúð hefur verið á söluskrá í meira en tólf mánuði. Fyrir ári síðan átti það við um rúmlega sjöttu hverja íbúð. Sala nýrra íbúða gengur treglegar en áður. Helmingur ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-18T09:17:19.184143+00:00",
+  "id": 5
+ },
+ "5b685218801a7561": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-17",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-17-staekkun-mjoeyrarhafnar-lyftistong-fyrir-samfelagid-478516/",
+  "title": "Stækkun Mjóeyrarhafnar lyftistöng fyrir samfélagið",
+  "sum": "Til stendur að stækka Mjóeyrarhöfn við Reyðarfjörð og verður allt að tíu milljörðum króna varið í uppbyggingu til ársins 2040. Framkvæmdirnar voru kynntar á íbúafundi á Reyðarfirði í gær. Verkið verður unnið í áföngum en meðal annars stendu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-18T09:17:19.184143+00:00",
+  "id": 7
+ },
+ "f61bbab785fd0d47": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-18",
+  "url": "https://byggingar.is/22-06-2026-dalvikurbyggd-bydur-ut-vetrarthjonustu-fyrir-komandi-vetur/?utm_source=rss&utm_medium=rss&utm_campaign=22-06-2026-dalvikurbyggd-bydur-ut-vetrarthjonustu-fyrir-komandi-vetur",
+  "title": "22.06.2026 Dalvíkurbyggð býður út vetrarþjónustu fyrir komandi vetur",
+  "sum": "Dalvíkurbyggð býður út vetrarþjónustu fyrir komandi vetur Dalvíkurbyggð hefur auglýst útboð á vetrarþjónustu fyrir sveitarfélagið. Um er að ræða þjónustusamning sem skipt er upp í tvo aðskilda samningshluta samkvæmt útboðsgögnum. Consensa s",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-18T09:17:19.184143+00:00",
+  "id": 6
+ },
+ "a2c1461b1a9d1a17": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-17",
+  "url": "https://byggingar.is/nyr-hringvegur-um-hornafjord-opnadur-24-juni-leidin-styttist-um-taepa-15-kilometra/?utm_source=rss&utm_medium=rss&utm_campaign=nyr-hringvegur-um-hornafjord-opnadur-24-juni-leidin-styttist-um-taepa-15-kilometra",
+  "title": "Nýr Hringvegur um Hornafjörð opnaður 24. júní – leiðin styttist um tæpa 15 kílómetra",
+  "sum": "Nýr Hringvegur um Hornafjörð opnaður 24. júní – leiðin styttist um tæpa 15 kílómetra Nýr Hringvegur um Hornafjörð verður formlega opnaður miðvikudaginn 24. júní 2026 klukkan 15:00. Með framkvæmdinni styttist Hringvegurinn um 12 kílómetra og",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-18T09:17:19.184143+00:00",
+  "id": 8
  }
 }
