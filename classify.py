@@ -134,6 +134,11 @@ _HARD_NEGATIVES = [
     # þingfundir / þingsköp — frétt um þingfundinn SJÁLFAN (slit, fundarhald,
     # gagnrýni á boðun) er ekki byggingarfrétt þótt rætt sé um innviðafrumvörp.
     "þingfund",
+    # flokkapólitík / innanflokksmál — t.d. "Ráðleggur Miðflokksmönnum að breyta
+    # um tón" (kveikir á "uppbygging" úr "uppbyggingarstarf í flokknum"). Höfnum
+    # AÐEINS á ávarpi flokksmanna — EKKI á flokksheitunum sjálfum, því innviðafréttir
+    # nefna oft flokka (bæjarstjórnir sem deila um framkvæmdir).
+    "miðflokksmönn",
     # ferjusiglingar / áætlunarferðir — rekstur farþegaferja er ekki framkvæmd.
     # (Vegagerðin nefnd sem útgerðaraðili ferju má ekki kveikja á "vegagerð".)
     "áætlunarferð",
@@ -152,9 +157,10 @@ _HARD_NEGATIVES = [
     # "slys" nær banaslys/umferðarslys/bílslys/vinnuslys; "lést"/"fórst"/"lét lífið"
     # ná dauðsföllum. ("andlát" er þegar á listanum hér að ofan.)
     "slys", "lést", "fórst", "lét lífið", "drukkn",
-    # viðskipti / ráðningar — starfsmannafréttir ("uppbygging" fyrirtækis er ekki
-    # mannvirkjagerð), t.d. "ráðin í starf markaðsstjóra".
-    "markaðsstjór",
+    # viðskipti / ráðningar — starfsmanna- og fyrirtækjafréttir ("uppbygging"
+    # fyrirtækis/félags er ekki mannvirkjagerð), t.d. "ráðin í starf markaðsstjóra"
+    # eða "nýtt endurskoðunar- og ráðgjafarfyrirtæki".
+    "markaðsstjór", "ráðgjafarfyrirtæki",
 ]
 
 # --- Erlendar fréttir ------------------------------------------------------
