@@ -5367,5 +5367,47 @@
   "tsort": "",
   "first_seen": "2026-06-19T12:44:26.446509+00:00",
   "id": 8
+ },
+ "dc1594a50a348224": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-19",
+  "url": "https://byggingar.is/tilbod-i-knatthus-fjallabyggdar-62-yfir-kostnadaraaetlun/?utm_source=rss&utm_medium=rss&utm_campaign=tilbod-i-knatthus-fjallabyggdar-62-yfir-kostnadaraaetlun",
+  "title": "Tilboð í knatthús Fjallabyggðar 62% yfir kostnaðaráætlun",
+  "sum": "Tilboð í knatthús Fjallabyggðar 62% yfir kostnaðaráætlun Aðeins tvö tilboð bárust í útboð vegna fyrirhugaðs knatthúss í Ólafsfirði og voru bæði verulega yfir kostnaðaráætlun sveitarfélagsins. Bæjarráð Fjallabyggðar hefur því frestað ákvörðu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-19T16:00:44.828125+00:00",
+  "id": 1
+ },
+ "9b57bfa00bc20203": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-19",
+  "url": "https://byggingar.is/framkvaemdir-standast-aaetlun-en-baejarstjori-ottast-framkvaemdastopp-i-haust/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-standast-aaetlun-en-baejarstjori-ottast-framkvaemdastopp-i-haust",
+  "title": "Framkvæmdir standast áætlun en bæjarstjóri óttast framkvæmdastopp í haust",
+  "sum": "Framkvæmdir standast áætlun en bæjarstjóri óttast framkvæmdastopp í haust Nýtt mælaborð yfir sjö stærstu framkvæmdir Reykjanesbæjar sýnir að öll verkefni eru innan fjárhagsáætlunar. Þrátt fyrir gleði minnihlutans á síðasta fundi bæjarstjórn",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-19T16:00:44.828125+00:00",
+  "id": 2
  }
 }
