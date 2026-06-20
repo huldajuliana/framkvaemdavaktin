@@ -5451,5 +5451,47 @@
   "tsort": "",
   "first_seen": "2026-06-20T11:16:14.069189+00:00",
   "id": 2
+ },
+ "1c7ea5a208038b64": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-20",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/06/20/island_fai_gervigreindargagnaver/",
+  "title": "Ísland fái gervigreindargagnaver",
+  "sum": "Tveir háttsettir stjórnendur á sviði gagnaversinnviðaverkefna örgjörvarisans NVIDIA, Marc Hamilton og Raj Mirpuri, heimsóttu íslenska gagnaversfyrirtækið Borealis Data Center í vikunni og funduðu einnig með forsætisráðuneytinu og öðrum ráða",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-20T15:03:53.176177+00:00",
+  "id": 1
+ },
+ "47619ddf33596457": {
+  "region": "Suðurnes",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-06-20",
+  "url": "https://www.visir.is/g/20262899805d/namufelagid-greenland-mines-tryggir-ser-forkaupsrett-i-helguvik",
+  "title": "Námu­félagið Green­land Mines tryggir sér for­kaups­rétt í Helgu­vík",
+  "sum": "Námufyrirtækið Greenland Mines hefur náð samkomulagi við Reykjanes Investment sem veitir bandaríska félaginu forkaupsrétt á um 60 þúsund fermetra lóð sem áður hýsti kísilverið í Helguvík ásamt fyrirliggjandi iðnaðarhúsnæði og innviðum. Samk",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-20T15:03:53.176177+00:00",
+  "id": 2
  }
 }
