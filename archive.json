@@ -5409,5 +5409,47 @@
   "tsort": "",
   "first_seen": "2026-06-19T16:00:44.828125+00:00",
   "id": 2
+ },
+ "92088c0003020000": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-20",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/20/adsend_grein_gunnarsholmi_svarar_kalli_timans/",
+  "title": "Aðsend grein: Gunnarshólmi svarar kalli tímans",
+  "sum": "Tvær helstu áskoranir samtímans í íslensku samfélagi eru ör fjölgun eldra fólks og vaxandi skortur á íbúðarhúsnæði. Kópavogsbær áformar, í samvinnu við einkaaðila, að takast á við þessar áskoranir með uppbyggingu húsnæðis til búsetu og með ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-20T11:16:14.069189+00:00",
+  "id": 1
+ },
+ "e92ec97c1e131dd4": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-20",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-20-thad-er-ekkert-fritt-i-thessu-478759/",
+  "title": "„Það er ekkert frítt í þessu“",
+  "sum": "Frumvarp fjármála- og efnahagsráðherra um stofnun innviðafélags var samþykkt á Alþingi með 34 atkvæðum stjórnarliða. Stjórnarandstæðingar greiddu ekki atkvæði. Innviðafélaginu er, samkvæmt frumvarpinu, ætlað að halda utan um uppbyggingu stó",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-20T11:16:14.069189+00:00",
+  "id": 2
  }
 }
