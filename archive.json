@@ -5493,5 +5493,47 @@
   "tsort": "",
   "first_seen": "2026-06-20T15:03:53.176177+00:00",
   "id": 2
+ },
+ "ada542209ea9c005": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-20",
+  "url": "https://byggingar.is/grjotleit-komin-a-fullt-a-haugasvaedinu-i-vestmannaeyjum/?utm_source=rss&utm_medium=rss&utm_campaign=grjotleit-komin-a-fullt-a-haugasvaedinu-i-vestmannaeyjum",
+  "title": "Grjótleit komin á fullt á Haugasvæðinu í Vestmannaeyjum",
+  "sum": "Grjótleit komin á fullt á Haugasvæðinu í Vestmannaeyjum Vinna við þriðja áfanga grjótleitar á Haugasvæðinu er hafin af fullum krafti og hefur svæðið nú formlega tekið á sig mynd virks framkvæmdasvæðis. Þetta kemur fram í upplýsingum sem bir",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-21T11:44:10.898451+00:00",
+  "id": 1
+ },
+ "20661b9ddf1181b4": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-20",
+  "url": "https://byggingar.is/altis-ehf-med-laegsta-tilbodid-i-vallarlysingu-a-varmarvelli/?utm_source=rss&utm_medium=rss&utm_campaign=altis-ehf-med-laegsta-tilbodid-i-vallarlysingu-a-varmarvelli",
+  "title": "Altis ehf. með lægsta tilboðið í vallarlýsingu á Varmárvelli",
+  "sum": "Altis ehf. með lægsta tilboðið í vallarlýsingu á Varmárvelli Altis ehf. átti lægsta tilboðið í útboðinu „Varmá – Gervigrasvöllur, endurnýjun vallarlýsingar“ þegar tilboð voru opnuð þann 10. júní. Tilboðið hljóðaði upp á 25,5 milljónir króna",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-21T11:44:10.898451+00:00",
+  "id": 2
  }
 }
