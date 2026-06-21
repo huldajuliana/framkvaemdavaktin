@@ -5535,5 +5535,26 @@
   "tsort": "",
   "first_seen": "2026-06-21T11:44:10.898451+00:00",
   "id": 2
+ },
+ "9852cb57ed64a95f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-21",
+  "url": "https://byggingar.is/fyrsta-skoflustunga-tekin-ad-nyrri-vidbyggingu-vid-alfaborg/?utm_source=rss&utm_medium=rss&utm_campaign=fyrsta-skoflustunga-tekin-ad-nyrri-vidbyggingu-vid-alfaborg",
+  "title": "Fyrsta skóflustunga tekin að nýrri viðbyggingu við Álfaborg",
+  "sum": "Fyrsta skóflustunga tekin að nýrri viðbyggingu við Álfaborg Fyrsta skóflustungan að nýrri viðbyggingu við leikskólann Álfaborg á Svalbarðsströnd var tekin í blíðskaparveðri í síðustu viku. Starfsfólk og nemendur leikskólans fögnuðu þessum m",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-21T15:12:09.349795+00:00",
+  "id": 1
  }
 }
