@@ -5703,5 +5703,26 @@
   "tsort": "",
   "first_seen": "2026-06-22T14:36:41.323509+00:00",
   "id": 7
+ },
+ "8da6274aed2f0726": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-22",
+  "url": "https://byggingar.is/hornafjordur-oskar-eftir-tilbodum-i-gatnagerd-vid-sandbakka/?utm_source=rss&utm_medium=rss&utm_campaign=hornafjordur-oskar-eftir-tilbodum-i-gatnagerd-vid-sandbakka",
+  "title": "06.07.2026 Hornafjörður óskar eftir tilboðum í gatnagerð við Sandbakka",
+  "sum": "Hornafjörður óskar eftir tilboðum í gatnagerð við Sandbakka Sveitarfélagið Hornafjörður hefur auglýst verðfyrirspurn vegna gatnagerðar við Sandbakka á Höfn. Verkið felur í sér endurgerð götunnar ásamt undirbúningi gangstétta og yfirborðsfrá",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-22T17:40:57.279194+00:00",
+  "id": 1
  }
 }
