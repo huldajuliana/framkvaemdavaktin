@@ -5556,5 +5556,152 @@
   "tsort": "",
   "first_seen": "2026-06-21T15:12:09.349795+00:00",
   "id": 1
+ },
+ "dddb9789b8a370ae": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-22",
+  "url": "https://www.visir.is/g/20262900448d/skartgripathjofur-sigldi-undir-folsku-flaggi-i-ibudum-aldradra",
+  "title": "Skartgripaþjófur sigldi undir fölsku flaggi í í­búðum aldraðra",
+  "sum": "Sævar Guðmundsson, aðalvarðstjóri á stöð 2, lögreglustöð í Hafnarfirði, segir erfitt og andstyggilegt að brotist hafi verið inn í íbúðir fyrir aldraða og skartgripum stolið. Greint var frá þjófnaðinum í dagbók lögreglunnar í morgun.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-22T14:36:41.323509+00:00",
+  "id": 1
+ },
+ "d1e5e38b008bcf12": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-22",
+  "url": "https://www.visir.is/g/20262900373d/framtid-heilbrigdisthjonustu-a-akureyri-er-i-sjonmali",
+  "title": "Fram­tíð heil­brigðisþjónustu á Akur­eyri er í sjón­máli",
+  "sum": "Það var sannkallaður handagangur í öskjunni á Akureyri í vikunni. Tvö risastór uppbyggingarverkefni á sviði heilbrigðisþjónustu litu loks dagsins ljós sitt hvoru megin við sjálfan þjóðhátíðardaginn.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-22T14:36:41.323509+00:00",
+  "id": 2
+ },
+ "4ed66bdbd7261763": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-22",
+  "url": "https://www.visir.is/g/20262900326d/loka-saebraut-til-austurs-vid-horpu-i-kvold",
+  "title": "Loka Sæ­braut til austurs við Hörpu í kvöld",
+  "sum": "Í dag, mánudaginn 22. júní frá klukkan 20:00 til klukkan 06:00 að morgni þriðjudagsins 23. júní, verða framkvæmdir á um 560 metra kafla á Sæbraut.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-22T14:36:41.323509+00:00",
+  "id": 3
+ },
+ "546585a72777430a": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-21",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-21-vill-veita-almenningi-adgengi-ad-magnafslaetti-a-husnaedismarkadi-478887/",
+  "title": "Vill veita almenningi aðgengi að magnafslætti á húsnæðismarkaði",
+  "sum": "Nýtt íslenskt fyrirtæki hyggst færa almenningi aðgang að afsláttarkjörum á húsnæðismarkaði sem hafa aðallega verið á færi fjárfesta og stærri kaupenda. Íbúðakaupendur sameinast um fjöldakaup og fá þannig hópafslátt. Halldór Kristján Sigurðs",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-22T14:36:41.323509+00:00",
+  "id": 5
+ },
+ "d605108149f5a436": {
+  "region": "Suðurland",
+  "type": "Íbúðir",
+  "scale": "Lítil",
+  "scaleFig": "15 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-22",
+  "url": "https://byggingar.is/mikil-tholinmaedi-og-vinna-sambyggd-14-loks-a-leid-i-endurbaetur/?utm_source=rss&utm_medium=rss&utm_campaign=mikil-tholinmaedi-og-vinna-sambyggd-14-loks-a-leid-i-endurbaetur",
+  "title": "„Mikil þolinmæði og vinna“ – Sambyggð 14 loks á leið í endurbætur",
+  "sum": "„Mikil þolinmæði og vinna“ – Sambyggð 14 loks á leið í endurbætur Þegar fyrstu íbúarnir fluttu inn í Sambyggð 14 í Þorlákshöfn árið 2020 voru miklar væntingar bundnar við húsið. Fjölbýlið vakti athygli sem fyrsta fjölbýlishúsið sem reist va",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-22T14:36:41.323509+00:00",
+  "id": 4
+ },
+ "1348df5ed11aac46": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "9.100 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-21",
+  "url": "https://byggingar.is/nytt-hjukrunarheimili-vid-thursaholt-tilbod-fra-reitum-valid/?utm_source=rss&utm_medium=rss&utm_campaign=nytt-hjukrunarheimili-vid-thursaholt-tilbod-fra-reitum-valid",
+  "title": "Nýtt hjúkrunarheimili við Þursaholt Tilboð frá Reitum valið",
+  "sum": "Nýtt hjúkrunarheimili við Þursaholt Tilboð frá Reitum valið Framkvæmdasýslan- Ríkiseignir hefur valið tilboð Reita fyrir uppbyggingu hjúkrunarheimilis á Akureyri í útboði sem lauk nýlega. Hjúkrunarheimilið verður við Þursaholt 6 og um 9.100",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-22T14:36:41.323509+00:00",
+  "id": 6
+ },
+ "dda5adc3b3bc0d18": {
+  "region": "Norðurland vestra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-21",
+  "url": "https://byggingar.is/rarik-leggur-16-kilometra-haspennustreng-i-hunathingi/?utm_source=rss&utm_medium=rss&utm_campaign=rarik-leggur-16-kilometra-haspennustreng-i-hunathingi",
+  "title": "Rarik leggur 16 kílómetra háspennustreng í Húnaþingi",
+  "sum": "Rarik leggur 16 kílómetra háspennustreng í Húnaþingi Rarik hyggst hefja umfangsmiklar framkvæmdir í lok júní þegar lagning nýs 33 kV háspennustrengs frá Laugarbakka að Víðigerði hefst. Markmið framkvæmdarinnar er að auka afhendingargetu og ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-22T14:36:41.323509+00:00",
+  "id": 7
  }
 }
