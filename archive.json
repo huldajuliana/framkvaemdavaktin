@@ -5829,5 +5829,26 @@
   "tsort": "",
   "first_seen": "2026-06-23T10:11:55.849432+00:00",
   "id": 2
+ },
+ "512bc054ef7d3fff": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-23",
+  "url": "https://www.visir.is/g/20262900909d/segir-milljardahonnun-skola-i-vogahverfi-oraunhaefa",
+  "title": "Segir milljarða­hönnun skóla í Voga­hverfi óraun­hæfa",
+  "sum": "Hildur Björnsdóttir borgarstjóri segir nýjan meirihluta vilja einfalda uppbyggingu skóla og leikskóla og segir verða að læra af uppbyggingu Brákarborgar. Hönnun nýs skóla í Vogahverfi sem samþykkt var fyrir kosningar, verði til dæmis aldrei",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-23T11:58:57.894527+00:00",
+  "id": 1
  }
 }
