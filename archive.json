@@ -5557,27 +5557,6 @@
   "first_seen": "2026-06-21T15:12:09.349795+00:00",
   "id": 1
  },
- "dddb9789b8a370ae": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-22",
-  "url": "https://www.visir.is/g/20262900448d/skartgripathjofur-sigldi-undir-folsku-flaggi-i-ibudum-aldradra",
-  "title": "Skartgripaþjófur sigldi undir fölsku flaggi í í­búðum aldraðra",
-  "sum": "Sævar Guðmundsson, aðalvarðstjóri á stöð 2, lögreglustöð í Hafnarfirði, segir erfitt og andstyggilegt að brotist hafi verið inn í íbúðir fyrir aldraða og skartgripum stolið. Greint var frá þjófnaðinum í dagbók lögreglunnar í morgun.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-22T14:36:41.323509+00:00",
-  "id": 1
- },
  "d1e5e38b008bcf12": {
   "region": "Norðurland eystra",
   "type": "Innviðir",
@@ -5724,5 +5703,131 @@
   "tsort": "",
   "first_seen": "2026-06-22T17:40:57.279194+00:00",
   "id": 1
+ },
+ "dc0bfee5603c5eaf": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-22",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/22/afslattur_vid_fasteignakaup_i_gegnum_hopkaupafelag/",
+  "title": "Afsláttur við fasteignakaup í gegnum hópkaupafélag",
+  "sum": "Halldór Kristján Sigurðsson hefur komið á fót svokölluðu hópkaupafélagi sem miðar að því að bjóða almennum kaupendum á fasteignamarkaði sömu kjör og stærri kaupendur njóta í gegnum magnafslátt.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-23T10:11:55.849432+00:00",
+  "id": 3
+ },
+ "7dd01e903a226a61": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-22",
+  "url": "https://www.visir.is/g/20262900650d/mikilvaegir-afangar-i-orkumalum-vestfjarda",
+  "title": "Mikil­vægir á­fangar í orku­málum Vest­fjarða",
+  "sum": "Velsæld landshluta er í beinu samhengi við orkuöflun og orkudreifingu sem eru forsenda verðmætasköpunar, uppbyggingu atvinnulífs, nýrra tækifæra og nýsköpunar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-23T10:11:55.849432+00:00",
+  "id": 4
+ },
+ "b63ae41fd27b64a1": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-22",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-22-vegaframkvaemdir-vids-vegar-i-kvold-og-nott-479147/",
+  "title": "Vegaframkvæmdir víðs vegar í kvöld og nótt",
+  "sum": "Framkvæmdir verða meðal annars við Sæbraut.RÚV / Ragnar Visage Lögreglan á höfuðborgarsvæðinu biður vegfarendur um að sýna aðgát og tillitssemi vegna vegaframkvæmda í kvöld og nótt en framkvæmdir standa yfir á 560 metra kafla við Sæbraut ti",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-23T10:11:55.849432+00:00",
+  "id": 5
+ },
+ "1d7cd34cc08c8f06": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-22",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-22-anaegja-med-faekkun-logregluembaetta-i-landinu-479103/",
+  "title": "Ánægja með fækkun lögregluembætta í landinu",
+  "sum": "Dómsmálaráðherra og hennar fólk í ráðuneytinu kom á Selfoss og hitti Grím Hergeirsson, lögreglustjóra á Suðurlandi og lögreglumenn embættisins. „Ég er að tala við alla lögreglumenn í landinu til þess að ræða við þá um skipulagsbreytingar. V",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-23T10:11:55.849432+00:00",
+  "id": 6
+ },
+ "58ee9a22d0c609e6": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-23",
+  "url": "https://byggingar.is/rannsoknahus-nys-landspitala-ganga-samkvaemt-aaetlun/?utm_source=rss&utm_medium=rss&utm_campaign=rannsoknahus-nys-landspitala-ganga-samkvaemt-aaetlun",
+  "title": "Rannsóknahús Nýs Landspítala ganga samkvæmt áætlun",
+  "sum": "Rannsóknahús Nýs Landspítala ganga samkvæmt áætlun Framkvæmdir við rannsóknahús Nýs Landspítala halda áfram samkvæmt áætlun og hefur uppsetning útveggjakerfis nú náð mikilvægum áfanga. Rúmlega 70% útveggjaeininga hússins hafa verið settar u",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-23T10:11:55.849432+00:00",
+  "id": 1
+ },
+ "55cff6d0f9961c00": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-23",
+  "url": "https://byggingar.is/fjardabyggd-raedst-i-endurbaetur-a-dalborg-og-breiddalsskola/?utm_source=rss&utm_medium=rss&utm_campaign=fjardabyggd-raedst-i-endurbaetur-a-dalborg-og-breiddalsskola",
+  "title": "Fjarðabyggð ræðst í endurbætur á Dalborg og Breiðdalsskóla",
+  "sum": "Fjarðabyggð ræðst í endurbætur á Dalborg og Breiðdalsskóla Þrjú viðhalds- og endurbótaverkefni eru nú í gangi eða að hefjast hjá Fjarðabyggð. Um er að ræða framkvæmdir við leikskólann Dalborg á Eskifirði, Grunnskólann á Reyðarfirði og Breið",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-23T10:11:55.849432+00:00",
+  "id": 2
  }
 }
