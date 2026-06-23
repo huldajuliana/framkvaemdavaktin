@@ -98,6 +98,9 @@ _HARD_NEGATIVES = [
     # sakamál / dómsmál
     "líkamsárás", "fangelsi", "ákær", "saksókn", "héraðsdóm", "hæstirétt",
     "landsrétt", "kynferðis", "nauðgun", "manndráp", "fíkniefn", "ofbeldi",
+    # þjófnaður / innbrot / rán (t.d. innbrot í íbúðir aldraðra — kveikir á "íbúðir").
+    # Ekki "lögregl" — "lögreglustöð byggð" er gild framkvæmd.
+    "þjóf", "innbrot", "brotist inn", "stolið", "rán ", "handtek",
     # menning / fólk
     "listamaður", "listamenn", "bæjarlistamaður", "tónleikar", "hljómsveit",
     "leikrit", "kvikmynd", "leikari", "leikkona", "söngvar", "rithöfundur",
