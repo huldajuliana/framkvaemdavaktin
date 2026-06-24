@@ -6354,5 +6354,110 @@
   "tsort": "",
   "first_seen": "2026-06-24T11:43:50.852279+00:00",
   "id": 14
+ },
+ "5e70be00481b0659": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-24",
+  "url": "https://www.visir.is/g/20262901412d/gera-alvarlega-athugasemd-vid-nidurrif-a-saebraut",
+  "title": "Gera al­var­lega at­huga­semd við niður­rif á Sæ­braut",
+  "sum": "Safnstjóri Gerðarsafns gerir alvarlega athugasemd við niðurrif á iðnaðarhúsi að Dugguvogi 42 við Sæbraut þar sem til stendur að gera tímabundna hjáleið fyrir umferð á framkvæmdatíma Sæbrautarstokks. Ástæðan er listaverk Gerðar Helgadóttur s",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T15:33:44.112866+00:00",
+  "id": 1
+ },
+ "82ff43726e438ee9": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-24",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-24-milljardaframkvaemdir-framundan-vid-onytar-gangstettir-479299/",
+  "title": "Milljarðaframkvæmdir framundan við ónýtar gangstéttir",
+  "sum": "Reykjavíkurborg hyggur á stórátak í að laga skemmdar gangstéttir víða um borgina. Starfsmenn Reykjavíkurborgar unnu í gær við að laga illa farna gangstétt í Grafarvogi. Fréttastofa talaði við konu á tíræðisaldri sem slasaðist illa þar um he",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T15:33:44.112866+00:00",
+  "id": 2
+ },
+ "f347d885946dfb88": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "12 km",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-24",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-24-opnun-vegar-um-hornafjardarfljot-langthrad-en-ha-veggjold-komi-a-ovart-479291/",
+  "title": "Opnun vegar um Hornafjarðarfljót langþráð en há veggjöld komi á óvart",
+  "sum": "Bæjarstjóri Hornafjarðar segir opnun brúar yfir Hornafjarðarfljót langþráða. Hringvegurinn styttist um 12 km í dag þegar brúin og nýr vegur verða opnuð í dag. „Þetta er í raun og veru vegur sem þjappar samfélaginu saman, auðveldar fólki ves",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T15:33:44.112866+00:00",
+  "id": 3
+ },
+ "81f64ee7e5784518": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-24",
+  "url": "https://byggingar.is/myndband-um-framkvaemdina-vid-hringveg-um-olfusa/?utm_source=rss&utm_medium=rss&utm_campaign=myndband-um-framkvaemdina-vid-hringveg-um-olfusa",
+  "title": "Mynd­band um fram­kvæmd­ina við Hring­veg um Ölfusá",
+  "sum": "Mynd­band um fram­kvæmd­ina við Hring­veg um Ölfusá Í nýju myndbandi sem fjallar um framkvæmdina við Hringveg (1) um Ölfusá eru meðal annars sýndar tölvugerðar teikningar af nýju brúnni yfir Ölfusá og grafísk kort sem sýna legu vegarins. Ve",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T15:33:44.112866+00:00",
+  "id": 4
+ },
+ "d7ca0eb9a6f2e304": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-24",
+  "url": "https://byggingar.is/sg-velar-med-eina-tilbodid-i-vetrarthjonustu-milli-breiddalsvikur-og-djupavogs/?utm_source=rss&utm_medium=rss&utm_campaign=sg-velar-med-eina-tilbodid-i-vetrarthjonustu-milli-breiddalsvikur-og-djupavogs",
+  "title": "SG Vélar með eina tilboðið í vetrarþjónustu milli Breiðdalsvíkur og Djúpavogs",
+  "sum": "SG Vélar með eina tilboðið í vetrarþjónustu milli Breiðdalsvíkur og Djúpavogs Eitt tilboð barst í hraðútboð Vegagerðarinnar vegna vetrarþjónustu á leiðinni Breiðdalsvík – Djúpivogur fyrir tímabilið 2026–2029. Opnun tilboða fór fram 23. júní",
+  "tender": "",
+  "start": "2026",
+  "end": "2029",
+  "tsort": "2026-01",
+  "first_seen": "2026-06-24T15:33:44.112866+00:00",
+  "id": 5
  }
 }
