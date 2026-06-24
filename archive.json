@@ -6060,5 +6060,299 @@
   "tsort": "",
   "first_seen": "2026-06-23T15:49:24.055184+00:00",
   "id": 10
+ },
+ "0f640e488d617a23": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-24",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/24/menningarverdmaeti_i_haettu/",
+  "title": "Menningarverðmæti í hættu",
+  "sum": "Safnstjóri Gerðarsafns gerir alvarlega athugasemd við niðurrif á Dugguvogi 42 (áður Dugguvogur 2) til að gera tímabundna hjáleið fyrir umferð á framkvæmdatíma Sæbrautarstokks.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T11:43:50.852279+00:00",
+  "id": 1
+ },
+ "edbeea8926208548": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-24",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/24/birta_i_ibudum_er_adalatridid/",
+  "title": "Birta í íbúðum er aðalatriðið",
+  "sum": "„Orkureiturinn í Reykjavík er fyrsta stóra verkefnið sem er Svansvottað og strax við hönnun var unnið með hermilíkan um hvernig sól og birta fer um íbúðirnar til þess að ná stífustu kröfum sem eru um dagsbirtuvottun. Þannig að þessi umræða ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T11:43:50.852279+00:00",
+  "id": 2
+ },
+ "435ab88b98746b96": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-24",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/24/samhjalp_hafdi_nanast_lokid_framkvaemdum/",
+  "title": "Samhjálp hafði nánast lokið framkvæmdum",
+  "sum": "Samhjálp hefur þegar nánast lokið vinnu við að innrétta húsnæði að Grensásvegi 44, sem nota átti undir kaffistofu Samhjálpar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T11:43:50.852279+00:00",
+  "id": 3
+ },
+ "cdfb7cf1fadca8c7": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-24",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/24/kannast_ekki_vid_ad_beita_bolabrogdum/",
+  "title": "Kannast ekki við að beita bolabrögðum",
+  "sum": "Þórhildur Ólöf Helgadóttir forstjóri Íslandspósts kannast ekki við að fyrirtækið beiti bolabrögðum í samkeppni um þjónustu við netverslanir.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T11:43:50.852279+00:00",
+  "id": 4
+ },
+ "15383a7405d5ec7a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-06-24",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/06/24/johanna_nyr_framkvaemdarstjori_propr/",
+  "title": "Jóhanna nýr framkvæmdarstjóri PROPR",
+  "sum": "Jóhanna Jóhannesdóttir hefur verið ráðin framkvæmdastjóri PROPR, fyrsta fyrirtækisins á Íslandi með sérhæfingu í markaðsmálum fasteignaþróunar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T11:43:50.852279+00:00",
+  "id": 5
+ },
+ "e8ed0571aa489369": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-24",
+  "url": "https://www.visir.is/g/20262901312d/vinnupallar-bjoda-heildarlausnir-fyrir-oruggari-framkvaemdir",
+  "title": "Vinnu­pallar bjóða heildar­lausnir fyrir öruggari fram­kvæmdir",
+  "sum": "Vinnupallar ehf. bjóða öruggar og hagkvæmar lausnir fyrir verktaka, iðnaðarmenn og aðra fagaðila sem sinna framkvæmdum af ýmsu tagi. Fyrirtækið sérhæfir sig í leigu og sölu vinnupalla en hefur á undanförnum árum einnig byggt upp öflugt fram",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T11:43:50.852279+00:00",
+  "id": 6
+ },
+ "d7dbb727cde83355": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-24",
+  "url": "https://www.visir.is/g/20262901225d/fer-full-af-bjartsyni-og-von-inn-a-fundinn-eg-treysti-thvi-bara-ad-vid-getum-haldid-afram-a-einhverjum-timapunkti-",
+  "title": "Fer full af bjart­sýni og von inn á fundinn: „Ég treysti því bara að við getum haldið á­fram á ein­hverjum tíma­punkti“",
+  "sum": "Úrskurðarnefnd umhverfis- og auðlindamála hefur fellt úr gildi ákvörðun byggingarfulltrúans í Reykjavík um að gefa Samhjálp leyfi til að endurinnrétta húsnæðið við Grensásveg 46 fyrir nýja kaffistofu Samhjálpar. Framkvæmdastýra Samhjálpar s",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T11:43:50.852279+00:00",
+  "id": 7
+ },
+ "29ccafb446cc1c03": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-23",
+  "url": "https://www.visir.is/g/20262901102d/-thad-er-nog-til-hja-kviku-og-geta-til-vaxtar-er-enn-umtalsverd",
+  "title": "„Það er nóg til“ hjá Kviku og geta til vaxtar er enn um­tals­verð",
+  "sum": "Dekkri efnahagshorfur samhliða meðal annars minni umsvifum á byggingar- og fasteignamarkaði veldur því að spár um útlánavöxt og auknar vaxtatekjur hjá Kviku eru lækkaðar, samkvæmt nýrri verðmatsgreiningu. Bankinn er samt sagður undirverðlag",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T11:43:50.852279+00:00",
+  "id": 10
+ },
+ "f5b6b1bcb6913c3c": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-06-23",
+  "url": "https://www.visir.is/g/20262901087d/opna-nytt-hjukrunarheimili-med-90-rymum-i-reykjanesbae",
+  "title": "Opna nýtt hjúkrunar­heimili með 90 rýmum í Reykja­nes­bæ",
+  "sum": "Nýtt hjúkrunarheimili fyrir 90 íbúa verður opnað við Keilisbraut í Reykjanesbæ. Ráðist verður í gagngerar breytingar og endurbætur á húsnæði við Keilisbraut 753 og 754 og eru aðgerðir vegna uppbyggingarinnar þegar hafnar. Áætlað er að nýja ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T11:43:50.852279+00:00",
+  "id": 11
+ },
+ "4d6e7f247c1a53db": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-24",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-24-tugmilljona-tjon-fyrir-samhjalp-og-thrystingur-a-ad-finna-husnaedi-til-frambudar-479262/",
+  "title": "Tugmilljóna tjón fyrir Samhjálp og þrýstingur á að finna húsnæði til frambúðar",
+  "sum": "Framkvæmdastjóri Samhjálpar segir að tjón samtakanna hlaupi á tugum milljóna vegna niðurfellingar byggingarleyfis vegna fyrirhugaðrar kaffistofu við Grensásveg í Reykjavík. Starfsemin verður áfram í hvítasunnukirkjunni Fíladelfíu um sinn en",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T11:43:50.852279+00:00",
+  "id": 8
+ },
+ "6c0459aef369cfe2": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-23",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-23-felldi-ur-gildi-byggingarleyfi-samhjalpar-a-grensasvegi-479210/",
+  "title": "Felldi úr gildi byggingarleyfi Samhjálpar á Grensásvegi",
+  "sum": "Samhjálp fær ekki að koma fyrir kaffistofu við Grensásveg 46. Úrskurðarnefnd umhverfis- og auðlindamála felldi úr gildi samþykkt umsóknar Samhjálpar um að endurinnrétta húsið fyrir nýja kaffistofu í dag. Byggingarfulltrúinn í Reykjavík gaf ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T11:43:50.852279+00:00",
+  "id": 12
+ },
+ "57de9fc3f75a36bb": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-24",
+  "url": "https://byggingar.is/lagnaframkvaemdir-vid-lonsbraut-og-hvaleyrarbraut-bodnar-ut-i-hafnarfirdi/?utm_source=rss&utm_medium=rss&utm_campaign=lagnaframkvaemdir-vid-lonsbraut-og-hvaleyrarbraut-bodnar-ut-i-hafnarfirdi",
+  "title": "10.07.2026 Lagnaframkvæmdir við Lónsbraut og Hvaleyrarbraut boðnar út í Hafnarfirði",
+  "sum": "Lagnaframkvæmdir við Lónsbraut og Hvaleyrarbraut boðnar út í Hafnarfirði Hafnarfjarðarbær, HS Veitur, Veitur, Ljósleiðarinn og Míla hafa auglýst útboð vegna umfangsmikilla lagnaframkvæmda við Lónsbraut og Hvaleyrarbraut í Hafnarfirði. Um er",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T11:43:50.852279+00:00",
+  "id": 9
+ },
+ "e069e6ca767314b9": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-23",
+  "url": "https://byggingar.is/mulathing-bydur-ut-fyrsta-afanga-staekkunar-leikskolans-bjarkatuns-a-djupavogi/?utm_source=rss&utm_medium=rss&utm_campaign=mulathing-bydur-ut-fyrsta-afanga-staekkunar-leikskolans-bjarkatuns-a-djupavogi",
+  "title": "14.07.2026 Múlaþing býður út fyrsta áfanga stækkunar leikskólans Bjarkatúns á Djúpavogi",
+  "sum": "Múlaþing býður út fyrsta áfanga stækkunar leikskólans Bjarkatúns á Djúpavogi Múlaþing hefur auglýst útboð vegna fyrsta áfanga stækkunar leikskólans Bjarkatúns á Djúpavogi. Verkið felst í smíði og fullnaðarfrágangi viðbyggingar ásamt breytin",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T11:43:50.852279+00:00",
+  "id": 13
+ },
+ "629c65c605d957dd": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-23",
+  "url": "https://byggingar.is/14-07-2026-gardabaer-bydur-ut-eftirlit-med-framkvaemdum-i-arnarlandi/?utm_source=rss&utm_medium=rss&utm_campaign=14-07-2026-gardabaer-bydur-ut-eftirlit-med-framkvaemdum-i-arnarlandi",
+  "title": "14.07.2026 Garðabær býður út eftirlit með framkvæmdum í Arnarlandi",
+  "sum": "Garðabær býður út eftirlit með framkvæmdum í Arnarlandi Garðabær hefur auglýst útboð á umsjón og eftirliti með framkvæmdum í Arnarlandi, þar sem leitað er að eftirlitsaðila vegna umfangsmikilla gatna- og veituframkvæmda á uppbyggingarsvæði ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-24T11:43:50.852279+00:00",
+  "id": 14
  }
 }
