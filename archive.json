@@ -6795,5 +6795,110 @@
   "tsort": "",
   "first_seen": "2026-06-25T11:39:12.797617+00:00",
   "id": 16
+ },
+ "a4f1232b8d0d80c4": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-25",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/25/ollum_upplysingafulltruum_sagt_upp/",
+  "title": "Öllum upplýsingafulltrúum sagt upp",
+  "sum": "Nýr meirihluti borgarstjórnar Reykjavíkur hefur lagt niður skrifstofu samskipta og viðburða vegna hagræðingaraðgerða og skipulagsbreytinga.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-25T15:39:49.126202+00:00",
+  "id": 1
+ },
+ "141b44a16c9b6731": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-25",
+  "url": "https://www.visir.is/g/20262901900d/borgarlinan-og-linuborg-soria",
+  "title": "Borgarlínan og Línuborg Soria",
+  "sum": "Í opinberri umræðu um samgöngur á höfuðborgarsvæðinu er Borgarlínunni gjarnan lýst sem tæknilegu innviðaverkefni, þ.e. nýjum vögnum, sérreinum og greiðari almenningssamgöngum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-25T15:39:49.126202+00:00",
+  "id": 2
+ },
+ "1ac6e795609849bd": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-25",
+  "url": "https://www.visir.is/g/20262901855d/segir-sudurlandsbraut-fara-aftur-i-vinnslu-an-thess-ad-tefja-verkefnid",
+  "title": "Segir Suður­lands­braut fara aftur í vinnslu án þess að tefja verk­efnið",
+  "sum": "Meirihluti umhverfis- og skipulagsráðs Reykjavíkur samþykkti í gær að synja deiliskipulagi fyrir Suðurlandsbraut. Skipulagið var hluti af fyrstu lotu Borgarlínu og náði til kaflans milli Skeiðarvogar og Lágmúla. Í tillögunni var gert ráð fy",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-25T15:39:49.126202+00:00",
+  "id": 3
+ },
+ "dd53eb318735ff67": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-25",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-25-nyju-deiliskipulagi-fyrir-sudurlandsbraut-hafnad-479417/",
+  "title": "Nýju deiliskipulagi fyrir Suðurlandsbraut hafnað",
+  "sum": "Nýr meirihluti í umhverfis- og skipulagsráði Reykjavíkurborgar hafnaði tillögu að nýju deiliskipulagi fyrir Suðurlandsbraut á fundi í gær. Tillagan er hluti af fyrstu lotu Borgarlínu og gerði ráð fyrir tveimur miðjusettum sérakreinum fyrir ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-25T15:39:49.126202+00:00",
+  "id": 4
+ },
+ "d5de4da31a05aa54": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Reykjavíkurborg – fréttir",
+  "date": "2026-06-25",
+  "url": "https://reykjavik.is/frettir/2026/utskipting-umferdarljosabunadar-vid-gatnamot-hofdabakka-og-bildshofda",
+  "title": "Útskipting umferðarljósabúnaðar við gatnamót Höfðabakka og Bíldshöfða",
+  "sum": "Útskipting umferðarljósabúnaðar við gatnamót Höfðabakka og Bíldshöfða",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-25T15:39:49.126202+00:00",
+  "id": 5
  }
 }
