@@ -43,6 +43,31 @@ _CONTEXT = [
 # því það er líka hundraðshluti; mælum frekar á aðila-nöfnum.)
 _POLLSTERS = ["maskín", "gallup", "félagsvísindastofnun", "mmr", "prósent ehf"]
 
+# "framkvæmd"/"framkvæmdir"/"uppbygging" eru margræð: þau þýða líka sögnina að
+# framkvæma (könnun/árás) og óeiginlega "uppbyggingu rekstrar/þjónustu". Þau duga
+# því EKKI ein og sér — krefjast byggingar-samhengis úr _BUILD_CTX (precision >
+# recall: heldur missa litlar fréttir en hleypa inn rusli).
+_GATED = ("framkvæmd", "framkvæmdir", "uppbygging")
+# Byggingar-samhengi (mannvirki, byggingarsagnir, staða). Eitt þeirra þarf að fylgja
+# _GATED-orði til að fréttin teljist framkvæmdafrétt.
+_BUILD_CTX = [
+    # byggingarsagnir / staða
+    "bygging", "byggja", "byggð", "byggt", "byggi", "reisa", "rís", "reist",
+    "reisn", "útboð", "niðurrif", "nýbygg", "fokhelt", "skóflustung", "verktak",
+    "áform", "fyrirhug", "hófst", "hafin", "hafnar", "lokið", "ljúka", "lýkur",
+    "stækk", "viðbygg", "endurbygg", "endurbæt", "endurnýj", "jarðvinn", "áfang",
+    "gröft", "grafa", "steyp", "múr", "lóðaúthlut", "byggingarlóð",
+    # mannvirki / innviðir (nafnorð)
+    "spítal", "skól", "sundlaug", "innilaug", "gangstétt", "stíg", "götu", "gatna",
+    "hringveg", "þjóðveg", "vegar", "vegur", "veginn", "veginum", "vegamót",
+    "gatnamót", "borgarlín", "brú", "jarðgöng", "höfn", "stálþil", "virkjun",
+    "borhol", "streng", "lögn", "lagni", "veitu", "mannvirki", "torg", "hverfi",
+    "rannsóknahús", "meðferðarkjarn", "landspítal", "íbúð", "fjölbýli", "einbýli",
+    "raðhús", "verksmiðj", "gagnaver", "húsnæði", "húsið", "húss ",
+]
+# Sterk lykilorð sem vantar í config vegna beygingar (borgarlína -> borgarlínu).
+_EXTRA_STRONG = ["borgarlín"]
+
 
 def _builder_in(t: str) -> bool:
     """Satt ef verktakanafn finnst í texta — en aðeins í UPPHAFI orðs, svo
@@ -96,9 +121,22 @@ def is_relevant(item: dict) -> bool:
     # (Snertir EKKI "jarðvegskönnun við framkvæmdir" — þar er enginn mælingaaðili.)
     if "könnun" in t_kw and any(ps in t_kw for ps in _POLLSTERS):
         t_kw = re.sub(r"framkvæmd\w*", " ", t_kw)
-    # Sterk lykilorð (ótvíræð framkvæmdaorð) duga ein og sér.
-    if any(k in t_kw for k in C.KEYWORDS if k not in _WEAK_TYPES and k not in ("íbúð ", "höfn")):
+    # Óeiginlegt "byggja/byggt/byggði ... upp" (= byggja upp rekstur/þjónustu/orðspor)
+    # er ekki bygging — má ekki gilda sem byggingar-samhengi. (Raunveruleg
+    # uppbygging hverfis/innviða hefur önnur orð: "hverfi"/"innviðir" o.s.frv.)
+    t_kw = re.sub(r"bygg(ja|t|ði|jum|ir|ð|du)?\s+upp\b", " ", t_kw)
+    # Sterk lykilorð (ótvíræð framkvæmdaorð) duga ein og sér — NEMA _GATED-orðin.
+    if any(k in t_kw for k in C.KEYWORDS
+           if k not in _WEAK_TYPES and k not in ("íbúð ", "höfn") and k not in _GATED):
         return True
+    if any(k in t_kw for k in _EXTRA_STRONG):
+        return True
+    # _GATED-orð (framkvæmd/uppbygging) hleypa frétt aðeins inn EF byggingar-samhengi
+    # fylgir. (Fjarlægjum orðin sjálf fyrst, svo "uppbygging" uppfylli ekki "bygging".)
+    if any(g in t_kw for g in _GATED):
+        t_ctx = re.sub(r"framkvæmd\w*|uppbygg\w*", " ", t_kw)
+        if any(c in t_ctx for c in _BUILD_CTX):
+            return True
     # Veik lykilorð (húsgerðir) hleypa frétt aðeins inn EF framkvæmda-samhengi fylgir
     # — annars er t.d. brunafrétt um "einbýlishús" ekki framkvæmdafrétt.
     if any(w in t_kw for w in _WEAK_TYPES) and any(c in t_kw for c in _CONTEXT):
@@ -181,6 +219,15 @@ _HARD_NEGATIVES = [
     # fyrirtækis/félags er ekki mannvirkjagerð), t.d. "ráðin í starf markaðsstjóra"
     # eða "nýtt endurskoðunar- og ráðgjafarfyrirtæki".
     "markaðsstjór", "ráðgjafarfyrirtæki",
+    # starfsmannahald: uppsagnir / "skipulagsbreytingar" í stjórnsýslu (=skipulag
+    # STOFNUNAR, ekki deiliskipulag). T.d. niðurskurður/uppsagnir í Ráðhúsi.
+    "uppsögn", "uppsagnir", "sagt upp störf", "sagt upp fólki", "var sagt upp",
+    # samfélagsmiðla-/áhrifavaldaefni — aldrei framkvæmdafrétt.
+    "instagram",
+    # Samhjálp: deila/úrskurður um byggingarleyfi kaffistofu (félags-/dómsmál, ekki
+    # byggingarverkefni). Athugið: útilokar líka hugsanlega framtíðar-byggingu
+    # Samhjálpar — meðvituð precision-ákvörðun.
+    "samhjálp",
     # skoðanakannanir / dánaraðstoð — "könnun ... framkvæmd[i]" (sögnin að
     # framkvæma). "dánaraðstoð" er líknardráps-umræða, aldrei framkvæmd.
     "skoðanakönnun", "dánaraðstoð",
