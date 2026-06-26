@@ -5137,27 +5137,6 @@
   "first_seen": "2026-06-19T12:44:26.446509+00:00",
   "id": 2
  },
- "95d8899ba82a1c8f": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-19",
-  "url": "https://www.visir.is/g/20262898864d/hvad-tharf-ad-vera-til-stadar-ef-danaradstod-verdur-heimilud-",
-  "title": "Hvað þarf að vera til staðar ef dánaraðstoð verður heimiluð?",
-  "sum": "Niðurstöður könnunar sem Maskína framkvæmdi fyrir Lífsvirðingu í mars 2026 sýna skýran stuðning almennings við dánaraðstoð á Íslandi. Alls segjast 73,3% hlynnt því að einstaklingar geti fengið dánaraðstoð við ákveðnar aðstæður.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-19T12:44:26.446509+00:00",
-  "id": 3
- },
  "a40055d48e80aab4": {
   "region": "Landið allt",
   "type": "Íbúðir",
@@ -7005,5 +6984,26 @@
   "tsort": "",
   "first_seen": "2026-06-26T09:41:09.361063+00:00",
   "id": 10
+ },
+ "21a1e1a0be2068a1": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-26",
+  "url": "https://byggingar.is/tvo-tilbod-barust-i-endurnyjun-400v-stodvarveitu-i-sultartangastod/?utm_source=rss&utm_medium=rss&utm_campaign=tvo-tilbod-barust-i-endurnyjun-400v-stodvarveitu-i-sultartangastod",
+  "title": "Tvö tilboð bárust í endurnýjun 400V stöðvarveitu í Sultartangastöð",
+  "sum": "Tvö tilboð bárust í endurnýjun 400V stöðvarveitu í Sultartangastöð Landsvirkjun hefur opnað tilboð í útboði vegna endurnýjunar 400V stöðvarveitu í Sultartangastöð. Tvö fyrirtæki skiluðu inn tilboðum í verkefnið sem felur í sér umfangsmikla ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T10:11:15.011714+00:00",
+  "id": 1
  }
 }
