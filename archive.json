@@ -1267,27 +1267,6 @@
   "first_seen": "2026-05-31T14:46:28.662217+00:00",
   "id": 2
  },
- "eec9cfc7f1c8fa10": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-01",
-  "url": "https://www.visir.is/g/20262891305d/a-hvada-vegferd-erum-vid-",
-  "title": "Á hvaða veg­ferð erum við?",
-  "sum": "Niðurstaðan stendur óhögguð er fyrirsögn á viðtali sem blaðamaður Morgunblaðsins tók við Björn Brynjólf Björnsson, framkvæmdarstjóra Viðskiptaráðs síðasta föstudag út af gagnrýni minni á meingallaða framsetningu á þeirri tölfræði sem birtis",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-01T09:47:38.400582+00:00",
-  "id": 1
- },
  "84a12e37820fd0b1": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -6124,48 +6103,6 @@
   "first_seen": "2026-06-24T11:43:50.852279+00:00",
   "id": 3
  },
- "cdfb7cf1fadca8c7": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-24",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/24/kannast_ekki_vid_ad_beita_bolabrogdum/",
-  "title": "Kannast ekki við að beita bolabrögðum",
-  "sum": "Þórhildur Ólöf Helgadóttir forstjóri Íslandspósts kannast ekki við að fyrirtækið beiti bolabrögðum í samkeppni um þjónustu við netverslanir.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-24T11:43:50.852279+00:00",
-  "id": 4
- },
- "15383a7405d5ec7a": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – viðskipti",
-  "date": "2026-06-24",
-  "url": "https://www.mbl.is/vidskipti/frettir/2026/06/24/johanna_nyr_framkvaemdarstjori_propr/",
-  "title": "Jóhanna nýr framkvæmdarstjóri PROPR",
-  "sum": "Jóhanna Jóhannesdóttir hefur verið ráðin framkvæmdastjóri PROPR, fyrsta fyrirtækisins á Íslandi með sérhæfingu í markaðsmálum fasteignaþróunar.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-24T11:43:50.852279+00:00",
-  "id": 5
- },
  "e8ed0571aa489369": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -6481,27 +6418,6 @@
   "first_seen": "2026-06-25T11:39:12.797617+00:00",
   "id": 1
  },
- "e94fa4f75f3ead1f": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-25",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/25/rikid_sagt_svikja_samkomulag/",
-  "title": "Ríkið sagt svíkja samkomulag",
-  "sum": "„Við skrifuðum undir samkomulagið við ríkið fyrir 15 mánuðum þar sem samið var um að ríkið sæi um framkvæmd og fjármögnun þjónustu við börn með fjölþættan vanda,“ segir Arnar Þór Sævarsson, framkvæmdastjóri Sambands íslenskra sveitarfélaga,",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-25T11:39:12.797617+00:00",
-  "id": 2
- },
  "2cedecbdad98e520": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -6523,69 +6439,6 @@
   "first_seen": "2026-06-25T11:39:12.797617+00:00",
   "id": 3
  },
- "1558d2da761809ad": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-25",
-  "url": "https://www.visir.is/g/20262901759d/menningarsja-og-hlutverk-hennar",
-  "title": "Menningar­sjá og hlut­verk hennar",
-  "sum": "Þegar rætt er um menningarinnviði er oft vísað til stofnana, húsa og formlegra kerfa: leikhúsa, safna, tónlistarhúsa, bókasafna, menningarmiðstöðva og styrkjakerfa. Slíkir innviðir skipta miklu máli og eru ómissandi hluti af menningarlífi s",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-25T11:39:12.797617+00:00",
-  "id": 4
- },
- "ec5e9153acb88bd1": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-25",
-  "url": "https://www.visir.is/g/20262901488d/thad-borgar-sig-ad-bregdast-vid-i-tima-hagnyt-rad-fra-murarameistara",
-  "title": "Það borgar sig að bregðast við í tíma: Hag­nýt ráð frá múrara­meistara",
-  "sum": "Fáar eignir skipta fólk meira máli en heimilið. Samt er auðvelt að fresta viðhaldi þar til litlar skemmdir eru orðnar að kostnaðarsömum framkvæmdum. Það er einmitt kjarninn í herferð BM Vallár, „Gerðu vel við þína fasteign“, sem hvetur húse",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-25T11:39:12.797617+00:00",
-  "id": 5
- },
- "b6d5efccabc211e6": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-25",
-  "url": "https://www.visir.is/g/20262901782d/fleiri-andvigir-hvalveidum-en-fylgjandi",
-  "title": "Fleiri and­vígir hval­veiðum en fylgjandi",
-  "sum": "Alls eru um 41 prósent andvíg veiðum á langreyðum og 26 prósent hvorki hlynnt né andvíg samkvæmt nýrri skoðanakönnun Maskínu sem framkvæmd var fyrir Náttúruverndarsamtök Íslands. Niðurstöður sýna einnig að 33 prósent eru fylgjandi veiðunum.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-25T11:39:12.797617+00:00",
-  "id": 6
- },
  "78f3439f1e187b3c": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -6606,27 +6459,6 @@
   "tsort": "",
   "first_seen": "2026-06-25T11:39:12.797617+00:00",
   "id": 11
- },
- "d26fa1d9435a50e7": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-24",
-  "url": "https://www.visir.is/g/20262901627d/laugin-lokud-vegna-flognunar-og-lokad-enn-lengur-naesta-sumar",
-  "title": "Laugin lokuð vegna flögnunar og lokað enn lengur næsta sumar",
-  "sum": "Enn heldur botninn í Vesturbæjarlaug áfram að flagna og er búið að loka lauginni fyrir nauðsynlegar viðhaldsframkvæmdir. Forstöðukona segir ljóst að lauginni verði aftur lokað næsta sumar í enn lengri tíma.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-25T11:39:12.797617+00:00",
-  "id": 12
  },
  "70d15d058018fb86": {
   "region": "Landið allt",
@@ -6900,5 +6732,278 @@
   "tsort": "",
   "first_seen": "2026-06-25T15:39:49.126202+00:00",
   "id": 5
+ },
+ "3f5d470e05f4a6e0": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-26",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/26/hildur_heitir_ad_standa_vid_storu_ordin/",
+  "title": "Hildur heitir að standa við stóru orðin",
+  "sum": "Borgarráð ákvað í gær, að tillögu Hildar Björnsdóttur borgarstjóra, að gera umfangsmiklar skipulagsbreytingar á skrifstofu borgarstjóra og borgarritara, en í þeim felst m.a. að lagðar verði niður skrifstofa samskipta og viðburða og mannrétt",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T09:41:09.361063+00:00",
+  "id": 1
+ },
+ "1bf12faaa14b1303": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-26",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/26/kaffistofa_samhjalpar_i_uppnami/",
+  "title": "Kaffistofa Samhjálpar í uppnámi",
+  "sum": "&bdquo;Okkur er að sjálfsögðu brugðið. Þetta er ekki áfellisdómur yfir okkur heldur yfir ferlinu, en í úrskurðinum segir að framkvæmdin hefði átt að fara í deiliskipulag,&ldquo; segir Guðrún Ágústa Guðmundsdóttir framkvæmdastjóri Samhjálpar",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T09:41:09.361063+00:00",
+  "id": 2
+ },
+ "95382207983aa124": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-25",
+  "url": "https://www.visir.is/g/20262902020d/borgarstarfsmenn-taka-pokann-sinn-og-kapphlaup-vid-timann-i-venesuela",
+  "title": "Borgarstarfsmenn taka pokann sinn og kapp­hlaup við tímann í Venesúela",
+  "sum": "Borgarstjóri segir umfangsmiklar skipulagsbreytingar spara borginni allt að þrjú hundruð milljónir á ári. Átján borgarstarfsmönnum var sagt upp störfum í dag og níu færðir til. Þá voru mannréttindaskrifstofan og mannréttindaráð lögð niður.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T09:41:09.361063+00:00",
+  "id": 11
+ },
+ "0990adf3c39e08a7": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-26",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-26-bakkad-ef-folk-hefur-nogu-hatt-og-kaerir-nogu-mikid-479540/",
+  "title": "Bakkað ef fólk hefur nógu hátt og kærir nógu mikið",
+  "sum": "Guðrún Ágústa Guðmundsdóttir, framkvæmdastjóri Samhjálpar, segir að andstaða við samfélagslega þjónustu hafi farið vaxandi síðustu árin og telur synjun á byggingarleyfi fyrir kaffistofu samtakanna í Reykjavík vera birtingarmynd þess. Hún se",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T09:41:09.361063+00:00",
+  "id": 3
+ },
+ "92039bb3113379d9": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-26",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-26-eigendum-bensinstodvaloda-verdi-gert-ad-borga-479534/",
+  "title": "Eigendum bensínstöðvalóða verði gert að borga",
+  "sum": "Borgarráð samþykkti tillögu Hildar Björnsdóttur borgarstjóra í gær um að skipa nefnd til að semja við lóðarhafa bensínstöðvalóða um uppbyggingu og endurgjald á markaðsvirði fyrir aukinn og breyttan byggingarrétt ásamt nýjum lóðarleiguréttin",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T09:41:09.361063+00:00",
+  "id": 4
+ },
+ "733e0ddf418aa1e6": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-06-25",
+  "url": "https://www.ruv.is/frettir/innlent/2026-06-25-ottast-ad-fleiri-uppsagnir-seu-i-uppsiglingu-479470/",
+  "title": "Óttast að fleiri uppsagnir séu í uppsiglingu",
+  "sum": "„Þetta er erfiður dagur í ráðhúsinu í dag,“ segir Pétur Marteinsson, oddviti Samfylkingarinnar. „Það er aldrei gaman að segja upp fólki.“ Skipulagsbreytingar sem á skrifstofu borgarstjóra og borgarritara sem samþykktar voru í borgarráði í d",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T09:41:09.361063+00:00",
+  "id": 12
+ },
+ "0943c5e5db86d52d": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-26",
+  "url": "https://byggingar.is/akrafjallsvegur-hringtorg-og-undirgong-vid-akranes-bodin-ut/?utm_source=rss&utm_medium=rss&utm_campaign=akrafjallsvegur-hringtorg-og-undirgong-vid-akranes-bodin-ut",
+  "title": "14.07.2026 Akrafjallsvegur: Hringtorg og undirgöng við Akranes boðin út",
+  "sum": "Akrafjallsvegur: Hringtorg og undirgöng við Akranes boðin út Vegagerðin hefur auglýst útboð á umfangsmiklum samgöngu- og veituframkvæmdum við gatnamót Akrafjallsvegar (51) og Akranesvegar. Verkið felur í sér gerð nýs hringtorgs, undirganga ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T09:41:09.361063+00:00",
+  "id": 5
+ },
+ "a55a15b7a505eae3": {
+  "region": "Austurland",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-25",
+  "url": "https://byggingar.is/sildarvinnslan-staekkar-skrifstofuhus-sitt-i-neskaupstad/?utm_source=rss&utm_medium=rss&utm_campaign=sildarvinnslan-staekkar-skrifstofuhus-sitt-i-neskaupstad",
+  "title": "Síldarvinnslan stækkar skrifstofuhús sitt í Neskaupstað",
+  "sum": "Síldarvinnslan stækkar skrifstofuhús sitt í Neskaupstað Síldarvinnslan hf. stendur nú að umfangsmikilli stækkun skrifstofuhúsnæðis síns við Hafnarbraut 6 í Neskaupstað. Með framkvæmdunum verður reist ný hæð ofan á núverandi hús auk þess sem",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T09:41:09.361063+00:00",
+  "id": 13
+ },
+ "64d87a08c1de6a9e": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vegagerðin – framkvæmdafréttir",
+  "date": "2026-06-26",
+  "url": "https://www.vegagerdin.is/vegagerdin/starfsemi/frettir/unnid-ad-uppbyggingu-jokuldalsvegar-inn-ad-studlagili",
+  "title": "29. september 2025 Unnið að uppbygg­ingu Jökul­dals­vegar inn að Stuðlagili",
+  "sum": "29. september 2025 Unnið að uppbygg­ingu Jökul­dals­vegar inn að Stuðlagili",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T09:41:09.361063+00:00",
+  "id": 6
+ },
+ "2da6b07586a29313": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vegagerðin – framkvæmdafréttir",
+  "date": "2026-06-26",
+  "url": "https://www.vegagerdin.is/vegagerdin/starfsemi/frettir/endurbygging-stalthils-i-reykholahreppi",
+  "title": "30. maí 2025 Endur­bygg­ing stál­þils í Reyk­hóla­hreppi",
+  "sum": "30. maí 2025 Endur­bygg­ing stál­þils í Reyk­hóla­hreppi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T09:41:09.361063+00:00",
+  "id": 7
+ },
+ "fb288326d9e1f7e6": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "Vegagerðin – framkvæmdafréttir",
+  "date": "2026-06-26",
+  "url": "https://www.vegagerdin.is/vegagerdin/starfsemi/frettir/framkvaemdum-lokid-vid-annan-afanga-dynjandisheidar",
+  "title": "25. september 2024 Fram­kvæmd­um lokið við annan áfanga Dynj­andis­heiðar",
+  "sum": "25. september 2024 Fram­kvæmd­um lokið við annan áfanga Dynj­andis­heiðar",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T09:41:09.361063+00:00",
+  "id": 8
+ },
+ "e4d89588318d3505": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vegagerðin – framkvæmdafréttir",
+  "date": "2026-06-26",
+  "url": "https://www.vegagerdin.is/vegagerdin/starfsemi/frettir/framkvaemdafrettir-4-tbl-2024-komnar-a-vefinn",
+  "title": "25. september 2024 Fram­kvæmda­frétt­ir 4. tbl. 2024 komnar á vefinn",
+  "sum": "25. september 2024 Fram­kvæmda­frétt­ir 4. tbl. 2024 komnar á vefinn",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T09:41:09.361063+00:00",
+  "id": 9
+ },
+ "da0b198896937ee1": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Reykjavíkurborg – fréttir",
+  "date": "2026-06-26",
+  "url": "https://reykjavik.is/frettir/2026/skipulagsbreytingar-og-uppsagnir-i-radhusi-reykjavikur",
+  "title": "Skipulagsbreytingar og uppsagnir í Ráðhúsi Reykjavíkur",
+  "sum": "Skipulagsbreytingar og uppsagnir í Ráðhúsi Reykjavíkur",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T09:41:09.361063+00:00",
+  "id": 10
  }
 }
