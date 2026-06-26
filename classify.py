@@ -8,7 +8,9 @@ import config as C
 
 
 def _text(item: dict) -> str:
-    return (item["title"] + " " + item.get("summary", "")).lower()
+    # Fjarlægja mjúk bandstrik (U+00AD) sem sumir miðlar setja inni í orð í
+    # fyrirsögnum (t.d. "Hag\u00adnýt", "hval\u00adveiðum") — þau brjóta orðaleit.
+    return (item["title"] + " " + item.get("summary", "")).replace("\u00ad", "").lower()
 
 
 # Markaðs-/talningarefni um húsnæði — íbúðamarkaður, leigumarkaður, talningar HMS o.fl.
@@ -71,7 +73,7 @@ def is_relevant(item: dict) -> bool:
         return True
     # Hreinsum "false friends": "framkvæmdastjóri"/"framkvæmdastjórn" (starfsheiti)
     # og "framkvæmdavald" (stjórnmál) mega ekki kveikja á lykilorðinu "framkvæmd".
-    t_kw = t.replace("framkvæmdastjór", " ").replace("framkvæmdavald", " ")
+    t_kw = t.replace("framkvæmdastjór", " ").replace("framkvæmdarstjór", " ").replace("framkvæmdavald", " ")
     # "háskólabrú" (aðfaranám, t.d. hjá Keili) er NÁMSLEIÐ, ekki samgöngubrú — má
     # ekki kveikja á lykilorðinu "brú ". Hreinsum áður en lykilorð eru metin.
     t_kw = t_kw.replace("háskólabrú", " ")
@@ -95,6 +97,10 @@ def is_relevant(item: dict) -> bool:
 
 # Sterk útilokunarorð — fréttir sem innihalda þessi eru ekki framkvæmdafréttir.
 _HARD_NEGATIVES = [
+    # viðskipti / markaðs-samkeppni — t.d. "beita bolabrögðum í samkeppni um
+    # þjónustu". (Höfnum EKKI á "samkeppni" — það grípur gildar hönnunar-/
+    # skipulagssamkeppnir.)
+    "bolabrögð", "samkeppniseftirlit",
     # sakamál / dómsmál
     "líkamsárás", "fangelsi", "ákær", "saksókn", "héraðsdóm", "hæstirétt",
     "landsrétt", "kynferðis", "nauðgun", "manndráp", "fíkniefn", "ofbeldi",
@@ -164,6 +170,20 @@ _HARD_NEGATIVES = [
     # fyrirtækis/félags er ekki mannvirkjagerð), t.d. "ráðin í starf markaðsstjóra"
     # eða "nýtt endurskoðunar- og ráðgjafarfyrirtæki".
     "markaðsstjór", "ráðgjafarfyrirtæki",
+    # skoðanakannanir — "skoðanakönnun framkvæmd var" (sögnin að framkvæma).
+    "skoðanakönnun",
+    # sjávarútvegur / hvalveiðar
+    "hvalveið",
+    # félagsþjónusta — deilur ríkis/sveitarfélaga um þjónustu (kveikir á "framkvæmd
+    # ... þjónustu"), t.d. þjónusta við börn með fjölþættan vanda.
+    "fjölþættan vanda",
+    # menningarumræða — abstrakt umfjöllun um "menningarinnviði" (leikhús/söfn) er
+    # ekki framkvæmdafrétt; raunveruleg menningarhús-bygging notar "tónlistarhús" o.þ.h.
+    "menningarinnvið",
+    # auglýsingar / ráðgjafarefni — t.d. "Hagnýt ráð frá múrarameistara" (herferð).
+    "hagnýt ráð",
+    # lokun/viðhald lauga vegna skemmda (flögnun) — rekstrarfrétt, ekki framkvæmd.
+    "flögnun", "flagna",
 ]
 
 # --- Erlendar fréttir ------------------------------------------------------
