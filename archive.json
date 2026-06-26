@@ -406,48 +406,6 @@
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 2
  },
- "446cfae3c71037ac": {
-  "region": "Suðurnes",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-05-28",
-  "url": "https://www.visir.is/g/20262889996d/enginn-meirihluti-i-grindavik",
-  "title": "Enginn meiri­hluti í Grinda­vík",
-  "sum": "Enginn meirihluti verður myndaður í bæjarstjórn Grindavíkur. Allir bæjarfulltrúar vilja vinna saman að áframhaldandi uppbyggingu samfélagsins í bænum.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 31
- },
- "cbbe3d3e65458209": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-05-28",
-  "url": "https://www.visir.is/g/20262889854d/hopuppsogn-hja-rapyd-a-islandi",
-  "title": "Hópuppsögn hjá Rapyd á Ís­landi",
-  "sum": "Um fjörutíu manns hefur verið sagt upp hjá Rapyd á Íslandi. Ástæðan eru skipulagsbreytingar á alþjóðavísu en gervigreind á að leysa af hólmi fjölda starfsmanna, miðað við bréf forstjóra alþjóðasamsteypunnar til starfsmanna.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 32
- },
  "2a86a4be75af8bdc": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -657,27 +615,6 @@
   "tsort": "",
   "first_seen": "2026-05-29T15:56:40.922032+00:00",
   "id": 25
- },
- "9430657a5df1e94c": {
-  "region": "Norðurland eystra",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Norðurþing – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.nordurthing.is/is/stjornsysla/stjornkerfi/skipulags-og-framkvaemdasvid-nordurthings-1",
-  "title": "Skipulags- og framkvæmdasvið Norðurþings",
-  "sum": "Skipulags- og framkvæmdasvið Norðurþings",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-29T15:56:40.922032+00:00",
-  "id": 26
  },
  "a85d0dfbf0bd0969": {
   "region": "Vestfirðir",
@@ -951,27 +888,6 @@
   "tsort": "",
   "first_seen": "2026-05-30T07:17:35.906308+00:00",
   "id": 5
- },
- "83bc2f6052580902": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-05-29",
-  "url": "https://www.ruv.is/frettir/innlent/2026-05-29-islandsbanki-varar-vid-svikapostum-476723/",
-  "title": "Íslandsbanki varar við svikapóstum",
-  "sum": "Óprúttnir aðilar hafa reynt að komast yfir banka- og kortaupplýsingar fólks með því að blekkja það til að skrá sig inn með rafrænum skilríkjum og gefa upp öryggisnúmer. Svikin eru framkvæmd í gegnum tölvupóst sem leiðir viðtakanda inn á vef",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-30T07:17:35.906308+00:00",
-  "id": 12
  },
  "f5e38c0d304dfc9e": {
   "region": "Höfuðborgarsvæðið",
@@ -2257,27 +2173,6 @@
   "first_seen": "2026-06-05T12:07:16.516029+00:00",
   "id": 1
  },
- "8d0646acbb172b5c": {
-  "region": "Suðurnes",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-05",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/05/segja_stjornvold_standa_i_vegi_fyrir_grindvikingum/",
-  "title": "Segja stjórnvöld standa í vegi fyrir Grindvíkingum",
-  "sum": "Bæjarstjórn Grindavíkur lýsir miklum vonbrigðum með þá neikvæðu og fjandsamlegu afstöðu sem hún segir stjórnvöld sýna gagnvart skjótri enduruppbyggingu bæjarfélagsins.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-05T12:07:16.516029+00:00",
-  "id": 2
- },
  "57d30b54fbf67b76": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -2319,27 +2214,6 @@
   "tsort": "",
   "first_seen": "2026-06-05T12:07:16.516029+00:00",
   "id": 3
- },
- "b874b4f625b1ac9b": {
-  "region": "Suðurnes",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-05",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/05/thverpolitisk_samstada_i_grindavik/",
-  "title": "Þverpólitísk samstaða í Grindavík",
-  "sum": "Oddvitar allra flokka í Grindavíkurbæ lýstu yfir skýrum vilja til að vinna saman að áframhaldandi uppbyggingu samfélagsins í bænum og því myndaðist enginn meirihluti.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-05T15:55:28.078450+00:00",
-  "id": 1
  },
  "8a002ac986859d5a": {
   "region": "Landið allt",
@@ -2551,27 +2425,6 @@
   "first_seen": "2026-06-08T13:05:35.079448+00:00",
   "id": 4
  },
- "540acf6bf8942a31": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-07",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-07-velmenni-hefur-storf-a-hjukrunarheimili-i-fossvogi-477351/",
-  "title": "Vélmenni hefur störf á hjúkrunarheimili í Fossvogi",
-  "sum": "Sjómannadagsráð, sem er eigandi Hrafnistuheimilanna, hefur undanfarin misseri unnið að gerð uppbyggingaráætlunar til næstu 15 ára. Við gerð áætlunarinnar var meðal annars velt upp hvernig eldra fólk myndi geta nýtt sér tækni eins og vélmenn",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-08T13:05:35.079448+00:00",
-  "id": 10
- },
  "a5b79e132bf1a5b4": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -2719,48 +2572,6 @@
   "first_seen": "2026-06-08T16:50:12.995134+00:00",
   "id": 2
  },
- "a8c0cf99e13384f8": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-09",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/09/adsend_grein_raesum_velarnar_en_hvar_eru_peningarni/",
-  "title": "Aðsend grein: Ræsum vélarnar – en hvar eru peningarnir?",
-  "sum": "Þegar ríkisstjórnin kynnti nýja samgönguáætlun voru yfirlýsingarnar háfleygar. Kynningarfundur var haldinn undir yfirskriftinni „Ræsum vélarnar“ og landsmönnum sagt að nú væri loksins komið að stórsókn í uppbyggingu samgönguinnviða.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-09T08:49:44.246764+00:00",
-  "id": 1
- },
- "292388cbbef6b9ee": {
-  "region": "Suðurland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-08",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-08-vilja-ad-haett-verdi-vid-lokun-hjukrunarheimilis-a-selfossi-477462/",
-  "title": "Vilja að hætt verði við lokun hjúkrunarheimilis á Selfossi",
-  "sum": "Aðstandendum hjúkrunarheimilisins Ljósheima á Selfossi hefur verið tilkynnt að því verði lokað á næsta ári. Skortur er á hjúkrunarrýmum og ráðherra kynnti áætlun um uppbyggingu í mars. Þá voru yfir sjö hundruð á biðlista. Á Ljósheimum á Sel",
-  "tender": "",
-  "start": "2027",
-  "end": "",
-  "tsort": "2027-01",
-  "first_seen": "2026-06-09T08:49:44.246764+00:00",
-  "id": 3
- },
  "f79edb1689f2d48a": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -2907,27 +2718,6 @@
   "tsort": "",
   "first_seen": "2026-06-10T12:18:50.921046+00:00",
   "id": 8
- },
- "04afff57a04ba08a": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-09",
-  "url": "https://www.visir.is/g/20262895361d/no-borders-hvetja-til-andspyrnu-gegn-brottfararstod",
-  "title": "No Borders hvetja til and­spyrnu gegn brottfararstöð",
-  "sum": "„Við hvetjum almenning til að hafna þessum lögum og beita öllum ráðum við að koma í veg fyrir að þau verði færð í framkvæmd,“ segja samtökin No Borders í yfirlýsingu í tengslum við lög sem samþykkt voru á Alþingi í dag sem heimila stjórnvöl",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-10T12:18:50.921046+00:00",
-  "id": 9
  },
  "7c2c1c6e0d6cd6e2": {
   "region": "Höfuðborgarsvæðið",
@@ -3265,27 +3055,6 @@
   "first_seen": "2026-06-11T12:44:04.991301+00:00",
   "id": 4
  },
- "ac8c77a98043ed4b": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-11",
-  "url": "https://www.visir.is/g/20262896004d/olga-i-samfylkingu-thessi-olog-eru-ekki-i-okkar-nafni-sett-",
-  "title": "Ólga í Sam­fylkingu: „Þessi ó­lög eru ekki í okkar nafni sett“",
-  "sum": "Hópur félagsmanna Samfylkingarinnar og óflokksbundið jafnaðarfólk mótmælir brottfararstöð ríkisstjórnarinnar í aðsendri grein á vef Vísis í dag. 55 skrifa undir greinina og mótmæla lagasetningunni og krefjast þess að framkvæmdin verði stöðv",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-11T12:44:04.991301+00:00",
-  "id": 5
- },
  "4ff4bac36bcea04f": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -3412,27 +3181,6 @@
   "first_seen": "2026-06-11T12:44:04.991301+00:00",
   "id": 10
  },
- "9d387999155c81fd": {
-  "region": "Norðurland eystra",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-11",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-11-leggur-til-ad-laun-baejarstjora-og-kjorinna-fulltrua-haekki-ekki-477792/",
-  "title": "Leggur til að laun bæjarstjóra og kjörinna fulltrúa hækki ekki",
-  "sum": "Glænýtt bæjarráð á Akureyri lagði til, á öðrum fundi sínum í gær, að kjörnir fulltrúar og bæjarstjóri fái ekki vísitöluhækkun launa sem koma á til framkvæmda 1. júlí. „Stærsta hagsmunamál heimila og fyrirtækja eru verðbólga og vextir. Við e",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-11T16:56:02.762895+00:00",
-  "id": 2
- },
  "4aee83fbff7ec33f": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -3474,48 +3222,6 @@
   "tsort": "",
   "first_seen": "2026-06-11T16:56:02.762895+00:00",
   "id": 4
- },
- "e0e1427f70175b18": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-12",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/12/sumt_leidir_madur_hja_ser/",
-  "title": "„Sumt leiðir maður hjá sér“",
-  "sum": "Jóhann Páll Jóhannsson umverfis-, orku- og loftslagsráðherra, segir að boraframkvæmdir sem mengum hlaust af í Varmá í Mosfellsbæ hafi farið fram á grundvelli leyfa sem gefin voru út löngu áður en lagabreytingarnar voru samþykktar og tóku gi",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-12T09:20:39.789697+00:00",
-  "id": 1
- },
- "69d1ac4ad08594b9": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-12",
-  "url": "https://www.visir.is/g/20262896514d/framtidin-i-spegli-fyrirsagna-hversdagsins",
-  "title": "Fram­tíðin í spegli fyrir­sagna hvers­dagsins",
-  "sum": "Kreppa dagsins tekur reglulega yfir allt súrefnið í kerfinu. Þá situr minna eftir fyrir innviði, loftslagsaðlögun, menntun, orkuuppbyggingu eða aðra hægfara uppbyggingarþætti sem ráða þó mestu um stöðu samfélaga til lengri tíma.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-12T09:20:39.789697+00:00",
-  "id": 2
  },
  "89e8fdca5fcda4e0": {
   "region": "Höfuðborgarsvæðið",
@@ -3642,27 +3348,6 @@
   "tsort": "",
   "first_seen": "2026-06-12T09:20:39.789697+00:00",
   "id": 6
- },
- "7881a09e8c1aa299": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-12",
-  "url": "https://www.visir.is/g/20262896777d/samgonguaaetlun-samthykkt-a-althingi",
-  "title": "Samgönguáætlun sam­þykkt á Al­þingi",
-  "sum": "Alþingi hefur samþykkt Samgönguáætlun fyrir árin 2026 til 2040 ásamt fimm ára aðgerðaáætlun fyrir árin 2026 til 2030. Atkvæði með voru þrjátíu og þrjú en tuttugu og þrír þingmenn sátu hjá. Samgönguáætlun forgangsraðar framkvæmdum hins opinb",
-  "tender": "",
-  "start": "2026",
-  "end": "2040",
-  "tsort": "2026-01",
-  "first_seen": "2026-06-12T16:20:05.241354+00:00",
-  "id": 1
  },
  "15e4aa835b6d9be8": {
   "region": "Vestfirðir",
@@ -3811,27 +3496,6 @@
   "first_seen": "2026-06-13T15:02:03.676444+00:00",
   "id": 3
  },
- "52b7f379ecf7ca97": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-14",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/14/gaeta_tharf_hofsemi_i_vindorkuframleidslu/",
-  "title": "Gæta þarf hófsemi í vindorkuframleiðslu",
-  "sum": "Ábyrg uppbygging vindorku gæti verið háð því að rekstraraðili þessarar óstöðugu orkuframleiðslu búi einnig yfir annarri stöðugri framleiðslu, til að mæta þeim áskorunum sem fylgja sveiflukenndu framleiðslumynstri vindorkunnar.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-14T11:29:05.459327+00:00",
-  "id": 1
- },
  "234689ea0b819c3b": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -3852,27 +3516,6 @@
   "tsort": "",
   "first_seen": "2026-06-14T11:29:05.459327+00:00",
   "id": 2
- },
- "5c93da0cd64d9910": {
-  "region": "Norðurland eystra",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-13",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-13-jardbodin-taka-miklum-breytingum-477211/",
-  "title": "Jarðböðin taka miklum breytingum",
-  "sum": "Framkvæmdir hafa staðið yfir við jarðböðin við Mývatn í nokkur ár og þau hafa verið lokuð síðan um áramót. Nú er farið að sjá fyrir endann á framkvæmdum og stefnt að því að opna 30. júní. Þar er núna nýtt þjónustuhús, ný búningaaðstaða og s",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-14T11:29:05.459327+00:00",
-  "id": 3
  },
  "70a219d7c1ea76ed": {
   "region": "Norðurland eystra",
@@ -4990,27 +4633,6 @@
   "first_seen": "2026-06-18T12:23:38.499262+00:00",
   "id": 3
  },
- "9e3b6eed1d864ce2": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-18",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/18/borgin_leggur_til_urbaetur_vegna_graena_gimaldsins/",
-  "title": "Borgin leggur til úrbætur vegna græna gímaldsins",
-  "sum": "Innri endurskoðun og ráðgjöf telur að annmarkar hafi verið á stjórnsýslu- og leyfisferlum í tengslum við uppbyggingu við græna gímaldið að Álfabakka 2a og leggur til 12 úrbótatillögur sem borgarráð samþykkti í dag að vísa til meðferðar umhv",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-18T16:34:56.140028+00:00",
-  "id": 1
- },
  "0105343a7a3a2493": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -5031,27 +4653,6 @@
   "tsort": "",
   "first_seen": "2026-06-18T16:34:56.140028+00:00",
   "id": 2
- },
- "d328d005f7c9e118": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-18",
-  "url": "https://www.visir.is/g/20262899120d/annmarkar-a-fleiri-en-einu-stigi-malsins",
-  "title": "Ann­markar á fleiri en einu stigi málsins",
-  "sum": "Innri endurskoðun og ráðgjöf (IER) telur að annmarkar hafi verið á stjórnsýslu- og leyfisferlum í tengslum við uppbyggingu vöruskemmu við Álfabakka, „græna gímaldinu“ svokallaða. Úttektin var kynnt á fundi borgarráðs í morgun.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-18T16:34:56.140028+00:00",
-  "id": 3
  },
  "e343189b4ec3b8fc": {
   "region": "Höfuðborgarsvæðið",
@@ -5347,27 +4948,6 @@
   "first_seen": "2026-06-19T16:00:44.828125+00:00",
   "id": 1
  },
- "9b57bfa00bc20203": {
-  "region": "Suðurnes",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-19",
-  "url": "https://byggingar.is/framkvaemdir-standast-aaetlun-en-baejarstjori-ottast-framkvaemdastopp-i-haust/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-standast-aaetlun-en-baejarstjori-ottast-framkvaemdastopp-i-haust",
-  "title": "Framkvæmdir standast áætlun en bæjarstjóri óttast framkvæmdastopp í haust",
-  "sum": "Framkvæmdir standast áætlun en bæjarstjóri óttast framkvæmdastopp í haust Nýtt mælaborð yfir sjö stærstu framkvæmdir Reykjanesbæjar sýnir að öll verkefni eru innan fjárhagsáætlunar. Þrátt fyrir gleði minnihlutans á síðasta fundi bæjarstjórn",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-19T16:00:44.828125+00:00",
-  "id": 2
- },
  "92088c0003020000": {
   "region": "Höfuðborgarsvæðið",
   "type": "Íbúðir",
@@ -5388,27 +4968,6 @@
   "tsort": "",
   "first_seen": "2026-06-20T11:16:14.069189+00:00",
   "id": 1
- },
- "e92ec97c1e131dd4": {
-  "region": "Suðurnes",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-20",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-20-thad-er-ekkert-fritt-i-thessu-478759/",
-  "title": "„Það er ekkert frítt í þessu“",
-  "sum": "Frumvarp fjármála- og efnahagsráðherra um stofnun innviðafélags var samþykkt á Alþingi með 34 atkvæðum stjórnarliða. Stjórnarandstæðingar greiddu ekki atkvæði. Innviðafélaginu er, samkvæmt frumvarpinu, ætlað að halda utan um uppbyggingu stó",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-20T11:16:14.069189+00:00",
-  "id": 2
  },
  "1c7ea5a208038b64": {
   "region": "Landið allt",
@@ -5514,48 +5073,6 @@
   "tsort": "",
   "first_seen": "2026-06-21T15:12:09.349795+00:00",
   "id": 1
- },
- "d1e5e38b008bcf12": {
-  "region": "Norðurland eystra",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-22",
-  "url": "https://www.visir.is/g/20262900373d/framtid-heilbrigdisthjonustu-a-akureyri-er-i-sjonmali",
-  "title": "Fram­tíð heil­brigðisþjónustu á Akur­eyri er í sjón­máli",
-  "sum": "Það var sannkallaður handagangur í öskjunni á Akureyri í vikunni. Tvö risastór uppbyggingarverkefni á sviði heilbrigðisþjónustu litu loks dagsins ljós sitt hvoru megin við sjálfan þjóðhátíðardaginn.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-22T14:36:41.323509+00:00",
-  "id": 2
- },
- "4ed66bdbd7261763": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-22",
-  "url": "https://www.visir.is/g/20262900326d/loka-saebraut-til-austurs-vid-horpu-i-kvold",
-  "title": "Loka Sæ­braut til austurs við Hörpu í kvöld",
-  "sum": "Í dag, mánudaginn 22. júní frá klukkan 20:00 til klukkan 06:00 að morgni þriðjudagsins 23. júní, verða framkvæmdir á um 560 metra kafla á Sæbraut.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-22T14:36:41.323509+00:00",
-  "id": 3
  },
  "546585a72777430a": {
   "region": "Landið allt",
@@ -6061,27 +5578,6 @@
   "first_seen": "2026-06-24T11:43:50.852279+00:00",
   "id": 2
  },
- "435ab88b98746b96": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Verklok",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-24",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/24/samhjalp_hafdi_nanast_lokid_framkvaemdum/",
-  "title": "Samhjálp hafði nánast lokið framkvæmdum",
-  "sum": "Samhjálp hefur þegar nánast lokið vinnu við að innrétta húsnæði að Grensásvegi 44, sem nota átti undir kaffistofu Samhjálpar.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-24T11:43:50.852279+00:00",
-  "id": 3
- },
  "e8ed0571aa489369": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -6102,27 +5598,6 @@
   "tsort": "",
   "first_seen": "2026-06-24T11:43:50.852279+00:00",
   "id": 6
- },
- "d7dbb727cde83355": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-24",
-  "url": "https://www.visir.is/g/20262901225d/fer-full-af-bjartsyni-og-von-inn-a-fundinn-eg-treysti-thvi-bara-ad-vid-getum-haldid-afram-a-einhverjum-timapunkti-",
-  "title": "Fer full af bjart­sýni og von inn á fundinn: „Ég treysti því bara að við getum haldið á­fram á ein­hverjum tíma­punkti“",
-  "sum": "Úrskurðarnefnd umhverfis- og auðlindamála hefur fellt úr gildi ákvörðun byggingarfulltrúans í Reykjavík um að gefa Samhjálp leyfi til að endurinnrétta húsnæðið við Grensásveg 46 fyrir nýja kaffistofu Samhjálpar. Framkvæmdastýra Samhjálpar s",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-24T11:43:50.852279+00:00",
-  "id": 7
  },
  "29ccafb446cc1c03": {
   "region": "Landið allt",
@@ -6165,48 +5640,6 @@
   "tsort": "",
   "first_seen": "2026-06-24T11:43:50.852279+00:00",
   "id": 11
- },
- "4d6e7f247c1a53db": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Reykjavíkurborg (verkkaupi)"
-  ],
-  "status": "Verklok",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-24",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-24-tugmilljona-tjon-fyrir-samhjalp-og-thrystingur-a-ad-finna-husnaedi-til-frambudar-479262/",
-  "title": "Tugmilljóna tjón fyrir Samhjálp og þrýstingur á að finna húsnæði til frambúðar",
-  "sum": "Framkvæmdastjóri Samhjálpar segir að tjón samtakanna hlaupi á tugum milljóna vegna niðurfellingar byggingarleyfis vegna fyrirhugaðrar kaffistofu við Grensásveg í Reykjavík. Starfsemin verður áfram í hvítasunnukirkjunni Fíladelfíu um sinn en",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-24T11:43:50.852279+00:00",
-  "id": 8
- },
- "6c0459aef369cfe2": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Reykjavíkurborg (verkkaupi)"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-23",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-23-felldi-ur-gildi-byggingarleyfi-samhjalpar-a-grensasvegi-479210/",
-  "title": "Felldi úr gildi byggingarleyfi Samhjálpar á Grensásvegi",
-  "sum": "Samhjálp fær ekki að koma fyrir kaffistofu við Grensásveg 46. Úrskurðarnefnd umhverfis- og auðlindamála felldi úr gildi samþykkt umsóknar Samhjálpar um að endurinnrétta húsið fyrir nýja kaffistofu í dag. Byggingarfulltrúinn í Reykjavík gaf ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-24T11:43:50.852279+00:00",
-  "id": 12
  },
  "57de9fc3f75a36bb": {
   "region": "Höfuðborgarsvæðið",
@@ -6460,27 +5893,6 @@
   "first_seen": "2026-06-25T11:39:12.797617+00:00",
   "id": 13
  },
- "ae0d4930caf20383": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Reykjavíkurborg (verkkaupi)"
-  ],
-  "status": "Útboð",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-24",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-24-thad-hefdi-thurft-ad-fara-i-gerd-deiliskipulags-a-thessu-svaedi-479333/",
-  "title": "„Það hefði þurft að fara í gerð deiliskipulags á þessu svæði“",
-  "sum": "Guðný María Jónsdóttir, formaður umhverfis- og skipulagsráðs, segir sorglegt að Samhjálp hafi farið í mikla vinnu og eytt fjármunum í verkefni sem ekki fékk hljómgrunn. „Það er mat úrskurðanefndar að það hefði þurft að fara í gerð deiliskip",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-25T11:39:12.797617+00:00",
-  "id": 14
- },
  "b61e3fe35f7027ce": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -6733,69 +6145,6 @@
   "first_seen": "2026-06-26T09:41:09.361063+00:00",
   "id": 1
  },
- "1bf12faaa14b1303": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-26",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/26/kaffistofa_samhjalpar_i_uppnami/",
-  "title": "Kaffistofa Samhjálpar í uppnámi",
-  "sum": "&bdquo;Okkur er að sjálfsögðu brugðið. Þetta er ekki áfellisdómur yfir okkur heldur yfir ferlinu, en í úrskurðinum segir að framkvæmdin hefði átt að fara í deiliskipulag,&ldquo; segir Guðrún Ágústa Guðmundsdóttir framkvæmdastjóri Samhjálpar",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-26T09:41:09.361063+00:00",
-  "id": 2
- },
- "95382207983aa124": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-25",
-  "url": "https://www.visir.is/g/20262902020d/borgarstarfsmenn-taka-pokann-sinn-og-kapphlaup-vid-timann-i-venesuela",
-  "title": "Borgarstarfsmenn taka pokann sinn og kapp­hlaup við tímann í Venesúela",
-  "sum": "Borgarstjóri segir umfangsmiklar skipulagsbreytingar spara borginni allt að þrjú hundruð milljónir á ári. Átján borgarstarfsmönnum var sagt upp störfum í dag og níu færðir til. Þá voru mannréttindaskrifstofan og mannréttindaráð lögð niður.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-26T09:41:09.361063+00:00",
-  "id": 11
- },
- "0990adf3c39e08a7": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-26",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-26-bakkad-ef-folk-hefur-nogu-hatt-og-kaerir-nogu-mikid-479540/",
-  "title": "Bakkað ef fólk hefur nógu hátt og kærir nógu mikið",
-  "sum": "Guðrún Ágústa Guðmundsdóttir, framkvæmdastjóri Samhjálpar, segir að andstaða við samfélagslega þjónustu hafi farið vaxandi síðustu árin og telur synjun á byggingarleyfi fyrir kaffistofu samtakanna í Reykjavík vera birtingarmynd þess. Hún se",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-26T09:41:09.361063+00:00",
-  "id": 3
- },
  "92039bb3113379d9": {
   "region": "Höfuðborgarsvæðið",
   "type": "Íbúðir",
@@ -6816,27 +6165,6 @@
   "tsort": "",
   "first_seen": "2026-06-26T09:41:09.361063+00:00",
   "id": 4
- },
- "733e0ddf418aa1e6": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-25",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-25-ottast-ad-fleiri-uppsagnir-seu-i-uppsiglingu-479470/",
-  "title": "Óttast að fleiri uppsagnir séu í uppsiglingu",
-  "sum": "„Þetta er erfiður dagur í ráðhúsinu í dag,“ segir Pétur Marteinsson, oddviti Samfylkingarinnar. „Það er aldrei gaman að segja upp fólki.“ Skipulagsbreytingar sem á skrifstofu borgarstjóra og borgarritara sem samþykktar voru í borgarráði í d",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-26T09:41:09.361063+00:00",
-  "id": 12
  },
  "0943c5e5db86d52d": {
   "region": "Vesturland",
@@ -6943,48 +6271,6 @@
   "first_seen": "2026-06-26T09:41:09.361063+00:00",
   "id": 8
  },
- "e4d89588318d3505": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vegagerðin – framkvæmdafréttir",
-  "date": "2026-06-26",
-  "url": "https://www.vegagerdin.is/vegagerdin/starfsemi/frettir/framkvaemdafrettir-4-tbl-2024-komnar-a-vefinn",
-  "title": "25. september 2024 Fram­kvæmda­frétt­ir 4. tbl. 2024 komnar á vefinn",
-  "sum": "25. september 2024 Fram­kvæmda­frétt­ir 4. tbl. 2024 komnar á vefinn",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-26T09:41:09.361063+00:00",
-  "id": 9
- },
- "da0b198896937ee1": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Reykjavíkurborg – fréttir",
-  "date": "2026-06-26",
-  "url": "https://reykjavik.is/frettir/2026/skipulagsbreytingar-og-uppsagnir-i-radhusi-reykjavikur",
-  "title": "Skipulagsbreytingar og uppsagnir í Ráðhúsi Reykjavíkur",
-  "sum": "Skipulagsbreytingar og uppsagnir í Ráðhúsi Reykjavíkur",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-26T09:41:09.361063+00:00",
-  "id": 10
- },
  "21a1e1a0be2068a1": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -7006,46 +6292,25 @@
   "first_seen": "2026-06-26T10:11:15.011714+00:00",
   "id": 1
  },
- "0dcc20d908a72bcb": {
+ "b6789697469b9fb3": {
   "region": "Landið allt",
-  "type": "Atvinna",
+  "type": "Innviðir",
   "scale": "Miðlungs",
   "scaleFig": "—",
   "verk": [
    "Óútboðið"
   ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
+  "status": "Útboð",
+  "src": "mbl.is – innlent",
   "date": "2026-06-26",
-  "url": "https://www.visir.is/g/20262902193d/nalgast-hundrad-thusund-fylgjendur-a-instagram-og-rekur-sveitahotel",
-  "title": "Nálgast hundrað þúsund fylgj­endur á Instagram og rekur sveitahótel",
-  "sum": "„Ég fylgdi af því ég fæ gott að borða,“ segir Þóra Kolbrá Sigurðardóttir en eiginmaður hennar er listakokkurinn Völli Snær, fullu nafni Völundur Snær Völundarson. Þau hjónin hafa byggt upp ferðaþjónustu á Norðurlandi eystra ásamt því að sta",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/26/auglysa_eftir_husnaedi_undir_brottfararstod/",
+  "title": "Auglýsa eftir húsnæði undir brottfararstöð",
+  "sum": "Framkvæmdasýslan (FSRE) hefur auglýst eftir húsnæði á Suðurnesjum sem gæti hentað fyrir nýja brottfararstöð á vegum ríkisins.",
   "tender": "",
   "start": "",
   "end": "",
   "tsort": "",
-  "first_seen": "2026-06-26T11:43:46.218228+00:00",
+  "first_seen": "2026-06-26T12:34:44.657919+00:00",
   "id": 1
- },
- "b11050d5c5b2c611": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-26",
-  "url": "https://www.visir.is/g/20262902114d/orion-tannlaeknastofa-staekkar-og-opnar-stofu-a-5-stjornu-hoteli-i-midbae-budapest",
-  "title": "Orion tann­lækna­stofa stækkar og opnar stofu á 5 stjörnu hóteli í mið­bæ Búda­pest",
-  "sum": "Það hefur verið nóg að gera hjá Orion tannviðgerðum undanfarin ár. Fyrirtækið, sem rekur tannlæknastofur bæði í Reykjavík og Búdapest, hefur byggt upp öfluga þjónustu fyrir Íslendinga sem vilja fá tannlæknaþjónustu á hagstæðu verði án þess ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-26T11:43:46.218228+00:00",
-  "id": 2
  }
 }
