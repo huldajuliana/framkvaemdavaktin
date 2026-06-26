@@ -5242,27 +5242,6 @@
   "first_seen": "2026-06-23T10:11:55.849432+00:00",
   "id": 5
  },
- "1d7cd34cc08c8f06": {
-  "region": "Suðurland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-22",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-22-anaegja-med-faekkun-logregluembaetta-i-landinu-479103/",
-  "title": "Ánægja með fækkun lögregluembætta í landinu",
-  "sum": "Dómsmálaráðherra og hennar fólk í ráðuneytinu kom á Selfoss og hitti Grím Hergeirsson, lögreglustjóra á Suðurlandi og lögreglumenn embættisins. „Ég er að tala við alla lögreglumenn í landinu til þess að ræða við þá um skipulagsbreytingar. V",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-23T10:11:55.849432+00:00",
-  "id": 6
- },
  "58ee9a22d0c609e6": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -6019,27 +5998,6 @@
   "first_seen": "2026-06-25T11:39:12.797617+00:00",
   "id": 16
  },
- "a4f1232b8d0d80c4": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-25",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/25/ollum_upplysingafulltruum_sagt_upp/",
-  "title": "Öllum upplýsingafulltrúum sagt upp",
-  "sum": "Nýr meirihluti borgarstjórnar Reykjavíkur hefur lagt niður skrifstofu samskipta og viðburða vegna hagræðingaraðgerða og skipulagsbreytinga.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-25T15:39:49.126202+00:00",
-  "id": 1
- },
  "141b44a16c9b6731": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -6123,27 +6081,6 @@
   "tsort": "",
   "first_seen": "2026-06-25T15:39:49.126202+00:00",
   "id": 5
- },
- "3f5d470e05f4a6e0": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-26",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/26/hildur_heitir_ad_standa_vid_storu_ordin/",
-  "title": "Hildur heitir að standa við stóru orðin",
-  "sum": "Borgarráð ákvað í gær, að tillögu Hildar Björnsdóttur borgarstjóra, að gera umfangsmiklar skipulagsbreytingar á skrifstofu borgarstjóra og borgarritara, en í þeim felst m.a. að lagðar verði niður skrifstofa samskipta og viðburða og mannrétt",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-26T09:41:09.361063+00:00",
-  "id": 1
  },
  "0943c5e5db86d52d": {
   "region": "Vesturland",
