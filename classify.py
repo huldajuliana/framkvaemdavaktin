@@ -43,11 +43,12 @@ _CONTEXT = [
 # því það er líka hundraðshluti; mælum frekar á aðila-nöfnum.)
 _POLLSTERS = ["maskín", "gallup", "félagsvísindastofnun", "mmr", "prósent ehf"]
 
-# "framkvæmd"/"framkvæmdir"/"uppbygging" eru margræð: þau þýða líka sögnina að
-# framkvæma (könnun/árás) og óeiginlega "uppbyggingu rekstrar/þjónustu". Þau duga
-# því EKKI ein og sér — krefjast byggingar-samhengis úr _BUILD_CTX (precision >
-# recall: heldur missa litlar fréttir en hleypa inn rusli).
-_GATED = ("framkvæmd", "framkvæmdir", "uppbygging")
+# "framkvæmd"/"framkvæmdir"/"uppbygging"/"skipulagsbreyting" eru margræð: þau þýða
+# líka sögnina að framkvæma (könnun/árás), óeiginlega "uppbyggingu rekstrar/þjónustu"
+# og "skipulagsbreytingu STOFNUNAR" (t.d. niðurskurð/uppsagnir í Ráðhúsi, ekki
+# deiliskipulag). Þau duga því EKKI ein og sér — krefjast byggingar-samhengis úr
+# _BUILD_CTX (precision > recall: heldur missa litlar fréttir en hleypa inn rusli).
+_GATED = ("framkvæmd", "framkvæmdir", "uppbygging", "skipulagsbreyting")
 # Byggingar-samhengi (mannvirki, byggingarsagnir, staða). Eitt þeirra þarf að fylgja
 # _GATED-orði til að fréttin teljist framkvæmdafrétt.
 _BUILD_CTX = [
@@ -138,7 +139,7 @@ def is_relevant(item: dict) -> bool:
     # _GATED-orð (framkvæmd/uppbygging) hleypa frétt aðeins inn EF byggingar-samhengi
     # fylgir. (Fjarlægjum orðin sjálf fyrst, svo "uppbygging" uppfylli ekki "bygging".)
     if any(g in t_kw for g in _GATED):
-        t_ctx = re.sub(r"framkvæmd\w*|uppbygg\w*", " ", t_kw)
+        t_ctx = re.sub(r"framkvæmd\w*|uppbygg\w*|skipulagsbreyting\w*", " ", t_kw)
         if any(c in t_ctx for c in _BUILD_CTX):
             return True
     # Veik lykilorð (húsgerðir) hleypa frétt aðeins inn EF framkvæmda-samhengi fylgir
@@ -223,9 +224,10 @@ _HARD_NEGATIVES = [
     # fyrirtækis/félags er ekki mannvirkjagerð), t.d. "ráðin í starf markaðsstjóra"
     # eða "nýtt endurskoðunar- og ráðgjafarfyrirtæki".
     "markaðsstjór", "ráðgjafarfyrirtæki",
-    # starfsmannahald: uppsagnir / "skipulagsbreytingar" í stjórnsýslu (=skipulag
-    # STOFNUNAR, ekki deiliskipulag). T.d. niðurskurður/uppsagnir í Ráðhúsi.
-    "uppsögn", "uppsagnir", "sagt upp störf", "sagt upp fólki", "var sagt upp",
+    # starfsmannahald: uppsagnir / hagræðing / "skipulagsbreytingar" í stjórnsýslu
+    # (= skipulag STOFNUNAR, ekki deiliskipulag). T.d. niðurskurður í Ráðhúsi.
+    # (Ekki "upplýsingafulltrúi" — það er starfsheiti talsmanns í gildum fréttum.)
+    "uppsögn", "uppsagnir", "sagt upp", "hagræðingaraðgerð",
     # samfélagsmiðla-/áhrifavaldaefni — aldrei framkvæmdafrétt.
     "instagram",
     # Samhjálp: deila/úrskurður um byggingarleyfi kaffistofu (félags-/dómsmál, ekki
