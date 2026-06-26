@@ -6145,27 +6145,6 @@
   "first_seen": "2026-06-26T09:41:09.361063+00:00",
   "id": 1
  },
- "92039bb3113379d9": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Reykjavíkurborg (verkkaupi)"
-  ],
-  "status": "Útboð",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-26",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-26-eigendum-bensinstodvaloda-verdi-gert-ad-borga-479534/",
-  "title": "Eigendum bensínstöðvalóða verði gert að borga",
-  "sum": "Borgarráð samþykkti tillögu Hildar Björnsdóttur borgarstjóra í gær um að skipa nefnd til að semja við lóðarhafa bensínstöðvalóða um uppbyggingu og endurgjald á markaðsvirði fyrir aukinn og breyttan byggingarrétt ásamt nýjum lóðarleiguréttin",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-26T09:41:09.361063+00:00",
-  "id": 4
- },
  "0943c5e5db86d52d": {
   "region": "Vesturland",
   "type": "Innviðir",
