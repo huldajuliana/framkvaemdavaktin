@@ -7005,5 +7005,47 @@
   "tsort": "",
   "first_seen": "2026-06-26T10:11:15.011714+00:00",
   "id": 1
+ },
+ "0dcc20d908a72bcb": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-26",
+  "url": "https://www.visir.is/g/20262902193d/nalgast-hundrad-thusund-fylgjendur-a-instagram-og-rekur-sveitahotel",
+  "title": "Nálgast hundrað þúsund fylgj­endur á Instagram og rekur sveitahótel",
+  "sum": "„Ég fylgdi af því ég fæ gott að borða,“ segir Þóra Kolbrá Sigurðardóttir en eiginmaður hennar er listakokkurinn Völli Snær, fullu nafni Völundur Snær Völundarson. Þau hjónin hafa byggt upp ferðaþjónustu á Norðurlandi eystra ásamt því að sta",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T11:43:46.218228+00:00",
+  "id": 1
+ },
+ "b11050d5c5b2c611": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-26",
+  "url": "https://www.visir.is/g/20262902114d/orion-tannlaeknastofa-staekkar-og-opnar-stofu-a-5-stjornu-hoteli-i-midbae-budapest",
+  "title": "Orion tann­lækna­stofa stækkar og opnar stofu á 5 stjörnu hóteli í mið­bæ Búda­pest",
+  "sum": "Það hefur verið nóg að gera hjá Orion tannviðgerðum undanfarin ár. Fyrirtækið, sem rekur tannlæknastofur bæði í Reykjavík og Búdapest, hefur byggt upp öfluga þjónustu fyrir Íslendinga sem vilja fá tannlæknaþjónustu á hagstæðu verði án þess ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-26T11:43:46.218228+00:00",
+  "id": 2
  }
 }
