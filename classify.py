@@ -125,6 +125,10 @@ def is_relevant(item: dict) -> bool:
     # er ekki bygging — má ekki gilda sem byggingar-samhengi. (Raunveruleg
     # uppbygging hverfis/innviða hefur önnur orð: "hverfi"/"innviðir" o.s.frv.)
     t_kw = re.sub(r"bygg(ja|t|ði|jum|ir|ð|du)?\s+upp\b", " ", t_kw)
+    # "byggingarréttur/-réttar" (lóða-/þróunarréttur) og "byggingarvísitala"
+    # (hagstærð) innihalda "bygging" en eru EKKI bygging — mega ekki gilda sem
+    # byggingar-samhengi fyrir _GATED-orðin.
+    t_kw = re.sub(r"byggingarrétt\w*|byggingarvísital\w*", " ", t_kw)
     # Sterk lykilorð (ótvíræð framkvæmdaorð) duga ein og sér — NEMA _GATED-orðin.
     if any(k in t_kw for k in C.KEYWORDS
            if k not in _WEAK_TYPES and k not in ("íbúð ", "höfn") and k not in _GATED):
