@@ -38,6 +38,11 @@ _CONTEXT = [
     "fokhelt", "skóflustung", "verktak", "uppbygg", "áform", "fyrirhug", "hófst",
 ]
 
+# Þekktir mælingaaðilar (skoðanakannanir). Notað til að þekkja "[aðili] framkvæmdi
+# könnun" — sögnin að framkvæma, ekki bygging. ("prósent" eitt og sér er sleppt
+# því það er líka hundraðshluti; mælum frekar á aðila-nöfnum.)
+_POLLSTERS = ["maskín", "gallup", "félagsvísindastofnun", "mmr", "prósent ehf"]
+
 
 def _builder_in(t: str) -> bool:
     """Satt ef verktakanafn finnst í texta — en aðeins í UPPHAFI orðs, svo
@@ -85,6 +90,12 @@ def is_relevant(item: dict) -> bool:
     t_kw = re.sub(
         r"framkvæmd\w*\s+(stefn|skólastefn|menntastefn|lag|áætlun|fjárlag|samning|regln|sáttmál|kosning|farsæld)\w*",
         " ", t_kw)
+    # Kannanir: "[mælingaaðili] framkvæmdi könnun" / "könnun ... framkvæmd var fyrir
+    # X" — sögnin að framkvæma, ekki bygging. Ef könnun er nefnd ÁSAMT þekktum
+    # mælingaaðila, leyfum við "framkvæmd" ekki að vera eina byggingar-merkið.
+    # (Snertir EKKI "jarðvegskönnun við framkvæmdir" — þar er enginn mælingaaðili.)
+    if "könnun" in t_kw and any(ps in t_kw for ps in _POLLSTERS):
+        t_kw = re.sub(r"framkvæmd\w*", " ", t_kw)
     # Sterk lykilorð (ótvíræð framkvæmdaorð) duga ein og sér.
     if any(k in t_kw for k in C.KEYWORDS if k not in _WEAK_TYPES and k not in ("íbúð ", "höfn")):
         return True
@@ -170,8 +181,9 @@ _HARD_NEGATIVES = [
     # fyrirtækis/félags er ekki mannvirkjagerð), t.d. "ráðin í starf markaðsstjóra"
     # eða "nýtt endurskoðunar- og ráðgjafarfyrirtæki".
     "markaðsstjór", "ráðgjafarfyrirtæki",
-    # skoðanakannanir — "skoðanakönnun framkvæmd var" (sögnin að framkvæma).
-    "skoðanakönnun",
+    # skoðanakannanir / dánaraðstoð — "könnun ... framkvæmd[i]" (sögnin að
+    # framkvæma). "dánaraðstoð" er líknardráps-umræða, aldrei framkvæmd.
+    "skoðanakönnun", "dánaraðstoð",
     # sjávarútvegur / hvalveiðar
     "hvalveið",
     # félagsþjónusta — deilur ríkis/sveitarfélaga um þjónustu (kveikir á "framkvæmd
