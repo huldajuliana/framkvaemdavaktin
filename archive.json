@@ -6228,5 +6228,131 @@
   "tsort": "",
   "first_seen": "2026-06-26T12:34:44.657919+00:00",
   "id": 1
+ },
+ "46f4fca6048a6776": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-27",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/27/utbod_ad_hefjast_i_rannsoknahusinu/",
+  "title": "Útboð að hefjast í rannsóknahúsinu",
+  "sum": "Efnt verður til útboðs vegna innivinnu í rannsóknahúsi nýs Landspítala við Hringbraut í júlí og er gert ráð fyrir að framkvæmdir hefjist með haustinu. Eins og vegfarendur á Hringbraut hafa tekið eftir standa nú yfir miklar framkvæmdir í nýb",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-27T10:56:21.973690+00:00",
+  "id": 1
+ },
+ "0d16d34069c7ec48": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-26",
+  "url": "https://www.visir.is/g/20262901355d/hrafnagilshverfi-staekkar-ort",
+  "title": "Hrafnagilshverfi stækkar ört",
+  "sum": "Á Hrafnagili hefur gríðarleg uppbygging orðið síðustu ár og fær skólinn þar meiriháttar yfirhalningu í sumar. Oddvitinn segir ánægjulegt hversu margt ungt fólk er að leita í bæinn.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-27T10:56:21.973690+00:00",
+  "id": 5
+ },
+ "cbea20175b8f362a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-27",
+  "url": "https://byggingar.is/vidbragdsaefing-i-sultartangastod-thar-sem-unnid-er-ad-endurbotum/?utm_source=rss&utm_medium=rss&utm_campaign=vidbragdsaefing-i-sultartangastod-thar-sem-unnid-er-ad-endurbotum",
+  "title": "Viðbragðsæfing í Sultartangastöð þar sem unnið er að endurbótum",
+  "sum": "Viðbragðsæfing í Sultartangastöð þar sem unnið er að endurbótum Á dögunum fór fram viðbragðs- og rýmingaræfing í aðrennslisgöngum Sultartangastöðvar, þar sem unnið er að umfangsmiklum endurbótum á vegum Landsvirkjunar. Æfingin var hluti af ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-27T10:56:21.973690+00:00",
+  "id": 2
+ },
+ "6c9e3091d5047a0f": {
+  "region": "Suðurland",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-27",
+  "url": "https://byggingar.is/framkvaemdir-hafnar-vid-nyjan-busetukjarna-a-hvolsvelli/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-hafnar-vid-nyjan-busetukjarna-a-hvolsvelli",
+  "title": "Framkvæmdir hafnar við nýjan búsetukjarna á Hvolsvelli",
+  "sum": "Framkvæmdir hafnar við nýjan búsetukjarna á Hvolsvelli Framkvæmdir eru hafnar við byggingu nýs búsetukjarna fyrir fólk með fötlun við Dalsbakka 1 á Hvolsvelli. Jarðvinna stendur nú yfir á lóðinni sem er staðsett við hliðina á Kirkjuhvoli og",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-27T10:56:21.973690+00:00",
+  "id": 3
+ },
+ "77e0dac81c9abe55": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-27",
+  "url": "https://byggingar.is/kone-med-laegsta-bodid-i-lyftur-fyrir-medferdarkjarna-og-rannsoknahus-nys-landspitala/?utm_source=rss&utm_medium=rss&utm_campaign=kone-med-laegsta-bodid-i-lyftur-fyrir-medferdarkjarna-og-rannsoknahus-nys-landspitala",
+  "title": "KONE með lægsta boðið í lyftur fyrir meðferðarkjarna og rannsóknahús Nýs Landspítala",
+  "sum": "KONE með lægsta boðið í lyftur fyrir meðferðarkjarna og rannsóknahús Nýs Landspítala Opnuð hafa verið tilboð í útboði vegna kaupa og uppsetningar lyfta fyrir meðferðarkjarna og rannsóknahús Nýs Landspítala (NLSH). Um er að ræða eitt stærsta",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-27T10:56:21.973690+00:00",
+  "id": 4
+ },
+ "9172ac66146d3942": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-26",
+  "url": "https://byggingar.is/05-08-2026-fsre-auglysir-eftir-husnaedi-fyrir-nyja-brottfararstod-a-sudurnesjum/?utm_source=rss&utm_medium=rss&utm_campaign=05-08-2026-fsre-auglysir-eftir-husnaedi-fyrir-nyja-brottfararstod-a-sudurnesjum",
+  "title": "05.08.2026 FSRE auglýsir eftir húsnæði fyrir nýja brottfararstöð á Suðurnesjum",
+  "sum": "FSRE auglýsir eftir húsnæði fyrir nýja brottfararstöð á Suðurnesjum Framkvæmdasýslan – Ríkiseignir (FSRE), fyrir hönd ríkissjóðs, hefur auglýst eftir húsnæði á Suðurnesjum sem gæti hentað sem ný brottfararstöð. Leitað er bæði að tímabundnu ",
+  "tender": "",
+  "start": "",
+  "end": "2027",
+  "tsort": "2027-01",
+  "first_seen": "2026-06-27T10:56:21.973690+00:00",
+  "id": 6
  }
 }
