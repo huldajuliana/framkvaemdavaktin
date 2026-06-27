@@ -6354,5 +6354,47 @@
   "tsort": "2027-01",
   "first_seen": "2026-06-27T10:56:21.973690+00:00",
   "id": 6
+ },
+ "74435cf90cc9e66c": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-27",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/27/eitt_floknasta_nidurrifsverkefni_islandssogunnar/",
+  "title": "Eitt flóknasta niðurrifsverkefni Íslandssögunnar",
+  "sum": "Niðurrif húsa í Grindavík eru í fullum gangi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-27T14:43:06.356878+00:00",
+  "id": 1
+ },
+ "ec5493b54bad0b5a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-27",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/27/framkvaemd_sem_margborgadi_sig/",
+  "title": "Framkvæmd sem margborgaði sig",
+  "sum": "Hvað ætli hefði oft verið búið að malbika þennan kafla á þessum 54 árum, hefði hann ekki verið steyptur?",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-27T14:43:06.356878+00:00",
+  "id": 2
  }
 }
