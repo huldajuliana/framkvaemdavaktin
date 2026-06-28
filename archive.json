@@ -6396,5 +6396,47 @@
   "tsort": "",
   "first_seen": "2026-06-27T14:43:06.356878+00:00",
   "id": 2
+ },
+ "0605aa45e1d52915": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-27",
+  "url": "https://www.visir.is/g/20262902699d/tengsl-eru-innvidir-samfelagsins",
+  "title": "Tengsl eru inn­viðir sam­félagsins",
+  "sum": "Þegar talað er um innviði samfélagsins hugsum við gjarnan um vegi, skóla, heilbrigðisþjónustu, samgöngur, hjúkrunarheimili o.s.frv.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-28T11:05:32.035994+00:00",
+  "id": 1
+ },
+ "a1452df60509580f": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-27",
+  "url": "https://www.visir.is/g/20262902704d/bidur-milli-vonar-og-otta-a-medan-fjolskyldan-er-fost-undir-hotelrustum",
+  "title": "Bíður milli vonar og ótta á meðan fjöl­skyldan er föst undir hótel­rústum",
+  "sum": "Venesúelsk kona á Íslandi bíður milli vonar og ótta eftir fregnum af bróður sínum og fjölskyldu sem lentu undir braki hótelbyggingar í öflugum jarðskjálfta í landinu á miðvikudag.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-28T11:05:32.035994+00:00",
+  "id": 2
  }
 }
