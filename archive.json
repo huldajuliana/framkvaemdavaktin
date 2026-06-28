@@ -6438,5 +6438,110 @@
   "tsort": "",
   "first_seen": "2026-06-28T11:05:32.035994+00:00",
   "id": 2
+ },
+ "83806684a7ce73f9": {
+  "region": "Norðurland eystra",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-28",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/28/reistu_verksmidju_a_69_dogum/",
+  "title": "Reistu verksmiðju á 69 dögum",
+  "sum": "Bandaríska nýsköpunarfyrirtækið Syntholene Energy Corp. hefur hafið rekstur tilraunaverksmiðju á Húsavík, sem byggð var upp á aðeins 69 dögum. Tilraunaverksmiðjan er á lóð Orkuveitu Húsavíkur. Á vef Norðurþings kemur fram að verksmiðjan sé ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-28T14:49:13.758372+00:00",
+  "id": 1
+ },
+ "2686fef2f360d3bb": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-28",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/28/kristrun_kynnti_ser_eyjagong/",
+  "title": "Kristrún kynnti sér Eyjagöng",
+  "sum": "Fyrr í mánuðinum lauk borunum eftir jarðvegssýnum í Vestmannaeyjum fyrir væntanleg jarðgöng. Kristrún Frostadóttir forsætisráðherra var í Vestmannaeyjum í gær að kynna sér stöðuna á verkefninu. Þetta kom fram í samtali við Harald Pálsson fr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-28T14:49:13.758372+00:00",
+  "id": 2
+ },
+ "32593916411fd66b": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "Vísir – allt",
+  "date": "2026-06-28",
+  "url": "https://www.visir.is/g/20262902870d/mikilvaegt-framfaraskref-fyrir-allt-landid",
+  "title": "Mikil­vægt fram­fara­skref fyrir allt landið",
+  "sum": "Skóflustunga vegna byggingar á nýrri álmu við Sjúkrahúsið á Akureyri, SAk er mikið fagnaðarefni. Með því hefst framkvæmdin formlega og eru það tímamót sem lengi hefur verið stefnt að og marka upphafið að einu mikilvægasta heilbrigðisverkefn",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-28T14:49:13.758372+00:00",
+  "id": 3
+ },
+ "41572b7d5c58d00a": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-28",
+  "url": "https://byggingar.is/tilbodi-ishnits-ehf-hafnad-i-gatnagerd-i-blaskogabyggd/?utm_source=rss&utm_medium=rss&utm_campaign=tilbodi-ishnits-ehf-hafnad-i-gatnagerd-i-blaskogabyggd",
+  "title": "Tilboði Íshnits ehf. hafnað í gatnagerð í Bláskógabyggð",
+  "sum": "Tilboði Íshnits ehf. hafnað í gatnagerð í Bláskógabyggð Á fundi sveitarstjórnar Bláskógabyggðar þann 26. júní 2026 var tekin ákvörðun um að vísa frá tilboði Íshnits ehf. í framkvæmdina Traustatún – Herutún, þar sem fyrirtækið uppfyllti ekki",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-28T14:49:13.758372+00:00",
+  "id": 4
+ },
+ "2646aaa7c233f7f7": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-28",
+  "url": "https://byggingar.is/kjarnasogun-ehf-faer-fraveituverkefni-a-thingeyri/?utm_source=rss&utm_medium=rss&utm_campaign=kjarnasogun-ehf-faer-fraveituverkefni-a-thingeyri",
+  "title": "Kjarnasögun ehf. fær fráveituverkefni á Þingeyri",
+  "sum": "Kjarnasögun ehf. fær fráveituverkefni á Þingeyri Bæjarráð Ísafjarðarbæjar hefur samþykkt að ganga til samninga við Kjarnasögun ehf. um framkvæmdir við endurnýjun fráveitu- og vatnslagna á Þingeyri. Ákvörðunin var tekin á fundi bæjarráðs þan",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-28T14:49:13.758372+00:00",
+  "id": 5
  }
 }
