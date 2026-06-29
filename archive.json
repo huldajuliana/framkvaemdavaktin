@@ -5494,48 +5494,6 @@
   "first_seen": "2026-06-23T15:49:24.055184+00:00",
   "id": 9
  },
- "856ecc7161ae21a1": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Akureyri.net – fréttir",
-  "date": "2026-06-23",
-  "url": "https://www.akureyri.net/is/frettir/framkvaemdum-ad-ljuka-vid-andapollinn",
-  "title": "Framkvæmdum að ljúka við Andapollinn",
-  "sum": "Framkvæmdum að ljúka við Andapollinn",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-23T15:49:24.055184+00:00",
-  "id": 10
- },
- "0f640e488d617a23": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-24",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/24/menningarverdmaeti_i_haettu/",
-  "title": "Menningarverðmæti í hættu",
-  "sum": "Safnstjóri Gerðarsafns gerir alvarlega athugasemd við niðurrif á Dugguvogi 42 (áður Dugguvogur 2) til að gera tímabundna hjáleið fyrir umferð á framkvæmdatíma Sæbrautarstokks.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-24T11:43:50.852279+00:00",
-  "id": 1
- },
  "edbeea8926208548": {
   "region": "Höfuðborgarsvæðið",
   "type": "Íbúðir",
@@ -5577,27 +5535,6 @@
   "tsort": "",
   "first_seen": "2026-06-24T11:43:50.852279+00:00",
   "id": 6
- },
- "29ccafb446cc1c03": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-23",
-  "url": "https://www.visir.is/g/20262901102d/-thad-er-nog-til-hja-kviku-og-geta-til-vaxtar-er-enn-umtalsverd",
-  "title": "„Það er nóg til“ hjá Kviku og geta til vaxtar er enn um­tals­verð",
-  "sum": "Dekkri efnahagshorfur samhliða meðal annars minni umsvifum á byggingar- og fasteignamarkaði veldur því að spár um útlánavöxt og auknar vaxtatekjur hjá Kviku eru lækkaðar, samkvæmt nýrri verðmatsgreiningu. Bankinn er samt sagður undirverðlag",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-24T11:43:50.852279+00:00",
-  "id": 10
  },
  "f5b6b1bcb6913c3c": {
   "region": "Suðurnes",
@@ -6061,27 +5998,6 @@
   "first_seen": "2026-06-25T15:39:49.126202+00:00",
   "id": 4
  },
- "d5de4da31a05aa54": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Reykjavíkurborg – fréttir",
-  "date": "2026-06-25",
-  "url": "https://reykjavik.is/frettir/2026/utskipting-umferdarljosabunadar-vid-gatnamot-hofdabakka-og-bildshofda",
-  "title": "Útskipting umferðarljósabúnaðar við gatnamót Höfðabakka og Bíldshöfða",
-  "sum": "Útskipting umferðarljósabúnaðar við gatnamót Höfðabakka og Bíldshöfða",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-25T15:39:49.126202+00:00",
-  "id": 5
- },
  "0943c5e5db86d52d": {
   "region": "Vesturland",
   "type": "Innviðir",
@@ -6208,27 +6124,6 @@
   "first_seen": "2026-06-26T10:11:15.011714+00:00",
   "id": 1
  },
- "b6789697469b9fb3": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Útboð",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-26",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/26/auglysa_eftir_husnaedi_undir_brottfararstod/",
-  "title": "Auglýsa eftir húsnæði undir brottfararstöð",
-  "sum": "Framkvæmdasýslan (FSRE) hefur auglýst eftir húsnæði á Suðurnesjum sem gæti hentað fyrir nýja brottfararstöð á vegum ríkisins.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-26T12:34:44.657919+00:00",
-  "id": 1
- },
  "46f4fca6048a6776": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -6334,27 +6229,6 @@
   "first_seen": "2026-06-27T10:56:21.973690+00:00",
   "id": 4
  },
- "9172ac66146d3942": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Útboð",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-26",
-  "url": "https://byggingar.is/05-08-2026-fsre-auglysir-eftir-husnaedi-fyrir-nyja-brottfararstod-a-sudurnesjum/?utm_source=rss&utm_medium=rss&utm_campaign=05-08-2026-fsre-auglysir-eftir-husnaedi-fyrir-nyja-brottfararstod-a-sudurnesjum",
-  "title": "05.08.2026 FSRE auglýsir eftir húsnæði fyrir nýja brottfararstöð á Suðurnesjum",
-  "sum": "FSRE auglýsir eftir húsnæði fyrir nýja brottfararstöð á Suðurnesjum Framkvæmdasýslan – Ríkiseignir (FSRE), fyrir hönd ríkissjóðs, hefur auglýst eftir húsnæði á Suðurnesjum sem gæti hentað sem ný brottfararstöð. Leitað er bæði að tímabundnu ",
-  "tender": "",
-  "start": "",
-  "end": "2027",
-  "tsort": "2027-01",
-  "first_seen": "2026-06-27T10:56:21.973690+00:00",
-  "id": 6
- },
  "74435cf90cc9e66c": {
   "region": "Suðurnes",
   "type": "Innviðir",
@@ -6376,27 +6250,6 @@
   "first_seen": "2026-06-27T14:43:06.356878+00:00",
   "id": 1
  },
- "ec5493b54bad0b5a": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-27",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/27/framkvaemd_sem_margborgadi_sig/",
-  "title": "Framkvæmd sem margborgaði sig",
-  "sum": "Hvað ætli hefði oft verið búið að malbika þennan kafla á þessum 54 árum, hefði hann ekki verið steyptur?",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-27T14:43:06.356878+00:00",
-  "id": 2
- },
  "0605aa45e1d52915": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -6416,48 +6269,6 @@
   "end": "",
   "tsort": "",
   "first_seen": "2026-06-28T11:05:32.035994+00:00",
-  "id": 1
- },
- "a1452df60509580f": {
-  "region": "Landið allt",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-27",
-  "url": "https://www.visir.is/g/20262902704d/bidur-milli-vonar-og-otta-a-medan-fjolskyldan-er-fost-undir-hotelrustum",
-  "title": "Bíður milli vonar og ótta á meðan fjöl­skyldan er föst undir hótel­rústum",
-  "sum": "Venesúelsk kona á Íslandi bíður milli vonar og ótta eftir fregnum af bróður sínum og fjölskyldu sem lentu undir braki hótelbyggingar í öflugum jarðskjálfta í landinu á miðvikudag.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-28T11:05:32.035994+00:00",
-  "id": 2
- },
- "83806684a7ce73f9": {
-  "region": "Norðurland eystra",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Í byggingu",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-28",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/28/reistu_verksmidju_a_69_dogum/",
-  "title": "Reistu verksmiðju á 69 dögum",
-  "sum": "Bandaríska nýsköpunarfyrirtækið Syntholene Energy Corp. hefur hafið rekstur tilraunaverksmiðju á Húsavík, sem byggð var upp á aðeins 69 dögum. Tilraunaverksmiðjan er á lóð Orkuveitu Húsavíkur. Á vef Norðurþings kemur fram að verksmiðjan sé ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-28T14:49:13.758372+00:00",
   "id": 1
  },
  "2686fef2f360d3bb": {
@@ -6543,5 +6354,69 @@
   "tsort": "",
   "first_seen": "2026-06-28T14:49:13.758372+00:00",
   "id": 5
+ },
+ "da944dc5d16472ae": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-29",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/29/bindur_vonir_vid_virkjun/",
+  "title": "Bindur vonir við virkjun",
+  "sum": "Gylfi Ólafsson bæjarstjóri Ísafjarðarbæjar bindur vonir við að lagabreytingar og rýmkun á ýmsum reglum sem Jóhann Páll Jóhannsson ráðherra orkumála boðar þýði að hægt verði að hefjast handa um byggingu Hvalárvirkjunar á Ströndum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-29T09:30:14.032383+00:00",
+  "id": 1
+ },
+ "2ee3f2ba5fa89e12": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Vísir – allt",
+  "date": "2026-06-28",
+  "url": "https://www.visir.is/g/20262901420d/selja-mannvirki-baejarins-a-flugvellinum-a-tolf-milljonir",
+  "title": "Selja mann­virki bæjarins á flug­vellinum á tólf milljónir",
+  "sum": "Bæjarráð Fjallabyggðar hefur samþykkt tilboð ferðaþjónustufyrirtækisins Viking Heliskiing í fasteignir sveitarfélagsins á flugvallarsvæðinu á Siglufirði. Tilboðið hljóðar upp á tólf milljónir króna en um er að ræða tækjahús og gömlu flugstö",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-29T09:30:14.032383+00:00",
+  "id": 3
+ },
+ "fcef9633349a46dc": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)",
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-29",
+  "url": "https://byggingar.is/8-thusund-tonn-af-malbiki/?utm_source=rss&utm_medium=rss&utm_campaign=8-thusund-tonn-af-malbiki",
+  "title": "8 þúsund tonn af malbiki",
+  "sum": "8 þúsund tonn af malbiki Verktakar á vegum Vegagerðarinnar hafa malbikað um 80 þúsund fermetra á höfuðborgarsvæðinu það sem af er sumri. Gott veður gerir það að verkum að vinnan gengur afar vel. Reykjavíkurborg áætlar að eyða rúmum milljarð",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-29T09:30:14.032383+00:00",
+  "id": 2
  }
 }
