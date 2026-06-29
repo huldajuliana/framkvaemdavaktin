@@ -234,6 +234,26 @@ _HARD_NEGATIVES = [
     # byggingarverkefni). Athugið: útilokar líka hugsanlega framtíðar-byggingu
     # Samhjálpar — meðvituð precision-ákvörðun.
     "samhjálp",
+    # erlendar hamfarir — t.d. fólk fast undir braki í jarðskjálfta erlendis.
+    # ("jarðskjálft" eitt og sér er ekki notað — íslenskir skjálftar nálægt
+    # virkjunum eru gildir.)
+    "venesúel", "undir braki",
+    # brottfararstöð — leit að húsnæði/pólitísk umræða, ekki byggingarverkefni.
+    "brottfararstöð",
+    # útskipting umferðarljósabúnaðar — smáviðhald á gatnamótum (ekki "umferðarljós"
+    # eitt og sér; það birtist í gildum vegaframkvæmdum t.d. Arnarnesvegi).
+    "útskipting umferðarljós",
+    # menningarverðmæti í hættu — andmæli safnstjóra við niðurrifi (deila, ekki verk).
+    "menningarverðmæti",
+    # bankaafkoma / vaxtatekjur — fjármálafrétt sem nefnir fasteignamarkað.
+    "vaxtatekjur", "útlánavöxt",
+    # tilraunaverksmiðja nýsköpunarfyrirtækis — tækni-/rekstrarfrétt (ekki "verksmiðja"
+    # eitt og sér; alvöru verksmiðjubygging heldur sér).
+    "tilraunaverksmiðj",
+    # smáfrétt um lok framkvæmda við Andapollinn (tjörn/útivist) — of lítið.
+    "andapoll",
+    # "framkvæmd sem margborgaði sig" — afturlits-/skoðanagrein um gamlan veg.
+    "margborgaði",
     # skoðanakannanir / dánaraðstoð — "könnun ... framkvæmd[i]" (sögnin að
     # framkvæma). "dánaraðstoð" er líknardráps-umræða, aldrei framkvæmd.
     "skoðanakönnun", "dánaraðstoð",
