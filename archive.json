@@ -6418,5 +6418,26 @@
   "tsort": "",
   "first_seen": "2026-06-29T09:30:14.032383+00:00",
   "id": 2
+ },
+ "958e4bb3cd6a73e6": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-29",
+  "url": "https://www.visir.is/g/20262903173d/fresta-framkvaemdum-a-brunni-vegna-vaetutidar",
+  "title": "Fresta fram­kvæmdum á brúnni vegna vætutíðar",
+  "sum": "Vegagerðin hefur ákveðið að fresta frekari viðhaldsvinnu á brúnni yfir Jökulsá á Fjöllum til 17. ágúst og verða því engar lokanir á brúnni í sumar. Mikil úrkoma hefur tafið framkvæmdir, meðal annars málun brúarinnar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-29T13:04:52.251240+00:00",
+  "id": 1
  }
 }
