@@ -6439,5 +6439,68 @@
   "tsort": "",
   "first_seen": "2026-06-29T13:04:52.251240+00:00",
   "id": 1
+ },
+ "24bf453a17b9a74e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-29",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/29/skorp_skil_vid_erum_ekki_satt_med_thetta_svona/",
+  "title": "Skörp skil: „Við erum ekki sátt með þetta svona“",
+  "sum": "Talsverð óánægja ríkir meðal íbúa Vesturbæjar vegna nýlegra framkvæmda Vegagerðarinnar á Eiðisgranda í Reykjavík.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-29T16:38:51.767129+00:00",
+  "id": 1
+ },
+ "25230d87e797434e": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-29",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/29/mikill_lettir_fyrir_starfsfolk_skolans/",
+  "title": "Mikill léttir fyrir starfsfólk skólans",
+  "sum": "Skólastjóri Laugalækjaskóla segir það mikinn létti að ráðist verði í leka- og mygluviðgerðir á skrifstofugangi skólans í sumar en í vor leit allt út fyrir að ekki myndi verða af framkvæmdunum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-29T16:38:51.767129+00:00",
+  "id": 2
+ },
+ "e2bc88a40c5f723a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-29",
+  "url": "https://byggingar.is/isdal-arkitektur-leitar-ad-honnudi-eda-taekniteiknara/?utm_source=rss&utm_medium=rss&utm_campaign=isdal-arkitektur-leitar-ad-honnudi-eda-taekniteiknara",
+  "title": "Ísdal arkitektúr leitar að hönnuði eða tækniteiknara",
+  "sum": "Ísdal arkitektúr leitar að hönnuði eða tækniteiknara Ísdal arkitektúr & innanhússhönnun hefur auglýst eftir hönnuði eða tækniteiknara til starfa. Fyrirtækið leitar að öflugum og sjálfstæðum fagaðila til að taka þátt í fjölbreyttum hönnunar-",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-29T16:38:51.767129+00:00",
+  "id": 3
  }
 }
