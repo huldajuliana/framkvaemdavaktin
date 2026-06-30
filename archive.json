@@ -6398,5 +6398,68 @@
   "tsort": "2031-01",
   "first_seen": "2026-06-30T12:49:25.359180+00:00",
   "id": 1
+ },
+ "6a2ef529b89d801f": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-30",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/30/saebrautarstokkur_forsenda_borgarlinu/",
+  "title": "Sæbrautarstokkur forsenda Borgarlínu",
+  "sum": "Sæbrautarstokkur er ein af lykilforsendum fyrir Borgarlínu og mun tryggja aukna afkastagetu fólksflutninga á leið austur og vestur á höfuðborgarsvæðinu og tengja ný uppbyggingarsvæði á Ártúnshöfða, Keldum og í Blikastaðalandi við samgönguke",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-30T15:29:14.447325+00:00",
+  "id": 1
+ },
+ "b98c496fecf8963d": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-30",
+  "url": "https://byggingar.is/gardabaer-bydur-ut-gatnagerd-og-lagnavinnu-a-vifilstadavegi/?utm_source=rss&utm_medium=rss&utm_campaign=gardabaer-bydur-ut-gatnagerd-og-lagnavinnu-a-vifilstadavegi",
+  "title": "17.07.2026 Garðabær býður út gatnagerð og lagnavinnu á Vífilstaðavegi",
+  "sum": "Garðabær býður út gatnagerð og lagnavinnu á Vífilstaðavegi Garðabær hefur auglýst útboð á gatnagerð og lagnavinnu á Vífilstaðavegi, frá hringtorgi við Spítalaveg að Elliðavatnsvegi. Verkið er liður í áframhaldandi uppbyggingu samgöngu- og v",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-30T15:29:14.447325+00:00",
+  "id": 2
+ },
+ "32fd260ded6b9130": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-30",
+  "url": "https://byggingar.is/18-08-2026-fsre-bydur-ut-thakendurnyjun-a-menntaskolanum-a-akureyri/?utm_source=rss&utm_medium=rss&utm_campaign=18-08-2026-fsre-bydur-ut-thakendurnyjun-a-menntaskolanum-a-akureyri",
+  "title": "18.08.2026 FSRE býður út þakendurnýjun á Menntaskólanum á Akureyri",
+  "sum": "FSRE býður út þakendurnýjun á Menntaskólanum á Akureyri Framkvæmdasýslan – Ríkiseignir (FSRE) hefur auglýst útboð vegna þakendurnýjunar Hólaálmu Menntaskólans á Akureyri. Verkið er unnið fyrir hönd Ríkiseigna og er liður í áframhaldandi við",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-30T15:29:14.447325+00:00",
+  "id": 3
  }
 }
