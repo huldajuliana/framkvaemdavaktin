@@ -254,6 +254,13 @@ _HARD_NEGATIVES = [
     "andapoll",
     # "framkvæmd sem margborgaði sig" — afturlits-/skoðanagrein um gamlan veg.
     "margborgaði",
+    # Grindavík: sorgarsaga um niðurrif eigin húss (mannlíf/hamfarir, ekki verk).
+    "sorgarferl",
+    # mannlífsprófíll af öldnum ýtustjóra ("enn að bæta vegina") — ekki verkefnafrétt.
+    "ýtukarl",
+    # vetrarþjónusta / snjómokstur — rekstur/viðhald vega, ekki framkvæmd. (Útboð
+    # Vegagerðar/sveitarfélaga á snjómokstri falla því út, þótt þau hafi "útboð".)
+    "vetrarþjónust", "snjómokstur", "snjómokstr",
     # skoðanakannanir / dánaraðstoð — "könnun ... framkvæmd[i]" (sögnin að
     # framkvæma). "dánaraðstoð" er líknardráps-umræða, aldrei framkvæmd.
     "skoðanakönnun", "dánaraðstoð",
