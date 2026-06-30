@@ -6502,5 +6502,132 @@
   "tsort": "",
   "first_seen": "2026-06-29T16:38:51.767129+00:00",
   "id": 3
+ },
+ "43b2d63bcdc0183f": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-06-30",
+  "url": "https://www.mbl.is/frettir/innlent/2026/06/30/hluti_af_sorgarferlinu_ad_sja_husid_rifid/",
+  "title": "Hluti af sorgarferlinu að sjá húsið rifið",
+  "sum": "Halldóra Birta Viðarsdóttir er ein þeirra sem fylgjast nú með niðurrifi fasteignar sinnar í Grindavík, en fjölskyldan bjó í gömlu bárujárnshúsi við Víkurbraut.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-30T11:44:15.709751+00:00",
+  "id": 1
+ },
+ "b69a0745144015bd": {
+  "region": "Norðurland vestra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-30",
+  "url": "https://www.visir.is/g/20262903432d/ytukarl-a-attraedisaldri-er-enn-ad-baeta-vegina",
+  "title": "Ýtukarl á átt­ræðis­aldri er enn að bæta vegina",
+  "sum": "Sunnlenskur ýtustjóri á áttræðisaldri, sem sinnir vegagerð í Húnaþingi í sumar, segist í upphafi hafa ætlað að vera í þrjár vikur á vinnuvélum. Þær vikur séu núna orðnar 54 ár.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-30T11:44:15.709751+00:00",
+  "id": 2
+ },
+ "276b696ea5ba124e": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-30",
+  "url": "https://byggingar.is/sigur-gardar-ehf-valdir-til-snjomoksturs-i-borgarnesi/?utm_source=rss&utm_medium=rss&utm_campaign=sigur-gardar-ehf-valdir-til-snjomoksturs-i-borgarnesi",
+  "title": "Sigur-Garðar ehf. valdir til snjómoksturs í Borgarnesi",
+  "sum": "Sigur-Garðar ehf. valdir til snjómoksturs í Borgarnesi Byggðarráð Borgarbyggðar hefur samþykkt að ganga til samninga við Sigur-Garða ehf. um framkvæmd vetrarþjónustu í Borgarnesi í kjölfar útboðs sem opnað var 18. júní 2026. Á fundi byggðar",
+  "tender": "18. júní 2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-06",
+  "first_seen": "2026-06-30T11:44:15.709751+00:00",
+  "id": 3
+ },
+ "6bba113c7b6f8333": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)",
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-30",
+  "url": "https://byggingar.is/saebrautarstokkur-opid-hus-i-vogaskola/?utm_source=rss&utm_medium=rss&utm_campaign=saebrautarstokkur-opid-hus-i-vogaskola",
+  "title": "Sæbraut­ar­stokkur – Opið hús í Voga­­skóla",
+  "sum": "Sæbraut­ar­stokkur – Opið hús í Voga­­skóla Vegagerðin, Reykjavíkurborg og Betri samgöngur standa fyrir opnu húsi um Sæbrautarstokk, þriðjudaginn 30. júní og fimmtudaginn 2. júlí frá klukkan 16:30-18:00 í Vogaskóla. Öllum er velkomið að mæt",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-30T11:44:15.709751+00:00",
+  "id": 4
+ },
+ "dc74b553ba4dd40a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-30",
+  "url": "https://byggingar.is/fyrirhugud-samkeppni-um-nyjan-althjodlegan-nordurslodakjarna-i-vatnsmyrinni/?utm_source=rss&utm_medium=rss&utm_campaign=fyrirhugud-samkeppni-um-nyjan-althjodlegan-nordurslodakjarna-i-vatnsmyrinni",
+  "title": "Fyrirhuguð samkeppni um nýjan alþjóðlegan Norðurslóðakjarna í Vatnsmýrinni",
+  "sum": "Fyrirhuguð samkeppni um nýjan alþjóðlegan Norðurslóðakjarna í Vatnsmýrinni Stofnun Ólafs Ragnars Grímssonar og Hringborð Norðurslóða – Arctic Circle, í samstarfi við Arkitektafélag Íslands, hafa kynnt fyrirhugaða alþjóðlega arkitektasamkepp",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-30T11:44:15.709751+00:00",
+  "id": 5
+ },
+ "258b1663c5dcdfb1": {
+  "region": "Suðurland",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-06-30",
+  "url": "https://byggingar.is/litla-hraun-i-vestmannaeyjum-jafnad-vid-jordu/?utm_source=rss&utm_medium=rss&utm_campaign=litla-hraun-i-vestmannaeyjum-jafnad-vid-jordu",
+  "title": "Litla-Hraun í Vestmannaeyjum jafnað við jörðu",
+  "sum": "Litla-Hraun í Vestmannaeyjum jafnað við jörðu Eitt elsta íbúðarhús Vestmannaeyja hverfur úr bæjarmyndinni Niðurrif er hafið á húsinu Litla-Hrauni við Reglubraut, sem er skráð að Vesturvegi 17b. Húsið hefur um árabil staðið autt og verið í a",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-06-30T11:44:15.709751+00:00",
+  "id": 6
  }
 }
