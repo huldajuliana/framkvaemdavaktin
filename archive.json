@@ -2488,27 +2488,6 @@
   "first_seen": "2026-06-08T13:05:35.079448+00:00",
   "id": 8
  },
- "714b959cb9710e54": {
-  "region": "Austurland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Vegagerðin (verkkaupi)"
-  ],
-  "status": "Útboð",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-08",
-  "url": "https://byggingar.is/vegagerdin-bydur-ut-vetrarthjonustu-milli-breiddalsvikur-og-djupavogs/?utm_source=rss&utm_medium=rss&utm_campaign=vegagerdin-bydur-ut-vetrarthjonustu-milli-breiddalsvikur-og-djupavogs",
-  "title": "23.06.2026 Vegagerðin býður út vetrarþjónustu milli Breiðdalsvíkur og Djúpavogs",
-  "sum": "Vegagerðin býður út vetrarþjónustu milli Breiðdalsvíkur og Djúpavogs Vegagerðin býður út vetrarþjónustu milli Breiðdalsvíkur og Djúpavogs fyrir tímabilið 2026–2029. Um er að ræða hraðútboð vegna snjómoksturs og hálkuvarna á Austursvæði með ",
-  "tender": "",
-  "start": "2026",
-  "end": "2029",
-  "tsort": "2026-01",
-  "first_seen": "2026-06-08T13:05:35.079448+00:00",
-  "id": 9
- },
  "5dfee81b737e37d0": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -2529,48 +2508,6 @@
   "tsort": "",
   "first_seen": "2026-06-08T13:05:35.079448+00:00",
   "id": 12
- },
- "e5a6a6d99f0cb76f": {
-  "region": "Austurland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Vegagerðin (verkkaupi)"
-  ],
-  "status": "Útboð",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-07",
-  "url": "https://byggingar.is/vegagerdin-bydur-ut-vetrarthjonustu-milli-djupavogs-og-hafnar/?utm_source=rss&utm_medium=rss&utm_campaign=vegagerdin-bydur-ut-vetrarthjonustu-milli-djupavogs-og-hafnar",
-  "title": "23.06.2026 Vegagerðin býður út vetrarþjónustu milli Djúpavogs og Hafnar",
-  "sum": "Vegagerðin býður út vetrarþjónustu milli Djúpavogs og Hafnar fyrir tímabilið 2026–2029. Um er að ræða hraðútboð vegna snjómoksturs og hálkuvarna á Austursvæði með vörubifreiðum. Samningurinn mun gilda í þrjú ár með möguleika á framlengingu ",
-  "tender": "",
-  "start": "2026",
-  "end": "2029",
-  "tsort": "2026-01",
-  "first_seen": "2026-06-08T13:05:35.079448+00:00",
-  "id": 13
- },
- "fb134cda22951a2e": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Vegagerðin (verkkaupi)"
-  ],
-  "status": "Útboð",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-08",
-  "url": "https://byggingar.is/vegagerdin-bydur-ut-vetrarthjonustu-a-fjardarheidi/?utm_source=rss&utm_medium=rss&utm_campaign=vegagerdin-bydur-ut-vetrarthjonustu-a-fjardarheidi",
-  "title": "23.06.2026 Vegagerðin býður út vetrarþjónustu á Fjarðarheiði",
-  "sum": "Vegagerðin býður út vetrarþjónustu á Fjarðarheiði Vegagerðin býður út vetrarþjónustu á Fjarðarheiði fyrir tímabilið 2026–2029. Um er að ræða hraðútboð vegna snjómoksturs og hálkuvarna á Austursvæði með vörubifreiðum. Samningurinn verður til",
-  "tender": "",
-  "start": "2026",
-  "end": "2029",
-  "tsort": "2026-01",
-  "first_seen": "2026-06-08T16:50:12.995134+00:00",
-  "id": 2
  },
  "f79edb1689f2d48a": {
   "region": "Landið allt",
@@ -3664,27 +3601,6 @@
   "first_seen": "2026-06-15T11:47:30.542792+00:00",
   "id": 3
  },
- "6681ca9ff2781b61": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Reykjavíkurborg (verkkaupi)"
-  ],
-  "status": "Útboð",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-15",
-  "url": "https://byggingar.is/reykjavikurborg-bydur-ut-vetrarthjonustu-gongu-og-hjolaleida-til-arsins-2027/?utm_source=rss&utm_medium=rss&utm_campaign=reykjavikurborg-bydur-ut-vetrarthjonustu-gongu-og-hjolaleida-til-arsins-2027",
-  "title": "14.07.2026 Reykjavíkurborg býður út vetrarþjónustu göngu- og hjólaleiða til ársins 2027",
-  "sum": "Reykjavíkurborg býður út vetrarþjónustu göngu- og hjólaleiða til ársins 2027 Reykjavíkurborg hefur auglýst EES-samkeppnisútboð vegna vetrarþjónustu á göngu- og hjólaleiðum í borginni fyrir tímabilið 2026–2027. Útboðið tekur til snjómoksturs",
-  "tender": "",
-  "start": "2026",
-  "end": "2027",
-  "tsort": "2026-01",
-  "first_seen": "2026-06-15T11:47:30.542792+00:00",
-  "id": 5
- },
  "2a883b18178ad15e": {
   "region": "Norðurland eystra",
   "type": "Innviðir",
@@ -3812,27 +3728,6 @@
   "tsort": "",
   "first_seen": "2026-06-15T15:12:59.488276+00:00",
   "id": 5
- },
- "c0e03d394ded641f": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Útboð",
-  "src": "Reykjavíkurborg – fréttir",
-  "date": "2026-06-15",
-  "url": "https://reykjavik.is/frettir/2026/kynningarfundur-vegna-utbods-vetrarthjonustu-gongu-og-hjolaleida",
-  "title": "Kynningarfundur vegna útboðs á vetrarþjónustu göngu- og hjólaleiða",
-  "sum": "Kynningarfundur vegna útboðs á vetrarþjónustu göngu- og hjólaleiða",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-15T15:12:59.488276+00:00",
-  "id": 7
  },
  "2bc14fe0e43a4a75": {
   "region": "Landið allt",
@@ -4527,27 +4422,6 @@
   "tsort": "",
   "first_seen": "2026-06-18T09:17:19.184143+00:00",
   "id": 7
- },
- "f61bbab785fd0d47": {
-  "region": "Norðurland eystra",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Útboð",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-18",
-  "url": "https://byggingar.is/22-06-2026-dalvikurbyggd-bydur-ut-vetrarthjonustu-fyrir-komandi-vetur/?utm_source=rss&utm_medium=rss&utm_campaign=22-06-2026-dalvikurbyggd-bydur-ut-vetrarthjonustu-fyrir-komandi-vetur",
-  "title": "22.06.2026 Dalvíkurbyggð býður út vetrarþjónustu fyrir komandi vetur",
-  "sum": "Dalvíkurbyggð býður út vetrarþjónustu fyrir komandi vetur Dalvíkurbyggð hefur auglýst útboð á vetrarþjónustu fyrir sveitarfélagið. Um er að ræða þjónustusamning sem skipt er upp í tvo aðskilda samningshluta samkvæmt útboðsgögnum. Consensa s",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-18T09:17:19.184143+00:00",
-  "id": 6
  },
  "a2c1461b1a9d1a17": {
   "region": "Austurland",
@@ -5431,27 +5305,6 @@
   "first_seen": "2026-06-23T15:49:24.055184+00:00",
   "id": 6
  },
- "3466c0838cc800d2": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Útboð",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-23",
-  "url": "https://byggingar.is/austurverk-ehf-med-laegsta-tilbodid-i-vetrarthjonustu-a-fjardarheidi/?utm_source=rss&utm_medium=rss&utm_campaign=austurverk-ehf-med-laegsta-tilbodid-i-vetrarthjonustu-a-fjardarheidi",
-  "title": "Austurverk ehf. með lægsta tilboðið í vetrarþjónustu á Fjarðarheiði",
-  "sum": "Austurverk ehf. með lægsta tilboðið í vetrarþjónustu á Fjarðarheiði Tilboð voru opnuð þann 23. júní 2026 í hraðútboði Vegagerðarinnar vegna vetrarþjónustu á Fjarðarheiði fyrir tímabilið 2026–2029. Verkefnið tekur til snjómoksturs og hálkuva",
-  "tender": "",
-  "start": "2026",
-  "end": "2029",
-  "tsort": "2026-01",
-  "first_seen": "2026-06-23T15:49:24.055184+00:00",
-  "id": 7
- },
  "7e1f7cf0e67fbc42": {
   "region": "Suðurland",
   "type": "Innviðir",
@@ -5704,27 +5557,6 @@
   "first_seen": "2026-06-24T15:33:44.112866+00:00",
   "id": 4
  },
- "d7ca0eb9a6f2e304": {
-  "region": "Austurland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Útboð",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-24",
-  "url": "https://byggingar.is/sg-velar-med-eina-tilbodid-i-vetrarthjonustu-milli-breiddalsvikur-og-djupavogs/?utm_source=rss&utm_medium=rss&utm_campaign=sg-velar-med-eina-tilbodid-i-vetrarthjonustu-milli-breiddalsvikur-og-djupavogs",
-  "title": "SG Vélar með eina tilboðið í vetrarþjónustu milli Breiðdalsvíkur og Djúpavogs",
-  "sum": "SG Vélar með eina tilboðið í vetrarþjónustu milli Breiðdalsvíkur og Djúpavogs Eitt tilboð barst í hraðútboð Vegagerðarinnar vegna vetrarþjónustu á leiðinni Breiðdalsvík – Djúpivogur fyrir tímabilið 2026–2029. Opnun tilboða fór fram 23. júní",
-  "tender": "",
-  "start": "2026",
-  "end": "2029",
-  "tsort": "2026-01",
-  "first_seen": "2026-06-24T15:33:44.112866+00:00",
-  "id": 5
- },
  "f3708d955f0e5d3c": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -5871,27 +5703,6 @@
   "tsort": "",
   "first_seen": "2026-06-25T11:39:12.797617+00:00",
   "id": 9
- },
- "500972333dc02b4c": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Útboð",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-25",
-  "url": "https://byggingar.is/jokulfell-ehf-med-eina-tilbodid-i-vetrarthjonustu-a-sudausturlandi/?utm_source=rss&utm_medium=rss&utm_campaign=jokulfell-ehf-med-eina-tilbodid-i-vetrarthjonustu-a-sudausturlandi",
-  "title": "Jökulfell ehf. með eina tilboðið í vetrarþjónustu á Suðausturlandi",
-  "sum": "Jökulfell ehf. með eina tilboðið í vetrarþjónustu á Suðausturlandi Eitt tilboð barst í útboð Vegagerðarinnar vegna vetrarþjónustu á leiðinni Höfn – Fagurhólsmýri – Hólmur fyrir tímabilið 2026–2029. Opnun tilboða fór fram 23. júní 2026. Tilb",
-  "tender": "",
-  "start": "2026",
-  "end": "2029",
-  "tsort": "2026-01",
-  "first_seen": "2026-06-25T11:39:12.797617+00:00",
-  "id": 10
  },
  "cb44dd124ea2edd2": {
   "region": "Landið allt",
@@ -6503,69 +6314,6 @@
   "first_seen": "2026-06-29T16:38:51.767129+00:00",
   "id": 3
  },
- "43b2d63bcdc0183f": {
-  "region": "Suðurnes",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-30",
-  "url": "https://www.mbl.is/frettir/innlent/2026/06/30/hluti_af_sorgarferlinu_ad_sja_husid_rifid/",
-  "title": "Hluti af sorgarferlinu að sjá húsið rifið",
-  "sum": "Halldóra Birta Viðarsdóttir er ein þeirra sem fylgjast nú með niðurrifi fasteignar sinnar í Grindavík, en fjölskyldan bjó í gömlu bárujárnshúsi við Víkurbraut.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-30T11:44:15.709751+00:00",
-  "id": 1
- },
- "b69a0745144015bd": {
-  "region": "Norðurland vestra",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-30",
-  "url": "https://www.visir.is/g/20262903432d/ytukarl-a-attraedisaldri-er-enn-ad-baeta-vegina",
-  "title": "Ýtukarl á átt­ræðis­aldri er enn að bæta vegina",
-  "sum": "Sunnlenskur ýtustjóri á áttræðisaldri, sem sinnir vegagerð í Húnaþingi í sumar, segist í upphafi hafa ætlað að vera í þrjár vikur á vinnuvélum. Þær vikur séu núna orðnar 54 ár.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-30T11:44:15.709751+00:00",
-  "id": 2
- },
- "276b696ea5ba124e": {
-  "region": "Vesturland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Verklok",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-30",
-  "url": "https://byggingar.is/sigur-gardar-ehf-valdir-til-snjomoksturs-i-borgarnesi/?utm_source=rss&utm_medium=rss&utm_campaign=sigur-gardar-ehf-valdir-til-snjomoksturs-i-borgarnesi",
-  "title": "Sigur-Garðar ehf. valdir til snjómoksturs í Borgarnesi",
-  "sum": "Sigur-Garðar ehf. valdir til snjómoksturs í Borgarnesi Byggðarráð Borgarbyggðar hefur samþykkt að ganga til samninga við Sigur-Garða ehf. um framkvæmd vetrarþjónustu í Borgarnesi í kjölfar útboðs sem opnað var 18. júní 2026. Á fundi byggðar",
-  "tender": "18. júní 2026",
-  "start": "",
-  "end": "",
-  "tsort": "2026-06",
-  "first_seen": "2026-06-30T11:44:15.709751+00:00",
-  "id": 3
- },
  "6bba113c7b6f8333": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -6629,5 +6377,26 @@
   "tsort": "",
   "first_seen": "2026-06-30T11:44:15.709751+00:00",
   "id": 6
+ },
+ "376d316a47cdb39f": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-30",
+  "url": "https://www.visir.is/g/20262903707d/synjun-sudurlandsbrautar-gaeti-tafid-fyrstu-lotu-borgarlinu",
+  "title": "Synjun Suður­lands­brautar gæti tafið fyrstu lotu Borgarlínu",
+  "sum": "Synjun meirihlutans í Reykjavík á deiliskipulagi Borgarlínu um Suðurlandsbraut gæti haft áhrif á tímalínu fyrstu lotu verkefnisins, sem á að vera tilbúin árið 2031.Þetta segir Atli Björn Levy, forstöðumaður verkefnastofu Borgarlínu hjá Betr",
+  "tender": "",
+  "start": "",
+  "end": "2031",
+  "tsort": "2031-01",
+  "first_seen": "2026-06-30T12:49:25.359180+00:00",
+  "id": 1
  }
 }
