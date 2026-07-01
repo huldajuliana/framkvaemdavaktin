@@ -6461,5 +6461,89 @@
   "tsort": "",
   "first_seen": "2026-06-30T15:29:14.447325+00:00",
   "id": 3
+ },
+ "22a30ae8694a46d3": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "Vísir – allt",
+  "date": "2026-07-01",
+  "url": "https://www.visir.is/g/20262903802d/a-bak-vid-storar-framkvaemdir-eru-storar-velar",
+  "title": "Á bak við stórar fram­kvæmdir eru stórar vélar",
+  "sum": "Þegar stórar framkvæmdir hefjast skiptir miklu máli að réttar vélar séu til staðar á réttum tíma. Það er einmitt kjarninn í starfsemi Arma Jarðvéla sem sérhæfa sig í útleigu á jarðvinnuvélum fyrir verkefni af öllum stærðum. Að sögn Þóris Kr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-01T12:01:04.302054+00:00",
+  "id": 1
+ },
+ "7978603e7120afe1": {
+  "region": "Norðurland vestra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-06-30",
+  "url": "https://www.visir.is/g/20262903867d/ser-blonduos-eflast-med-byggdalinu-og-virkjunum",
+  "title": "Sér Blöndu­ós eflast með byggðalínu og virkjunum",
+  "sum": "Oddviti Húnabyggðar vonast til að orka Blönduvirkjunar muni í vaxandi mæli nýtast til atvinnuuppbyggingar á Blönduósi með nýrri byggðalínu. Hann hvetur jafnframt til þess að meira verði virkjað á Blöndusvæðinu sem fyrst.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-01T12:01:04.302054+00:00",
+  "id": 4
+ },
+ "18c30e54dd1535ba": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-01",
+  "url": "https://byggingar.is/ljostvistar-ehf-med-laegsta-tilbodid-i-lysingarverkefni-reykjavikurborgar/?utm_source=rss&utm_medium=rss&utm_campaign=ljostvistar-ehf-med-laegsta-tilbodid-i-lysingarverkefni-reykjavikurborgar",
+  "title": "Ljóstvistar ehf. með lægsta tilboðið í lýsingarverkefni Reykjavíkurborgar",
+  "sum": "Ljóstvistar ehf. með lægsta tilboðið í lýsingarverkefni Reykjavíkurborgar Ljóstvistar ehf. átti lægsta tilboðið þegar Reykjavíkurborg opnaði tilboð í örútboði vegna Borgarlýsingar – útskiptingar lampa í Árbæ og á Kjalarnesi fyrir Umhverfis-",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-01T12:01:04.302054+00:00",
+  "id": 2
+ },
+ "70696b0a8fbac625": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-01",
+  "url": "https://byggingar.is/nidurrif-flataskola-i-gardabae-a-undan-aaetlun/?utm_source=rss&utm_medium=rss&utm_campaign=nidurrif-flataskola-i-gardabae-a-undan-aaetlun",
+  "title": "Niðurrif Flataskóla í Garðabæ á undan áætlun",
+  "sum": "Niðurrif Flataskóla í Garðabæ á undan áætlun Framkvæmdir við niðurrif eldri hluta Flataskóla í Garðabæ ganga samkvæmt áætlun – og jafnvel betur en það. Samkvæmt upplýsingum frá verktakanum H2Orku er verkefnið nú talsvert á undan verkáætlun.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-01T12:01:04.302054+00:00",
+  "id": 3
  }
 }
