@@ -6545,5 +6545,110 @@
   "tsort": "",
   "first_seen": "2026-07-01T12:01:04.302054+00:00",
   "id": 3
+ },
+ "00ed1ac9a8d9c9ba": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-01",
+  "url": "https://www.visir.is/g/20262904232d/nytt-innvidafelag-hlytur-nafnid-gong-og-bru",
+  "title": "Nýtt innviðafélag hlýtur nafnið Göng og brú",
+  "sum": "Innviðafélag stofnað í samræmi við lög um innviðafélag sem samþykkt voru á Alþingi 18. júní síðastliðinn hefur hlotið nafnið Göng og brú ohf.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-01T15:42:56.086190+00:00",
+  "id": 1
+ },
+ "63da36b655350764": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-01-segja-astand-axarvegar-ovidunandi-og-fjarmagn-skorta-til-vidhalds-480060/",
+  "title": "Segja ástand Axarvegar óviðunandi og fjármagn skorta til viðhalds",
+  "sum": "Heimastjórn Djúpavogs segir að viðhald og þjónusta á Axarvegi sé í algjörum ólestri. Dagmar Ýr Stefánsdóttir, sveitarstjóri Múlaþings, telur fjármagn til viðhalds vega á Austurlandi of naumt skammtað. „Það er ekki við starfsmenn Vegagerðari",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-01T15:42:56.086190+00:00",
+  "id": 2
+ },
+ "17b7300ae0937e8d": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-01-innvidafelagid-faer-nafnid-gong-og-bru-480059/",
+  "title": "Innviðafélagið fær nafnið Göng og brú",
+  "sum": "Opinbera hlutafélagið Göng og brú ohf. hefur verið stofnað um fjármögnun og uppbyggingu samgöngumannvirkja á grundvelli laga um innviðafélag sem samþykkt voru á Alþingi. Markmið félagsins er að flýta fyrir þjóðhagslega mikilvægum samgöngufr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-01T15:42:56.086190+00:00",
+  "id": 3
+ },
+ "9a5be9527098a3d6": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-01",
+  "url": "https://byggingar.is/innvidafelag-rikisins-verdur-gong-og-bru/?utm_source=rss&utm_medium=rss&utm_campaign=innvidafelag-rikisins-verdur-gong-og-bru",
+  "title": "Innviðafélag ríkisins verður Göng og brú",
+  "sum": "Innviðafélag ríkisins verður Göng og brú Fjármögnun félagsins og verkefna þess mun byggjast að mestu á notendagjöldum og lánsfjármögnun á almennum markaði. Fjármála- og efnahagsráðherra hefur komið á fót hlutafélagi um fjármögnun og uppbygg",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-01T15:42:56.086190+00:00",
+  "id": 4
+ },
+ "94521664809a1f9a": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-01",
+  "url": "https://byggingar.is/fimm-verktakar-budu-i-milljardaverkefni-studentagarda-a-akureyri/?utm_source=rss&utm_medium=rss&utm_campaign=fimm-verktakar-budu-i-milljardaverkefni-studentagarda-a-akureyri",
+  "title": "Fimm verktakar buðu í milljarðaverkefni stúdentagarða á Akureyri",
+  "sum": "Fimm verktakar buðu í milljarðaverkefni stúdentagarða á Akureyri Fimm tilboð bárust þegar opnuð voru tilboð í verkefnið bygging nýrra stúdentagarða við Norðurslóð á Akureyri þann 23. júní 2026. Lægsta tilboðið kom frá K16 ehf., sem bauð 4.4",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-01T15:42:56.086190+00:00",
+  "id": 5
  }
 }
