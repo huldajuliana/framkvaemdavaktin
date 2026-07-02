@@ -6818,5 +6818,68 @@
   "tsort": "",
   "first_seen": "2026-07-02T11:32:18.882769+00:00",
   "id": 1
+ },
+ "9a7d5eb086e87007": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Stór",
+  "scaleFig": "9,5 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-02",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/07/02/landsvirkjun_gerir_samninga_upp_a_9_5_milljarda/",
+  "title": "Landsvirkjun gerir samninga upp á 9,5 milljarða",
+  "sum": "Landsvirkjun hefur gengið frá samningum við tvo verktaka vegna stækkunar Sigöldustöðvar, að undangengnu útboðsferli.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-02T15:16:34.250667+00:00",
+  "id": 1
+ },
+ "20302275d0f8ec4c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-02",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/02/mega_skipta_gjaldi_i_fernt/",
+  "title": "Mega skipta gjaldi í fernt",
+  "sum": "Bæjarráð Hafnarfjarðar hefur samþykkt að breyta reglum um greiðsluskilmála gatnagerðar- og byggingarréttargjalda á þann veg að nú er byggingaraðilum heimilt að skipta greiðslum í fernt í stað þess að rukka inn gjöldin í einu lagi líkt og ve",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-02T15:16:34.250667+00:00",
+  "id": 2
+ },
+ "054e2185df765ecd": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-02",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-02-thad-er-innvidaskuld-hja-okkur-lika-480193/",
+  "title": "„Það er innviðaskuld hjá okkur líka“",
+  "sum": "Hefla á og brjóta efni í Axarveg í næstu viku. Loftur Þór Jónsson, svæðisstjóri austursvæðis hjá Vegagerðinni, tekur undir með sveitarstjóra Múlaþings að fjármagn skorti til viðhalds vega í landshlutanum. „Ég er sammála því að við vildum gj",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-02T15:16:34.250667+00:00",
+  "id": 3
  }
 }
