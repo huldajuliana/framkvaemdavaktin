@@ -6650,5 +6650,152 @@
   "tsort": "",
   "first_seen": "2026-07-01T15:42:56.086190+00:00",
   "id": 5
+ },
+ "e07fd483ce80d148": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-02",
+  "url": "https://www.visir.is/g/20262904510d/saka-rikisstjornina-um-svik",
+  "title": "Saka ríkis­stjórnina um svik",
+  "sum": "Sveitarstjórn Múlaþings sakar ríkisstjórnina um svik með því að samþykkja samgönguáætlun þar sem Fjarðarheiðargöng eru sett aftar í forgangsröðunina.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-02T11:06:05.579890+00:00",
+  "id": 1
+ },
+ "afc34bd2a49737d3": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-02",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-02-mikilvaegt-ad-efla-stafraent-sjalfstaedi-islands-og-oryggi-479465/",
+  "title": "Mikilvægt að efla stafrænt sjálfstæði Íslands og öryggi",
+  "sum": "Björn Brynjúlfsson er forstjóri Borealis Data Center sem er íslenskt fyrirtæki sem rekur gagnaver, þ.e. stórar tæknimiðstöðvar þar sem tölvubúnaður er hýstur og keyrður fyrir fyrirtæki og stofnanir. Hann er auk þess formaður Samtaka gagnave",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-02T11:06:05.579890+00:00",
+  "id": 2
+ },
+ "37a9eca513f43fed": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-02",
+  "url": "https://byggingar.is/vegagerdin-bydur-ut-endurbyggingu-jokuldalsvegar-milli-langagerdis-og-hakonarstada/?utm_source=rss&utm_medium=rss&utm_campaign=vegagerdin-bydur-ut-endurbyggingu-jokuldalsvegar-milli-langagerdis-og-hakonarstada",
+  "title": "14.07.2026 Vegagerðin býður út endurbyggingu Jökuldalsvegar milli Langagerðis og Hákonarstaða",
+  "sum": "Vegagerðin býður út endurbyggingu Jökuldalsvegar milli Langagerðis og Hákonarstaða Vegagerðin hefur auglýst út framkvæmdina „Jökuldalsvegur (923), Langagerði – Hákonarstaðir“, sem felur í sér endurbyggingu 4,5 kílómetra kafla á Jökuldalsveg",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-02T11:06:05.579890+00:00",
+  "id": 3
+ },
+ "06aa4fc8facf4876": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-02",
+  "url": "https://byggingar.is/vegagerdin-bydur-ut-endurnyjun-helgustadabruar-a-eskifirdi/?utm_source=rss&utm_medium=rss&utm_campaign=vegagerdin-bydur-ut-endurnyjun-helgustadabruar-a-eskifirdi",
+  "title": "21.07.2026 Vegagerðin býður út endurnýjun Helgustaðabrúar á Eskifirði",
+  "sum": "Vegagerðin býður út endurnýjun Helgustaðabrúar á Eskifirði Vegagerðin hefur auglýst út framkvæmdina „Helgustaðavegur (954) – Forsteypt brú og aðlögun á vegkafla“, sem felur í sér endurnýjun brúar yfir Helgustaðaá og endurbætur á aðkomuvegi ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-02T11:06:05.579890+00:00",
+  "id": 4
+ },
+ "2fcdf6865fc16636": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-01",
+  "url": "https://byggingar.is/hafnad-tilbodi-i-endurgerd-radhustrappa-58-yfir-kostnadaraaetlun/?utm_source=rss&utm_medium=rss&utm_campaign=hafnad-tilbodi-i-endurgerd-radhustrappa-58-yfir-kostnadaraaetlun",
+  "title": "Hafnað tilboði í endurgerð ráðhústrappa – 58% yfir kostnaðaráætlun",
+  "sum": "Hafnað tilboði í endurgerð ráðhústrappa – 58% yfir kostnaðaráætlun Á fundi Eigna- og veitunefndar þann 30. júní 2026 var fjallað um niðurstöðu útboðs vegna verkefnisins 2604308 – Endurgerð á ráðhúströppum. Aðeins eitt tilboð barst í verkið,",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-02T11:06:05.579890+00:00",
+  "id": 5
+ },
+ "2a25e34d096fba49": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-01",
+  "url": "https://byggingar.is/sjotaekni-ehf-med-laegsta-tilbodid-i-dypkun-thorlakshafnar/?utm_source=rss&utm_medium=rss&utm_campaign=sjotaekni-ehf-med-laegsta-tilbodid-i-dypkun-thorlakshafnar",
+  "title": "Sjótækni ehf. með lægsta tilboðið í dýpkun Þorlákshafnar",
+  "sum": "Sjótækni ehf. með lægsta tilboðið í dýpkun Þorlákshafnar Sjótækni ehf. átti lægsta tilboðið þegar Vegagerðin opnaði tilboð þann 30. júní 2026 í verkið „Þorlákshöfn – Dýpkun gröftur 2026“. Tvö tilboð bárust í verkið og var lægsta tilboðið fr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-02T11:06:05.579890+00:00",
+  "id": 6
+ },
+ "abd9cb6a2cea4091": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-01",
+  "url": "https://byggingar.is/opnun-utbods-thjotandi-32-undir-kostnadaraaetlun/?utm_source=rss&utm_medium=rss&utm_campaign=opnun-utbods-thjotandi-32-undir-kostnadaraaetlun",
+  "title": "Opnun útboðs: Þjótandi 32% undir kostnaðaráætlun",
+  "sum": "Opnun útboðs: Þjótandi 32% undir kostnaðaráætlun Þjótandi ehf. átti lægsta tilboðið þegar Vegagerðin opnaði tilboð þann 30. júní 2026 í verkefnið þurrfræsing og tvöföld klæðing á vegum á Norðursvæði 2026. Tvö tilboð bárust í verkið og var l",
+  "tender": "30. júní 2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-06",
+  "first_seen": "2026-07-02T11:06:05.579890+00:00",
+  "id": 7
  }
 }
