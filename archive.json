@@ -6797,5 +6797,26 @@
   "tsort": "2026-06",
   "first_seen": "2026-07-02T11:06:05.579890+00:00",
   "id": 7
+ },
+ "2232799f7dd97203": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "7.000 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-02",
+  "url": "https://byggingar.is/05-08-2026-honnun-108-ryma-hjukrunarheimilis-i-vatnshlid-bodin-ut/?utm_source=rss&utm_medium=rss&utm_campaign=05-08-2026-honnun-108-ryma-hjukrunarheimilis-i-vatnshlid-bodin-ut",
+  "title": "05.08.2026 Hönnun 108 rýma hjúkrunarheimilis í Vatnshlíð boðin út",
+  "sum": "Hönnun 108 rýma hjúkrunarheimilis í Vatnshlíð boðin út JTV ehf., fyrir hönd Vigdísarholts ehf., hefur auglýst almennt útboð vegna hönnunar nýs 108 rýma hjúkrunarheimilis í Vatnshlíð í Hafnarfirði. Hjúkrunarheimilið verður hluti af nýjum líf",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-02T11:32:18.882769+00:00",
+  "id": 1
  }
 }
