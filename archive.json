@@ -6881,5 +6881,236 @@
   "tsort": "",
   "first_seen": "2026-07-02T15:16:34.250667+00:00",
   "id": 3
+ },
+ "36d5e23ede8c4f8f": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-03",
+  "url": "https://www.visir.is/g/20262904957d/hafna-tillogum-um-thettingu-i-grafarvogi",
+  "title": "Hafna til­lögum um þéttingu í Grafar­vogi",
+  "sum": "Borgarráð hefur hafnað áformum um frekari uppbyggingu í Grafarvogi. Íbúar hafi lagst gegn áformunum og séu margir orðnir brenndir af vinnubrögðum síðasta meirihluta borgarinnar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-03T11:30:23.204342+00:00",
+  "id": 1
+ },
+ "cb0d44419cde5507": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-03",
+  "url": "https://www.visir.is/g/20262904823d/akreinum-faekki-tho-bilum-fjolgi-floskuhalsinn-ekki-endilega-fjoldi-akreina",
+  "title": "Ak­reinum fækki þó bílum fjölgi: Flösku­hálsinn ekki endi­lega fjöldi ak­reina",
+  "sum": "Áform Borgarlínunnar gera ráð fyrir að bílaakreinum fækki á ákveðnum köflum, meðal annars á Suðurlandsbraut, þótt spár geri áfram ráð fyrir aukinni bílaumferð á höfuðborgarsvæðinu.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-03T11:30:23.204342+00:00",
+  "id": 2
+ },
+ "65d7ceaa46409035": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-03",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-03-petur-g-markan-radinn-baejarstjori-grindavikur-480277/",
+  "title": "Pétur G. Markan ráðinn bæjarstjóri Grindavíkur",
+  "sum": "Pétur G. Markan hefur verið ráðinn bæjarstjóri Grindavíkur. Hann var einn 23 umsækjenda en við valið var lögð áhersla á leiðtogahæfni, farsæla stjórnunarreynslu, þekkingu á opinberri stjórnsýslu og getu til að leiða endurreisn og uppbygging",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-03T11:30:23.204342+00:00",
+  "id": 3
+ },
+ "bec9138626ab8735": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-02",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-02-manadatafir-a-uppbyggingu-nys-spitala-vegna-kaerumala-480215/",
+  "title": "Mánaðatafir á uppbyggingu nýs spítala vegna kærumála",
+  "sum": "Kærumál hafa tafið byggingu nýs Landspítala um hálft ár hið minnsta að sögn framkvæmdastjóra. Áfram er þó stefnt á að hann verði tilbúinn undir lok árs 2029. Samkvæmt lögum um opinber innkaup eru verkefni Nýs Landspítala boðin út. Núna eru ",
+  "tender": "",
+  "start": "",
+  "end": "lok 2029",
+  "tsort": "2029-12",
+  "first_seen": "2026-07-03T11:30:23.204342+00:00",
+  "id": 8
+ },
+ "07c50b30bb41a0c3": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-02",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-02-kalt-vatn-komid-a-aftur-a-keflavikurflugvelli-og-a-asbru-480237/",
+  "title": "Kalt vatn komið á aftur á Keflavíkurflugvelli og á Ásbrú",
+  "sum": "Köldu vatni hefur verið komið á aftur á Ásbrú og á Keflavíkurflugvelli. Kaldavatnslaust var á svæðinu í um klukkustund. Sigrún Inga Ævarsdóttir, upplýsingafulltrúi HS Veitna, segir svokallað þrýstingsfall hafa átt sér stað en enn sé til ran",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-03T11:30:23.204342+00:00",
+  "id": 9
+ },
+ "ec89b9644214768f": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-02",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-02-kaldavatnslaust-a-keflavikurflugvelli-og-a-asbru-480231/",
+  "title": "Kaldavatnslaust á Keflavíkurflugvelli og á Ásbrú",
+  "sum": "Bilun kom upp í kaldavatnsveitu HS Veitna á Ásbrú í Reykjanesbæ í kvöld. Sigrún Inga Ævarsdóttir, upplýsingafulltrúi HS Veitna, segir bilunina einnig ná til Keflavíkurflugvallar. Íbúar á Ásbrú séu því án kaldavatns og þeir sem notist við va",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-03T11:30:23.204342+00:00",
+  "id": 10
+ },
+ "70848732b7483934": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-03",
+  "url": "https://byggingar.is/vogabyggd-1-strandstigur-gatna-og-stigagerd/?utm_source=rss&utm_medium=rss&utm_campaign=vogabyggd-1-strandstigur-gatna-og-stigagerd",
+  "title": "21.07.2026 Vogabyggð 1. Strandstígur – Gatna- og stígagerð",
+  "sum": "Vogabyggð 1. Strandstígur – Gatna- og stígagerð F.h. Umhverfis- og skipulagssviðs Reykjavíkurborgar er óskað eftir tilboðum í eftirfarandi verk: Vogabyggð 1. Strandstígur – Gatna- og stígagerð, útboð nr. 16328. Lauslegt yfirlit yfir verkið:",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-03T11:30:23.204342+00:00",
+  "id": 4
+ },
+ "651b0d9b432ba1da": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Stór",
+  "scaleFig": "7,5 ma.kr.",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-03",
+  "url": "https://byggingar.is/istak-og-dsd-noell-staekka-sigoldu/?utm_source=rss&utm_medium=rss&utm_campaign=istak-og-dsd-noell-staekka-sigoldu",
+  "title": "Ístak og DSD Noell stækka Sigöldu",
+  "sum": "Ístak og DSD Noell stækka Sigöldu Landsvirkjun hefur gengið frá samningum við tvo verktaka vegna stækkunar Sigöldustöðvar, að undangengnu útboðsferli. Annars vegar Ístak vegna byggingar helstu mannvirkja vegna stækkunarinnar og hins vegar þ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-03T11:30:23.204342+00:00",
+  "id": 5
+ },
+ "6abfbfb12675e950": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-03",
+  "url": "https://byggingar.is/vegagerdin-bydur-ut-efnisvinnslu-a-vestfjordum-til-arsins-2027/?utm_source=rss&utm_medium=rss&utm_campaign=vegagerdin-bydur-ut-efnisvinnslu-a-vestfjordum-til-arsins-2027",
+  "title": "04.08.2026 Vegagerðin býður út efnisvinnslu á Vestfjörðum til ársins 2027",
+  "sum": "Vegagerðin býður út efnisvinnslu á Vestfjörðum til ársins 2027 Vegagerðin hefur auglýst útboð á efnisvinnslu í sjö námum á Vestfjörðum fyrir árin 2026–2027. Verkefnið felur í sér vinnslu á samtals 27.000 m³ af malarslitlags- og styrktarlags",
+  "tender": "",
+  "start": "2026",
+  "end": "2027",
+  "tsort": "2026-01",
+  "first_seen": "2026-07-03T11:30:23.204342+00:00",
+  "id": 6
+ },
+ "94414b59b5b3f700": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-02",
+  "url": "https://byggingar.is/samid-vid-tvo-verktaka-vegna-staekkunar-sigoldustodvar/?utm_source=rss&utm_medium=rss&utm_campaign=samid-vid-tvo-verktaka-vegna-staekkunar-sigoldustodvar",
+  "title": "Samið við tvo verktaka vegna stækkunar Sigöldustöðvar",
+  "sum": "Samið við tvo verktaka vegna stækkunar Sigöldustöðvar Landsvirkjun hefur samið við tvo verktaka vegna stækkunar á Sigöldustöð. Stefnt er á að nýr hverfill verði gangsettur áramótin 2029–2030. Landsvirkjun hefur samið við tvo verktaka vegna ",
+  "tender": "",
+  "start": "2029",
+  "end": "2030",
+  "tsort": "2029-01",
+  "first_seen": "2026-07-03T11:30:23.204342+00:00",
+  "id": 11
+ },
+ "7025d5241ea4ede5": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Norðurþing – fréttir",
+  "date": "2026-07-03",
+  "url": "https://www.nordurthing.is/is/frettir/jardvegframkvaemdir-eru-hafnar-vid-nytt-hjukrunarheimili-a-husavik",
+  "title": "Jarðvegframkvæmdir eru hafnar við nýtt Hjúkrunarheimili á Húsavík",
+  "sum": "Jarðvegframkvæmdir eru hafnar við nýtt Hjúkrunarheimili á Húsavík",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-03T11:30:23.204342+00:00",
+  "id": 7
  }
 }
