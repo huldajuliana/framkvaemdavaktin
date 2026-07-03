@@ -7112,5 +7112,68 @@
   "tsort": "",
   "first_seen": "2026-07-03T11:30:23.204342+00:00",
   "id": 7
+ },
+ "4b895ac0815188bb": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-03",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/03/framkvaemdum_a_brunni_midar_vel/",
+  "title": "Framkvæmdum á brúnni miðar vel",
+  "sum": "Framkvæmdir við nýja Ölfusárbrú eru nær hálfnaðar miðað við áætlaðan verktíma þar sem enn er stefnt að því að brúin verði opnuð í október árið 2028.",
+  "tender": "",
+  "start": "",
+  "end": "2028",
+  "tsort": "2028-01",
+  "first_seen": "2026-07-03T15:12:28.281961+00:00",
+  "id": 1
+ },
+ "db4fb5e1eace639e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-03",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-03-mesta-haettan-ad-steypubrot-gaetu-fallid-a-gesti-480289/",
+  "title": "Mesta hættan að steypubrot gætu fallið á gesti",
+  "sum": "Til stendur að rífa skyggni og setusvæði stúkunnar í Laugardalnum fyrst og mögulegt er að mannvirkið víki að fullu á einhverjum tímapunkti. Heitir pottar og svæði við áhorfendastúku í Laugardalslaug verða lokuð í að minnsta kosti í hálft ár",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-03T15:12:28.281961+00:00",
+  "id": 2
+ },
+ "e42b85eafada9351": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-03",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-03-loka-vegi-yfir-kjol-eftir-ad-ruta-festist-i-aurbleytu-480288/",
+  "title": "Loka vegi yfir Kjöl eftir að rúta festist í aurbleytu",
+  "sum": "Rúta hefur setið föst í aur á Kjalvegi frá í gær. Hálendisvegir eru margir blautir eftir vætutíð síðustu daga. Vegagerðin hefur bannað allan akstur yfir Kjöl frá Hveravöllum og að Kerlingarfjallavegi. Þar situr hópferðabíll fastur með frame",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-03T15:12:28.281961+00:00",
+  "id": 3
  }
 }
