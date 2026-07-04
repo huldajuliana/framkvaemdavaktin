@@ -7175,5 +7175,26 @@
   "tsort": "",
   "first_seen": "2026-07-03T15:12:28.281961+00:00",
   "id": 3
+ },
+ "da92a37305336776": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-04",
+  "url": "https://byggingar.is/fsre-bydur-ut-endurbaetur-a-hjukrunarheimilinu-a-hofn-i-hornafirdi/?utm_source=rss&utm_medium=rss&utm_campaign=fsre-bydur-ut-endurbaetur-a-hjukrunarheimilinu-a-hofn-i-hornafirdi",
+  "title": "20.08.2026 FSRE býður út endurbætur á hjúkrunarheimilinu á Höfn í Hornafirði",
+  "sum": "FSRE býður út endurbætur á hjúkrunarheimilinu á Höfn í Hornafirði Framkvæmdasýslan – Ríkiseignir (FSRE) hefur auglýst útboð á endurbótum á núverandi hjúkrunarheimili við Víkurbraut 29 á Höfn í Hornafirði, fyrir hönd Félags- og húsnæðismálar",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-04T14:38:12.293046+00:00",
+  "id": 1
  }
 }
