@@ -7322,5 +7322,47 @@
   "tsort": "",
   "first_seen": "2026-07-05T11:02:42.005265+00:00",
   "id": 6
+ },
+ "011fa7dcd5d550ea": {
+  "region": "Suðurnes",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-05",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/05/osattur_med_byggingu_risahotels/",
+  "title": "Ósáttur með byggingu risahótels",
+  "sum": "Fulltrúar Reykjanesbæjar virðast ekki vera sáttir við það að Isavia hyggist reisa gríðarstórt hótel við Keflavíkurflugvöll.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-05T14:44:33.697437+00:00",
+  "id": 1
+ },
+ "b97981c9dd98f1db": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-04",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-04-mikilvaegt-ad-sveitarfelog-taki-upplystar-akvardanir-um-uppbyggingu-gagnavera-479995/",
+  "title": "Mikilvægt að sveitarfélög taki upplýstar ákvarðanir um uppbyggingu gagnavera",
+  "sum": "Gagnaverin eru farin að banka upp á hér á landi segir umhverfissérfræðingur. Ódýr orka ásamt aðgengi að köldu loftslagi og vatni skapar kjöraðstæður fyrir slíka starfsemi. Áhugi fyrir því að setja upp gagnaver á Íslandi „Framtíðin er í þess",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-05T14:44:33.697437+00:00",
+  "id": 2
  }
 }
