@@ -7532,5 +7532,68 @@
   "tsort": "",
   "first_seen": "2026-07-06T12:44:10.299039+00:00",
   "id": 6
+ },
+ "517eade97728b886": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-06",
+  "url": "https://www.visir.is/g/20262906097d/gonguljosin-a-miklubraut-bradalausn-eda-bid-eftir-stokknum-",
+  "title": "Gönguljósin á Miklu­braut: Bráðalausn eða bið eftir stokknum?",
+  "sum": "Gönguljós á Miklubraut, tafir við Bústaðaveg og Reykjanesbraut og framtíð gatnamótanna við Kaplakrika eru meðal þeirra umferðarhnúta sem kalla reglulega fram gagnrýni ökumanna.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-06T16:21:17.084988+00:00",
+  "id": 1
+ },
+ "b6e4ca145a5330b5": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-06",
+  "url": "https://www.visir.is/g/20262906068d/staekkun-bilaborgarinnar-er-ekki-sjalfgefin-ny-byggd-til-nordurs-kallar-a-oflugri-almenningssamgongur",
+  "title": "Stækkun bílaborgarinnar er ekki sjálf­gefin - Ný byggð til norðurs kallar á öflugri al­mennings­sam­göngur",
+  "sum": "Í grein sinni Breyttar áherslur í borgarskipulagi hér á Vísi fagnar Þórarinn Hjaltason fyrirhugaðri uppbyggingu Reykjavíkur til norðurs. Hann telur að þar með sé verið að hverfa frá „ofurþéttingu“ og að breytt byggðarstefna kalli á endursko",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-06T16:21:17.084988+00:00",
+  "id": 2
+ },
+ "f4c6342ddcdbaefe": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-06",
+  "url": "https://byggingar.is/snaefellsbaer-bydur-ut-endurnyjun-nordurbakka-i-olafsvik/?utm_source=rss&utm_medium=rss&utm_campaign=snaefellsbaer-bydur-ut-endurnyjun-nordurbakka-i-olafsvik",
+  "title": "21.06.2026 Snæfellsbær býður út endurnýjun Norðurbakka í Ólafsvík",
+  "sum": "Snæfellsbær býður út endurnýjun Norðurbakka í Ólafsvík Hafnarstjórn Snæfellsbæjar hefur auglýst útboð á framkvæmdum við Norðurbakka í Ólafsvík, þar sem endurnýjuð verður hafnarþekja ásamt lagningu nýrra veitukerfa. Verkið er liður í áframha",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-06T16:21:17.084988+00:00",
+  "id": 3
  }
 }
