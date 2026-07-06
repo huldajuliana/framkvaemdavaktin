@@ -7364,5 +7364,173 @@
   "tsort": "",
   "first_seen": "2026-07-05T14:44:33.697437+00:00",
   "id": 2
+ },
+ "aa239714688b19f7": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-06",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/06/8222_allt_jarn_var_ordid_rydgad_8220/",
+  "title": "„Allt járn var orðið ryðgað“",
+  "sum": "Umfangsmiklar endurbætur standa yfir á Árneskirkju á Ströndum, sem vígð var árið 1991, og sóknarnefnd safnar nú fé til að klára verkið. Þrátt fyrir framkvæmdirnar var brúðkaup haldið í kirkjunni um helgina",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-06T12:44:10.299039+00:00",
+  "id": 1
+ },
+ "faec5796f2e66d61": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-06",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/06/anaegja_med_afturkollun/",
+  "title": "Ánægja með afturköllun",
+  "sum": "„Þetta er auðvitað frábært en reyndar ekki fullnaðarsigur því það á eftir að draga til baka fyrirhugaðar breytingar á aðalskipulagi sem fyrri meirihluti borgarstjórnar lagði til. Það eru líka inni gögn varðandi þéttingu í Sóleyjarima sem mi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-06T12:44:10.299039+00:00",
+  "id": 2
+ },
+ "20f7716d6b9f0092": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-06",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-06-ekki-haegt-ad-byggja-umhverfisvaenna-mannvirki-en-thad-sem-fyrir-er-480573/",
+  "title": "Ekki hægt að byggja umhverfisvænna mannvirki en það sem fyrir er",
+  "sum": "Rífa á stóran hluta áhorfendastúkunnar við Laugardalslaug í Reykjavík sem telst hættuleg í nýju áhættumati. Margir harma það því stúkan hefur verið eitt helsta kennileitið í Laugardal síðan 1968. Steinþór Kári Kárason, arkitekt og eigandi a",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-06T12:44:10.299039+00:00",
+  "id": 3
+ },
+ "36872706fa6f151a": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-06",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-06-vedurfraedingur-vegagerdarinnar-varar-vid-hvidum-undir-eyjafjollum-og-a-reykjanesbraut-480574/",
+  "title": "Veðurfræðingur Vegagerðarinnar varar við hviðum undir Eyjafjöllum og á Reykjanesbraut",
+  "sum": "Allhvöss sunnanátt verður undir Eyjafjöllum í nótt og á morgun með hviðum um 30 m/s, að því er segir í ábendingum frá veðurfræðingi Vegagerðarinnar. Þar segir að einnig megi búast við hviðum um 25 m/s þvert á veg á Reykjanesbraut á morgun, ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-06T12:44:10.299039+00:00",
+  "id": 4
+ },
+ "424a91fb4187bf43": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-05",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-05-buast-ma-vid-umferdartofum-medan-a-framkvaemdum-stendur-480500/",
+  "title": "Búast má við umferðartöfum meðan á framkvæmdum stendur",
+  "sum": "Búast má við umferðartöfum á meðan unnið er að Sæbrautarstokki. Gert er ráð fyrir að framkvæmdir taki þrjú til fimm ár. Þegar mest lætur fara að meðaltali sjötíu vörubílar með jarðefni frá Sæbraut upp í Ölfus. Fjallað var um fyrirhugaðar fr",
+  "tender": "",
+  "start": "2027",
+  "end": "2032",
+  "tsort": "2027-01",
+  "first_seen": "2026-07-06T12:44:10.299039+00:00",
+  "id": 7
+ },
+ "68de5b4230a2474c": {
+  "region": "Suðurnes",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "13.000 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-05",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-05-okkur-finnst-forgangsrodun-isavia-ekki-vera-rett-480501/",
+  "title": "„Okkur finnst forgangsröðun Isavia ekki vera rétt“",
+  "sum": "Vilhjálmur Árnason, bæjarstjóri í Reykjanesbæ, vill að Isavia auki samstarf og samskipti við atvinnulíf í nærumhverfi Keflavíkurflugvallar áður en fyrirtækið ræðst í það að byggja hótel inni á flugvallarsvæðinu. Isavia hefur í huga að byggj",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-06T12:44:10.299039+00:00",
+  "id": 8
+ },
+ "3ad1c33efbb22dd5": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-06",
+  "url": "https://byggingar.is/endurbaetur-a-badum-starfsstodvum-grunnskola-fjallabyggdar/?utm_source=rss&utm_medium=rss&utm_campaign=endurbaetur-a-badum-starfsstodvum-grunnskola-fjallabyggdar",
+  "title": "Endurbætur á báðum starfsstöðvum Grunnskóla Fjallabyggðar",
+  "sum": "Endurbætur á báðum starfsstöðvum Grunnskóla Fjallabyggðar Miklar framkvæmdir standa nú yfir á báðum starfsstöðvum Grunnskóla Fjallabyggðar með það að markmiði að bæta aðstöðu nemenda og starfsfólks fyrir upphaf nýs skólaárs. Samkvæmt upplýs",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-06T12:44:10.299039+00:00",
+  "id": 5
+ },
+ "6100f7f4dd49f786": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Akureyri.net – fréttir",
+  "date": "2026-07-06",
+  "url": "https://www.akureyri.net/is/frettir/sjalfsafgreidsluposar-vid-vadlaheidargong",
+  "title": "Sjálfsafgreiðsluposar við Vaðlaheiðargöng",
+  "sum": "Sjálfsafgreiðsluposar við Vaðlaheiðargöng",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-06T12:44:10.299039+00:00",
+  "id": 6
  }
 }
