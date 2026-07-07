@@ -7595,5 +7595,236 @@
   "tsort": "",
   "first_seen": "2026-07-06T16:21:17.084988+00:00",
   "id": 3
+ },
+ "f8a18023f038de6f": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-07",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/07/bruin_yfir_thjorsa_lokud/",
+  "title": "Brúin yfir Þjórsá lokuð",
+  "sum": "Brúin yfir Þjórsá á Þjórsárdalsvegi við Sultartanga er lokuð vegna skemmda á brúarhandriði en steypubíll fór út af á brúnni í gærkvöld.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-07T11:46:26.206064+00:00",
+  "id": 1
+ },
+ "850bf1cc566b60c5": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-07",
+  "url": "https://www.visir.is/g/20262906402d/brunni-lokad-eftir-ad-steypubill-hafnadi-i-thjorsa",
+  "title": "Brúnni lokað eftir að steypubíll hafnaði í Þjórs­á",
+  "sum": "Brúin yfir Þjórsá á Þjórsárdalsvegi verður lokuð næstu daga vegna skemmda á brúarhandriði. Umferðaróhapp varð á brúnni í gærkvöldi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-07T11:46:26.206064+00:00",
+  "id": 2
+ },
+ "dd442f87aaa01c72": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-07",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-07-bjorgunaradgerdir-i-thjorsa-vid-sultartangavirkjun-480661/",
+  "title": "Björgunaraðgerðir í Þjórsá við Sultartangavirkjun",
+  "sum": "Steypubíll fór út af brú yfir Þjórsá við Sultartangastöð á áttunda tímanum í kvöld. Ökumaðurinn var einn í bílnum. Þyrla Landhelgisgæslunnar var kölluð út og var fyrst viðbragðsaðila á staðinn. Ökumanni steypubílsins var bjargað upp í þyrlu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-07T11:46:26.206064+00:00",
+  "id": 3
+ },
+ "f8d214cadd98c60e": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-06",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-06-setja-upp-posa-vid-vadlaheidargong-480615/",
+  "title": "Setja upp posa við Vaðlaheiðargöng",
+  "sum": "Frá því að Vaðlaheiðargöng voru tekin í notkun árið 2018 hefur einungis verið sjálfvirk rukkun fyrir að keyra í gegnum göngin. Myndavél tekur mynd af númeraplötu og annaðhvort er reikningur sendur í heimabanka fólks eða fólk er með bílinn í",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-07T11:46:26.206064+00:00",
+  "id": 10
+ },
+ "0519bd4ec332885a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-06",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-06-okumanni-bjargad-af-hlid-steypubils-i-thjorsa-480647/",
+  "title": "Ökumanni bjargað af hlið steypubíls í Þjórsá",
+  "sum": "Steypubíll fór út af brú yfir Þjórsá við Sultartangastöð nú á áttunda tímanum í kvöld, samkvæmt upplýsingum lögreglunnar á Suðurlandi. Ökumaðurinn var einn í bílnum. Þyrla Landhelgisgæslunnar var kölluð út og var fyrst viðbragðsaðila á stað",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-07T11:46:26.206064+00:00",
+  "id": 11
+ },
+ "34610f94c2684a41": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-07",
+  "url": "https://byggingar.is/vinlandsleid-laxalon-thusold-stigagerd/?utm_source=rss&utm_medium=rss&utm_campaign=vinlandsleid-laxalon-thusold-stigagerd",
+  "title": "30.07.2026 Vínlandsleið (Laxalón-Þúsöld) – Stígagerð",
+  "sum": "Vínlandsleið (Laxalón-Þúsöld) – Stígagerð F.h. Umhverfis- og skipulagssviðs Reykjavíkurborgar er óskað eftir tilboðum í eftirfarandi verk: Vínlandsleið (Laxalón-Þúsöld) – Stígagerð, útboð nr. 16303. Lauslegt yfirlit yfir verkið: Verkið skal",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-07T11:46:26.206064+00:00",
+  "id": 4
+ },
+ "0c9fec7f9ea2045c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-07",
+  "url": "https://byggingar.is/ez-verk-leitar-ad-husasmid-med-reynslu-i-klaedningarvinnu/?utm_source=rss&utm_medium=rss&utm_campaign=ez-verk-leitar-ad-husasmid-med-reynslu-i-klaedningarvinnu",
+  "title": "EZ Verk leitar að húsasmið með reynslu í klæðningarvinnu",
+  "sum": "EZ Verk leitar að húsasmið með reynslu í klæðningarvinnu EZ Verk ehf. auglýsir laust starf fyrir húsasmið með reynslu og leitar að öflugum starfsmanni til klæðningarvinnu við byggingarframkvæmdir. Um er að ræða fjölbreytt og líkamlegt starf",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-07T11:46:26.206064+00:00",
+  "id": 5
+ },
+ "c633615e6d704517": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "30,9 ma.kr.",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-07",
+  "url": "https://byggingar.is/istak-hagnast-um-milljard/?utm_source=rss&utm_medium=rss&utm_campaign=istak-hagnast-um-milljard",
+  "title": "Ístak hagnast um milljarð",
+  "sum": "Ístak hagnast um milljarð Hagnaður Ístaks, stærsta byggingafyrirtæki landsins, dróst saman um 800 milljónir milli ára. Ístak, stærsta byggingarfyrirtæki landsins, velti um 27,6 milljörðum króna á síðasta rekstrarári, samanborið við 30,9 mil",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-07T11:46:26.206064+00:00",
+  "id": 6
+ },
+ "b77855a8a34dee91": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-07",
+  "url": "https://byggingar.is/framkvaemdir-a-laugalandi-i-fullum-gangi/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-a-laugalandi-i-fullum-gangi",
+  "title": "Framkvæmdir á Laugalandi í fullum gangi",
+  "sum": "Framkvæmdir á Laugalandi í fullum gangi Ákveðið var í vetur að ráðast í endurbætur á húsnæðinu á Laugalandi og hófust framkvæmdir um leið og skólastarfi lauk í vor. Verkið gengur vel og nú er unnið að nokkrum verkefnum samhliða í skólabyggi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-07T11:46:26.206064+00:00",
+  "id": 7
+ },
+ "72feea669bbe6e04": {
+  "region": "Norðurland eystra",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-07",
+  "url": "https://byggingar.is/110-milljonir-i-lagfaeringar-a-skemmdum-felagsibudum/?utm_source=rss&utm_medium=rss&utm_campaign=110-milljonir-i-lagfaeringar-a-skemmdum-felagsibudum",
+  "title": "110 milljónir í lagfæringar á skemmdum félagsíbúðum",
+  "sum": "110 milljónir í lagfæringar á skemmdum félagsíbúðum Selja á allt að 15 félagslegar íbúðir í eigu Akureyrarbæjar. Þær eru óhentugar og viðhaldsfrekar, segir formaður bæjarráðs. Bærinn þarf að setja 110 milljónir í lagfæringar á skemmdum íbúð",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-07T11:46:26.206064+00:00",
+  "id": 8
+ },
+ "69cd11d61aced760": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-07",
+  "url": "https://byggingar.is/a-steindorsson-ehf-oskar-eftir-husasmid/?utm_source=rss&utm_medium=rss&utm_campaign=a-steindorsson-ehf-oskar-eftir-husasmid",
+  "title": "Á. Steindórsson ehf. óskar eftir húsasmið",
+  "sum": "Á. Steindórsson ehf. óskar eftir húsasmið Á. Steindórsson ehf. leitar að húsasmið eða mjög vönum einstaklingi með reynslu af húsasmíði til starfa. Fyrirtækið sinnir fjölbreyttum verkefnum á sviði viðhalds, breytinga og nýbygginga og býður u",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-07T11:46:26.206064+00:00",
+  "id": 9
  }
 }
