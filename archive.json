@@ -7742,5 +7742,47 @@
   "tsort": "",
   "first_seen": "2026-07-07T11:46:26.206064+00:00",
   "id": 9
+ },
+ "09d9e52208c9bbaa": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-07",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-07-draga-steypubilinn-upp-i-dag-bruin-lokud-naestu-daga-480705/",
+  "title": "Draga steypubílinn upp í dag – brúin lokuð næstu daga",
+  "sum": "Steypubíll sem fór út af brú yfir Þjórsá við Sultartangavirkjun í gærkvöld verður dreginn upp úr ánni í dag. Þetta staðfestir Bryndís Jóhannesdóttir aðalvarðstjóri Lögreglunnar á Suðurlandi. Brúin er lokuð á meðan unnið er að viðgerðum á ha",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-07T15:43:59.461717+00:00",
+  "id": 1
+ },
+ "f0918ed29cce153d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-07",
+  "url": "https://byggingar.is/taema-lonid-til-ad-koma-steypubilnum-a-thurrt/?utm_source=rss&utm_medium=rss&utm_campaign=taema-lonid-til-ad-koma-steypubilnum-a-thurrt",
+  "title": "„Tæma lónið“ til að koma steypubílnum á þurrt",
+  "sum": "„Tæma lónið“ til að koma steypubílnum á þurrt Bílstjóri steypubílsins sem hafnaði í Þjórsá í gær er sagður hafa það gott en hann var fluttur á spítala með ofkælingu af þyrlu Landhelgisgæslunnar í gærkvöld. Bíllinn fór út af brú yfir Þjórsá ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-07T15:43:59.461717+00:00",
+  "id": 2
  }
 }
