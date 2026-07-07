@@ -7596,69 +7596,6 @@
   "first_seen": "2026-07-06T16:21:17.084988+00:00",
   "id": 3
  },
- "f8a18023f038de6f": {
-  "region": "Suðurland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-07-07",
-  "url": "https://www.mbl.is/frettir/innlent/2026/07/07/bruin_yfir_thjorsa_lokud/",
-  "title": "Brúin yfir Þjórsá lokuð",
-  "sum": "Brúin yfir Þjórsá á Þjórsárdalsvegi við Sultartanga er lokuð vegna skemmda á brúarhandriði en steypubíll fór út af á brúnni í gærkvöld.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-07T11:46:26.206064+00:00",
-  "id": 1
- },
- "850bf1cc566b60c5": {
-  "region": "Suðurland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-07-07",
-  "url": "https://www.visir.is/g/20262906402d/brunni-lokad-eftir-ad-steypubill-hafnadi-i-thjorsa",
-  "title": "Brúnni lokað eftir að steypubíll hafnaði í Þjórs­á",
-  "sum": "Brúin yfir Þjórsá á Þjórsárdalsvegi verður lokuð næstu daga vegna skemmda á brúarhandriði. Umferðaróhapp varð á brúnni í gærkvöldi.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-07T11:46:26.206064+00:00",
-  "id": 2
- },
- "dd442f87aaa01c72": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-07-07",
-  "url": "https://www.ruv.is/frettir/innlent/2026-07-07-bjorgunaradgerdir-i-thjorsa-vid-sultartangavirkjun-480661/",
-  "title": "Björgunaraðgerðir í Þjórsá við Sultartangavirkjun",
-  "sum": "Steypubíll fór út af brú yfir Þjórsá við Sultartangastöð á áttunda tímanum í kvöld. Ökumaðurinn var einn í bílnum. Þyrla Landhelgisgæslunnar var kölluð út og var fyrst viðbragðsaðila á staðinn. Ökumanni steypubílsins var bjargað upp í þyrlu",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-07T11:46:26.206064+00:00",
-  "id": 3
- },
  "f8d214cadd98c60e": {
   "region": "Norðurland eystra",
   "type": "Innviðir",
@@ -7679,27 +7616,6 @@
   "tsort": "",
   "first_seen": "2026-07-07T11:46:26.206064+00:00",
   "id": 10
- },
- "0519bd4ec332885a": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-07-06",
-  "url": "https://www.ruv.is/frettir/innlent/2026-07-06-okumanni-bjargad-af-hlid-steypubils-i-thjorsa-480647/",
-  "title": "Ökumanni bjargað af hlið steypubíls í Þjórsá",
-  "sum": "Steypubíll fór út af brú yfir Þjórsá við Sultartangastöð nú á áttunda tímanum í kvöld, samkvæmt upplýsingum lögreglunnar á Suðurlandi. Ökumaðurinn var einn í bílnum. Þyrla Landhelgisgæslunnar var kölluð út og var fyrst viðbragðsaðila á stað",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-07T11:46:26.206064+00:00",
-  "id": 11
  },
  "34610f94c2684a41": {
   "region": "Höfuðborgarsvæðið",
