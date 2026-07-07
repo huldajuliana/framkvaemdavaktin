@@ -220,6 +220,10 @@ _HARD_NEGATIVES = [
     # "slys" nær banaslys/umferðarslys/bílslys/vinnuslys; "lést"/"fórst"/"lét lífið"
     # ná dauðsföllum. ("andlát" er þegar á listanum hér að ofan.)
     "slys", "lést", "fórst", "lét lífið", "drukkn",
+    # umferðaróhöpp / björgun — t.d. bíll út af brú, brú lokuð vegna skemmda á
+    # brúarhandriði, björgunaraðgerðir. Óhapp/neyð, ekki framkvæmd. (Grípur bæði
+    # eintök tvöfaldrar fréttar og tengdar björgunarfréttir sama atviks.)
+    "umferðaróhapp", "brúarhandrið", "björgunaraðgerð", "ökumanni bjargað",
     # viðskipti / ráðningar — starfsmanna- og fyrirtækjafréttir ("uppbygging"
     # fyrirtækis/félags er ekki mannvirkjagerð), t.d. "ráðin í starf markaðsstjóra"
     # eða "nýtt endurskoðunar- og ráðgjafarfyrirtæki".
