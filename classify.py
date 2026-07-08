@@ -236,6 +236,15 @@ _HARD_NEGATIVES = [
     "umferð eykst", "umferð jókst", "umferð minnkar", "umferð dregst saman",
     "umferðartalning", "umferðarþung", "umferðarmagn", "umferðartöl",
     "opin fyrir umferð", "umferð á nýjan leik",
+    # veðurviðvaranir — "veðurfræðingur Vegagerðarinnar varar við hviðum" kviknar á
+    # "vegagerð" (stofnun sem heimild). Veður, ekki framkvæmd.
+    "veðurfræðing", "hviðum", "hviða", "veðurviðvörun",
+    # heilbrigðis-/skólaheilsugæslu-reglugerð — "framkvæmd skólaheilsugæslu" kviknar á
+    # "skól" (úr "skólaheilsugæslu"/"grunnskólabarna"). Heilbrigðismál, ekki bygging.
+    # (Ekki bert "heilsugæsl" — ný heilsugæslustöð getur verið bygging.)
+    "skólaheilsugæsl", "heilsufarsskoðan",
+    # greiðsluposar við göng — rekstur/greiðslulausn, ekki jarðgangagerð.
+    "sjálfsafgreiðslupos",
     # viðskipti / ráðningar — starfsmanna- og fyrirtækjafréttir ("uppbygging"
     # fyrirtækis/félags er ekki mannvirkjagerð), t.d. "ráðin í starf markaðsstjóra"
     # eða "nýtt endurskoðunar- og ráðgjafarfyrirtæki".
