@@ -223,7 +223,11 @@ _HARD_NEGATIVES = [
     # umferðaróhöpp / björgun — t.d. bíll út af brú, brú lokuð vegna skemmda á
     # brúarhandriði, björgunaraðgerðir. Óhapp/neyð, ekki framkvæmd. (Grípur bæði
     # eintök tvöfaldrar fréttar og tengdar björgunarfréttir sama atviks.)
+    # "steypubíl" grípur ÖLL afbrigði steypubíls-óhappsins (dreginn upp, tæma lón
+    # o.s.frv.) — og er óhætt: "steypustöð"/"steypuvinna"/"steypubrot" innihalda
+    # ekki "steypubíl" og haldast því inni.
     "umferðaróhapp", "brúarhandrið", "björgunaraðgerð", "ökumanni bjargað",
+    "steypubíl",
     # viðskipti / ráðningar — starfsmanna- og fyrirtækjafréttir ("uppbygging"
     # fyrirtækis/félags er ekki mannvirkjagerð), t.d. "ráðin í starf markaðsstjóra"
     # eða "nýtt endurskoðunar- og ráðgjafarfyrirtæki".
