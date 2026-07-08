@@ -7784,5 +7784,68 @@
   "tsort": "",
   "first_seen": "2026-07-08T11:02:05.081236+00:00",
   "id": 1
+ },
+ "d1c9f9c6163f927a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-08",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/08/nokkrir_manudir_i_ad_nidurrif_hefjist/",
+  "title": "Nokkrir mánuðir í að niðurrif hefjist",
+  "sum": "Nokkrir mánuðir í það minnsta eru í að niðurrif stúkumannvirkisins við Laugardalslaug hefjist, að sögn Guðna Guðmundssonar, skrifstofustjóra á skrifstofu framkvæmda og fasteignaþjónustu hjá Reykjavíkurborg.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-08T15:22:47.335745+00:00",
+  "id": 1
+ },
+ "a846b4fd985d4685": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-08",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-08-skerda-orku-til-fyrirtaekja-a-sudurlandi-vesturlandi-og-vestfjordum-um-oakvedinn-tima-480842/",
+  "title": "Skerða orku til fyrirtækja á Suðurlandi, Vesturlandi og Vestfjörðum um óákveðinn tíma",
+  "sum": "Alvarleg bilanir í spenni í Búrfellsvirkjun og viðhald hjá öðrum orkuframleiðendum veldur því að Landsnet skerðir orku um óákveðinn tíma til ákveðinna fyrirtækja á Suðurlandi og Vestfjörðum. Skerðingin gæti varað í nokkra daga. Halldór Hall",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-08T15:22:47.335745+00:00",
+  "id": 2
+ },
+ "de9fdc708987b400": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-08",
+  "url": "https://byggingar.is/istak-leitar-ad-stjornendum-a-hjolagrofu-til-starfa/?utm_source=rss&utm_medium=rss&utm_campaign=istak-leitar-ad-stjornendum-a-hjolagrofu-til-starfa",
+  "title": "17.07.2026 Ístak leitar að stjórnendum á hjólagröfu til starfa",
+  "sum": "Ístak leitar að stjórnendum á hjólagröfu til starfa Ístak hf. auglýsir laus störf fyrir reynda stjórnendur á hjólagröfu til starfa við umfangsmikil mannvirkja- og innviðaverkefni á Hálendinu og Reykjanesi. Leitað er að ábyrgum og reynslumik",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-08T15:22:47.335745+00:00",
+  "id": 3
  }
 }
