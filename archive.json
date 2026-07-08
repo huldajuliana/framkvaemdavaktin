@@ -7743,48 +7743,6 @@
   "first_seen": "2026-07-07T11:46:26.206064+00:00",
   "id": 9
  },
- "0c4d27dd7e16779f": {
-  "region": "Suðurland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-07-08",
-  "url": "https://www.mbl.is/frettir/innlent/2026/07/08/bruin_yfir_thjorsa_opin_fyrir_umferd/",
-  "title": "Brúin yfir Þjórsá opin fyrir umferð",
-  "sum": "Viðgerðum á brúnni yfir Þjórsá á Þjórsárdalsvegi lauk seint í gærkvöld og er búið að opna fyrir umferð á nýjan leik að því er fram kemur í færslu Vegagerðarinnar á Facebook.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-08T08:27:40.887690+00:00",
-  "id": 1
- },
- "eb2e07de5e20e84f": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-07-08",
-  "url": "https://www.visir.is/g/20262906741d/umferd-eykst-milli-ara",
-  "title": "Um­ferð eykst milli ára",
-  "sum": "Umferð á Hringveginum eykst um eitt prósent milli ára samkvæmt mælingum Vegagerðarinnar á fyrstu sex mánuðum ársins. Telst sú aukning lítil þar sem árleg aukning frá árinu 2022 til 2025 nam 4,8 prósentum.",
-  "tender": "",
-  "start": "2022",
-  "end": "2025",
-  "tsort": "2022-01",
-  "first_seen": "2026-07-08T08:27:40.887690+00:00",
-  "id": 2
- },
  "81f4a2de796ee834": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -7847,5 +7805,26 @@
   "tsort": "",
   "first_seen": "2026-07-08T08:27:40.887690+00:00",
   "id": 5
+ },
+ "7bc05d763cf766ed": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-08",
+  "url": "https://byggingar.is/vidmidunargildi-fyrir-kolefnisspor-nybygginga/?utm_source=rss&utm_medium=rss&utm_campaign=vidmidunargildi-fyrir-kolefnisspor-nybygginga",
+  "title": "Viðmiðunargildi fyrir kolefnisspor nýbygginga",
+  "sum": "Viðmiðunargildi fyrir kolefnisspor nýbygginga HMS gefur út viðmiðunargildi kolefnisspors nýbygginga á Íslandi, byggð á nýjum gögnum Greining á kolefnisspori byggingariðnaðarins á Íslandi sýnir að án breytinga munu loftslagsmarkmið fyrir byg",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-08T08:36:43.487784+00:00",
+  "id": 1
  }
 }
