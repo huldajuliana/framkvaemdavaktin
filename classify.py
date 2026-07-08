@@ -228,6 +228,14 @@ _HARD_NEGATIVES = [
     # ekki "steypubíl" og haldast því inni.
     "umferðaróhapp", "brúarhandrið", "björgunaraðgerð", "ökumanni bjargað",
     "steypubíl",
+    # umferðarfréttir — umferðarmagn/-talning og "opnað aftur fyrir umferð" eftir
+    # lokun. Þetta er umferð/ástand vega, EKKI framkvæmd. (Rót: fréttir vitna oft í
+    # "Vegagerðina" sem heimild, sem kveikir á "vegagerð" — við grípum umferðar-
+    # orðin beint í staðinn. Ný vega-/brúaropnun segir "opnaður"/"tekinn í notkun"
+    # og heldur sér; "opin fyrir umferð"/"á nýjan leik" er enduropnun eftir lokun.)
+    "umferð eykst", "umferð jókst", "umferð minnkar", "umferð dregst saman",
+    "umferðartalning", "umferðarþung", "umferðarmagn", "umferðartöl",
+    "opin fyrir umferð", "umferð á nýjan leik",
     # viðskipti / ráðningar — starfsmanna- og fyrirtækjafréttir ("uppbygging"
     # fyrirtækis/félags er ekki mannvirkjagerð), t.d. "ráðin í starf markaðsstjóra"
     # eða "nýtt endurskoðunar- og ráðgjafarfyrirtæki".
