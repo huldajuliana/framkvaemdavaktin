@@ -7763,5 +7763,26 @@
   "tsort": "",
   "first_seen": "2026-07-08T08:36:43.487784+00:00",
   "id": 1
+ },
+ "f9615d86c9fbfad6": {
+  "region": "Suðurnes",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-08",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-08-segir-hotelaformin-gerd-i-samradi-vid-naersamfelagid-480808/",
+  "title": "Segir hóteláformin gerð í samráði við nærsamfélagið",
+  "sum": "„Hugmyndin um hótel við Keflavíkurflugvöll hefur verið hluti af framtíðarsýn fyrir svæðið frá því að þróunaráætlun Keflavíkurflugvallar til ársins 2040 var gefin út 2015,“ segir Guðjón Helgason, upplýsingafulltrúi Isavia. Hann segir áformin",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-08T11:02:05.081236+00:00",
+  "id": 1
  }
 }
