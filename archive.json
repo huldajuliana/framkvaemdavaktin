@@ -7743,7 +7743,7 @@
   "first_seen": "2026-07-07T11:46:26.206064+00:00",
   "id": 9
  },
- "09d9e52208c9bbaa": {
+ "0c4d27dd7e16779f": {
   "region": "Suðurland",
   "type": "Innviðir",
   "scale": "Miðlungs",
@@ -7751,20 +7751,20 @@
   "verk": [
    "Óútboðið"
   ],
-  "status": "Verklok",
-  "src": "RÚV – fréttir",
-  "date": "2026-07-07",
-  "url": "https://www.ruv.is/frettir/innlent/2026-07-07-draga-steypubilinn-upp-i-dag-bruin-lokud-naestu-daga-480705/",
-  "title": "Draga steypubílinn upp í dag – brúin lokuð næstu daga",
-  "sum": "Steypubíll sem fór út af brú yfir Þjórsá við Sultartangavirkjun í gærkvöld verður dreginn upp úr ánni í dag. Þetta staðfestir Bryndís Jóhannesdóttir aðalvarðstjóri Lögreglunnar á Suðurlandi. Brúin er lokuð á meðan unnið er að viðgerðum á ha",
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-08",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/08/bruin_yfir_thjorsa_opin_fyrir_umferd/",
+  "title": "Brúin yfir Þjórsá opin fyrir umferð",
+  "sum": "Viðgerðum á brúnni yfir Þjórsá á Þjórsárdalsvegi lauk seint í gærkvöld og er búið að opna fyrir umferð á nýjan leik að því er fram kemur í færslu Vegagerðarinnar á Facebook.",
   "tender": "",
   "start": "",
   "end": "",
   "tsort": "",
-  "first_seen": "2026-07-07T15:43:59.461717+00:00",
+  "first_seen": "2026-07-08T08:27:40.887690+00:00",
   "id": 1
  },
- "f0918ed29cce153d": {
+ "eb2e07de5e20e84f": {
   "region": "Landið allt",
   "type": "Innviðir",
   "scale": "Miðlungs",
@@ -7773,16 +7773,79 @@
    "Óútboðið"
   ],
   "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
+  "src": "Vísir – allt",
+  "date": "2026-07-08",
+  "url": "https://www.visir.is/g/20262906741d/umferd-eykst-milli-ara",
+  "title": "Um­ferð eykst milli ára",
+  "sum": "Umferð á Hringveginum eykst um eitt prósent milli ára samkvæmt mælingum Vegagerðarinnar á fyrstu sex mánuðum ársins. Telst sú aukning lítil þar sem árleg aukning frá árinu 2022 til 2025 nam 4,8 prósentum.",
+  "tender": "",
+  "start": "2022",
+  "end": "2025",
+  "tsort": "2022-01",
+  "first_seen": "2026-07-08T08:27:40.887690+00:00",
+  "id": 2
+ },
+ "81f4a2de796ee834": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
   "date": "2026-07-07",
-  "url": "https://byggingar.is/taema-lonid-til-ad-koma-steypubilnum-a-thurrt/?utm_source=rss&utm_medium=rss&utm_campaign=taema-lonid-til-ad-koma-steypubilnum-a-thurrt",
-  "title": "„Tæma lónið“ til að koma steypubílnum á þurrt",
-  "sum": "„Tæma lónið“ til að koma steypubílnum á þurrt Bílstjóri steypubílsins sem hafnaði í Þjórsá í gær er sagður hafa það gott en hann var fluttur á spítala með ofkælingu af þyrlu Landhelgisgæslunnar í gærkvöld. Bíllinn fór út af brú yfir Þjórsá ",
+  "url": "https://www.visir.is/g/20262906736d/heilsufarsskodanir-skuli-framkvaemdar-ad-lagmarki-fjorum-sinnum",
+  "title": "Heilsu­fars­skoðanir skuli fram­kvæmdar að lág­marki fjórum sinnum",
+  "sum": "Alma D. Möller heilbrigðisráðherra hefur staðfest nýja reglugerð um skólaheilsugæslu grunnskólabarna. Með henni er í fyrsta sinn mörkuð heildstæð umgjörð um skipulag og framkvæmd skólaheilsugæslu á landsvísu. Reglugerðin tekur gildi 1. janú",
   "tender": "",
   "start": "",
   "end": "",
   "tsort": "",
-  "first_seen": "2026-07-07T15:43:59.461717+00:00",
-  "id": 2
+  "first_seen": "2026-07-08T08:27:40.887690+00:00",
+  "id": 4
+ },
+ "b78c56cfecae2501": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-08",
+  "url": "https://byggingar.is/nyr-landspitali-upplysir-nagranna-sjukrahussins-a-akureyri-um-framkvaemdir/?utm_source=rss&utm_medium=rss&utm_campaign=nyr-landspitali-upplysir-nagranna-sjukrahussins-a-akureyri-um-framkvaemdir",
+  "title": "Nýr Landspítali upplýsir nágranna Sjúkrahússins á Akureyri um framkvæmdir",
+  "sum": "Nýr Landspítali upplýsir nágranna Sjúkrahússins á Akureyri um framkvæmdir „Framkvæmdasvæðið verður girt af og komið verður upp þvottastöð fyrir vinnubíla til þess að tryggja að óhreinindi berist ekki út á götur.“ Þetta er á meðal þess sem s",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-08T08:27:40.887690+00:00",
+  "id": 3
+ },
+ "c09fd8dbc7713176": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-07",
+  "url": "https://byggingar.is/dalvikurbyggd-birkiholar-gatnagerd/?utm_source=rss&utm_medium=rss&utm_campaign=dalvikurbyggd-birkiholar-gatnagerd",
+  "title": "27.07.2026 Dalvíkurbyggð. Birkihólar gatnagerð",
+  "sum": "Dalvíkurbyggð. Birkihólar gatnagerð Dalvíkurbyggð óskar eftir tilboðum í gatnagerð í Birkihólum, sem er ný 70 metra löng botnlangagata út úr Skógarhólum ofan Lynghóla. Verkið felst í brottflutningi á jarðvegi og jarðvegsskiptum auk lagninga",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-08T08:27:40.887690+00:00",
+  "id": 5
  }
 }
