@@ -7428,27 +7428,6 @@
   "first_seen": "2026-07-06T12:44:10.299039+00:00",
   "id": 3
  },
- "36872706fa6f151a": {
-  "region": "Suðurnes",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-07-06",
-  "url": "https://www.ruv.is/frettir/innlent/2026-07-06-vedurfraedingur-vegagerdarinnar-varar-vid-hvidum-undir-eyjafjollum-og-a-reykjanesbraut-480574/",
-  "title": "Veðurfræðingur Vegagerðarinnar varar við hviðum undir Eyjafjöllum og á Reykjanesbraut",
-  "sum": "Allhvöss sunnanátt verður undir Eyjafjöllum í nótt og á morgun með hviðum um 30 m/s, að því er segir í ábendingum frá veðurfræðingi Vegagerðarinnar. Þar segir að einnig megi búast við hviðum um 25 m/s þvert á veg á Reykjanesbraut á morgun, ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-06T12:44:10.299039+00:00",
-  "id": 4
- },
  "424a91fb4187bf43": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -7511,27 +7490,6 @@
   "tsort": "",
   "first_seen": "2026-07-06T12:44:10.299039+00:00",
   "id": 5
- },
- "6100f7f4dd49f786": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Akureyri.net – fréttir",
-  "date": "2026-07-06",
-  "url": "https://www.akureyri.net/is/frettir/sjalfsafgreidsluposar-vid-vadlaheidargong",
-  "title": "Sjálfsafgreiðsluposar við Vaðlaheiðargöng",
-  "sum": "Sjálfsafgreiðsluposar við Vaðlaheiðargöng",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-06T12:44:10.299039+00:00",
-  "id": 6
  },
  "517eade97728b886": {
   "region": "Suðurnes",
@@ -7742,27 +7700,6 @@
   "tsort": "",
   "first_seen": "2026-07-07T11:46:26.206064+00:00",
   "id": 9
- },
- "81f4a2de796ee834": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-07-07",
-  "url": "https://www.visir.is/g/20262906736d/heilsufarsskodanir-skuli-framkvaemdar-ad-lagmarki-fjorum-sinnum",
-  "title": "Heilsu­fars­skoðanir skuli fram­kvæmdar að lág­marki fjórum sinnum",
-  "sum": "Alma D. Möller heilbrigðisráðherra hefur staðfest nýja reglugerð um skólaheilsugæslu grunnskólabarna. Með henni er í fyrsta sinn mörkuð heildstæð umgjörð um skipulag og framkvæmd skólaheilsugæslu á landsvísu. Reglugerðin tekur gildi 1. janú",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-08T08:27:40.887690+00:00",
-  "id": 4
  },
  "b78c56cfecae2501": {
   "region": "Höfuðborgarsvæðið",
