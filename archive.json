@@ -826,27 +826,6 @@
   "first_seen": "2026-05-29T16:56:12.934208+00:00",
   "id": 8
  },
- "df5435f4f96cb9ae": {
-  "region": "Landið allt",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-05-29",
-  "url": "https://www.mbl.is/vidskipti/frettir/2026/05/29/segja_gagnaver_og_einkaneyslu_skyra_hagvoxt/",
-  "title": "Segja gagnaver og einkaneyslu skýra hagvöxt",
-  "sum": "Landsframleiðsla jókst um 2,7% á milli ára að raunvirði á fyrsta fjórðungi ársins, samkvæmt fyrsta mati Hagstofunnar.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-30T07:17:35.906308+00:00",
-  "id": 3
- },
  "edc6ef5ace5dc639": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -4066,27 +4045,6 @@
   "first_seen": "2026-06-16T18:05:59.861855+00:00",
   "id": 1
  },
- "89662877cb5eee74": {
-  "region": "Landið allt",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-16",
-  "url": "https://www.visir.is/g/20262898453d/raungengid-afram-i-haestu-haedum-nema-thad-komi-til-afoll-i-utflutningsgreinum",
-  "title": "Raun­gengið á­fram í hæstu hæðum nema það komi til á­föll í út­flutnings­greinum",
-  "sum": "Afar hátt afurðaverð í sjávarútvegi og verðhækkanir á áli samhliða því að vægi gagnaveranna í útflutningstekjum þjóðarbúsins fer vaxandi mun sennilega valda því að hliðra raungenginu til lengri tíma, að sögn greinenda Acro, en starfsemi gag",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-16T18:05:59.861855+00:00",
-  "id": 2
- },
  "557417dc4ea27cb7": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -4841,27 +4799,6 @@
   "end": "",
   "tsort": "",
   "first_seen": "2026-06-20T11:16:14.069189+00:00",
-  "id": 1
- },
- "1c7ea5a208038b64": {
-  "region": "Landið allt",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-06-20",
-  "url": "https://www.mbl.is/vidskipti/frettir/2026/06/20/island_fai_gervigreindargagnaver/",
-  "title": "Ísland fái gervigreindargagnaver",
-  "sum": "Tveir háttsettir stjórnendur á sviði gagnaversinnviðaverkefna örgjörvarisans NVIDIA, Marc Hamilton og Raj Mirpuri, heimsóttu íslenska gagnaversfyrirtækið Borealis Data Center í vikunni og funduðu einnig með forsætisráðuneytinu og öðrum ráða",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-20T15:03:53.176177+00:00",
   "id": 1
  },
  "47619ddf33596457": {
@@ -6672,27 +6609,6 @@
   "first_seen": "2026-07-02T11:06:05.579890+00:00",
   "id": 1
  },
- "afc34bd2a49737d3": {
-  "region": "Landið allt",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-07-02",
-  "url": "https://www.ruv.is/frettir/innlent/2026-07-02-mikilvaegt-ad-efla-stafraent-sjalfstaedi-islands-og-oryggi-479465/",
-  "title": "Mikilvægt að efla stafrænt sjálfstæði Íslands og öryggi",
-  "sum": "Björn Brynjúlfsson er forstjóri Borealis Data Center sem er íslenskt fyrirtæki sem rekur gagnaver, þ.e. stórar tæknimiðstöðvar þar sem tölvubúnaður er hýstur og keyrður fyrir fyrirtæki og stofnanir. Hann er auk þess formaður Samtaka gagnave",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-02T11:06:05.579890+00:00",
-  "id": 2
- },
  "37a9eca513f43fed": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -7280,27 +7196,6 @@
   "tsort": "",
   "first_seen": "2026-07-05T11:02:42.005265+00:00",
   "id": 4
- },
- "6757ce1bd976ebf4": {
-  "region": "Landið allt",
-  "type": "Atvinna",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-07-04",
-  "url": "https://www.ruv.is/frettir/innlent/2026-07-04-framtidin-er-i-thessu-og-vid-thurfum-oll-ad-horfast-i-augu-vid-thad-479995/",
-  "title": "„Framtíðin er í þessu og við þurfum öll að horfast í augu við það“",
-  "sum": "Gagnaverin eru farin að banka upp á hér á landi segir umhverfissérfræðingur. Ódýr orka ásamt aðgengi að köldu loftslagi og vatni skapar kjöraðstæður fyrir slíka starfsemi. Áhugi fyrir því að setja upp gagnaver á Íslandi „Framtíðin er í þess",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-05T11:02:42.005265+00:00",
-  "id": 5
  },
  "9ccc6c41a3405f7b": {
   "region": "Norðurland eystra",
@@ -7974,27 +7869,6 @@
   "first_seen": "2026-07-09T11:55:15.785007+00:00",
   "id": 3
  },
- "97d756704e3b0962": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-07-09",
-  "url": "https://byggingar.is/ovissa-um-leikskolastarf-vegna-thakleka/?utm_source=rss&utm_medium=rss&utm_campaign=ovissa-um-leikskolastarf-vegna-thakleka",
-  "title": "Óvissa um leikskólastarf vegna þakleka",
-  "sum": "Óvissa um leikskólastarf vegna þakleka Skipta þarf um efsta lag þaks leikskólans Reynisholts í Grafarholti eftir að upp komst smávægilegur leki, að sögn Guðna Guðmundssonar, skrifstofustjóra á skrifstofu framkvæmda og fasteignaþjónustu borg",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-09T11:55:15.785007+00:00",
-  "id": 4
- },
  "984084685d422aea": {
   "region": "Suðurland",
   "type": "Innviðir",
@@ -8036,5 +7910,68 @@
   "tsort": "",
   "first_seen": "2026-07-09T11:55:15.785007+00:00",
   "id": 9
+ },
+ "eb2e07de5e20e84f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-08",
+  "url": "https://www.visir.is/g/20262906741d/umferd-eykst-milli-ara",
+  "title": "Um­ferð eykst milli ára",
+  "sum": "Umferð á Hringveginum eykst um eitt prósent milli ára samkvæmt mælingum Vegagerðarinnar á fyrstu sex mánuðum ársins. Telst sú aukning lítil þar sem árleg aukning frá árinu 2022 til 2025 nam 4,8 prósentum.",
+  "tender": "",
+  "start": "2022",
+  "end": "2025",
+  "tsort": "2022-01",
+  "first_seen": "2026-07-09T13:40:51.731595+00:00",
+  "id": 3
+ },
+ "43461d40b34a15fb": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Risa",
+  "scaleFig": "5841 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-09",
+  "url": "https://byggingar.is/ibudum-i-byggingu-faekkar-en-byggingaraformum-fjolgar-a-milli-manada/?utm_source=rss&utm_medium=rss&utm_campaign=ibudum-i-byggingu-faekkar-en-byggingaraformum-fjolgar-a-milli-manada",
+  "title": "Íbúðum í byggingu fækkar en byggingaráformum fjölgar á milli mánaða",
+  "sum": "Íbúðum í byggingu fækkar en byggingaráformum fjölgar á milli mánaða 5.841 íbúð er nú skráð í byggingu samkvæmt mælaborði HMS Um 1.400 nýjar íbúðir hafa orðið fullbúnar það sem af er ári Minni sérbýli eru í byggingu á landsbyggðinni en á höf",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-09T13:40:51.731595+00:00",
+  "id": 1
+ },
+ "6100f7f4dd49f786": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Akureyri.net – fréttir",
+  "date": "2026-07-09",
+  "url": "https://www.akureyri.net/is/frettir/sjalfsafgreidsluposar-vid-vadlaheidargong",
+  "title": "Sjálfsafgreiðsluposar við Vaðlaheiðargöng",
+  "sum": "Sjálfsafgreiðsluposar við Vaðlaheiðargöng",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-09T13:40:51.731595+00:00",
+  "id": 2
  }
 }
