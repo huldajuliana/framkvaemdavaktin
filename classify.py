@@ -27,6 +27,7 @@ _HOUSING_MARKET = [
 _WEAK_TYPES = [
     "einbýli", "fjölbýli", "fjölbýlishús", "raðhús", "hótel",
     "atvinnuhúsnæði", "skrifstofuhúsnæði", "verslunarhúsnæði", "iðnaðarhúsnæði",
+    "gagnaver",
 ]
 
 # Samhengisorð sem staðfesta að um framkvæmd/byggingu sé að ræða. Eitt þeirra
@@ -36,6 +37,7 @@ _CONTEXT = [
     "reisa", "rís", "reist", "útboð", "skipulag", "byggingarlóð", "lóðaúthlut",
     "niðurrif", "nýbygg",
     "fokhelt", "skóflustung", "verktak", "uppbygg", "áform", "fyrirhug", "hófst",
+    "stækk", "áfang",
 ]
 
 # Þekktir mælingaaðilar (skoðanakannanir). Notað til að þekkja "[aðili] framkvæmdi
@@ -105,6 +107,12 @@ def is_relevant(item: dict) -> bool:
     # Hreinsum "false friends": "framkvæmdastjóri"/"framkvæmdastjórn" (starfsheiti)
     # og "framkvæmdavald" (stjórnmál) mega ekki kveikja á lykilorðinu "framkvæmd".
     t_kw = t.replace("framkvæmdastjór", " ").replace("framkvæmdarstjór", " ").replace("framkvæmdavald", " ")
+    # "skrifstofa/svið/deild framkvæmda" og "framkvæmdasvið/-deild/-skrifstofa" eru
+    # STARFSEININGAR (deildarheiti), ekki raunveruleg framkvæmd — mega ekki kveikja á
+    # "framkvæmd" (t.d. "skrifstofustjóri á skrifstofu framkvæmda og fasteignaþjónustu").
+    # Snertir EKKI Framkvæmdasýslu ríkisins (FSRE), framkvæmdaleyfi né "Framkvæmdir við".
+    t_kw = re.sub(r"(skrifstof\w*|svið\w*|deild\w*)\s+framkvæmda\b", " ", t_kw)
+    t_kw = re.sub(r"framkvæmda(svið|deild|skrifstof)\w*", " ", t_kw)
     # "háskólabrú" (aðfaranám, t.d. hjá Keili) er NÁMSLEIÐ, ekki samgöngubrú — má
     # ekki kveikja á lykilorðinu "brú ". Hreinsum áður en lykilorð eru metin.
     t_kw = t_kw.replace("háskólabrú", " ")
@@ -220,31 +228,6 @@ _HARD_NEGATIVES = [
     # "slys" nær banaslys/umferðarslys/bílslys/vinnuslys; "lést"/"fórst"/"lét lífið"
     # ná dauðsföllum. ("andlát" er þegar á listanum hér að ofan.)
     "slys", "lést", "fórst", "lét lífið", "drukkn",
-    # umferðaróhöpp / björgun — t.d. bíll út af brú, brú lokuð vegna skemmda á
-    # brúarhandriði, björgunaraðgerðir. Óhapp/neyð, ekki framkvæmd. (Grípur bæði
-    # eintök tvöfaldrar fréttar og tengdar björgunarfréttir sama atviks.)
-    # "steypubíl" grípur ÖLL afbrigði steypubíls-óhappsins (dreginn upp, tæma lón
-    # o.s.frv.) — og er óhætt: "steypustöð"/"steypuvinna"/"steypubrot" innihalda
-    # ekki "steypubíl" og haldast því inni.
-    "umferðaróhapp", "brúarhandrið", "björgunaraðgerð", "ökumanni bjargað",
-    "steypubíl",
-    # umferðarfréttir — umferðarmagn/-talning og "opnað aftur fyrir umferð" eftir
-    # lokun. Þetta er umferð/ástand vega, EKKI framkvæmd. (Rót: fréttir vitna oft í
-    # "Vegagerðina" sem heimild, sem kveikir á "vegagerð" — við grípum umferðar-
-    # orðin beint í staðinn. Ný vega-/brúaropnun segir "opnaður"/"tekinn í notkun"
-    # og heldur sér; "opin fyrir umferð"/"á nýjan leik" er enduropnun eftir lokun.)
-    "umferð eykst", "umferð jókst", "umferð minnkar", "umferð dregst saman",
-    "umferðartalning", "umferðarþung", "umferðarmagn", "umferðartöl",
-    "opin fyrir umferð", "umferð á nýjan leik",
-    # veðurviðvaranir — "veðurfræðingur Vegagerðarinnar varar við hviðum" kviknar á
-    # "vegagerð" (stofnun sem heimild). Veður, ekki framkvæmd.
-    "veðurfræðing", "hviðum", "hviða", "veðurviðvörun",
-    # heilbrigðis-/skólaheilsugæslu-reglugerð — "framkvæmd skólaheilsugæslu" kviknar á
-    # "skól" (úr "skólaheilsugæslu"/"grunnskólabarna"). Heilbrigðismál, ekki bygging.
-    # (Ekki bert "heilsugæsl" — ný heilsugæslustöð getur verið bygging.)
-    "skólaheilsugæsl", "heilsufarsskoðan",
-    # greiðsluposar við göng — rekstur/greiðslulausn, ekki jarðgangagerð.
-    "sjálfsafgreiðslupos",
     # viðskipti / ráðningar — starfsmanna- og fyrirtækjafréttir ("uppbygging"
     # fyrirtækis/félags er ekki mannvirkjagerð), t.d. "ráðin í starf markaðsstjóra"
     # eða "nýtt endurskoðunar- og ráðgjafarfyrirtæki".
