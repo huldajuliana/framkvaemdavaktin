@@ -7973,5 +7973,26 @@
   "tsort": "",
   "first_seen": "2026-07-09T13:40:51.731595+00:00",
   "id": 2
+ },
+ "c68c2dfd072ce03c": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-09",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-09-ny-bru-yfir-breidholtsbraut-opnud-i-fyrramalid-480945/",
+  "title": "Ný brú yfir Breiðholtsbraut opnuð í fyrramálið",
+  "sum": "Ný brú yfir Breiðholtsbraut milli Jaðarsels í Reykjavík og Vatnsendahvarfs í Kópavogi verður opnuð í fyrramálið. Loka þarf veginum í nótt á meðan unnið er að undirbúningi fyrir færslu umferðar. Í tilkynningu frá Vegagerðinni segir að opnun ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-09T15:56:25.676309+00:00",
+  "id": 1
  }
 }
