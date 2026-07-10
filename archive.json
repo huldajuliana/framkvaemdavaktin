@@ -8099,5 +8099,89 @@
   "tsort": "",
   "first_seen": "2026-07-10T11:49:08.548827+00:00",
   "id": 4
+ },
+ "b3d09e31990e2cd0": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-10",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/10/ny_bru_yfir_breidholtsbraut_tekin_i_notkun/",
+  "title": "Ný brú yfir Breiðholtsbraut tekin í notkun",
+  "sum": "Ný brú yfir Breiðholtsbraut var tekin í notkun í morgun ásamt nýjum umferðarljósum við gatnamót Arnarnesvegar og Breiðholtsbrautar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-10T15:32:53.413065+00:00",
+  "id": 1
+ },
+ "23ad5f6404c96dee": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-10",
+  "url": "https://www.visir.is/g/20262907860d/-vid-skulum-ekki-lata-gripa-okkur-med-buxurnar-a-haelunum-thetta-arid-",
+  "title": "„Við skulum ekki láta grípa okkur með buxurnar á hælunum þetta árið“",
+  "sum": "Á sama tíma og hitabylgju er spáð á austanverðu landinu varar Vegagerðin við miklu hvassviðri á Snæfellsnesi á morgun. Stjórnarmaður Þjónustusamfélagsins á Héraði segir tjaldsvæði fyrir austan vera að fyllast.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-10T15:32:53.413065+00:00",
+  "id": 2
+ },
+ "c8c80866d73833a9": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-10",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-10-vidgerd-i-burfellsvirkjun-a-lokametrunum-orkuskerdingum-aflett-481049/",
+  "title": "Viðgerð í Búrfellsvirkjun á lokametrunum – orkuskerðingum aflétt",
+  "sum": "Viðgerð á spenni í Búrfellsvirkjun sem bilaði á miðvikudaginn er á lokametrunum. Vegna bilunar og viðhalds hjá orkuframleiðendum var minna afl til reiðu í kerfinu en ella. Í samningum Landsnets við notendur, meðal annars við Kalkþörungaverk",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-10T15:32:53.413065+00:00",
+  "id": 3
+ },
+ "d2df15f53d9cbdc1": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-10",
+  "url": "https://byggingar.is/landsnet-bydur-ut-fyrstu-framkvaemdir-vegna-isallina-3-og-4/?utm_source=rss&utm_medium=rss&utm_campaign=landsnet-bydur-ut-fyrstu-framkvaemdir-vegna-isallina-3-og-4",
+  "title": "17.08.2026 Landsnet býður út fyrstu framkvæmdir vegna Ísallína 3 og 4",
+  "sum": "Landsnet býður út fyrstu framkvæmdir vegna Ísallína 3 og 4 Landsnet hefur auglýst útboðið IS3&4-01 – Slóðagerð, jarðvinna og undirstöður, sem er fyrsti áfangi við uppbyggingu tveggja nýrra háspennulína í Hafnarfirði. Verkefnið er liður í st",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-10T15:32:53.413065+00:00",
+  "id": 4
  }
 }
