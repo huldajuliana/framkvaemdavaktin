@@ -8183,5 +8183,26 @@
   "tsort": "",
   "first_seen": "2026-07-10T15:32:53.413065+00:00",
   "id": 4
+ },
+ "9d6d2c6a0562a394": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-10",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-10-vid-hofum-ahyggjur-en-vid-erum-ekki-ad-panikka-481078/",
+  "title": "„Við höfum áhyggjur en við erum ekki að panikka“",
+  "sum": "Formaður Samtaka arkitektastofa, Samark, segir svo virðast sem verkefnum arkitekta fari fækkandi og lítið sé að gera í íbúðaruppbyggingu þrátt fyrir eftirspurn eftir húsnæði. „Við höfum áhyggjur en við erum ekki að panikka.“ Þetta segir Hal",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-11T10:12:30.478339+00:00",
+  "id": 1
  }
 }
