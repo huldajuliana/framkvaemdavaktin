@@ -8204,5 +8204,110 @@
   "tsort": "",
   "first_seen": "2026-07-11T10:12:30.478339+00:00",
   "id": 1
+ },
+ "91856b140d5b50e7": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-11",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/11/sundlaugagardur_i_laugardalnum/",
+  "title": "Sundlaugagarður í Laugardalnum",
+  "sum": "Björn Leifsson, stofnandi og einn eigenda World Class, segir fyrirhugað niðurrif á hluta áhorfendastúkunnar við Laugardalslaug skapa tækifæri til að endurskipuleggja umhverfi laugarinnar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-11T14:22:30.195679+00:00",
+  "id": 1
+ },
+ "316e5aad9aaae812": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-11",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/11/bruin_yfir_breidholtsbraut_opnud/",
+  "title": "Brúin yfir Breiðholtsbraut opnuð",
+  "sum": "Opnað var fyrir umferð í gærmorgun á nýrri brú yfir Breiðholtsbraut, auk þess sem ný umferðarljós við gatnamót Arnarnesvegar og Breiðholtsbrautar voru tekin í notkun.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-11T14:22:30.195679+00:00",
+  "id": 2
+ },
+ "cfd61af292ca3f2e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-11",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-11-liklega-of-odyrt-ad-kaera-481126/",
+  "title": "Líklega of ódýrt að kæra",
+  "sum": "Kærur vegna útboða hafa tafið byggingu þjóðarhallar og nýs Landspítala um hálft ár hið minnsta. Fjármálaráðherra hyggst leggja fram frumvarp í haust sem tekur meðal annars á kærum vegna opinberra framkvæmda. Fjöldi kæra sami og í Danmörku „",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-11T14:22:30.195679+00:00",
+  "id": 3
+ },
+ "656603d78f555453": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-11",
+  "url": "https://byggingar.is/190-tonna-spennir-kominn-i-vadolduver/?utm_source=rss&utm_medium=rss&utm_campaign=190-tonna-spennir-kominn-i-vadolduver",
+  "title": "190 tonna spennir kominn í Vaðölduver",
+  "sum": "190 tonna spennir kominn í Vaðölduver Spennir fyrir safnstöð Vaðölduvers er kominn á framkvæmdasvæðið eftir sjóflutning frá Portúgal til Íslands og landflutning frá Þorlákshöfn. Viðamiklir þungaflutningar Spennir fyrir safnstöð Vaðölduvers ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-11T14:22:30.195679+00:00",
+  "id": 4
+ },
+ "0fcd570f19a215b8": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-11",
+  "url": "https://byggingar.is/hafnarfjardarbaer-audveldar-uppbyggingu-i-baenum/?utm_source=rss&utm_medium=rss&utm_campaign=hafnarfjardarbaer-audveldar-uppbyggingu-i-baenum",
+  "title": "Hafnarfjarðarbær auðveldar uppbyggingu í bænum",
+  "sum": "Hafnarfjarðarbær auðveldar uppbyggingu í bænum Hafnarfjarðarbær hefur stigið skref til að efla uppbyggingu íbúðar- og atvinnuhúsnæðis. Bæjarstjóri segir forsendur skapaðar til að sjá fleiri verk í framkvæmd. Uppbygging í Hafnarfirði Hafnarf",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-11T14:22:30.195679+00:00",
+  "id": 5
  }
 }
