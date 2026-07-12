@@ -8309,5 +8309,89 @@
   "tsort": "",
   "first_seen": "2026-07-11T14:22:30.195679+00:00",
   "id": 5
+ },
+ "4a566406fe650f1d": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-11",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/11/sodid_braud_med_hangikjoti_vinsaelt/",
+  "title": "Soðið brauð með hangikjöti vinsælt",
+  "sum": "Óviðjafnanlegt útsýni er yfir Eyjafjörðinn úr nýjum veitingaskála við Fjöruböðin á Hauganesi. Það segir Jóhann Guðni Reynisson, einn eigenda þeirra, í samtali við Morgunblaðið. Kaffihúsið er nýjasta viðbót starfseminnar og hóteláform eru í ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-12T10:24:57.693624+00:00",
+  "id": 1
+ },
+ "6fbc9b852880b272": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-11",
+  "url": "https://www.visir.is/g/20262908275d/breidholtsbru-opin-fyrir-umferd",
+  "title": "Breiðholtsbrú opin fyrir um­ferð",
+  "sum": "Brú yfir Breiðholtsbraut var opnuð í gærmorgun. Ökumenn eru beðnir um að aka með gát þar sem framkvæmdir á svæðinu standi enn yfir.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-12T10:24:57.693624+00:00",
+  "id": 2
+ },
+ "d7eb0cbab9f5fd55": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-11",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-11-stor-afangi-i-storu-verki-481135/",
+  "title": "„Stór áfangi í stóru verki“",
+  "sum": "Opnað var fyrir bílaumferð yfir nýju brúna yfir Breiðholtsbraut snemma í gærmorgun. Tafir geta orðið á umferð næstu vikur þar sem framkvæmdir standa enn. Brúin liggur yfir Breiðholtsbraut milli Jaðarsels í Reykjavík og Vatnsendahvarfs í Kóp",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-12T10:24:57.693624+00:00",
+  "id": 3
+ },
+ "7a81118278134d3e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-11",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-11-sennilega-of-odyrt-ad-kaera-481126/",
+  "title": "Sennilega of ódýrt að kæra",
+  "sum": "Kærur vegna útboða hafa tafið byggingu þjóðarhallar og nýs Landspítala um hálft ár hið minnsta. Fjármálaráðherra hyggst leggja fram frumvarp í haust sem tekur meðal annars á kærum vegna opinberra framkvæmda. Fjármálaráðherra segir óviðunand",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-12T10:24:57.693624+00:00",
+  "id": 4
  }
 }
