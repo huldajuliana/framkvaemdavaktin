@@ -8393,5 +8393,68 @@
   "tsort": "",
   "first_seen": "2026-07-12T10:24:57.693624+00:00",
   "id": 4
+ },
+ "b58a1c34acf48d63": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-12",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/12/varad_vid_sterkum_hvidum_og_sandfoki/",
+  "title": "Varað við sterkum hviðum og sandfoki",
+  "sum": "Búast má við að það hvessi um norðvestanvert landið og norðanlands og spáð er staðbundum hviðum allt að 30 m/s frá norðanverðu Snæfellsnesi og vestur og norður um Þingeyjasýslu að því fram kemur í ábendingum veðurfræðings Vegagerðarinnar ti",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-12T14:26:33.077791+00:00",
+  "id": 1
+ },
+ "9ac4e19e62c774b5": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-12",
+  "url": "https://www.visir.is/g/20262908439d/atvinnulausum-verkamonnum-fjolgar-um-fjorutiu-prosent",
+  "title": "At­vinnu­lausum verka­mönnum fjölgar um fjöru­tíu pró­sent",
+  "sum": "Atvinnulausum í byggingariðnaði og mannvirkjagerð fjölgar um tæp fjörutíu prósent milli ára. Aðalhagfræðingur Samtaka iðnaðarins segir þetta mikið áhyggjuefni og að áform ríkisstjórnarinnar geri illt verra.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-12T14:26:33.077791+00:00",
+  "id": 2
+ },
+ "663394d582e3e891": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-12",
+  "url": "https://www.visir.is/g/20262908416d/atvinnulausum-i-byggingaridnadi-fjolgar-gridarlega",
+  "title": "At­vinnu­lausum í byggingar­iðnaði fjölgar gríðar­lega",
+  "sum": "Atvinnulausum í byggingariðnaði og mannvirkjagerð fjölgar um 37 prósent milli ára. Aðalhagfræðingur Samtaka iðnaðarins segir þetta mikið áhyggjuefni og að áform ríkisstjórnarinnar geri illt verra.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-12T14:26:33.077791+00:00",
+  "id": 3
  }
 }
