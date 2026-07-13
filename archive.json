@@ -1141,27 +1141,6 @@
   "first_seen": "2026-05-31T14:46:28.662217+00:00",
   "id": 1
  },
- "bb39d1d8bdf38449": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-05-31",
-  "url": "https://www.visir.is/g/20262891028d/leigufelog-gaetu-gleypt-husnaedismarkadinn",
-  "title": "Leigufélög gætu gleypt húsnæðismarkaðinn",
-  "sum": "Leigufélög gætu gleypt húsnæðismarkaðinn á Íslandi verði ekkert gert til að laga ástandið á markaði að sögn fasteignasala. Hlutfall íbúða í eigu einstaklinga lækkar hratt.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-05-31T14:46:28.662217+00:00",
-  "id": 2
- },
  "84a12e37820fd0b1": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -2004,27 +1983,6 @@
   "first_seen": "2026-06-04T10:29:37.845742+00:00",
   "id": 1
  },
- "3eb1cf8dacc93753": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-04",
-  "url": "https://www.visir.is/g/20262892966d/vaeri-frabaert-ef-landspitalinn-vildi-reka-leikskola",
-  "title": "Væri frá­bært ef Land­spítalinn vildi reka leik­skóla",
-  "sum": "Hildur Björnsdóttir, nýr borgarstjóri, vill vera borgarstjóri allra Reykvíkinga og að allir fái að blómstra í borginni. Hún setur samgöngu- og leikskólamál á oddinn og segir nauðsynlegt að minnka kvaðir á húsnæðisuppbyggingaraðila. Nýr meir",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-04T10:29:37.845742+00:00",
-  "id": 2
- },
  "8d5c526f9ef36501": {
   "region": "Höfuðborgarsvæðið",
   "type": "Íbúðir",
@@ -2823,27 +2781,6 @@
   "tsort": "",
   "first_seen": "2026-06-10T16:36:02.595422+00:00",
   "id": 2
- },
- "f83c15374c8e4a8b": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-10",
-  "url": "https://www.visir.is/g/20262895722d/radinn-stadarverkfraedingur-nys-landspitala-a-akureyri",
-  "title": "Ráðinn staðar­verk­fræðingur Nýs Land­spítala á Akur­eyri",
-  "sum": "Gunnar Líndal Sigurðsson hefur verið ráðinn sem staðarverkfræðingur hjá Nýjum Landspítala ohf. (NLSH) vegna uppbyggingar félagsins á nýrri byggingu við Sjúkrahús Akureyrar (SAk).",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-10T16:36:02.595422+00:00",
-  "id": 3
  },
  "63c61f525a86183c": {
   "region": "Höfuðborgarsvæðið",
@@ -4674,27 +4611,6 @@
   "tsort": "",
   "first_seen": "2026-06-19T12:44:26.446509+00:00",
   "id": 6
- },
- "e3e600e46fd8f1ba": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Hafnar",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-06-18",
-  "url": "https://byggingar.is/skoflustunga-nyrrar-legudeildar-vid-sjukrahusid-a-akureyri/?utm_source=rss&utm_medium=rss&utm_campaign=skoflustunga-nyrrar-legudeildar-vid-sjukrahusid-a-akureyri",
-  "title": "Skóflustunga nýrrar legudeildar við Sjúkrahúsið á Akureyri",
-  "sum": "Skóflustunga nýrrar legudeildar við Sjúkrahúsið á Akureyri Alma Möller heilbrigðisráðherra, Guðmundur Viðar Gunnarsson og Hjalti Steinþórsson frá GV- Gröfum undirrituðu í dag verksamning við Nýjan Landspítala ohf. um jarðvinnu vegna bygging",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-19T12:44:26.446509+00:00",
-  "id": 11
  },
  "575108ddef0e1a20": {
   "region": "Suðurland",
@@ -7911,27 +7827,6 @@
   "first_seen": "2026-07-09T11:55:15.785007+00:00",
   "id": 9
  },
- "eb2e07de5e20e84f": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-07-08",
-  "url": "https://www.visir.is/g/20262906741d/umferd-eykst-milli-ara",
-  "title": "Um­ferð eykst milli ára",
-  "sum": "Umferð á Hringveginum eykst um eitt prósent milli ára samkvæmt mælingum Vegagerðarinnar á fyrstu sex mánuðum ársins. Telst sú aukning lítil þar sem árleg aukning frá árinu 2022 til 2025 nam 4,8 prósentum.",
-  "tender": "",
-  "start": "2022",
-  "end": "2025",
-  "tsort": "2022-01",
-  "first_seen": "2026-07-09T13:40:51.731595+00:00",
-  "id": 3
- },
  "43461d40b34a15fb": {
   "region": "Landið allt",
   "type": "Íbúðir",
@@ -7952,27 +7847,6 @@
   "tsort": "",
   "first_seen": "2026-07-09T13:40:51.731595+00:00",
   "id": 1
- },
- "6100f7f4dd49f786": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Akureyri.net – fréttir",
-  "date": "2026-07-09",
-  "url": "https://www.akureyri.net/is/frettir/sjalfsafgreidsluposar-vid-vadlaheidargong",
-  "title": "Sjálfsafgreiðsluposar við Vaðlaheiðargöng",
-  "sum": "Sjálfsafgreiðsluposar við Vaðlaheiðargöng",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-09T13:40:51.731595+00:00",
-  "id": 2
  },
  "c68c2dfd072ce03c": {
   "region": "Höfuðborgarsvæðið",
@@ -8015,48 +7889,6 @@
   "tsort": "",
   "first_seen": "2026-07-10T11:49:08.548827+00:00",
   "id": 1
- },
- "301aba9eb64b496e": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Vegagerðin (verkkaupi)"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-07-10",
-  "url": "https://www.visir.is/g/20262907784d/vegagerdin-varar-vid-vindi",
-  "title": "Vega­gerðin varar við vindi",
-  "sum": "Veðurfræðingur Vegagerðarinnar varar hvössum og byljóttum vindi frá því seint í kvöld og fram á miðjan dag á morgun á landinu norðvestanverðu.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-10T11:49:08.548827+00:00",
-  "id": 2
- },
- "682291d60f801775": {
-  "region": "Vesturland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-07-10",
-  "url": "https://www.ruv.is/frettir/innlent/2026-07-10-hvidur-ad-35-ms-a-nordvesturlandi-481036/",
-  "title": "Hviður að 35 m/s á Norðvesturlandi",
-  "sum": "Veðurfræðingur Vegagerðarinnar varar við hvössum og byljóttum vindi á landinu norðvestanverðu frá því seint í kvöld og fram yfir miðjan dag á morgun. Hviður geta farið í 30-35 m/s á norðanverðu Snæfellsnesi, á Vestfjörðum, Ströndum og Norðu",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-10T11:49:08.548827+00:00",
-  "id": 3
  },
  "949014d52c238e6e": {
   "region": "Landið allt",
@@ -8331,27 +8163,6 @@
   "first_seen": "2026-07-12T10:24:57.693624+00:00",
   "id": 1
  },
- "6fbc9b852880b272": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-07-11",
-  "url": "https://www.visir.is/g/20262908275d/breidholtsbru-opin-fyrir-umferd",
-  "title": "Breiðholtsbrú opin fyrir um­ferð",
-  "sum": "Brú yfir Breiðholtsbraut var opnuð í gærmorgun. Ökumenn eru beðnir um að aka með gát þar sem framkvæmdir á svæðinu standi enn yfir.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-12T10:24:57.693624+00:00",
-  "id": 2
- },
  "d7eb0cbab9f5fd55": {
   "region": "Höfuðborgarsvæðið",
   "type": "Innviðir",
@@ -8373,48 +8184,6 @@
   "first_seen": "2026-07-12T10:24:57.693624+00:00",
   "id": 3
  },
- "7a81118278134d3e": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Útboð",
-  "src": "RÚV – fréttir",
-  "date": "2026-07-11",
-  "url": "https://www.ruv.is/frettir/innlent/2026-07-11-sennilega-of-odyrt-ad-kaera-481126/",
-  "title": "Sennilega of ódýrt að kæra",
-  "sum": "Kærur vegna útboða hafa tafið byggingu þjóðarhallar og nýs Landspítala um hálft ár hið minnsta. Fjármálaráðherra hyggst leggja fram frumvarp í haust sem tekur meðal annars á kærum vegna opinberra framkvæmda. Fjármálaráðherra segir óviðunand",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-12T10:24:57.693624+00:00",
-  "id": 4
- },
- "b58a1c34acf48d63": {
-  "region": "Vesturland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-07-12",
-  "url": "https://www.mbl.is/frettir/innlent/2026/07/12/varad_vid_sterkum_hvidum_og_sandfoki/",
-  "title": "Varað við sterkum hviðum og sandfoki",
-  "sum": "Búast má við að það hvessi um norðvestanvert landið og norðanlands og spáð er staðbundum hviðum allt að 30 m/s frá norðanverðu Snæfellsnesi og vestur og norður um Þingeyjasýslu að því fram kemur í ábendingum veðurfræðings Vegagerðarinnar ti",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-12T14:26:33.077791+00:00",
-  "id": 1
- },
  "9ac4e19e62c774b5": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -8435,27 +8204,6 @@
   "tsort": "",
   "first_seen": "2026-07-12T14:26:33.077791+00:00",
   "id": 2
- },
- "663394d582e3e891": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-07-12",
-  "url": "https://www.visir.is/g/20262908416d/atvinnulausum-i-byggingaridnadi-fjolgar-gridarlega",
-  "title": "At­vinnu­lausum í byggingar­iðnaði fjölgar gríðar­lega",
-  "sum": "Atvinnulausum í byggingariðnaði og mannvirkjagerð fjölgar um 37 prósent milli ára. Aðalhagfræðingur Samtaka iðnaðarins segir þetta mikið áhyggjuefni og að áform ríkisstjórnarinnar geri illt verra.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-12T14:26:33.077791+00:00",
-  "id": 3
  },
  "df099142036752a9": {
   "region": "Landið allt",
@@ -8498,27 +8246,6 @@
   "tsort": "",
   "first_seen": "2026-07-13T11:58:44.499404+00:00",
   "id": 1
- },
- "8a7b6bd8db80295b": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Vegagerðin (verkkaupi)"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-07-12",
-  "url": "https://www.visir.is/g/20262908498d/buid-ad-opna-holtavorduheidi-aftur",
-  "title": "Búið að opna Holta­vörðu­heiði aftur",
-  "sum": "Umferð um Holtavörðuheiði er farin að flæða á ný eftir að henni var lokað vegna umferðaróhapps. Löng bílaröð myndaðist á heiðinni. Vegagerðin benti ökumönnum á hjáleið um Bröttubrekku og Laxárdalsheiði.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-13T11:58:44.499404+00:00",
-  "id": 5
  },
  "5fcac573643c59bd": {
   "region": "Suðurnes",
@@ -8624,6 +8351,48 @@
   "end": "",
   "tsort": "",
   "first_seen": "2026-07-13T15:43:05.725315+00:00",
+  "id": 2
+ },
+ "400b8cc58a67ce39": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Risa",
+  "scaleFig": "450 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-13",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-13-framkvaemdir-ad-hefjast-vid-hverfi-a-obyggdri-umferdareyju-481274/",
+  "title": "Framkvæmdir að hefjast við hverfi á óbyggðri umferðareyju",
+  "sum": "Garðabær hefur óskað eftir tilboðum í eftirlitsverk á Arnarneshálsi vegna fyrirhugaðra framkvæmda. Í tilkynningu á Útboðsvefnum segir að verkið feli í sér gatna- og stígagerð auk lagnavinnu vegna uppbyggingar í nýju hverfi. Til stendur að b",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-13T19:06:49.884582+00:00",
+  "id": 1
+ },
+ "5f86f62c5c65e382": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-13",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-13-byggja-upp-ferdathjonustu-i-flugturni-480959/",
+  "title": "Byggja upp ferðaþjónustu í flugturni",
+  "sum": "Mikil uppbygging er fyrirhuguð á flugvellinum á Siglufirði. Viking Heliskiing keypti flugturn, þjónustuhús og tækjahús af bænum á 12 milljónir króna. Lengi hefur staðið til að nýta flugvöllinn á Siglufirði betur. Haldin var hugmyndasamkeppn",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-13T19:06:49.884582+00:00",
   "id": 2
  }
 }
