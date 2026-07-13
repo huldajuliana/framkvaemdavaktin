@@ -61,7 +61,10 @@ _BUILD_CTX = [
     "stækk", "viðbygg", "endurbygg", "endurbæt", "endurnýj", "jarðvinn", "áfang",
     "gröft", "grafa", "steyp", "múr", "lóðaúthlut", "byggingarlóð",
     # mannvirki / innviðir (nafnorð)
-    "spítal", "skól", "sundlaug", "innilaug", "gangstétt", "stíg", "götu", "gatna",
+    # ATH: ekki bert "skól" — það grípur "skólahald"/"skólaúrræði"/"grunnskólabarna"
+    # (skólastarf, ekki bygging). Notum þrengri skólabyggingar-orð.
+    "spítal", "skólabygg", "skólahúsnæði", "leikskólabygg", "skólalóð",
+    "skólamannvirki", "sundlaug", "innilaug", "gangstétt", "stíg", "götu", "gatna",
     "hringveg", "þjóðveg", "vegar", "vegur", "veginn", "veginum", "vegamót",
     "gatnamót", "borgarlín", "brú", "jarðgöng", "höfn", "stálþil", "virkjun",
     "borhol", "streng", "lögn", "lagni", "veitu", "mannvirki", "torg", "hverfi",
@@ -152,8 +155,18 @@ def is_relevant(item: dict) -> bool:
             return True
     # Veik lykilorð (húsgerðir) hleypa frétt aðeins inn EF framkvæmda-samhengi fylgir
     # — annars er t.d. brunafrétt um "einbýlishús" ekki framkvæmdafrétt.
-    if any(w in t_kw for w in _WEAK_TYPES) and any(c in t_kw for c in _CONTEXT):
-        return True
+    # Fjarlægjum veiku orðin (og samsetningar þeirra) ÁÐUR en samhengi er athugað,
+    # svo orð uppfylli ekki sitt eigið skilyrði — t.d. "hóteláform" inniheldur bæði
+    # "hótel" (veikt) og "áform" (samhengi). Alvöru hóteláform hafa annað samhengi
+    # (bygging/reisa/útboð/deiliskipulag) og haldast því inni. Sama vandamál og
+    # "uppbygging" sem innihélt "bygging".
+    _weak_found = [w for w in _WEAK_TYPES if w in t_kw]
+    if _weak_found:
+        t_weak = t_kw
+        for w in _weak_found:
+            t_weak = re.sub(re.escape(w) + r"\w*", " ", t_weak)
+        if any(c in t_weak for c in _CONTEXT):
+            return True
     return False
 
 
