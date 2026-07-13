@@ -8582,5 +8582,48 @@
   "tsort": "",
   "first_seen": "2026-07-13T11:58:44.499404+00:00",
   "id": 3
+ },
+ "b48a0655e858eafb": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "ÞG verk",
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-13",
+  "url": "https://byggingar.is/stalvirki-olfusarbruar-tekur-a-sig-mynd-myndband/?utm_source=rss&utm_medium=rss&utm_campaign=stalvirki-olfusarbruar-tekur-a-sig-mynd-myndband",
+  "title": "Stál­virki Ölfusár­brúar tekur á sig mynd – mynd­band",
+  "sum": "Stál­virki Ölfusár­brúar tekur á sig mynd – mynd­band Framkvæmdir við nýja brú yfir Ölfusá ganga vel en í lok júní var verktaki um það bil hálfnaður með uppsetningu á bitum í brúna. Í nýju myndbandi er rætt við Hjört Frey Jóhannsson, verkef",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-13T15:43:05.725315+00:00",
+  "id": 1
+ },
+ "caa0b856df7666b3": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "19.000 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-13",
+  "url": "https://byggingar.is/10-09-2026-nyr-landspitali-ohf-rannsoknahus-innanhussfragangur/?utm_source=rss&utm_medium=rss&utm_campaign=10-09-2026-nyr-landspitali-ohf-rannsoknahus-innanhussfragangur",
+  "title": "10.09.2026 Nýr Landspítali ohf. Rannsóknahús – Innanhússfrágangur",
+  "sum": "Nýr Landspítali ohf. Rannsóknahús – Innanhússfrágangur Nýr Landspítali ohf. hefur auglýst útboð I2063 – Rannsóknahús – Innanhússfrágangur, sem er eitt stærsta útboð ársins á sviði innanhússfrágangs og tæknilagna. Tilboðum skal skila í gegnu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-13T15:43:05.725315+00:00",
+  "id": 2
  }
 }
