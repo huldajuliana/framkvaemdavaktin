@@ -8456,5 +8456,131 @@
   "tsort": "",
   "first_seen": "2026-07-12T14:26:33.077791+00:00",
   "id": 3
+ },
+ "df099142036752a9": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-07-12",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/07/12/staekka_hotel_nordur_a_strondum/",
+  "title": "Stækka hótel norður á Ströndum",
+  "sum": "Stækkun um átta herbergi var á dögunum tekin í notkun á gistiheimilinu Urðartindi í Norðurfirði á Ströndum. Þar voru fyrir sex gistirými, það er í smáhýsum og í gamalli hlöðu sem breytt hafði verið til nýrra nota.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-13T11:58:44.499404+00:00",
+  "id": 4
+ },
+ "fd83e261c4c0a8da": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-13",
+  "url": "https://www.visir.is/g/20262908708d/hvalfjardarsveit-kallar-eftir-samtali-vid-vegagerdina-um-umferdaroryggi",
+  "title": "Hvalfjarðarsveit kallar eftir sam­tali við Vega­gerðina um um­ferðar­öryggi",
+  "sum": "Samfélagið í Hvalfjarðarsveit hefur á undanförnum árum fundið vel fyrir sívaxandi umferð um þjóðveg 1 og aðliggjandi vegakerfi. Sú þróun kallar eðlilega á að innviðir og umferðaröryggi þróist í takt við breyttar aðstæður.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-13T11:58:44.499404+00:00",
+  "id": 1
+ },
+ "8a7b6bd8db80295b": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-12",
+  "url": "https://www.visir.is/g/20262908498d/buid-ad-opna-holtavorduheidi-aftur",
+  "title": "Búið að opna Holta­vörðu­heiði aftur",
+  "sum": "Umferð um Holtavörðuheiði er farin að flæða á ný eftir að henni var lokað vegna umferðaróhapps. Löng bílaröð myndaðist á heiðinni. Vegagerðin benti ökumönnum á hjáleið um Bröttubrekku og Laxárdalsheiði.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-13T11:58:44.499404+00:00",
+  "id": 5
+ },
+ "5fcac573643c59bd": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-12",
+  "url": "https://www.visir.is/g/20262908484d/a-fimmta-tug-barna-vilja-saekja-skola-i-grindavik",
+  "title": "Á fimmta tug barna vilja sækja skóla í Grinda­vík",
+  "sum": "Á fimmta tug barna eru skráð í skóla í Grindavík næsta haust. Formaður bæjarráðsins segir skólahald mikilvægt skref í uppbyggingu bæjarins.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-13T11:58:44.499404+00:00",
+  "id": 6
+ },
+ "50541838979c2c98": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-13",
+  "url": "https://byggingar.is/all-verk-ehf-laegstbjodandi-i-mottokuhus-vid-hrafnatanga-a-isafirdi/?utm_source=rss&utm_medium=rss&utm_campaign=all-verk-ehf-laegstbjodandi-i-mottokuhus-vid-hrafnatanga-a-isafirdi",
+  "title": "All verk ehf. lægstbjóðandi í móttökuhús við Hrafnatanga á Ísafirði",
+  "sum": "All verk ehf. lægstbjóðandi í móttökuhús við Hrafnatanga á Ísafirði Á fundi Hafnarstjórnar Ísafjarðarbæjar þann 8. júlí 2026 var tekin fyrir niðurstaða útboðs vegna byggingar móttökuhúss við Sundabakka á Hrafnatanga. Hafnarstjórn samþykkti ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-13T11:58:44.499404+00:00",
+  "id": 2
+ },
+ "4c26abd7c9311b8a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "ÞG verk"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-13",
+  "url": "https://byggingar.is/utbod-a-gerd-fotboltavallar-vid-korinn-mogulega-ologlegt/?utm_source=rss&utm_medium=rss&utm_campaign=utbod-a-gerd-fotboltavallar-vid-korinn-mogulega-ologlegt",
+  "title": "Útboð á gerð fótboltavallar við Kórinn mögulega ólöglegt",
+  "sum": "Útboð á gerð fótboltavallar við Kórinn mögulega ólöglegt Kærunefnd útboðsmála hefur hafnað kröfu Kópavogsbæjar um að aflétta sjálfkrafa stöðvun samningsgerðar vegna verks við aðalvöll HK í Kórahverfi í Kópavogi. Samningurinn hljóðar upp á t",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-13T11:58:44.499404+00:00",
+  "id": 3
  }
 }
