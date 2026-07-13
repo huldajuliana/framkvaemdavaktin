@@ -228,6 +228,28 @@ _HARD_NEGATIVES = [
     # "slys" nær banaslys/umferðarslys/bílslys/vinnuslys; "lést"/"fórst"/"lét lífið"
     # ná dauðsföllum. ("andlát" er þegar á listanum hér að ofan.)
     "slys", "lést", "fórst", "lét lífið", "drukkn",
+    # umferðaróhöpp / björgun — t.d. bíll út af brú, brú lokuð vegna skemmda á
+    # brúarhandriði, björgunaraðgerðir. Óhapp/neyð, ekki framkvæmd. "steypubíl"
+    # grípur ÖLL afbrigði steypubíls-óhappsins (dreginn upp, tæma lón o.s.frv.) og
+    # er óhætt: "steypustöð"/"steypuvinna"/"steypubrot" haldast inni.
+    "umferðaróhapp", "brúarhandrið", "björgunaraðgerð", "ökumanni bjargað",
+    "steypubíl",
+    # umferðarfréttir — umferðarmagn/-talning og "opnað aftur fyrir umferð" eftir
+    # lokun. Umferð/ástand vega, EKKI framkvæmd. (Rót: fréttir vitna í "Vegagerðina"
+    # sem heimild, sem kveikir á "vegagerð".) Ný vega-/brúaropnun segir "opnaður"/
+    # "tekinn í notkun" og heldur sér.
+    "umferð eykst", "umferð jókst", "umferð minnkar", "umferð dregst saman",
+    "umferðartalning", "umferðarþung", "umferðarmagn", "umferðartöl",
+    "opin fyrir umferð", "umferð á nýjan leik",
+    # veðurviðvaranir — "veðurfræðingur Vegagerðarinnar varar við hviðum/sandfoki".
+    # Veður, ekki framkvæmd.
+    "veðurfræðing", "hviðum", "hviða", "veðurviðvörun", "sandfok", "varar við vindi",
+    # heilbrigðis-/skólaheilsugæslu-reglugerð — "framkvæmd skólaheilsugæslu" kviknar
+    # á "skól" (úr "skólaheilsugæslu"/"grunnskólabarna"). (Ekki bert "heilsugæsl" —
+    # ný heilsugæslustöð getur verið bygging.)
+    "skólaheilsugæsl", "heilsufarsskoðan",
+    # greiðsluposar við göng — rekstur/greiðslulausn, ekki jarðgangagerð.
+    "sjálfsafgreiðslupos",
     # viðskipti / ráðningar — starfsmanna- og fyrirtækjafréttir ("uppbygging"
     # fyrirtækis/félags er ekki mannvirkjagerð), t.d. "ráðin í starf markaðsstjóra"
     # eða "nýtt endurskoðunar- og ráðgjafarfyrirtæki".
@@ -521,6 +543,22 @@ def _title_tokens(title: str):
 # formúlukenndum titlum ("X býður út Y").
 _DEDUP_TITLE_SIM = 0.72
 
+# Sami atburður frá tveimur miðlum (eða endurbirt grein með NÝRRI fyrirsögn) hefur
+# nær eins útdrátt þótt fyrirsagnir séu ólíkar — t.d. "Atvinnulausum verkamönnum
+# fjölgar um fjörutíu prósent" vs "Atvinnulausum í byggingariðnaði fjölgar
+# gríðarlega". Berum því líka saman ÚTDRÁTT. Þröskuldurinn er hár (0.75) því útboð
+# frá byggingar.is deila stöðluðu orðalagi ("F.h. ... óskað eftir tilboðum í
+# eftirfarandi verk") og mega ALDREI sameinast — mæld líkindi ólíkra útboða eru
+# ~0.61, svo 0.75 gefur öruggt bil.
+_DEDUP_SUM_SIM = 0.75
+
+
+def _summary_tokens(summary: str):
+    """Orðmengi útdráttar til líkindamats (löng orð, án greinarmerkja)."""
+    s = (summary or "").replace("\u00ad", "").lower()
+    s = re.sub(r"[^0-9a-záéíóúýðþæö ]+", " ", s)
+    return frozenset(w for w in s.split() if len(w) > 3)
+
 
 def dedupe_archive(archive: dict) -> dict:
     """Fjarlægir tvítekningar úr safninu: sömu frétt frá fleiri en einum miðli.
@@ -529,7 +567,7 @@ def dedupe_archive(archive: dict) -> dict:
     Heldur þeirri færslu sem sást FYRST (elsta 'first_seen') svo röðun og saga
     haldist stöðug. Ólíkar fréttir með aðeins svipaða titla haldast óbreyttar."""
     seen = {}        # einkenni -> lykill sem haldið er
-    kept = []        # [(tokenset, lykill)] til líkindasamanburðar
+    kept = []        # [(tokenset, sumtokens, lykill)] til líkindasamanburðar
     drop = set()
     # elsta 'first_seen' fyrst -> sú færsla verður haldið, seinni tvítekningum sleppt
     for k, r in sorted(archive.items(), key=lambda kv: kv[1].get("first_seen", "")):
@@ -538,17 +576,24 @@ def dedupe_archive(archive: dict) -> dict:
         if not sig:
             continue
         toks = _title_tokens(title)
+        stoks = _summary_tokens(r.get("sum", "") or r.get("summary", ""))
         is_dup = sig in seen
         if not is_dup and toks:
-            for toks2, _ in kept:
+            for toks2, stoks2, _ in kept:
+                # (a) nær-eins fyrirsögn
                 if toks2 and len(toks & toks2) / len(toks | toks2) >= _DEDUP_TITLE_SIM:
                     is_dup = True
                     break
+                # (b) nær-eins útdráttur (sama frétt, önnur fyrirsögn/miðill)
+                if len(stoks) >= 6 and len(stoks2) >= 6:
+                    if len(stoks & stoks2) / len(stoks | stoks2) >= _DEDUP_SUM_SIM:
+                        is_dup = True
+                        break
         if is_dup:
             drop.add(k)
         else:
             seen[sig] = k
-            kept.append((toks, k))
+            kept.append((toks, stoks, k))
     if not drop:
         return archive
     return {k: r for k, r in archive.items() if k not in drop}
