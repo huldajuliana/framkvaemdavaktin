@@ -8415,5 +8415,47 @@
   "tsort": "",
   "first_seen": "2026-07-14T10:42:59.164158+00:00",
   "id": 5
+ },
+ "fd536514794fc85f": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-14",
+  "url": "https://www.visir.is/g/20262909228d/verda-hofd-med-i-radum-vegna-nidurrifsins-vid-saebraut",
+  "title": "Verða höfð með í ráðum vegna niðurrifsins við Sæ­braut",
+  "sum": "Forstöðumaður Gerðarsafns segist hafa fengið þau svör að forsvarsmenn safnsins verði hafðir með í ráðum vegna niðurrifs iðnaðarbyggingar að Dugguvogi 42 í Reykjavík. Flennistór lágmynd eftir Gerði Helgadóttur prýðir vegg hússins sem snýr að",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-14T14:52:41.337559+00:00",
+  "id": 1
+ },
+ "aa2d687f1bb3c691": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-14",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-14-samkeppni-um-ad-lata-starfsfolk-vinna-sem-hradast-481336/",
+  "title": "Samkeppni um að láta starfsfólk vinna sem hraðast",
+  "sum": "Sólveig Anna Jónsdóttir formaður Eflingar segir stéttarfélagið lengi hafa barist fyrir því að tekið verði á vandamálum sem plagi ræstingageirann. Hún segir stórt framfaraskref stigið með nýjum drögum að viðmiðum fyrir ræstingarútboð ríkisin",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-14T14:52:41.337559+00:00",
+  "id": 2
  }
 }
