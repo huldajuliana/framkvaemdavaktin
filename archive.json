@@ -8289,5 +8289,131 @@
   "tsort": "",
   "first_seen": "2026-07-13T19:06:49.884582+00:00",
   "id": 2
+ },
+ "c79d76b2998b11c3": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-14",
+  "url": "https://www.visir.is/g/20262909071d/sudurland-i-sokn-en-vegagerdin-sker-nidur-landsbyggdarstraeto",
+  "title": "Suður­land í sókn en Vega­gerðin sker niður landsbyggðarstrætó",
+  "sum": "Fyrirhugaðar breytingar og þjónustuskerðingar Vegagerðarinnar á leiðakerfi landsbyggðastrætó, sem taka gildi núna í haust, valda stjórn Samtaka sunnlenskra sveitarfélaga (SASS) og íbúum öllum á Suðurlandi þungum áhyggjum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-14T10:42:59.164158+00:00",
+  "id": 1
+ },
+ "7997c86e63bd3714": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-14",
+  "url": "https://www.visir.is/g/20262909116d/thjodarsjodurinn-okkar-heitir-landsvirkjun.-erum-vid-ad-avaxta-hann-",
+  "title": "Þjóðarsjóðurinn okkar heitir Lands­virkjun. Erum við að á­vaxta hann?",
+  "sum": "Í vikunni tók til starfa nýr starfshópur stjórnvalda um gervigreind — skipaður fólki sem raunverulega þekkir tæknina, undir formennsku reynds frumkvöðuls, með fulltrúa úr alþjóðlegu tækniumhverfi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-14T10:42:59.164158+00:00",
+  "id": 2
+ },
+ "0dca7ca6d63160b3": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Jáverk"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-13",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-13-verktaki-segir-blikur-a-lofti-481293/",
+  "title": "Verktaki segir blikur á lofti",
+  "sum": "Verktaki segir blikur á lofti í byggingariðnaðinum og störfum hafi fækkað. Aftur á móti sé ólíklegt að einhver fari þá leið að skipta faglærðum út fyrir ófaglærða. Verktaki segist ekki hafa heyrt af því að byggingafyrirtæki reki faglærða og",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-14T10:42:59.164158+00:00",
+  "id": 6
+ },
+ "6c71a6965f0291e7": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-14",
+  "url": "https://byggingar.is/smidi-fossvogsbruar-ad-taka-a-sig-mynd/?utm_source=rss&utm_medium=rss&utm_campaign=smidi-fossvogsbruar-ad-taka-a-sig-mynd",
+  "title": "Smíði Fossvogsbrúar að taka á sig mynd",
+  "sum": "Smíði Fossvogsbrúar að taka á sig mynd Framkvæmdir við smíði Öldu, brúar yfir Fossvog, hafa staðið yfir síðan í apríl og þeir sem leið eiga um Fossvoginn sjá glöggt hvernig burðarvirkið rís upp úr hafinu í beinni línu milli Kópavogs og Reyk",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-14T10:42:59.164158+00:00",
+  "id": 3
+ },
+ "12b4e90b336ab81d": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-14",
+  "url": "https://byggingar.is/09-11-2026-nytt-hjukrunarheimili-med-66-rymum-i-mosfellsbae/?utm_source=rss&utm_medium=rss&utm_campaign=09-11-2026-nytt-hjukrunarheimili-med-66-rymum-i-mosfellsbae",
+  "title": "09.11.2026 Nýtt hjúkrunarheimili með 66 rýmum í Mosfellsbæ",
+  "sum": "Nýtt hjúkrunarheimili með 66 rýmum í Mosfellsbæ Framkvæmdasýslan – Ríkiseignir (FSRE) hefur auglýst útboð þar sem óskað er eftir leigutilboðum vegna hönnunar, byggingar og fullnaðarfrágangs nýs hjúkrunarheimilis í Mosfellsbæ. Verkefnið verð",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-14T10:42:59.164158+00:00",
+  "id": 4
+ },
+ "4f4d0dbd851a3831": {
+  "region": "Norðurland vestra",
+  "type": "Íbúðir",
+  "scale": "Lítil",
+  "scaleFig": "8 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-14",
+  "url": "https://byggingar.is/brak-ibudafelag-tekur-ibudir-i-notkun-a-hvammstanga/?utm_source=rss&utm_medium=rss&utm_campaign=brak-ibudafelag-tekur-ibudir-i-notkun-a-hvammstanga",
+  "title": "Brák íbúðafélag tekur íbúðir í notkun á Hvammstanga",
+  "sum": "Brák íbúðafélag tekur íbúðir í notkun á Hvammstanga Brák íbúðafélag hefur tekið í notkun 8 íbúðir að Norðurbraut 15 á Hvammstanga. Íbúðirnar eru byggðar með stofnframlögum frá ríkinu og Húnaþingi vestra. Verkefnið byggir á samkomulagi sveit",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-14T10:42:59.164158+00:00",
+  "id": 5
  }
 }
