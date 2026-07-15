@@ -8457,5 +8457,48 @@
   "tsort": "",
   "first_seen": "2026-07-15T10:46:50.157356+00:00",
   "id": 1
+ },
+ "5114b5f935b5b245": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-15",
+  "url": "https://byggingar.is/utbod-vegna-innanhussfragangs-i-rannsoknahusi-nys-landspitala/?utm_source=rss&utm_medium=rss&utm_campaign=utbod-vegna-innanhussfragangs-i-rannsoknahusi-nys-landspitala",
+  "title": "Útboð vegna innanhússfrágangs í rannsóknahúsi Nýs Landspítala",
+  "sum": "Útboð vegna innanhússfrágangs í rannsóknahúsi Nýs Landspítala NLSH auglýsir útboð vegna innanhússfrágangs í rannsóknahúsinu við Hringbraut. Byggingin er 19 þúsund fermetrar, 5 hæða bygging ásamt kjallara sem er tengd nálægum byggingum með g",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-15T14:51:16.820998+00:00",
+  "id": 1
+ },
+ "e2c83e2a248a3f60": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "5,5 km",
+  "verk": [
+   "Vegagerðin (verkkaupi)",
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-15",
+  "url": "https://byggingar.is/storframkvaemd-a-kjalarnesi-bodin-ut-2-afangi-breikkunar-hringvegar/?utm_source=rss&utm_medium=rss&utm_campaign=storframkvaemd-a-kjalarnesi-bodin-ut-2-afangi-breikkunar-hringvegar",
+  "title": "08.09.2026 Stórframkvæmd á Kjalarnesi boðin út – 2. áfangi breikkunar Hringvegar",
+  "sum": "Stórframkvæmd á Kjalarnesi boðin út – 2. áfangi breikkunar Hringvegar Vegagerðin hefur auglýst útboð á 2. áfanga breikkunar Hringvegar (1) um Kjalarnes, frá Vallá að Hvalfirði. Um er að ræða eitt umfangsmesta samgönguverkefni landsins á næs",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-15T14:51:16.820998+00:00",
+  "id": 2
  }
 }
