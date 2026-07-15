@@ -3160,27 +3160,6 @@
   "first_seen": "2026-06-12T09:20:39.789697+00:00",
   "id": 6
  },
- "15e4aa835b6d9be8": {
-  "region": "Vestfirðir",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Vegagerðin (verkkaupi)"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-12",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-12-kemur-harkalega-nidur-a-ferdathjonustunni-477806/",
-  "title": "Kemur harkalega niður á ferðaþjónustunni",
-  "sum": "Gerður Björk Sveinsdóttir bæjarstjóri Vesturbyggðar segist hafa fyrst heyrt af ákvörðun Vegagerðarinnar, um að taka ferjuna Baldur tímabundið úr áætlunarsiglingum yfir Breiðafjörð, í fjölmiðlum. Hún segir að lítið samráð hafi átt sér stað í",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-12T16:20:05.241354+00:00",
-  "id": 2
- },
  "7efd393b7ab4deec": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -3558,27 +3537,6 @@
   "tsort": "",
   "first_seen": "2026-06-15T15:12:59.488276+00:00",
   "id": 3
- },
- "dc60a80b9d3c6fb7": {
-  "region": "Norðurland eystra",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-06-15",
-  "url": "https://www.ruv.is/frettir/innlent/2026-06-15-skertar-samgongur-i-grimsey-erum-vid-virkilega-ad-fara-aftur-i-fornold-478247/",
-  "title": "Skertar samgöngur í Grímsey: „Erum við virkilega að fara aftur í fornöld?“",
-  "sum": "Grímseyingar eru mjög ósáttir við fækkun ferða ferjunnar Sæfara til og frá eyjunni. Formaður hverfisráðs Grímseyjar segir að uppbygging sé ómöguleg haldi ferðum áfram að fækka. Í upphafi árs bjuggu 58 í Grímsey. Siglingin á milli Grímseyjar",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-15T15:12:59.488276+00:00",
-  "id": 4
  },
  "6cb566a8197ffebc": {
   "region": "Höfuðborgarsvæðið",
@@ -8290,27 +8248,6 @@
   "first_seen": "2026-07-14T10:42:59.164158+00:00",
   "id": 1
  },
- "7997c86e63bd3714": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-07-14",
-  "url": "https://www.visir.is/g/20262909116d/thjodarsjodurinn-okkar-heitir-landsvirkjun.-erum-vid-ad-avaxta-hann-",
-  "title": "Þjóðarsjóðurinn okkar heitir Lands­virkjun. Erum við að á­vaxta hann?",
-  "sum": "Í vikunni tók til starfa nýr starfshópur stjórnvalda um gervigreind — skipaður fólki sem raunverulega þekkir tæknina, undir formennsku reynds frumkvöðuls, með fulltrúa úr alþjóðlegu tækniumhverfi.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-14T10:42:59.164158+00:00",
-  "id": 2
- },
  "0dca7ca6d63160b3": {
   "region": "Landið allt",
   "type": "Íbúðir",
@@ -8416,27 +8353,6 @@
   "first_seen": "2026-07-14T14:52:41.337559+00:00",
   "id": 1
  },
- "261238d540e7b0cb": {
-  "region": "Vesturland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Vegagerðin (verkkaupi)"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-07-15",
-  "url": "https://www.visir.is/g/20262909543d/baldur-til-eyja-og-vid-borgum",
-  "title": "Baldur til Eyja og við borgum",
-  "sum": "Í Stykkishólmi hefur í áratugi verið heimahöfn ferjunnar Baldurs. Ferjan er til að vera í siglingum yfir Breiðafjörð daglega allan ársins hring. Á veturna niðurgreiðir ríkið í gegnum Vegagerðina þessar mikilvægu samgöngur.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-15T09:35:44.388106+00:00",
-  "id": 1
- },
  "c183e5c39745f65f": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -8499,5 +8415,26 @@
   "tsort": "",
   "first_seen": "2026-07-15T09:35:44.388106+00:00",
   "id": 4
+ },
+ "a72e2e0271c9e65c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "Akureyri.net – fréttir",
+  "date": "2026-07-15",
+  "url": "https://www.akureyri.net/is/frettir/nadhusin-i-nyju-ljosi",
+  "title": "Framkvæmdir hafnar við náðhúsin",
+  "sum": "Framkvæmdir hafnar við náðhúsin",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-15T10:26:14.222395+00:00",
+  "id": 1
  }
 }
