@@ -7743,27 +7743,6 @@
   "first_seen": "2026-07-09T11:55:15.785007+00:00",
   "id": 8
  },
- "8c43505686bdbf17": {
-  "region": "Vesturland",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "453,7 m²",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Útboð",
-  "src": "byggingar.is – byggingarfréttir",
-  "date": "2026-07-08",
-  "url": "https://byggingar.is/solar-ehf-baud-67-6-undir-kostnadaraaetlun-i-raestingarutbodi/?utm_source=rss&utm_medium=rss&utm_campaign=solar-ehf-baud-67-6-undir-kostnadaraaetlun-i-raestingarutbodi",
-  "title": "Sólar ehf. bauð 67.6% undir kostnaðaráætlun í ræstingarútboði",
-  "sum": "Sólar ehf. bauð 67.6% undir kostnaðaráætlun í ræstingarútboði Þann 7. júlí 2026 voru opnuð tilboð í útboði Vegagerðarinnar um ræstingar á húsnæði stofnunarinnar við Borgarbraut 66 í Borgarnesi. Verkið felst í reglubundinni ræstingu á húsnæð",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-09T11:55:15.785007+00:00",
-  "id": 9
- },
  "43461d40b34a15fb": {
   "region": "Landið allt",
   "type": "Íbúðir",
@@ -8437,7 +8416,49 @@
   "first_seen": "2026-07-14T14:52:41.337559+00:00",
   "id": 1
  },
- "aa2d687f1bb3c691": {
+ "261238d540e7b0cb": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-15",
+  "url": "https://www.visir.is/g/20262909543d/baldur-til-eyja-og-vid-borgum",
+  "title": "Baldur til Eyja og við borgum",
+  "sum": "Í Stykkishólmi hefur í áratugi verið heimahöfn ferjunnar Baldurs. Ferjan er til að vera í siglingum yfir Breiðafjörð daglega allan ársins hring. Á veturna niðurgreiðir ríkið í gegnum Vegagerðina þessar mikilvægu samgöngur.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-15T09:35:44.388106+00:00",
+  "id": 1
+ },
+ "c183e5c39745f65f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-15",
+  "url": "https://byggingar.is/28-07-2026-eftirlit-og-radgjof-bodin-ut-vegna-endurbyggingar-jokuldalsvegar/?utm_source=rss&utm_medium=rss&utm_campaign=28-07-2026-eftirlit-og-radgjof-bodin-ut-vegna-endurbyggingar-jokuldalsvegar",
+  "title": "28.07.2026 Eftirlit og ráðgjöf boðin út vegna endurbyggingar Jökuldalsvegar",
+  "sum": "Eftirlit og ráðgjöf boðin út vegna endurbyggingar Jökuldalsvegar Vegagerðin hefur auglýst útboð á eftirliti og ráðgjöf vegna framkvæmdarinnar „Jökuldalsvegur (923), Langagerði – Hákonarstaðir“. Um er að ræða ráðgjafarsamning sem tekur til f",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-15T09:35:44.388106+00:00",
+  "id": 2
+ },
+ "c2be06a37be0b53a": {
   "region": "Landið allt",
   "type": "Innviðir",
   "scale": "Miðlungs",
@@ -8445,17 +8466,38 @@
   "verk": [
    "Óútboðið"
   ],
-  "status": "Útboð",
-  "src": "RÚV – fréttir",
-  "date": "2026-07-14",
-  "url": "https://www.ruv.is/frettir/innlent/2026-07-14-samkeppni-um-ad-lata-starfsfolk-vinna-sem-hradast-481336/",
-  "title": "Samkeppni um að láta starfsfólk vinna sem hraðast",
-  "sum": "Sólveig Anna Jónsdóttir formaður Eflingar segir stéttarfélagið lengi hafa barist fyrir því að tekið verði á vandamálum sem plagi ræstingageirann. Hún segir stórt framfaraskref stigið með nýjum drögum að viðmiðum fyrir ræstingarútboð ríkisin",
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-15",
+  "url": "https://byggingar.is/binda-vonir-vid-urbaetur-med-nyju-eftirliti/?utm_source=rss&utm_medium=rss&utm_campaign=binda-vonir-vid-urbaetur-med-nyju-eftirliti",
+  "title": "Binda vonir við úrbætur með nýju eftirliti",
+  "sum": "Binda vonir við úrbætur með nýju eftirliti Engar upplýsingar liggja fyrir um hvort fylgni sé á milli fjölda ófaglærðra í byggingariðnaði og fjölda galla í nýbyggingum. Teymisstjóri hjá Húsnæðis-, mannvirkja- og skipulagsstofnun bindur vonir",
   "tender": "",
   "start": "",
   "end": "",
   "tsort": "",
-  "first_seen": "2026-07-14T14:52:41.337559+00:00",
-  "id": 2
+  "first_seen": "2026-07-15T09:35:44.388106+00:00",
+  "id": 3
+ },
+ "ef6a384939505a39": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-14",
+  "url": "https://byggingar.is/framkvaemdir-hafnar-vid-nytt-verslunar-og-thjonusturymi-undir-kirkjutroppunum-a-akureyri/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-hafnar-vid-nytt-verslunar-og-thjonusturymi-undir-kirkjutroppunum-a-akureyri",
+  "title": "Framkvæmdir hafnar við nýtt verslunar- og þjónusturými undir kirkjutröppunum á Akureyri",
+  "sum": "Framkvæmdir hafnar við nýtt verslunar- og þjónusturými undir kirkjutröppunum á Akureyri Framkvæmdir eru hafnar við uppbyggingu nýs verslunar- og þjónusturýmis í gömlu náðhúsunum undir kirkjutröppunum við Akureyrarkirkju. Verkefnið er á vegu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-15T09:35:44.388106+00:00",
+  "id": 4
  }
 }
