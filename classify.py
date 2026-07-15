@@ -319,6 +319,12 @@ _HARD_NEGATIVES = [
     "hagnýt ráð",
     # lokun/viðhald lauga vegna skemmda (flögnun) — rekstrarfrétt, ekki framkvæmd.
     "flögnun", "flagna",
+    # vinnumarkaður / þjónustuútboð — ræstingamál (Efling, kjaramál, ræstingageiri).
+    # "útboð" passar sem innskeyti í "ræstingarútboð" (þjónustuútboð ríkisins, EKKI
+    # framkvæmdaútboð) og "samkeppni um" kviknaði á vinnuhraða-fyrirsögn. Bæði match
+    # í safni voru ræstinga-rusl -> 0 lögmætir árekstrar. ("stéttarfélag" var EKKI
+    # notað: það rakst á lögmæta rammasamnings-frétt Veitna við ÍAV/Ístak.)
+    "ræsting",
 ]
 
 # --- Erlendar fréttir ------------------------------------------------------
