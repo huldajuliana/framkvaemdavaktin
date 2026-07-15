@@ -319,6 +319,17 @@ _HARD_NEGATIVES = [
     "hagnýt ráð",
     # lokun/viðhald lauga vegna skemmda (flögnun) — rekstrarfrétt, ekki framkvæmd.
     "flögnun", "flagna",
+    # ferjur / almenningssamgöngur — rekstur og NIÐURGREIÐSLA ferjuþjónustu (t.d.
+    # Baldur yfir Breiðafjörð), ekki framkvæmd. "vegagerð" kviknar á stofnunarnafninu
+    # "Vegagerðina" (greiðslufarvegur) þótt ekkert sé byggt. 0 lögmætir árekstrar;
+    # hreinsar líka samgöngu-/ferðaþjónustukvartanir (Grímsey o.fl.). "vegagerð"
+    # sjálft má EKKI gata — of margar alvöru vegaframkvæmdir reiða sig á það orð.
+    "ferj",
+    # skoðana-/stefnugrein sem nefnir Landsvirkjun sem "þjóðarsjóð" — fjármála-/
+    # gervigreindarumræða. "virkjun" kviknar á fyrirtækjanafninu "Landsvirkjun" þótt
+    # engin virkjunarframkvæmd sé til umræðu. 0 lögmætir árekstrar. ("virkjun" sjálft
+    # má ekki gata — Hvammsvirkjun o.fl. alvöru virkjanaframkvæmdir reiða sig á það.)
+    "þjóðarsjóð",
     # vinnumarkaður / þjónustuútboð — ræstingamál (Efling, kjaramál, ræstingageiri).
     # "útboð" passar sem innskeyti í "ræstingarútboð" (þjónustuútboð ríkisins, EKKI
     # framkvæmdaútboð) og "samkeppni um" kviknaði á vinnuhraða-fyrirsögn. Bæði match
