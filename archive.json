@@ -8584,5 +8584,68 @@
   "tsort": "",
   "first_seen": "2026-07-16T10:56:49.465251+00:00",
   "id": 2
+ },
+ "ab0b27d119a1c516": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-16",
+  "url": "https://www.visir.is/g/20262910133d/-politisk-akvordun-hvort-hradinn-verdi-90-eda-110",
+  "title": "„Pólitísk á­kvörðun“ hvort hraðinn verði 90 eða 110",
+  "sum": "Framkvæmdastjóri þróunarsviðs Vegagerðarinnar segir mögulegt að hækka hámarkshraða á ákveðnum vegköflum í 110 kílómetra, séu þeir hannaðir með tilliti til þess. Tvöföldun vegarins milli Hvalfjarðar og Borgarness er þegar í samgönguáætlun, a",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-16T15:02:53.836007+00:00",
+  "id": 1
+ },
+ "0ccd452bdf381f5d": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-16",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-16-vidvarandi-lokun-sundlaugar-i-oxarfirdi-bagaleg-fyrir-ferdathjonustu-481529/",
+  "title": "Viðvarandi lokun sundlaugar í Öxarfirði bagaleg fyrir ferðaþjónustu",
+  "sum": "Sundlaugin í Lundi í Öxarfirði hefur stendur auð og ferðamenn koma þar að læstum dyrum. Milli sundlaugar á Húsavík og Raufarhöfn í Norðurþingi eru 120 kílómetrar. Þorsteinn Snævar Benediktsson, formaður skipulags- og framkvæmdaráðs Norðurþi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-16T15:02:53.836007+00:00",
+  "id": 2
+ },
+ "f2742d7131517ed5": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "44 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-16",
+  "url": "https://byggingar.is/sameignarsjodir-eiga-adeins-hlut-i-44-ibudum/?utm_source=rss&utm_medium=rss&utm_campaign=sameignarsjodir-eiga-adeins-hlut-i-44-ibudum",
+  "title": "Sam­eignar­sjóðir eiga aðeins hlut í 44 íbúðum",
+  "sum": "Sam­eignar­sjóðir eiga aðeins hlut í 44 íbúðum Í byrjun mánaðar áttu fimm fjárfestingasjóðir á vegum byggingaverktaka hlut í 44 íbúðum á höfuðborgarsvæðinu. Útbreiðsla sameignarfyrirkomulags á íbúðamarkaði er enn takmörkuð, að því er kemur ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-16T15:02:53.836007+00:00",
+  "id": 3
  }
 }
