@@ -8500,5 +8500,89 @@
   "tsort": "",
   "first_seen": "2026-07-15T14:51:16.820998+00:00",
   "id": 2
+ },
+ "a48db322770b798c": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-16",
+  "url": "https://www.visir.is/g/20262909819d/erfidara-og-erfidara-ad-lifa-mannsaemandi-lifi-a-islandi",
+  "title": "Erfiðara og erfiðara að lifa mann­sæmandi lífi á Ís­landi",
+  "sum": "Krzysztof Jerzy og kona hans Magdalena Bartczak frá Póllandi eru að missa íbúð sína í þriðja skipti á tveimur árum. Krzysztof lýsir húsnæðismarkaði í Reykjavík sem rússíbana.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-16T10:56:49.465251+00:00",
+  "id": 1
+ },
+ "8a9b81a1301f901c": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-15",
+  "url": "https://www.visir.is/g/20262909796d/vilja-reisa-140-studentaibudir-a-karsnesi",
+  "title": "Vilja reisa 140 stúdenta­í­búðir á Kársnesi",
+  "sum": "FS, Félagsstofnun stúdenta, hefur sent skipulagsfulltrúa Kópavogsbæjar erindi um uppbyggingu 144 stúdentaíbúða á Kársnesi. Um er að ræða einstaklingsíbúðir sem að meðaltali verða tuttugu og níu fermetrar að stærð. Í samtali við Heiði Önnu H",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-16T10:56:49.465251+00:00",
+  "id": 3
+ },
+ "4e74050adf46790f": {
+  "region": "Suðurland",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-15",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-15-stefna-a-ad-opna-nyju-bodin-i-sumar-481423/",
+  "title": "Stefna á að opna nýju böðin í sumar",
+  "sum": "Eigendur Reykjabaðanna binda vonir við að hægt verði að opna böðin í ágúst eða september. Framkvæmdir hafa staðið yfir frá árinu 2024 en böðin eru fyrsti áfanginn í umfangsmikilli ferðaþjónustuuppbyggingu á Árhólmasvæðinu í Hveragerði við r",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-16T10:56:49.465251+00:00",
+  "id": 4
+ },
+ "082da65de79b000d": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "ÞG verk"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-16",
+  "url": "https://byggingar.is/undirbuningur-fyrir-turn-bruar-i-efri-laugardaelaeyju-myndband/?utm_source=rss&utm_medium=rss&utm_campaign=undirbuningur-fyrir-turn-bruar-i-efri-laugardaelaeyju-myndband",
+  "title": "Undir­búningur fyrir turn brúar í Efri-Laugar­dæla­eyju – mynd­band",
+  "sum": "Undir­búningur fyrir turn brúar í Efri-Laugar­dæla­eyju – mynd­band Nú stendur yfir mikilvægur undirbúningur fyrir uppsetningu turns nýrrar Ölfusárbrúar í Efri-Laugardælaeyju. Í nýju myndbandi er rætt við Hjört Frey Jóhannsson verkefnastjór",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-16T10:56:49.465251+00:00",
+  "id": 2
  }
 }
