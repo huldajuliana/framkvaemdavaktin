@@ -8689,5 +8689,68 @@
   "tsort": "",
   "first_seen": "2026-07-17T10:44:43.715240+00:00",
   "id": 2
+ },
+ "aea8717e483213b0": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "110 km",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-17",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/17/umferdaroryggi_avallt_i_fyrirrumi/",
+  "title": "Umferðaröryggi ávallt í fyrirrúmi",
+  "sum": "Það er mat Vegagerðarinnar að hækkun hámarkshraða upp í 110 km/klst. á vegköflum landsins sé ekki eins einföld eða ódýr og skilja má í nýútgefinni skýrslu Viðskiptaráðs. Framkvæmdirnar séu þó heldur betur mögulegar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-17T14:44:50.461033+00:00",
+  "id": 1
+ },
+ "df9a2b4038a2383b": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-17",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/17/kjaftaedi_um_matvaela_og_husnaedisverd/",
+  "title": "Kjaftæði um matvæla- og húsnæðisverð",
+  "sum": "Er dýrt að kaupa í matinn á Íslandi og er húsnæðismarkaðurinn ókleifari múr fyrir ungt fólk hér á landi en annars staðar. Hagfræðingurinn Konráð S. Guðjónsson verður knúinn svara um það í Spursmálum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-17T14:44:50.461033+00:00",
+  "id": 2
+ },
+ "6ea3a7896a8944b1": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-17",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/17/vegavinna_i_dag_og_i_byrjun_naestu_viku/",
+  "title": "Vegavinna í dag og í byrjun næstu viku",
+  "sum": "Vegagerðin áformar vegavinnu á Reykjanesbraut og Grindavíkurvegi í dag og í næstu viku.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-17T14:44:50.461033+00:00",
+  "id": 3
  }
 }
