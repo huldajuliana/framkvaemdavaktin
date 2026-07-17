@@ -8647,5 +8647,47 @@
   "tsort": "",
   "first_seen": "2026-07-16T15:02:53.836007+00:00",
   "id": 3
+ },
+ "7b46f2b239c877db": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-17",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/17/bidradir_a_nyrri_bru/",
+  "title": "Biðraðir á nýrri brú",
+  "sum": "Langar biðraðir hafa myndast á brúnni yfir Breiðholtsbraut á háannatímum á þeirri viku sem liðin er síðan opnað var fyrir umferð en framkvæmdir hafa staðið yfir í um þrjú ár.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-17T10:44:43.715240+00:00",
+  "id": 1
+ },
+ "c3d7813464da1655": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-17",
+  "url": "https://byggingar.is/utbod-fsre-vegna-hjukrunarheimilis-vid-hamra-i-mosfellsbae-hafid/?utm_source=rss&utm_medium=rss&utm_campaign=utbod-fsre-vegna-hjukrunarheimilis-vid-hamra-i-mosfellsbae-hafid",
+  "title": "Útboð FSRE vegna hjúkrunarheimilis við Hamra í Mosfellsbæ hafið",
+  "sum": "Útboð FSRE vegna hjúkrunarheimilis við Hamra í Mosfellsbæ hafið Framkvæmdasýslan – Ríkiseignir (FSRE) hefur nú auglýst útboð vegna hönnunar og byggingar hjúkrunarheimilis sem tengjast skal hjúkrunarheimilinu Hamrar við Langatanga með tengib",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-17T10:44:43.715240+00:00",
+  "id": 2
  }
 }
