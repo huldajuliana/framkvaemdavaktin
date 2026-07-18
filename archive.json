@@ -8879,5 +8879,47 @@
   "tsort": "",
   "first_seen": "2026-07-18T10:16:49.442432+00:00",
   "id": 6
+ },
+ "4678f0d53a6ba446": {
+  "region": "Norðurland vestra",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-18",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/18/tiu_ibudir_tilbunar_a_hvammstanga/",
+  "title": "Tíu íbúðir tilbúnar á Hvammstanga",
+  "sum": "„Hér í sveitarfélaginu hefur verið tilfinnanleg þörf fyrir íbúðarhúsnæði og nú er henni að nokkru svarað,“ segir Unnur Valborg Hilmarsdóttir, sveitarstjóri Húnaþings vestra.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-18T14:20:33.491780+00:00",
+  "id": 1
+ },
+ "1171ad571736908a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-18",
+  "url": "https://www.visir.is/g/20262910946d/hvernig-gat-faedingarthjonustan-ordid-utundan-i-staerstu-heilbrigdisframkvaemd-islandssogunnar-",
+  "title": "Hvernig gat fæðingarþjónustan orðið út­undan í stærstu heilbrigðisframkvæmd Ís­lands­sögunnar?",
+  "sum": "Flestir gera líklega ráð fyrir að þegar nýr Landspítali opni fylgi því sjálfkrafa ný og nútímaleg fæðingardeild. Þegar fólk heyrir orðin „nýtt þjóðarsjúkrahús“ sér það fyrir sér betri aðstöðu fyrir alla skjólstæðinga sem þangað leita, þar á",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-18T14:20:33.491780+00:00",
+  "id": 2
  }
 }
