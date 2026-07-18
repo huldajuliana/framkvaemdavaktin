@@ -8752,5 +8752,132 @@
   "tsort": "",
   "first_seen": "2026-07-17T14:44:50.461033+00:00",
   "id": 3
+ },
+ "d0f9a794aa1b9b97": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-18",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/18/einn_stor_turn_i_stad_thriggja_minni/",
+  "title": "Einn stór turn í stað þriggja minni",
+  "sum": "Framkvæmdir við hótelturninn við Skúlagötu 26 í Reykjavik eru langt komnar. Magnea Þóra Guðmundsdóttir arkitekt sat hjá í skipulagsráði árið 2015 þegar skipulagi var breytt svo að turninn gæti risið",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-18T10:16:49.442432+00:00",
+  "id": 1
+ },
+ "ae0770c0d35aeeff": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-18",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/18/vill_skoda_endurgerd_gatnamota/",
+  "title": "Vill skoða endurgerð gatnamóta",
+  "sum": "Ásdís Kristjánsdóttir bæjarstjóri Kópavogs segir að til greina komi að gera ný gatnamót Arnarnesvegar og Breiðholtsbrautar að fullu mislæg eins og upprunalega stóð til ef langar biðraðir og umferðartafir verða þar viðvarandi vandamál.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-18T10:16:49.442432+00:00",
+  "id": 2
+ },
+ "080a3f90fee5f4ac": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-18",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/18/ut_olikum_attum_breidu_thokin/",
+  "title": "Út ólíkum áttum: Breiðu þökin",
+  "sum": "Á undanförnum árum og áratugum hafa inngrip hins opinbera í húsnæðismarkaðinn verið mikil. Birtingarmyndirnar eru ýmsar. Íbúðalánasjóður veitti árum saman húsnæðislán en sú vegferð endaði með háum reikningi á ríkissjóð. Árlega eru greiddir ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-18T10:16:49.442432+00:00",
+  "id": 3
+ },
+ "ad78537da4a345d6": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-07-17",
+  "url": "https://www.visir.is/g/20262910719d/nyja-bruin-atti-ad-baeta-flaedid-mislaega-lausnin-vek-fyrir-ljosum",
+  "title": "Nýja brúin átti að bæta flæðið: Mislæga lausnin vék fyrir ljósum",
+  "sum": "Umferðarteppa hefur myndast við ný gatnamót Arnarnesvegar og Breiðholtsbrautar. Bæjarstjóri Kópavogs segir ástandið óásættanlegt en Vegagerðin bendir á að um bráðabirgðafyrirkomulag sé að ræða. Full reynsla fáist ekki fyrr en fleiri akreina",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-18T10:16:49.442432+00:00",
+  "id": 4
+ },
+ "aa379c21ba52188d": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)",
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-17",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-17-bidur-folk-ad-bida-med-gagnryni-thar-til-gatnamotin-eru-tilbuin-481642/",
+  "title": "Biður fólk að bíða með gagnrýni þar til gatnamótin eru tilbúin",
+  "sum": "Talsverðar umferðartafir hafa orðið á gatnamótum Arnarnesvegar og Breiðholtsbrautar síðan opnað var fyrir umferð um nýja Breiðholtsbrú fyrir viku. Mikil umræða hefur skapast á samfélagsmiðlum þar sem skipst er á að kenna Reykjavíkurborg, Kó",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-18T10:16:49.442432+00:00",
+  "id": 5
+ },
+ "aa4c431bf216cde9": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-17",
+  "url": "https://byggingar.is/vegagerdin-bydur-ut-nyjan-budafossveg-og-204-metra-bru-yfir-thjorsa/?utm_source=rss&utm_medium=rss&utm_campaign=vegagerdin-bydur-ut-nyjan-budafossveg-og-204-metra-bru-yfir-thjorsa",
+  "title": "22.09.2026 Vegagerðin býður út nýjan Búðafossveg og 204 metra brú yfir Þjórsá",
+  "sum": "Vegagerðin býður út nýjan Búðafossveg og 204 metra brú yfir Þjórsá Vegagerðin hefur auglýst útboð á umfangsmikilli framkvæmd við Búðafossveg (23) þar sem byggður verður nýr 7,4 kílómetra vegkafli milli Þjórsárdalsvegar í Skeiða- og Gnúpverj",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-18T10:16:49.442432+00:00",
+  "id": 6
  }
 }
