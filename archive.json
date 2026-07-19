@@ -8984,5 +8984,26 @@
   "tsort": "",
   "first_seen": "2026-07-19T10:24:55.686729+00:00",
   "id": 3
+ },
+ "21056bf21b4d90c9": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-19",
+  "url": "https://byggingar.is/stukan-umdeilda-hafi-hatt-vardveislugildi/?utm_source=rss&utm_medium=rss&utm_campaign=stukan-umdeilda-hafi-hatt-vardveislugildi",
+  "title": "Stúkan umdeilda hafi hátt varðveislugildi",
+  "sum": "Stúkan umdeilda hafi hátt varðveislugildi „Þetta mannvirki hefur ekki enn náð þeim aldri að falla undir verndarákvæði laga um menningarminjar þannig að það er ekki sjálfkrafa friðað,“ segir Þór Ingólfsson Hjaltalín, sviðsstjóri minjavarðasv",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-19T14:23:59.882727+00:00",
+  "id": 1
  }
 }
