@@ -8921,5 +8921,68 @@
   "tsort": "",
   "first_seen": "2026-07-18T14:20:33.491780+00:00",
   "id": 2
+ },
+ "75632518526d8533": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-07-19",
+  "url": "https://www.visir.is/g/20262911100d/breikkun-a-kjalarnesi-bodin-ut-eftir-margra-ara-seinkun",
+  "title": "Breikkun á Kjalar­nesi boðin út eftir margra ára seinkun",
+  "sum": "Vegagerðin hefur boðið út breikkun 5,6 kílómetra kafla Vesturlandsvegar um Kjalarnes milli Vallár og Hvalfjarðarvegar. Gert er ráð fyrir að verkinu verði lokið 30. september 2029, eftir þrjú ár. Þetta er sex ára seinkun frá fyrri áætlunum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-19T10:24:55.686729+00:00",
+  "id": 1
+ },
+ "7e00256da45056cc": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-18",
+  "url": "https://www.visir.is/g/20262909596d/einbreidar-bryr-vid-berufjord-og-reydarfjord-liklega-naestar",
+  "title": "Einbreiðar brýr við Beru­fjörð og Reyðar­fjörð lík­lega næstar",
+  "sum": "Vegagerðin vinnur að því að útrýma einbreiðum brúm á Íslandi. Framkvæmdastjóri hjá Vegagerðinni segir þónokkur verkefni í bígerð, sem sum stytta hringveginn töluvert.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-19T10:24:55.686729+00:00",
+  "id": 2
+ },
+ "03cd8c1bd495a6b3": {
+  "region": "Norðurland vestra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-18",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-18-nytt-ithrottahus-og-motuneyti-a-hofsosi-481351/",
+  "title": "Nýtt íþróttahús og mötuneyti á Hofsósi",
+  "sum": "Fyrsti fundur nýs meirihluta í byggingarnefnd skóla- og íþróttamannvirkja á Hofsósi var í síðustu viku. Nýr meirihluti er vongóður um að geta hafið framkvæmdir sem fyrst. Börnin í grunnskólanum á Hofsósi hafa verið bæði í íþróttum og mat í ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-19T10:24:55.686729+00:00",
+  "id": 3
  }
 }
