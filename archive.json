@@ -9131,5 +9131,131 @@
   "tsort": "",
   "first_seen": "2026-07-20T11:42:40.896335+00:00",
   "id": 5
+ },
+ "eb54abdc56bfe3c7": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-20",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/20/segir_kopavogsbae_ekki_getad_firrt_sig_abyrgd/",
+  "title": "Segir Kópavogsbæ ekki getað firrt sig ábyrgð",
+  "sum": "Einar Jóhannes Guðnason, oddviti Miðflokksins í Kópavogi, segir bæjaryfirvöld í Kópavogi ekki getað firrt sig ábyrgð á því hvernig komið er fyrir nýjum gatnamótum Arnarnesvegar við Breiðholtsbraut.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-20T15:12:06.135314+00:00",
+  "id": 1
+ },
+ "75d9096126576b4d": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "5,6 km",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-20",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/20/breikkun_kjalarnesvegar_i_utbod/",
+  "title": "Breikkun Kjalarnesvegar í útboð",
+  "sum": "Vegagerðin hefur sett í útboð breikkun Hringvegarins á 5,6 km löngum kafla frá Vallá að afleggjara Hvalfjarðarvegar, sem er skammt ofan við munna ganganna undir fjörð. Breikka á núverandi tveggja akreina veg í 2+1 og 2+2-veg með aðskildum a",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-20T15:12:06.135314+00:00",
+  "id": 2
+ },
+ "ece58da14052854f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-20",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-20-vara-vid-hvassvidri-nalaegt-jokulsarloni-481849/",
+  "title": "Vara við hvassviðri nálægt Jökulsárlóni",
+  "sum": "Vegagerðin varar við hvassviðri við Jökulsárlón á Breiðamerkursandi. Viðvörunin nær sérstaklega til bíla með aftanívagna og þeirra sem taka á sig mikinn vind. Vegfarendur eru beðnir að kanna ástand áður en lagt er af stað. „Það er um að ger",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-20T15:12:06.135314+00:00",
+  "id": 3
+ },
+ "c3d28ffa3197432e": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-20",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-20-vindmyllurnar-umdeildar-a-fljotsdalsheradi-481839/",
+  "title": "Vindmyllurnar umdeildar á Fljótsdalshéraði",
+  "sum": "Orkusalan vill reisa tvær 160 metra háar vindmyllur við Lagarfossvirkjun á Fljótsdalshéraði. „Það er ljóst að þessi framkvæmd er umdeild hér,“ segir Dagmar Ýr Stefánsdóttir sveitarstjóri í Múlaþingi. Umsagnarferli fyrir umhverfismatsskýrslu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-20T15:12:06.135314+00:00",
+  "id": 4
+ },
+ "05d05bcec86e7a0e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-20",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-20-faerra-ungt-folk-byr-i-foreldrahusum-481816/",
+  "title": "Færra ungt fólk býr í foreldrahúsum",
+  "sum": "Hlutfall ungs fólks í foreldrahúsum hefur lækkað frá því á síðasta ári og hlutfall fullorðinna á leigumarkaði hefur hækkað. Þetta kemur fram í nýrri búsetukönnun HMS. Samkvæmt henni eru um 29% fullorðinna á leigumarkaði í ár miðað við 28% í",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-20T15:12:06.135314+00:00",
+  "id": 5
+ },
+ "05d591d8231fe7f2": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-20",
+  "url": "https://byggingar.is/gong-og-bru-ohf-auglysir-eftir-fyrsta-forstjora-felagsins/?utm_source=rss&utm_medium=rss&utm_campaign=gong-og-bru-ohf-auglysir-eftir-fyrsta-forstjora-felagsins",
+  "title": "10.08.2026 Göng og brú ohf. auglýsir eftir fyrsta forstjóra félagsins",
+  "sum": "Göng og brú ohf. auglýsir eftir fyrsta forstjóra félagsins Nýstofnað innviðafélag ríkisins, Göng og brú ohf., hefur auglýst stöðu forstjóra og leitar að öflugum leiðtoga til að byggja upp félagið frá grunni. Félagið hefur það hlutverk að un",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-20T15:12:06.135314+00:00",
+  "id": 6
  }
 }
