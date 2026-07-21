@@ -9257,5 +9257,89 @@
   "tsort": "",
   "first_seen": "2026-07-20T15:12:06.135314+00:00",
   "id": 6
+ },
+ "2912813400f81238": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-21",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/21/8222_skelfileg_og_vanhugsud_breyting_8220/",
+  "title": "„Skelfileg og vanhugsuð breyting“",
+  "sum": "„Ég fékk litlar undirtektir við þessum skrifum mínum á sínum tíma, en ég held að það sé nú bara að koma í ljós að þetta er skelfileg og vanhugsuð breyting á gatnamótunum og alls ekki í takt við áherslur í samgönguframkvæmdum um að auka umfe",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-21T11:06:09.278649+00:00",
+  "id": 1
+ },
+ "29b3c1edcc07275f": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "44 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-21",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-21-faar-ibudir-selst-med-sameignarfyrirkomulagi-481822/",
+  "title": "Fáar íbúðir selst með sameignarfyrirkomulagi",
+  "sum": "Fáar íbúðir hafa selst með sameignarfyrirkomulagi en sameignarsjóðir eiga hlut í 44 íbúðum á höfuðborgarsvæðinu. Fermetraverð íbúða sem selst hafa með fyrirkomulaginu er sambærilegt öðrum íbúðum. Þetta kemur fram á vef HMS. „Tíu mánuðir eru",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-21T11:06:09.278649+00:00",
+  "id": 2
+ },
+ "9d74e87c8a626a78": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-21",
+  "url": "https://byggingar.is/55-thusund-rummetra-dypkun-a-hofninni-a-isafirdi/?utm_source=rss&utm_medium=rss&utm_campaign=55-thusund-rummetra-dypkun-a-hofninni-a-isafirdi",
+  "title": "55 þúsund rúmmetra dýpkun á höfninni á Ísafirði",
+  "sum": "55 þúsund rúmmetra dýpkun á höfninni á Ísafirði Álfsnesið, dýpkunarskip Björgunar, liggur nú við Ásgeirsbakka þar sem áhöfnin tekur sér tveggja vikna hlé áður en framkvæmdum verður haldið áfram eftir verslunarmannahelgi. Skipið hefur komið ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-21T11:06:09.278649+00:00",
+  "id": 3
+ },
+ "ba854300fff9cd7c": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-20",
+  "url": "https://byggingar.is/nytt-utlit-a-skerjahverfi-og-metnadarfull-framtidarsyn-i-bergvik/?utm_source=rss&utm_medium=rss&utm_campaign=nytt-utlit-a-skerjahverfi-og-metnadarfull-framtidarsyn-i-bergvik",
+  "title": "Nýtt útlit á Skerjahverfi og metnaðarfull framtíðarsýn í Bergvík",
+  "sum": "Nýtt útlit á Skerjahverfi og metnaðarfull framtíðarsýn í Bergvík Stórtækar skipulagsbreytingar og uppbygging samþykkt Fram undan eru miklar framkvæmdir og breytingar á ásýnd Suðurnesjabæjar. Á fundi bæjarstjórnar í vikunni voru samþykktar s",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-21T11:06:09.278649+00:00",
+  "id": 4
  }
 }
