@@ -9446,5 +9446,152 @@
   "tsort": "",
   "first_seen": "2026-07-21T15:04:25.622698+00:00",
   "id": 5
+ },
+ "12b407e8666c66db": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-22",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/22/telur_ekki_timabaert_ad_gera_mislaeg_gatnamot/",
+  "title": "Telur ekki tímabært að gera mislæg gatnamót",
+  "sum": "Hildur Björnsdóttir borgarstjóri Reykjavíkur telur að leyfa þurfi framkvæmdum að klárast við gatnamót Breiðholtsbrautar og Arnarnesvegar áður en dæma megi um það hvort ráðast þurfi í endurskipulagningu svæðisins og þá mögulega gerð nýrra mi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-22T11:06:48.901063+00:00",
+  "id": 1
+ },
+ "d633cc94885af90b": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-21",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/21/slegist_um_orlofsibudir_a_solrikari_slodum/",
+  "title": "Slegist um orlofsíbúðir á sólríkari slóðum",
+  "sum": "Dræmt veður á Suðurlandi og höfuðborgarsvæðinu hefur orðið til þess að fólk sem bókað hefur orlofsíbúðir á þessum svæðum reynir að afbóka eða færa bókanir sínar. Á sama tíma er mikil eftirspurn eftir orlofsíbúðum á Norður- og Austurlandi, þ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-22T11:06:48.901063+00:00",
+  "id": 5
+ },
+ "523a9d7a145bf46b": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-21",
+  "url": "https://www.visir.is/g/20262912069d/-mikilvaegast-ad-thetta-verdi-ekki-eins-og-einhver-hotelsundlaug-a-tenerife-",
+  "title": "„Mikil­vægast að þetta verði ekki eins og ein­hver hótelsundlaug á Tenerife“",
+  "sum": "Sviðsstjóri hjá Minjastofnun biður borgina um að flýta sér hægt áður en hún rífur niður áhorfendastúkuna í Laugardalslaug. Stúkan hafi mikið varðveislugildi út frá menningarsögu Íslands, en hann tekur þó fram að mannvirkið verði ekki endurb",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-22T11:06:48.901063+00:00",
+  "id": 6
+ },
+ "cffee0f919974d7d": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-22",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-22-fjolgun-ungs-folks-i-leiguhusnaedi-merki-um-staekkandi-markad-481914/",
+  "title": "Fjölgun ungs fólks í leiguhúsnæði merki um stækkandi markað",
+  "sum": "Fjölgun ungs fólks á leigumarkaði gæti verið merki um stækkandi leigumarkað, segir yfirhagfræðingur Húsnæðis- og mannvirkjastofnunar. Hlutfall fólks á aldrinum 18 til 24 ára lækkaði um 10 prósentustig milli ára, samkvæmt nýrri búsetumælingu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-22T11:06:48.901063+00:00",
+  "id": 2
+ },
+ "e9fa3924e7d0d63f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-22",
+  "url": "https://byggingar.is/nyr-busetukjarni-ris-a-hvolsvelli/?utm_source=rss&utm_medium=rss&utm_campaign=nyr-busetukjarni-ris-a-hvolsvelli",
+  "title": "Nýr búsetukjarni rís á Hvolsvelli",
+  "sum": "Nýr búsetukjarni rís á Hvolsvelli Framkvæmdir eru farnar af stað við Dalsbakka 1 á Hvolsvelli, við hliðina á Kirkjuhvoli. Á lóðinni mun rísa nýr búsetukjarni fyrir fólk með fötlun og er það mikilvæg viðbót við þjónustu í sveitarfélaginu. Um",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-22T11:06:48.901063+00:00",
+  "id": 3
+ },
+ "2ca8ed8d8f01db55": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-22",
+  "url": "https://byggingar.is/fyrsta-sperran-reist-vid-vidbyggingu-ithrottahussins-i-hveragerdi/?utm_source=rss&utm_medium=rss&utm_campaign=fyrsta-sperran-reist-vid-vidbyggingu-ithrottahussins-i-hveragerdi",
+  "title": "Fyrsta sperran reist við viðbyggingu íþróttahússins í Hveragerði",
+  "sum": "Fyrsta sperran reist við viðbyggingu íþróttahússins í Hveragerði Framkvæmdir við viðbyggingu íþróttahússins við Skólamörk 2 í Hveragerði halda áfram. Þann 17. júlí sl. var fyrsta sperran reist. Markar það mikilvægan áfanga í uppbyggingu nýr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-22T11:06:48.901063+00:00",
+  "id": 4
+ },
+ "48c5914a404fef52": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-21",
+  "url": "https://byggingar.is/margvisleg-utbod-fara-fram-hja-nato-a-hverju-ari/?utm_source=rss&utm_medium=rss&utm_campaign=margvisleg-utbod-fara-fram-hja-nato-a-hverju-ari",
+  "title": "Margvísleg útboð fara fram hjá NATO á hverju ári",
+  "sum": "Margvísleg útboð fara fram hjá NATO á hverju ári Margvísleg útboð fara fram hjá NATO á hverju ári og er ávallt hægt að finna nýjustu útboðsupplýsingar á útboðsvef NSPA. NCIA (NATO Communications and Information Agency), sem fer með samskipt",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-22T11:06:48.901063+00:00",
+  "id": 7
  }
 }
