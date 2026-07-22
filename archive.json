@@ -9593,5 +9593,68 @@
   "tsort": "",
   "first_seen": "2026-07-22T11:06:48.901063+00:00",
   "id": 7
+ },
+ "c60756937250a159": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-22",
+  "url": "https://byggingar.is/borgarverk-ehf-med-laegsta-tilbodid-i-hringtorg-og-undirgong-vid-akranes/?utm_source=rss&utm_medium=rss&utm_campaign=borgarverk-ehf-med-laegsta-tilbodid-i-hringtorg-og-undirgong-vid-akranes",
+  "title": "Borgarverk ehf. með lægsta tilboðið í hringtorg og undirgöng við Akranes",
+  "sum": "Borgarverk ehf. með lægsta tilboðið í hringtorg og undirgöng við Akranes Borgarverk ehf. átti lægsta tilboðið þegar Vegagerðin opnaði tilboð í eitt umfangsmesta samgönguverkefni ársins á Vesturlandi, „Akrafjallsvegur (51), hringtorg við Akr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-22T15:04:54.188269+00:00",
+  "id": 1
+ },
+ "5a35651f562399d2": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-22",
+  "url": "https://byggingar.is/stafnafell-med-laegsta-tilbodid-i-endurbaetur-a-nordurbakka-i-olafsvik/?utm_source=rss&utm_medium=rss&utm_campaign=stafnafell-med-laegsta-tilbodid-i-endurbaetur-a-nordurbakka-i-olafsvik",
+  "title": "Stafnafell með lægsta tilboðið í endurbætur á Norðurbakka í Ólafsvík",
+  "sum": "Stafnafell með lægsta tilboðið í endurbætur á Norðurbakka í Ólafsvík Stafnafell ehf. átti lægsta tilboðið þegar Vegagerðin opnaði tilboð í verkið „Ólafsvík – Norðurbakki, þekja og lagnir 2026“. Verkið er unnið fyrir Hafnarstjórn Snæfellsbæj",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-22T15:04:54.188269+00:00",
+  "id": 2
+ },
+ "24ee62c0c8a1e6d6": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-22",
+  "url": "https://byggingar.is/heradsverk-med-laegsta-tilbodid-i-nyja-bru-a-helgustadavegi/?utm_source=rss&utm_medium=rss&utm_campaign=heradsverk-med-laegsta-tilbodid-i-nyja-bru-a-helgustadavegi",
+  "title": "Héraðsverk með lægsta tilboðið í nýja brú á Helgustaðavegi",
+  "sum": "Héraðsverk með lægsta tilboðið í nýja brú á Helgustaðavegi Héraðsverk ehf. átti lægsta tilboðið þegar Vegagerðin opnaði tilboð í verkið „Helgustaðavegur (954) – Forsteypt brú og aðlögun á vegkafla“. Tvö tilboð bárust í framkvæmdina sem felu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-22T15:04:54.188269+00:00",
+  "id": 3
  }
 }
