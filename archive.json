@@ -9804,5 +9804,26 @@
   "tsort": "",
   "first_seen": "2026-07-23T11:07:00.002925+00:00",
   "id": 1
+ },
+ "40837504789a63c7": {
+  "region": "Suðurnes",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-23",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-23-kaupendur-hafa-meira-ad-segja-um-kaupverd-fasteigna-en-adur-482093/",
+  "title": "Kaupendur hafa meira að segja um kaupverð fasteigna en áður",
+  "sum": "Kaupendur á húsnæðismarkaði eru í sterkari samningsstöðu en áður, segir yfirhagfræðingur hjá Húsnæðis-, mannvirkja- o skipulagsstofnun (HMS). Kaupgeta er þó takmörkuð og íbúðaverð hátt. Í maí seldust um 77% íbúða á höfuðborgarsvæðinu undir ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-23T15:09:36.276281+00:00",
+  "id": 1
  }
 }
