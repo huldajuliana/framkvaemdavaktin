@@ -9468,27 +9468,6 @@
   "first_seen": "2026-07-22T11:06:48.901063+00:00",
   "id": 1
  },
- "d633cc94885af90b": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-07-21",
-  "url": "https://www.mbl.is/frettir/innlent/2026/07/21/slegist_um_orlofsibudir_a_solrikari_slodum/",
-  "title": "Slegist um orlofsíbúðir á sólríkari slóðum",
-  "sum": "Dræmt veður á Suðurlandi og höfuðborgarsvæðinu hefur orðið til þess að fólk sem bókað hefur orlofsíbúðir á þessum svæðum reynir að afbóka eða færa bókanir sínar. Á sama tíma er mikil eftirspurn eftir orlofsíbúðum á Norður- og Austurlandi, þ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-07-22T11:06:48.901063+00:00",
-  "id": 5
- },
  "523a9d7a145bf46b": {
   "region": "Landið allt",
   "type": "Atvinna",
@@ -9656,5 +9635,153 @@
   "tsort": "",
   "first_seen": "2026-07-22T15:04:54.188269+00:00",
   "id": 3
+ },
+ "211b14f5a492a38c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-22",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/22/vinna_ad_vegbotum_vid_landmannalaugar/",
+  "title": "Vinna að vegbótum við Landmannalaugar",
+  "sum": "Vegagerðin vinnur nú að vegbótum í Landmannalaugum og hefur meðal annars lagt rör yfir Laugalæk, þannig að ökumenn á leið inn á svæðið þurfa ekki lengur að aka yfir lækinn á vaði.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-23T08:54:22.049585+00:00",
+  "id": 5
+ },
+ "a9cd93bffa60924f": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-23",
+  "url": "https://www.visir.is/g/20262912680d/kaupverd-undir-80-milljonum-i-60-prosent-kaupsamninga",
+  "title": "Kaup­verð undir 80 milljónum í 60 prósent kaup­samninga",
+  "sum": "Ódýrari íbúðir eru nú mun hærra hlutfall af heildarfjölda seldra íbúða en áður. Á undanförnum tólf mánuðum hefur kaupverð verið undir 80 milljónum í að meðaltali um 60 prósent kaupsamninga en hlutfallið var 46 prósent árið 2020.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-23T08:54:22.049585+00:00",
+  "id": 1
+ },
+ "f37de3af21e9b142": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-22",
+  "url": "https://www.visir.is/g/20262912553d/mikilvaegt-ad-draga-laerdom-af-gerd-gatnamotanna",
+  "title": "Mikil­vægt að draga lær­dóm af gerð gatnamótanna",
+  "sum": "Borgarstjóri segir að draga megi lærdóm af gerð gatnamóta Arnarnesvegar og Breiðholtsbrautar en miklar umferðartafir hafa sett svip sinn á gatnamótin frá því þau voru opnuð fyrr í mánuðinum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-23T08:54:22.049585+00:00",
+  "id": 6
+ },
+ "6c0852ea573ea2f9": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-23",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-23-grindavikurvegi-lokad-hluta-fimmtudags-482057/",
+  "title": "Grindavíkurvegi lokað hluta fimmtudags",
+  "sum": "Frá Grindavíkurvegi. Lokað verður á milli Reykjanesbrautar og Bláa lónsins hluta úr degi á morgun.RÚV / Ragnar Visage Vegagerðin vekur athygli á því að á morgun, fimmtudag, verður Grindavíkurvegi lokað milli Reykjanesbrautar og Bláa lónsins",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-23T08:54:22.049585+00:00",
+  "id": 2
+ },
+ "a8dfba5950796f28": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-23",
+  "url": "https://byggingar.is/dal-bjorg-ehf-faer-samning-um-jardvinnu-og-lagnir-i-brekkugotu-a-reydarfirdi/?utm_source=rss&utm_medium=rss&utm_campaign=dal-bjorg-ehf-faer-samning-um-jardvinnu-og-lagnir-i-brekkugotu-a-reydarfirdi",
+  "title": "Dal-Björg ehf. fær samning um jarðvinnu og lagnir í Brekkugötu á Reyðarfirði",
+  "sum": "Dal-Björg ehf. fær samning um jarðvinnu og lagnir í Brekkugötu á Reyðarfirði Skipulags- og framkvæmdanefnd Fjarðabyggðar hefur samþykkt að ganga til samninga við Dal-Björg ehf. vegna jarðvinnu og lagna í Brekkugötu á Reyðarfirði, eftir að f",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-23T08:54:22.049585+00:00",
+  "id": 3
+ },
+ "bb83cfde9a362c9b": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)",
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-23",
+  "url": "https://byggingar.is/11-08-2026-vegagerdin-bydur-ut-eftirlit-med-hringtorgi-og-undirgongum-vid-akrafjallsveg/?utm_source=rss&utm_medium=rss&utm_campaign=11-08-2026-vegagerdin-bydur-ut-eftirlit-med-hringtorgi-og-undirgongum-vid-akrafjallsveg",
+  "title": "11.08.2026 Vegagerðin býður út eftirlit með hringtorgi og undirgöngum við Akrafjallsveg",
+  "sum": "Vegagerðin býður út eftirlit með hringtorgi og undirgöngum við Akrafjallsveg Vegagerðin hefur, í samstarfi við Akraneskaupstað, Veitur, Landsnet og Ljósleiðarann, auglýst út eftirlit og ráðgjöf vegna umfangsmikillar framkvæmdar við Akrafjal",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-23T08:54:22.049585+00:00",
+  "id": 4
+ },
+ "357432dd34edaade": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-22",
+  "url": "https://byggingar.is/n1-aformar-miklar-breytingar-a-egilsstodum/?utm_source=rss&utm_medium=rss&utm_campaign=n1-aformar-miklar-breytingar-a-egilsstodum",
+  "title": "N1 áformar miklar breytingar á Egilsstöðum",
+  "sum": "N1 áformar miklar breytingar á Egilsstöðum N1 hefur boðað framkvæmdir við stöð sína á Egilsstöðum á næstunni. Gert er ráð fyrir að söluskáli félagsins verði endurnýjaður nánast í heild auk þess sem frekari breytingar eru fyrirhugaðar á lóð ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-23T08:54:22.049585+00:00",
+  "id": 7
  }
 }
