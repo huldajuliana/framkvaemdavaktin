@@ -121,6 +121,11 @@ def is_relevant(item: dict) -> bool:
     t_kw = t_kw.replace("háskólabrú", " ")
     # mánuðurinn "febrúar" inniheldur "brúar" — má ekki kveikja á brúar-lykilorðinu.
     t_kw = t_kw.replace("febrúar", " ")
+    # "orlofsíbúðir" (sumarhús/bókanir hjá stéttarfélögum) inniheldur "íbúðir" en er
+    # FERÐAÞJÓNUSTA/bókanir, ekki íbúðauppbygging. Hreinsum orðið sjálft — frétt um
+    # að BYGGJA orlofsíbúðir hefur annað samhengi (bygging/útboð/framkvæmdir) og
+    # heldur sér því inni.
+    t_kw = re.sub(r"orlofsíbúð\w*", " ", t_kw)
     # "framkvæmd stefnu/laga/áætlunar/skólastefnu" = INNLEIÐING stefnu/laga, ekki
     # bygging — látum slíkt ekki kveikja á "framkvæmd". (Heldur "Framkvæmdir hefjast
     # við ..." óbreyttu, því þar fylgir ekki stefnu-/laga-orð.)
