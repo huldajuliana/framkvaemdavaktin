@@ -9951,5 +9951,26 @@
   "tsort": "",
   "first_seen": "2026-07-24T11:01:30.458248+00:00",
   "id": 6
+ },
+ "e63943223461e80f": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-24",
+  "url": "https://byggingar.is/grofuthjonustan-a-hvolsvelli-ehf-med-laegsta-tilbod-i-bilastaedi-vid-vallarbraut/?utm_source=rss&utm_medium=rss&utm_campaign=grofuthjonustan-a-hvolsvelli-ehf-med-laegsta-tilbod-i-bilastaedi-vid-vallarbraut",
+  "title": "Gröfuþjónustan á Hvolsvelli ehf. með lægsta tilboð í bílastæði við Vallarbraut",
+  "sum": "Gröfuþjónustan á Hvolsvelli ehf. með lægsta tilboð í bílastæði við Vallarbraut Byggðarráð Rangárþings eystra hefur samþykkt að fela sveitarstjóra að ganga til samninga við lægstbjóðanda vegna framkvæmda við nýtt bílastæði við Vallarbraut 16",
+  "tender": "16. júlí 2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-07",
+  "first_seen": "2026-07-24T14:55:56.049797+00:00",
+  "id": 1
  }
 }
