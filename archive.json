@@ -9825,5 +9825,131 @@
   "tsort": "",
   "first_seen": "2026-07-23T15:09:36.276281+00:00",
   "id": 1
+ },
+ "dc8223c1c4db85ca": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-07-23",
+  "url": "https://www.visir.is/g/20262912929d/fyrrverandi-magkonur-selja-til-ad-kaupa-draumakommunu-",
+  "title": "Fyrr­verandi mág­konur selja til að kaupa „draumakommúnu“",
+  "sum": "Mágkonurnar fyrrverandi Arndís Anna Kristínardóttir Gunnarsdóttir og Inga Auðbjörg Straumland hafa sett íbúðir sína á sölu í þeim tilgangi að fjármagna kaup á „draumakommúnu“. Þar ætla þær að búa saman ásamt sonum sínum, sem eru frændur.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-24T11:01:30.458248+00:00",
+  "id": 4
+ },
+ "a3e7f5790462d8a9": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-24",
+  "url": "https://byggingar.is/framkvaemdir-vid-dvergshofda-4-komnar-a-fullt-eftir-naer-18-ara-hle/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-vid-dvergshofda-4-komnar-a-fullt-eftir-naer-18-ara-hle",
+  "title": "Framkvæmdir við Dvergshöfða 4 komnar á fullt eftir nær 18 ára hlé",
+  "sum": "Framkvæmdir við Dvergshöfða 4 komnar á fullt eftir nær 18 ára hlé Framkvæmdir við skrifstofubygginguna Dvergshöfða 4 í Reykjavík eru hafnar á ný eftir langt hlé. Byggingin, sem staðið hefur ólkáruð frá árinu 2008, verður nú fullgerð samkvæm",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-24T11:01:30.458248+00:00",
+  "id": 1
+ },
+ "965f6475d8a6fcf2": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-24",
+  "url": "https://byggingar.is/alvotech-haett-vid-uppbyggingu-a-granda/?utm_source=rss&utm_medium=rss&utm_campaign=alvotech-haett-vid-uppbyggingu-a-granda",
+  "title": "Al­vot­ech hætt við upp­byggingu á Granda",
+  "sum": "Al­vot­ech hætt við upp­byggingu á Granda Al­vot­ech hyggst ekki ráðast í áður fyrir­hugaða upp­byggingu við Fiskislóð og hefur þess í stað sótt um nýja lóð í Vatns­mýri. Al­vot­ech hefur fallið frá áformum um að reisa um­fangs­mikið húsnæð",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-24T11:01:30.458248+00:00",
+  "id": 2
+ },
+ "aa07ec780f2c6f75": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-24",
+  "url": "https://byggingar.is/framkvaemdum-vid-bilastaedi-vid-hvolsvelli-frestad-thratt-fyrir-fjogur-tilbod/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdum-vid-bilastaedi-vid-hvolsvelli-frestad-thratt-fyrir-fjogur-tilbod",
+  "title": "Framkvæmdum við bílastæði við Hvolsvelli frestað þrátt fyrir fjögur tilboð",
+  "sum": "Framkvæmdum við bílastæði við Hvolsvelli frestað þrátt fyrir fjögur tilboð Byggðarráð Rangárþings eystra hefur ákveðið að fresta framkvæmdum við nýtt bílastæði við Hamragarða, þrátt fyrir að fjögur tilboð hafi borist í útboðið. Ástæðan er l",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-24T11:01:30.458248+00:00",
+  "id": 3
+ },
+ "748c98ff6519bed6": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Jáverk"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-23",
+  "url": "https://byggingar.is/nidurrif-a-tradarreit-vestari-i-kopavogi-ad-hefjast/?utm_source=rss&utm_medium=rss&utm_campaign=nidurrif-a-tradarreit-vestari-i-kopavogi-ad-hefjast",
+  "title": "Nið­ur­rif á Trað­ar­reit vest­ari í Kópavogi að hefj­ast",
+  "sum": "Nið­ur­rif á Trað­ar­reit vest­ari í Kópavogi að hefj­ast Verktakinn Jáverk hefur fengið leyfi Kópavogsbæjar til að hefja niðurrif á Traðarreit vestari. Á næstu dögum verða húsin á reitnum rifin. Efni verður síðan flokkað og flutt burt. Rét",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-24T11:01:30.458248+00:00",
+  "id": 5
+ },
+ "1e3bc5f999488919": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-23",
+  "url": "https://byggingar.is/fjallabyggd-hafnar-tilbodum-i-knatthus-i-olafsfirdi/?utm_source=rss&utm_medium=rss&utm_campaign=fjallabyggd-hafnar-tilbodum-i-knatthus-i-olafsfirdi",
+  "title": "Fjallabyggð hafnar tilboðum í knatthús í Ólafsfirði",
+  "sum": "Fjallabyggð hafnar tilboðum í knatthús í Ólafsfirði Bæjarráð Fjallabyggðar hefur formlega hafnað þeim tveimur tilboðum sem bárust í framkvæmdir við fyrirhugað knatthús í Ólafsfirði. Ástæðan er sú að bæði tilboðin voru verulega yfir kostnaða",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-24T11:01:30.458248+00:00",
+  "id": 6
  }
 }
