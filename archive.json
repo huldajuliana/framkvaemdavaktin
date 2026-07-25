@@ -10035,5 +10035,68 @@
   "tsort": "",
   "first_seen": "2026-07-25T10:24:49.992193+00:00",
   "id": 3
+ },
+ "609e1bb53489d176": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-25",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-25-vindmyllur-a-heradi-i-rammaaaetlun-482227/",
+  "title": "Vindmyllur á Héraði í rammaáætlun",
+  "sum": "Áform Orkusölunnar um að reisa tvær vindmyllur við Lagarfossvirkjun á Héraði hafa vakið úlfúð í nærsamfélaginu. Heimastjórn leggst gegn framkvæmdinni og bændur skora á sveitarfélagið að hafna henni um leyfi. Orkusalan vill reisa tvær vindmy",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-25T14:38:14.792967+00:00",
+  "id": 1
+ },
+ "4b26acf996571c57": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-25",
+  "url": "https://byggingar.is/fyrstu-veggeiningar-nys-leikskola-a-hellu-reistar/?utm_source=rss&utm_medium=rss&utm_campaign=fyrstu-veggeiningar-nys-leikskola-a-hellu-reistar",
+  "title": "Fyrstu veggeiningar nýs leikskóla á Hellu reistar",
+  "sum": "Fyrstu veggeiningar nýs leikskóla á Hellu reistar Framkvæmdir við nýjan leikskóla á Hellu taka nú á sig sífellt skýrari mynd en uppsetning fyrstu veggeininganna er hafin. Undirstöður leikskólans eru nú þegar vel sjáanlegar og með uppsetning",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-25T14:38:14.792967+00:00",
+  "id": 2
+ },
+ "7701a7ecb265cb31": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-25",
+  "url": "https://byggingar.is/godur-gangur-i-gerd-nyrra-ofanflodavarna-i-neskaupstad/?utm_source=rss&utm_medium=rss&utm_campaign=godur-gangur-i-gerd-nyrra-ofanflodavarna-i-neskaupstad",
+  "title": "Góður gangur í gerð nýrra ofanflóðavarna í Neskaupstað",
+  "sum": "Góður gangur í gerð nýrra ofanflóðavarna í Neskaupstað Framkvæmdir við ofanflóðavarnir við Nes- og Bakkagil í Neskaupstað hafa gengið vel að undanförnu og eru töluvert á undan upprunalegri tímaáætlun. Lokið er við uppsetningu 14 af 20 keilu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-25T14:38:14.792967+00:00",
+  "id": 3
  }
 }
