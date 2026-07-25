@@ -9972,5 +9972,68 @@
   "tsort": "2026-07",
   "first_seen": "2026-07-24T14:55:56.049797+00:00",
   "id": 1
+ },
+ "c6a8e6e74c1ec1b2": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-24",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/24/vilja_byggja_upp_nytt_hverfi/",
+  "title": "Vilja byggja upp nýtt hverfi",
+  "sum": "Mikil tækifæri eru fyrir uppbyggingu í ferðaþjónustu, innviðum og atvinnustarfsemi í Grundarfirði að sögn bæjarstjóra. Bæjarráð samþykkti í gær að kanna áhuga markaðsaðila á þróun og uppbyggingu ÍB-6-svæðisins vestast í bænum við Grundargöt",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-25T10:24:49.992193+00:00",
+  "id": 1
+ },
+ "5830aa5171b1e2a1": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-07-24",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/07/24/dyr_thetting_skyri_haega_solu_ibuda/",
+  "title": "Dýr þétting skýri hæga sölu íbúða",
+  "sum": "Svanur Karl Grjetarsson, forstjóri byggingafyrirtækisins MótX, segir ládeyðu á fasteignamarkaði fyrst og fremst skýrast af háu verði nýrra íbúða á þéttingarreitum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-25T10:24:49.992193+00:00",
+  "id": 2
+ },
+ "059c8c8dbc6ba7bd": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-24",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-24-ny-innkeyrsla-a-ad-audvelda-adkomu-ad-keflavikurflugvelli-482176/",
+  "title": "Ný innkeyrsla á að auðvelda aðkomu að Keflavíkurflugvelli",
+  "sum": "Isavia hefur opnað nýja innkeyrslu við flugstöðina á Keflavíkurflugvelli sem ætlað er að bæta aðkomu. Miklum framkvæmdum sem hafa staðið yfir á bílastæðum, þar sem komufarþegar yfirgefa flugstöðina, síðustu mánuði fer senn að ljúka. Þetta k",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-25T10:24:49.992193+00:00",
+  "id": 3
  }
 }
