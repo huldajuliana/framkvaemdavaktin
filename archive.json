@@ -10098,5 +10098,26 @@
   "tsort": "",
   "first_seen": "2026-07-25T14:38:14.792967+00:00",
   "id": 3
+ },
+ "c0a44a8df00abc5b": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-26",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/26/ny_bru_yfir_gufufjord_tekur_a_sig_mynd/",
+  "title": "Ný brú yfir Gufufjörð tekur á sig mynd",
+  "sum": "Vinna stendur nú yfir við smíði nýrrar brúar yfir Gufufjörð á Vestfjörðum og er verkið vel á veg komið. Brúin verður um 130 metra löng og búið er að steypa flesta stöpla hennar en nú er unnið að undirslætti brúardekksins.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-26T14:37:04.208479+00:00",
+  "id": 1
  }
 }
