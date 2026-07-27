@@ -10119,5 +10119,26 @@
   "tsort": "",
   "first_seen": "2026-07-26T14:37:04.208479+00:00",
   "id": 1
+ },
+ "3a326477a1ba4336": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-27",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-27-maela-med-osnortnu-heidalandi-482346/",
+  "title": "Mæla með ósnortnu heiðalandi",
+  "sum": "Vindorkumannvirki krefjast umfangsmikillar vegagerðar í ósnortnu heiðalandi, segir formaður Landverndar. Í meðmælagöngum Landverndar með heiðalandi er gengið á staði þar sem hugmyndir hafa komið fram um að reisa vindaflsvirkjanir. „Hér er F",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-27T12:19:37.769942+00:00",
+  "id": 1
  }
 }
