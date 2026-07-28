@@ -10203,5 +10203,89 @@
   "tsort": "",
   "first_seen": "2026-07-28T11:14:49.309340+00:00",
   "id": 2
+ },
+ "872a4c5543207a31": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-28",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-28-hs-orka-kaupir-mulavirkjun-482480/",
+  "title": "HS Orka kaupir Múlavirkjun",
+  "sum": "HS Orka hefur keypt vatnsaflsvirkjunina Múlavirkjun í Eyja- og Miklaholtshreppi á Snæfellsnesi. Stærsti eigandi Múlavirkjunar hf. var Eggert Kjartansson, bóndi á Hofsstöðum. Kaupsamningur var undirritaður á Búðum á Snæfellsnesi í dag. Múlav",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-28T15:22:11.565323+00:00",
+  "id": 1
+ },
+ "41841fac2920e86a": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-28",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-28-14-varnarkeilur-fullbunar-fyrir-ofan-neskaupstad-482470/",
+  "title": "14 varnarkeilur fullbúnar fyrir ofan Neskaupstað",
+  "sum": "Drunur frá sprengingum eða vinnuvélum hafa verið hluti af hversdegi Norðfirðinga síðustu misseri, eða síðan 2024 þegar framkvæmdir hófust við lokaáfanga snjóflóðavarna ofan Neskaupstaðar. Vinna við varnargarða ofan við bæinn hefur gengið ve",
+  "tender": "",
+  "start": "",
+  "end": "2029",
+  "tsort": "2029-01",
+  "first_seen": "2026-07-28T15:22:11.565323+00:00",
+  "id": 2
+ },
+ "8ebc0c0abfc52ba1": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-28",
+  "url": "https://byggingar.is/flutningum-a-fyrstu-14-vindmyllunum-lokid/?utm_source=rss&utm_medium=rss&utm_campaign=flutningum-a-fyrstu-14-vindmyllunum-lokid",
+  "title": "Flutningum á fyrstu 14 vindmyllunum lokið",
+  "sum": "Flutningum á fyrstu 14 vindmyllunum lokið Flutningum á öllum íhlutum fyrstu 14 vindmyllanna frá Þorlákshöfn að Vaðölduveri er lokið. Síðasti vindmylluspaðinn var fluttur á framkvæmdasvæðið aðfaranótt 28. júlí. Umfangsmikið flutningsverkefni",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-28T15:22:11.565323+00:00",
+  "id": 3
+ },
+ "dc7b9a9512da7ae5": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-28",
+  "url": "https://byggingar.is/ma-ekki-skeika-millimetra/?utm_source=rss&utm_medium=rss&utm_campaign=ma-ekki-skeika-millimetra",
+  "title": "Má ekki skeika millimetra",
+  "sum": "Má ekki skeika millimetra Nú stendur yfir mikilvægur undirbúningur í Efri-Laugardælaeyju fyrir uppsetningu turns nýju Ölfusárbrúarinnar. Smíðað hefur verið svokallað skapalón sem er notað til að staðsetja nákvæmlega innsteyptar boltafesting",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-28T15:22:11.565323+00:00",
+  "id": 4
  }
 }
