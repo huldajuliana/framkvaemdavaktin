@@ -10161,5 +10161,47 @@
   "tsort": "",
   "first_seen": "2026-07-27T15:42:36.242844+00:00",
   "id": 1
+ },
+ "48369a12fd2c52ee": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-28",
+  "url": "https://byggingar.is/segir-nyjan-veg-ekki-skemma-landmannalaugar/?utm_source=rss&utm_medium=rss&utm_campaign=segir-nyjan-veg-ekki-skemma-landmannalaugar",
+  "title": "Segir nýjan veg ekki skemma Landmannalaugar",
+  "sum": "Segir nýjan veg ekki skemma Landmannalaugar Búið er að gera veg með ræsislögn yfir pollinn svokallaða í Landmannalaugum, þar sem afrennsli úr náttúruböðum lauganna hefur hingað til safnast saman. Nokkuð skiptar skoðanir eru um framkvæmdina ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-28T11:14:49.309340+00:00",
+  "id": 1
+ },
+ "e296b7a3e41410be": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-27",
+  "url": "https://byggingar.is/haegir-a-leigumarkadi-thott-leiguverd-haekki-enn/?utm_source=rss&utm_medium=rss&utm_campaign=haegir-a-leigumarkadi-thott-leiguverd-haekki-enn",
+  "title": "Hægir á leigu­markaði þótt leigu­verð hækki enn",
+  "sum": "Hægir á leigu­markaði þótt leigu­verð hækki enn Á fyrstu sex mánuði ársins fjölgaði skráðum leigu­samningum um tæp­lega 1.250. Á sama tíma­bili í fyrra hafði þeim fjölgað um nærri 3.100. Dregið hefur úr hækkunum á leigu­markaði og eftir­spu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-28T11:14:49.309340+00:00",
+  "id": 2
  }
 }
