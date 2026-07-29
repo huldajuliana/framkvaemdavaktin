@@ -10371,5 +10371,26 @@
   "tsort": "",
   "first_seen": "2026-07-29T11:23:30.493541+00:00",
   "id": 1
+ },
+ "ae733f875c9cf958": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Risa",
+  "scaleFig": "450 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-28",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-28-framkvaemdir-hafnar-vegna-nys-ibudahverfis-482496/",
+  "title": "Framkvæmdir hafnar vegna nýs íbúðahverfis",
+  "sum": "Framkvæmdir við Hafnarfjarðarveg á Arnarneshálsi eru fyrsta skrefið í gerð nýs hverfis í Garðabæ. Íbúar í nágrenninu gagnrýna áformin. Deiliskipulag Arnarlands, nýs íbúðahverfis í Garðabæ, var samþykkt í bæjarstjórn 6. mars. Landið afmarkas",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-29T15:08:24.787861+00:00",
+  "id": 1
  }
 }
