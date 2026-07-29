@@ -10287,5 +10287,89 @@
   "tsort": "",
   "first_seen": "2026-07-28T15:22:11.565323+00:00",
   "id": 4
+ },
+ "ade54b3c7b736d1c": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Risa",
+  "scaleFig": "450 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-28",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-28-framkvaemdir-hafnar-vegna-uppbyggingar-nys-ibuahverfis-482496/",
+  "title": "Framkvæmdir hafnar vegna uppbyggingar nýs íbúahverfis",
+  "sum": "Framkvæmdir við Hafnarfjarðarveg við Arnarnesháls eru fyrsta skrefið í uppbyggingu nýs hverfis í Garðabæ. Íbúar í nágrenninu hafa gagnrýnt áformin. Deiliskipulag Arnarlands, nýs íbúahverfis í Garðabæ, var samþykkt í bæjarstjórn Garðabæjar 6",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-29T11:23:30.493541+00:00",
+  "id": 2
+ },
+ "e5156871b761c14c": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-28",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-28-hvetur-okumenn-til-ad-fara-threngslin-i-stad-thess-ad-thurfa-ad-bida-i-langri-rod-vid-olfusarbru-482465/",
+  "title": "Hvetur ökumenn til að fara Þrengslin í stað þess að þurfa að bíða í langri röð við Ölfusárbrú",
+  "sum": "Langar bílaraðir myndast oft, stundum alveg upp að Kögunarhóli á móts við Ingólfsfjall, þegar ökumenn og þeirra fólk í bílunum eru að fara á Selfoss eða lengra austur og er tappinn alltaf við Ölfusárbrú. Það sem tefur líka er að það má aðei",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-29T11:23:30.493541+00:00",
+  "id": 3
+ },
+ "ab7672d406f7afea": {
+  "region": "Norðurland vestra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-28",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-28-ottast-ad-skipulagsbreytingar-a-logregluembaettum-se-dulbuin-hagraeding-482486/",
+  "title": "Óttast að skipulagsbreytingar á lögregluembættum sé dulbúin hagræðing",
+  "sum": "Þorbjörg S. Gunnlaugsdóttir dómsmálaráðherra kynnti fyrirhugaðar breytingar á skipulagi lögreglu í vor. Að hennar sögn eru breytingarnar til þess gerðar að efla lögregluembættin á landinu. Þá á að fækka þeim úr níu niður í fjögur eða fimm. ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-29T11:23:30.493541+00:00",
+  "id": 4
+ },
+ "7c6537dac841152d": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-29",
+  "url": "https://byggingar.is/afram-unnid-vid-vestfjardaveg/?utm_source=rss&utm_medium=rss&utm_campaign=afram-unnid-vid-vestfjardaveg",
+  "title": "Áfram unnið við Vest­fjarða­veg",
+  "sum": "Áfram unnið við Vest­fjarða­veg Framkvæmdir við Vestfjarðaveg eru í fullum gangi. Unnið er að brúargerð í Gufufirði og Djúpafirði auk framkvæmda við þriðja áfanga á Dynjandisheiði. Tafir og breytingar á hönnun hafa haft áhrif á framvinduna ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-29T11:23:30.493541+00:00",
+  "id": 1
  }
 }
