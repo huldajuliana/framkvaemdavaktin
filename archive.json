@@ -10392,5 +10392,89 @@
   "tsort": "",
   "first_seen": "2026-07-29T15:08:24.787861+00:00",
   "id": 1
+ },
+ "eb5cdbe933f38944": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-07-30",
+  "url": "https://www.ruv.is/frettir/innlent/2026-07-30-hvassir-vindstrengir-a-sunnan-og-austanverdu-landinu-482620/",
+  "title": "Hvassir vindstrengir á sunnan- og austanverðu landinu",
+  "sum": "Það má búast við hvassviðri undir Eyjafjöllum í kvöld og á morgun og sömuleiðis víða á austanverðu landinu.Víðir Hólm Ólafsson Vegagerðin varar við varhugaverðum akstursskilyrðum um sunnan- og austanvert landið í kvöld og á morgun, einkum v",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-30T11:04:49.192834+00:00",
+  "id": 1
+ },
+ "cbb20dfcbf295f49": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-29",
+  "url": "https://byggingar.is/orkubu-vestfjarda-ohf-adrennslisror-fyrir-kvislatunguvirkjun/?utm_source=rss&utm_medium=rss&utm_campaign=orkubu-vestfjarda-ohf-adrennslisror-fyrir-kvislatunguvirkjun",
+  "title": "28.08.2026 Orkubú Vestfjarða ohf. Aðrennslisrör fyrir Kvíslatunguvirkjun",
+  "sum": "Orkubú Vestfjarða ohf. Aðrennslisrör fyrir Kvíslatunguvirkjun Orkubú Vestfjarða ohf. hefur auglýst útboð á hönnun, framleiðslu og afhendingu aðrennslisröra fyrir Kvíslatunguvirkjun. Um er að ræða umfangsmikil vörukaup sem skiptast í tvo sjá",
+  "tender": "28. ágúst 2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-08",
+  "first_seen": "2026-07-30T11:04:49.192834+00:00",
+  "id": 2
+ },
+ "ace8c49100cd3d73": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-29",
+  "url": "https://byggingar.is/lodathjonustan-ehf-med-laegsta-tilbodid-i-yfirbordsfragang-a-artunshofda/?utm_source=rss&utm_medium=rss&utm_campaign=lodathjonustan-ehf-med-laegsta-tilbodid-i-yfirbordsfragang-a-artunshofda",
+  "title": "Lóðaþjónustan ehf. með lægsta tilboðið í yfirborðsfrágang á Ártúnshöfða",
+  "sum": "Lóðaþjónustan ehf. með lægsta tilboðið í yfirborðsfrágang á Ártúnshöfða Fimm tilboð bárust í verðfyrirspurn Reykjavíkurborgar nr. 16340, sem varðar Ártúnshöfða – Gatnagerð og lagnir – Svæði 1 – Yfirborðsfrágang við Eirhöfða 1 og Breiðhöfða ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-30T11:04:49.192834+00:00",
+  "id": 3
+ },
+ "263d23def2b840ed": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-29",
+  "url": "https://byggingar.is/jardval-sf-med-laegsta-tilbodid-i-stigagerd-vid-vinlandsleid-i-reykjavik/?utm_source=rss&utm_medium=rss&utm_campaign=jardval-sf-med-laegsta-tilbodid-i-stigagerd-vid-vinlandsleid-i-reykjavik",
+  "title": "Jarðval sf. með lægsta tilboðið í stígagerð við Vínlandsleið í Reykjavík",
+  "sum": "Jarðval sf. með lægsta tilboðið í stígagerð við Vínlandsleið í Reykjavík Alls bárust 14 tilboð í útboð Reykjavíkurborgar nr. 16303, sem varðar stígagerð við Vínlandsleið á kaflanum Laxalón – Þúsöld. Tilboðin voru opnuð í Borgartúni 12–14 þa",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-30T11:04:49.192834+00:00",
+  "id": 4
  }
 }
