@@ -10476,5 +10476,47 @@
   "tsort": "",
   "first_seen": "2026-07-30T11:04:49.192834+00:00",
   "id": 4
+ },
+ "f4efca24a67a317e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-30",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/30/engar_gatnaframkvaemdir_i_reykjavik_i_naestu_viku/",
+  "title": "Engar gatnaframkvæmdir í Reykjavík í næstu viku",
+  "sum": "Engar framkvæmdir verða við gatnaviðhald á vegum Reykjavíkurborgar í næstu viku.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-30T15:10:48.916198+00:00",
+  "id": 1
+ },
+ "85b62e5b0cad32a6": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-07-30",
+  "url": "https://www.visir.is/g/20262915300d/gaedi-bygginga-radast-ekki-ef-reglugerdum-einum-saman",
+  "title": "Gæði bygginga ráðast ekki ef reglu­gerðum einum saman",
+  "sum": "Ísland stendur nú frammi fyrir mikilli íbúðauppbyggingu og ný fjölbýlishús rísa víða um land. Samhliða þessari þróun hafa reglulega komið fram fréttir af göllum í nýbyggingum, þar sem íbúar og húsfélög standa frammi fyrir kostnaðarsömum úrb",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-30T15:10:48.916198+00:00",
+  "id": 2
  }
 }
