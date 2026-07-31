@@ -10518,5 +10518,47 @@
   "tsort": "",
   "first_seen": "2026-07-30T15:10:48.916198+00:00",
   "id": 2
+ },
+ "b634c607360b65b5": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-07-31",
+  "url": "https://www.mbl.is/frettir/innlent/2026/07/31/forstjori_gaeslunnar_maettur_og_bruin_sigur/",
+  "title": "Forstjóri Gæslunnar mættur og brúin sígur",
+  "sum": "Landgöngubrú Banderos, skips hvalverndarsinnans Pauls Watsons, hefur verið færð niður og því virðist styttast í að skipverjar verði færðir frá borði, ef þeir eru þá enn um borð.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-31T11:27:24.985699+00:00",
+  "id": 1
+ },
+ "4b0fc5bfdda1b40d": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-30",
+  "url": "https://byggingar.is/tvo-tilbod-barust-i-staekkun-seydisfjardarskola/?utm_source=rss&utm_medium=rss&utm_campaign=tvo-tilbod-barust-i-staekkun-seydisfjardarskola",
+  "title": "Tvö tilboð bárust í stækkun Seyðisfjarðarskóla",
+  "sum": "Tvö tilboð bárust í stækkun Seyðisfjarðarskóla Tvö tilboð bárust í útboð vegna byggingar nýrrar skólabyggingar við Seyðisfjarðarskóla. Tilboðin eru nú til yfirferðar hjá Múlaþingi og verður í framhaldinu tekin ákvörðun um næstu skref verkef",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-07-31T11:27:24.985699+00:00",
+  "id": 2
  }
 }
