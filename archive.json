@@ -10581,5 +10581,47 @@
   "tsort": "",
   "first_seen": "2026-08-01T10:38:24.897506+00:00",
   "id": 1
+ },
+ "bff68c7b949c5515": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-01",
+  "url": "https://byggingar.is/kopavogur-stefnir-ad-2-487-nyjum-ibudum-til-arsins-2035/?utm_source=rss&utm_medium=rss&utm_campaign=kopavogur-stefnir-ad-2-487-nyjum-ibudum-til-arsins-2035",
+  "title": "Kópavogur stefnir að 2.487 nýjum íbúðum til ársins 2035",
+  "sum": "Kópavogur stefnir að 2.487 nýjum íbúðum til ársins 2035 Kópavogsbær stefnir að einni umfangsmestu íbúðauppbyggingu landsins á næstu tíu árum samkvæmt nýrri húsnæðisáætlun sveitarfélagsins. Gert er ráð fyrir að byggðar verði um 2.487 nýjar í",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-01T14:26:54.888791+00:00",
+  "id": 1
+ },
+ "70bc66dd5a3c80b2": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-01",
+  "url": "https://byggingar.is/engin-tilbod-barust-i-eftirlit-med-endurbyggingu-jokuldalsvegar/?utm_source=rss&utm_medium=rss&utm_campaign=engin-tilbod-barust-i-eftirlit-med-endurbyggingu-jokuldalsvegar",
+  "title": "Engin tilboð bárust í eftirlit með endurbyggingu Jökuldalsvegar",
+  "sum": "Engin tilboð bárust í eftirlit með endurbyggingu Jökuldalsvegar Engin tilboð bárust í útboð Vegagerðarinnar vegna eftirlits og ráðgjafar með framkvæmdaverkinu „Jökuldalsvegur (923), Langagerði – Hákonarstaðir“ þegar tilboð voru opnuð 28. jú",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-01T14:26:54.888791+00:00",
+  "id": 2
  }
 }
