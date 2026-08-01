@@ -10560,5 +10560,26 @@
   "tsort": "",
   "first_seen": "2026-07-31T11:27:24.985699+00:00",
   "id": 2
+ },
+ "86ccbc2e17c7a5e8": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-07-31",
+  "url": "https://byggingar.is/thrju-tilbod-barust-i-taetara-fyrir-timbururgang-hja-sorpu/?utm_source=rss&utm_medium=rss&utm_campaign=thrju-tilbod-barust-i-taetara-fyrir-timbururgang-hja-sorpu",
+  "title": "Þrjú tilboð bárust í tætara fyrir timburúrgang hjá SORPU",
+  "sum": "Þrjú tilboð bárust í tætara fyrir timburúrgang hjá SORPU Þrjú tilboð bárust í EES-útboð Reykjavíkurborgar nr. 16324, sem varðar kaup á tætara fyrir timburúrgang fyrir SORPU bs. Tilboðin voru opnuð í Borgartúni 12–14 þann 31. júlí 2026. Verk",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-01T10:38:24.897506+00:00",
+  "id": 1
  }
 }
