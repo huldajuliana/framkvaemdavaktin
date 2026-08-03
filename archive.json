@@ -10623,5 +10623,47 @@
   "tsort": "",
   "first_seen": "2026-08-01T14:26:54.888791+00:00",
   "id": 2
+ },
+ "1db1119700c57489": {
+  "region": "Suðurnes",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-02",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/08/02/badlon_i_nyjum_kjarna_keflavikur/",
+  "title": "Baðlón í nýjum kjarna Keflavíkur",
+  "sum": "Steinþór Jónsson, hótelstjóri á Hótel Keflavík, hefur kynnt hugmyndir um enn meiri uppbyggingu í Keflavík.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-03T12:19:57.045352+00:00",
+  "id": 2
+ },
+ "ca8304f79223b1c4": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "2,4 ma.kr.",
+  "verk": [
+   "Jáverk"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-03",
+  "url": "https://byggingar.is/hagnast-um-24-milljarda/?utm_source=rss&utm_medium=rss&utm_campaign=hagnast-um-24-milljarda",
+  "title": "Hagnast um 2,4 milljarða",
+  "sum": "Hagnast um 2,4 milljarða Félagið seldi íbúðir fyrir 11,6 milljarða á árinu. GG ehf., móðurfélag verktakafyrirtækisins Jáverks, hagnaðist um tæplega 2,4 milljarða króna í fyrra, samanborið við 749 milljóna króna hagnað árið áður. Samstæða GG",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-03T12:19:57.045352+00:00",
+  "id": 1
  }
 }
