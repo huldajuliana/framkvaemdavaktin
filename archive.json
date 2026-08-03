@@ -10665,5 +10665,26 @@
   "tsort": "",
   "first_seen": "2026-08-03T12:19:57.045352+00:00",
   "id": 1
+ },
+ "bcdba4d6a571ba5f": {
+  "region": "Norðurland vestra",
+  "type": "Íbúðir",
+  "scale": "Lítil",
+  "scaleFig": "10 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-03",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-03-mikil-ibudauppbygging-a-hvammstanga-482581/",
+  "title": "Mikil íbúðauppbygging á Hvammstanga",
+  "sum": "Brák íbúðafélag á 8 af 10 íbúðum í nýju fjölbýlishúsi á Hvammstanga. Alls á Brák 14 leiguíbúðir í bænum og eru þær allar í útleigu. Brák er húsnæðissjálfseignarstofnun sem var stofnuð árið 2022 af 31 sveitarfélagi og er rekin án hagnaðarmar",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-03T15:43:41.267986+00:00",
+  "id": 1
  }
 }
