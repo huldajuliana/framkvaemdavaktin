@@ -10707,5 +10707,26 @@
   "tsort": "",
   "first_seen": "2026-08-04T11:21:24.744601+00:00",
   "id": 1
+ },
+ "5b21389a14c54ceb": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-04",
+  "url": "https://byggingar.is/samid-vid-steypustodina-a-dalvik-um-endurnyjun-boggvisbrautar-sudur/?utm_source=rss&utm_medium=rss&utm_campaign=samid-vid-steypustodina-a-dalvik-um-endurnyjun-boggvisbrautar-sudur",
+  "title": "Samið við Steypustöðina á Dalvík um endurnýjun Böggvisbrautar suður",
+  "sum": "Samið við Steypustöðina á Dalvík um endurnýjun Böggvisbrautar suður Byggðaráð Dalvíkurbyggðar hefur samþykkt að ganga til samninga við Steypustöðina á Dalvík ehf. um framkvæmdina „Böggvisbraut suður – endurnýjun götu“, eftir að tvö tilboð b",
+  "tender": "30. júlí 2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-07",
+  "first_seen": "2026-08-04T15:24:27.310707+00:00",
+  "id": 1
  }
 }
