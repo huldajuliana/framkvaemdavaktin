@@ -10686,5 +10686,26 @@
   "tsort": "",
   "first_seen": "2026-08-03T15:43:41.267986+00:00",
   "id": 1
+ },
+ "74a18f39c5b585b8": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-03",
+  "url": "https://byggingar.is/ekki-byggt-fyrir-tha-efnaminni/?utm_source=rss&utm_medium=rss&utm_campaign=ekki-byggt-fyrir-tha-efnaminni",
+  "title": "Ekki byggt fyrir þá efnaminni",
+  "sum": "Ekki byggt fyrir þá efnaminni Jón Sigurðsson, formaður Meistarafélags húsasmiða, hefur starfað í byggingariðnaði frá því að hann lauk sveinsprófi undir lok áttunda áratugarins. Á þeim tíma hefur hann séð íslenskan húsnæðismarkað gjörbreytas",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-04T11:21:24.744601+00:00",
+  "id": 1
  }
 }
