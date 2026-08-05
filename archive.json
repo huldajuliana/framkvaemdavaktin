@@ -10728,5 +10728,110 @@
   "tsort": "2026-07",
   "first_seen": "2026-08-04T15:24:27.310707+00:00",
   "id": 1
+ },
+ "d0fcd842aa834d78": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-08-04",
+  "url": "https://www.visir.is/g/20262916797d/naeturborun-i-sjo-lokid-og-verktakar-thakka-ibuum-tholinmaedina",
+  "title": "Næturborun í sjó lokið og verk­takar þakka í­búum þolin­mæðina",
+  "sum": "Síðustu vikur hefur borun staðið yfir að næturlagi í sjónum úti fyrir Kársnesi en henni er nú lokið. Borunin er skref í smíði Fossvogsbrúar sem verður 270 metra löng, allt að sautján metra breið og opnar þann 16. júní árið 2028, ef allt fer",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-05T11:18:00.678616+00:00",
+  "id": 4
+ },
+ "6e9b37a271a9ca70": {
+  "region": "Suðurnes",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-05",
+  "url": "https://byggingar.is/gaetu-skapad-thusund-storf/?utm_source=rss&utm_medium=rss&utm_campaign=gaetu-skapad-thusund-storf",
+  "title": "Gætu skapað þúsund störf",
+  "sum": "Gætu skapað þúsund störf Verne horfir til þess að stækka gagnaver sitt í Reykjanesbæ um 120 MW. Fundað verður með framkvæmdaraðilum síðar í mánuðinum. Gagnaver Verne í Reykjanesbæ er meðal þeirra stærstu á Íslandi en undanfarin ár hefur ver",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-05T11:18:00.678616+00:00",
+  "id": 1
+ },
+ "f69422d05ef67edf": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-05",
+  "url": "https://byggingar.is/framkvaemdir-vid-heidarborg-i-hvalfjardarsveit-a-lokametrunum/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-vid-heidarborg-i-hvalfjardarsveit-a-lokametrunum",
+  "title": "Framkvæmdir við Heiðarborg í Hvalfjarðarsveit á lokametrunum",
+  "sum": "Framkvæmdir við Heiðarborg í Hvalfjarðarsveit á lokametrunum Nokkrir starfsmenn Hvalfjarðarsveitar fóru í gærmorgun í skoðunarferð um Heiðarborg, ný íþróttamannvirki og samfélagsmiðstöð sveitarfélagsins, þar sem framkvæmdir eru nú komnar á ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-05T11:18:00.678616+00:00",
+  "id": 2
+ },
+ "f612db463203fbb6": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "180 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-05",
+  "url": "https://byggingar.is/bfa-staekkar-bjorgunarmidstodina-a-selfossi/?utm_source=rss&utm_medium=rss&utm_campaign=bfa-staekkar-bjorgunarmidstodina-a-selfossi",
+  "title": "BFÁ stækkar björgunarmiðstöðina á Selfossi",
+  "sum": "BFÁ stækkar björgunarmiðstöðina á Selfossi Fyrsta skóflustungan að stækkun björgunarmiðstöðvarinnar á Selfossi var tekin í gærkvöldi en framkvæmdir við bygginguna munu hefjast í vikunni. Sveinn Ægir Birgisson, formaður Björgunarfélags Árbor",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-05T11:18:00.678616+00:00",
+  "id": 3
+ },
+ "a55483f9a52bb543": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-04",
+  "url": "https://byggingar.is/steypustodin-a-dalvik-faer-lika-samning-um-gatnagerd-i-birkiholum/?utm_source=rss&utm_medium=rss&utm_campaign=steypustodin-a-dalvik-faer-lika-samning-um-gatnagerd-i-birkiholum",
+  "title": "Steypustöðin á Dalvík fær líka samning um gatnagerð í Birkihólum",
+  "sum": "Steypustöðin á Dalvík fær líka samning um gatnagerð í Birkihólum Byggðaráð Dalvíkurbyggðar hefur samþykkt að ganga til samninga við Steypustöðina á Dalvík ehf. um gatnagerð í Birkihólum eftir að tvö tilboð bárust í útboð framkvæmdarinnar. Á",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-05T11:18:00.678616+00:00",
+  "id": 5
  }
 }
