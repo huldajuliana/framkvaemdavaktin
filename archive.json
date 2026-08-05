@@ -10833,5 +10833,68 @@
   "tsort": "",
   "first_seen": "2026-08-05T11:18:00.678616+00:00",
   "id": 5
+ },
+ "b56672b72da37703": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-05",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/05/meira_jafnvaegi_ad_komast_a_markadinn/",
+  "title": "Meira jafnvægi að komast á markaðinn",
+  "sum": "Jónas Atli Gunnarsson, yfirhagfræðingur Húsnæðis-, mannvirkja- og skipulagsstofnunar (HMS), segir minni íbúafjölgun en spáð var eiga þátt í meira jafnvægi á íbúðamarkaði.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-05T15:14:05.211069+00:00",
+  "id": 1
+ },
+ "4a6575c1780a624d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-05",
+  "url": "https://www.visir.is/g/20262917332d/gaetu-verid-fluttir-a-brott-um-bord-i-bandero",
+  "title": "Gætu verið fluttir á brott um borð í Bandero",
+  "sum": "Öllum áhafnarmeðlimum Bandero hefur verið birt ákvörðun um brottvísun og endurkomubann. Þeir eru nú frjálsir ferða sinna innan höfuðborgarsvæðisins en ríkislögreglustjóri vinnur að framkvæmd brottvísunar. Ekki er loku fyrir það skotið að sk",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-05T15:14:05.211069+00:00",
+  "id": 2
+ },
+ "76b2cca44ebc693b": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-05",
+  "url": "https://byggingar.is/21-09-2026-isavia-bydur-ut-nyja-heildarlausn-fyrir-oryggisleit-a-keflavikurflugvelli/?utm_source=rss&utm_medium=rss&utm_campaign=21-09-2026-isavia-bydur-ut-nyja-heildarlausn-fyrir-oryggisleit-a-keflavikurflugvelli",
+  "title": "21.09.2026 Isavia býður út nýja heildarlausn fyrir öryggisleit á Keflavíkurflugvelli",
+  "sum": "Isavia býður út nýja heildarlausn fyrir öryggisleit á Keflavíkurflugvelli Isavia hefur auglýst útboð á nýrri og samræmdri öryggisleit fyrir farþega á Keflavíkurflugvelli. Verkefnið felur í sér afhendingu, uppsetningu og rekstur fullkomins ö",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-05T15:14:05.211069+00:00",
+  "id": 3
  }
 }
