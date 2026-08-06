@@ -10938,5 +10938,26 @@
   "tsort": "2026-01",
   "first_seen": "2026-08-06T11:20:48.500605+00:00",
   "id": 2
+ },
+ "567937daf770de30": {
+  "region": "Suðurnes",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-06",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/08/06/gaeti_skapad_yfir_thusund_storf/",
+  "title": "Gæti skapað yfir þúsund störf",
+  "sum": "Verne undirbýr mögulega stækkun gagnavers fyrirtækisins í Reykjanesbæ.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-06T15:13:51.882544+00:00",
+  "id": 1
  }
 }
