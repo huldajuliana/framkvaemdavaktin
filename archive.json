@@ -10959,5 +10959,173 @@
   "tsort": "",
   "first_seen": "2026-08-06T15:13:51.882544+00:00",
   "id": 1
+ },
+ "09ae76e16c19dffa": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-08-07",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/08/07/creditinfo_group_kaupir_everydata/",
+  "title": "Creditinfo Group kaupir EveryData",
+  "sum": "InfoCapital hefur, að undangengnu alþjóðlegu útboði, undirritað kaupsamning við Creditinfo Group um kaup á öllu hlutafé í EveryData Group, sem er leiðandi fjárhagsupplýsingastofa með starfsemi í Karabíska hafinu.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-07T09:58:44.239122+00:00",
+  "id": 1
+ },
+ "cdfd9cdaf5e6b5c3": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-06",
+  "url": "https://www.visir.is/g/20262918010d/fer-fra-laxeldi-i-eldri-borgara",
+  "title": "Fer frá lax­eldi í eldri borgara",
+  "sum": "Jónas Heiðar Birgisson hefur verið ráðinn sem fjármálastjóri Sjómannadagsráðs en undir ráðið heyra Hrafnistuheimilin, DAS íbúðir, og Happdrætti Das. Jónas Heiðar tekur við af Kristjáni Björgvinssyni, sem lætur nú af störfum eftir átta ár hj",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-07T09:58:44.239122+00:00",
+  "id": 4
+ },
+ "aedda8f15cfbddbe": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-06",
+  "url": "https://www.visir.is/g/20262917929d/vidarplata-eina-utsynid-og-havadi-fra-morgni-til-kvolds",
+  "title": "Viðarplata eina út­sýnið og há­vaði frá morgni til kvölds",
+  "sum": "Íbúi í Hamraborg þar sem niðurrif stendur yfir vegna byggingu nýs miðbæjar Kópavogs segir hávaðann óbærilegan. Hann sér nú ekkert út um gluggann nema viðarplötu. Annar íbúi segir að svo virðist vera sem það hafi hreinlega gleymst að fólk bú",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-07T09:58:44.239122+00:00",
+  "id": 5
+ },
+ "a9233f31b84844ab": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-06",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-06-tilbodsfrestur-utbods-djupafjardarbruar-framlengdur-483091/",
+  "title": "Tilboðsfrestur útboðs Djúpafjarðarbrúar framlengdur",
+  "sum": "Frestur til að skila inn tilboði vegna smíði brúar yfir Djúpafjörð hefur verið framlengdur til 8. september 2026. G. Pétur Matthíasson, upplýsingafulltrúi Vegagerðarinnar, segir það hafa verið gert vegna þess að nokkrir tilvonandi bjóðendur",
+  "tender": "",
+  "start": "2020",
+  "end": "1. október 2028",
+  "tsort": "2020-01",
+  "first_seen": "2026-08-07T09:58:44.239122+00:00",
+  "id": 6
+ },
+ "5a745f77f2848bf6": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-07",
+  "url": "https://byggingar.is/tilbodi-upp-a-31-7-milljonir-i-framkvaemdir-vid-lod-grundaskola-hafnad/?utm_source=rss&utm_medium=rss&utm_campaign=tilbodi-upp-a-31-7-milljonir-i-framkvaemdir-vid-lod-grundaskola-hafnad",
+  "title": "Tilboði upp á 31.7 milljónir í framkvæmdir við lóð Grundaskóla hafnað",
+  "sum": "Tilboði upp á 31.7 milljónir í framkvæmdir við lóð Grundaskóla hafnað Skipulags- og umhverfisráð Akraness hefur hafnað eina tilboðinu sem barst í verðkönnun vegna framkvæmda á lóð Grundaskóla. Tilboðið var rúmlega 32% yfir kostnaðaráætlun v",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-07T09:58:44.239122+00:00",
+  "id": 2
+ },
+ "59dbeb6c2a7a9fd1": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-07",
+  "url": "https://byggingar.is/kolnun-a-husnaedismarkadi-kaupmannahafnar/?utm_source=rss&utm_medium=rss&utm_campaign=kolnun-a-husnaedismarkadi-kaupmannahafnar",
+  "title": "Kólnun á húsnæðis­markaði Kaup­manna­hafnar",
+  "sum": "Kólnun á húsnæðis­markaði Kaup­manna­hafnar Fjöldi íbúða til sölu í Kaupmannahöfn hefur aukist um 70% frá upphafi árs og telja sérfræðingar að íbúðaverð geti tekið að lækka á næstunni. Framboð íbúða í Kaupmannahöfn hefur aukist verulega eft",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-07T09:58:44.239122+00:00",
+  "id": 3
+ },
+ "331df25b3c3aba8d": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "1.100 m²",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-06",
+  "url": "https://byggingar.is/reykjavikurborg-bydur-ut-nidurrif-laugasolar-vid-leirulaek/?utm_source=rss&utm_medium=rss&utm_campaign=reykjavikurborg-bydur-ut-nidurrif-laugasolar-vid-leirulaek",
+  "title": "26.08.2026 Reykjavíkurborg býður út niðurrif Laugasólar við Leirulæk",
+  "sum": "Reykjavíkurborg býður út niðurrif Laugasólar við Leirulæk Reykjavíkurborg hefur auglýst útboð á niðurrifi Laugasólar (Laugaborgar) við Leirulæk 6 í Reykjavík. Verkið felur í sér algjört niðurrif rúmlega 1.100 fermetra steinsteyptrar bygging",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-07T09:58:44.239122+00:00",
+  "id": 7
+ },
+ "e475de2f8e93625a": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-06",
+  "url": "https://byggingar.is/veitur-ohf-bjoda-ut-stofnlagnir-medfram-olfusvegi/?utm_source=rss&utm_medium=rss&utm_campaign=veitur-ohf-bjoda-ut-stofnlagnir-medfram-olfusvegi",
+  "title": "28.08.2026 Veitur ohf. bjóða út stofnlagnir meðfram Ölfusvegi",
+  "sum": "Veitur ohf. bjóða út stofnlagnir meðfram Ölfusvegi Veitur ohf. hafa auglýst útboð á fyrsta áfanga nýrra stofnlagna meðfram Ölfusvegi í Ölfusi. Verkefnið felur í sér lagningu nýrra hitaveitu- og vatnsveitulagna ásamt tengingum við núverandi ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-07T09:58:44.239122+00:00",
+  "id": 8
  }
 }
