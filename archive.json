@@ -11294,5 +11294,47 @@
   "end": "",
   "tsort": "",
   "first_seen": "2026-08-07T14:13:14.717291+00:00"
+ },
+ "f99690a26006f32f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-07",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/07/hjolhysi_fauk_a_hlidina/",
+  "title": "Hjólhýsi fauk á hliðina",
+  "sum": "Hjólhýsi þveraði Gilsfjarðarbrú skömmu fyrir klukkan fimm síðdegis þegar það fauk á hliðina.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-08T09:34:32.191353+00:00",
+  "id": 1
+ },
+ "1f17fe1f0d5ee4a3": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-07",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-07-hjolhysi-thveradi-veginn-yfir-gilsfjardarbru-483183/",
+  "title": "Hjólhýsi þveraði veginn yfir Gilsfjarðarbrú",
+  "sum": "Hjólhýsi fauk á hliðina og þveraði veginn um Gilsfjarðarbrú skömmu fyrir klukkan fimm síðdegis. Hlynur Snorrason, yfirlögregluþjónn á Vestfjörðum, segir engum hafa orðið meint af. Hann hvetur fólk til að huga að veðri og veðurspá á ferðalög",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-08T09:34:32.191353+00:00",
+  "id": 2
  }
 }
