@@ -11336,5 +11336,26 @@
   "tsort": "",
   "first_seen": "2026-08-08T09:34:32.191353+00:00",
   "id": 2
+ },
+ "713cbacc0b6d45d7": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-08",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/08/framleidslugetan_eykst_um_67_prosent/",
+  "title": "Framleiðslugetan eykst um 67%",
+  "sum": "Umhverfis- og orkustofnun veitti Orkubúi Vestfjarða (OV) 1. júlí virkjunarleyfi fyrir 9,9 MW Kvíslatunguvirkjun í Selárdal í Strandabyggð. Einnig veitti stofnunin heimild til breytinga á vatnshlotum Svartagilsvatns, Efri-Kotvatna og Þjóðbró",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-09T09:35:38.000180+00:00",
+  "id": 1
  }
 }
