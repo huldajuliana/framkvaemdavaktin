@@ -11357,5 +11357,89 @@
   "tsort": "",
   "first_seen": "2026-08-09T09:35:38.000180+00:00",
   "id": 1
+ },
+ "10aad0c4f306628f": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-10",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/10/vara_vid_havada_herflugs/",
+  "title": "Vara við hávaða herflugs",
+  "sum": "Landhelgisgæslan hefur gert athugasemd við áform um 90 rýma hjúkrunarheimili á Ásbrú vegna hávaða frá herflugi um Keflavíkurflugvöll. Gæslan bendir á að herflug sé ekki tekið með í hljóðvistarútreikningum svæðisins og raunverulegur hávaði g",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-10T10:13:59.035913+00:00",
+  "id": 1
+ },
+ "0043c77276145e91": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-09",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/09/umferdartafir_a_sudurlandi_vegna_ovaentrar_fraesing/",
+  "title": "Umferðartafir á Suðurlandi vegna óvæntrar fræsingar",
+  "sum": "Umferðartafir eru á Suðurlandsvegi austan Þingborgar þar sem verktakar ákváðu að hefja fræsingu vegarins hálfum sólarhring fyrr en áætlað var, með tilheyrandi raski á umferðarflæði.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-10T10:13:59.035913+00:00",
+  "id": 2
+ },
+ "2a52f72e1a2b1d09": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-09",
+  "url": "https://byggingar.is/hornafjordur-oskar-eftir-tilbodum-i-nyjan-leikvoll-i-nesjum/?utm_source=rss&utm_medium=rss&utm_campaign=hornafjordur-oskar-eftir-tilbodum-i-nyjan-leikvoll-i-nesjum",
+  "title": "Hornafjörður óskar eftir tilboðum í nýjan leikvöll í Nesjum",
+  "sum": "Hornafjörður óskar eftir tilboðum í nýjan leikvöll í Nesjum Sveitarfélagið Hornafjörður hefur óskað eftir tilboðum í fullnaðarfrágang á nýjum leikvelli í Nesjum. Verkið felur meðal annars í sér jarðvinnu, uppbyggingu burðarlaga, yfirborðsfr",
+  "tender": "8. ágúst 2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-08",
+  "first_seen": "2026-08-10T10:13:59.035913+00:00",
+  "id": 3
+ },
+ "f55803611b4ff2ac": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "1.5 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-09",
+  "url": "https://byggingar.is/samid-fyrir-taeplega-1-5-milljarda-um-stodvar-og-steinefni-fyrir-borgarlinu/?utm_source=rss&utm_medium=rss&utm_campaign=samid-fyrir-taeplega-1-5-milljarda-um-stodvar-og-steinefni-fyrir-borgarlinu",
+  "title": "Samið fyrir tæplega 1.5 milljarða um stöðvar og steinefni fyrir Borgarlínu",
+  "sum": "Samið fyrir tæplega 1.5 milljarða um stöðvar og steinefni fyrir Borgarlínu Betri samgöngur hafa gert tvo stóra efniskaupasamninga vegna uppbyggingar fyrstu lotu Borgarlínu. Samningarnir ná annars vegar til framleiðslu og afhendingar á 26 Bo",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-10T10:13:59.035913+00:00",
+  "id": 4
  }
 }
