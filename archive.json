@@ -11441,5 +11441,26 @@
   "tsort": "",
   "first_seen": "2026-08-10T10:13:59.035913+00:00",
   "id": 4
+ },
+ "5d7bbce133008e05": {
+  "region": "Suðurnes",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-10",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/10/gaeslan_gerir_athugasemd_vid_hjukrunarheimili/",
+  "title": "Gæslan gerir athugasemd við hjúkrunarheimili",
+  "sum": "Skipulagsráð Reykjanesbæjar hefur samþykkt að breyta tveimur fjölbýlishúsum á Ásbrú við Keilisbraut í níutíu rýma hjúkrunarheimili, þrátt fyrir að Landhelgisgæslan hafi gert athugasemd vegna hávaða frá herflugi um Keflavíkurflugvöll.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-10T14:20:07.114914+00:00",
+  "id": 1
  }
 }
