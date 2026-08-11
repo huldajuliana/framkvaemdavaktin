@@ -11462,5 +11462,110 @@
   "tsort": "",
   "first_seen": "2026-08-10T14:20:07.114914+00:00",
   "id": 1
+ },
+ "7f493f281f83da7e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-11",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/11/vilja_haegri_beygju_og_framhjahlaup_a_ny/",
+  "title": "Vilja hægri beygju og framhjáhlaup á ný",
+  "sum": "Tillögu Miðflokksins í borgarráði fyrr í sumar um að tveimur beygjuakreinum, þ.e. hægri beygju-framhjáhlaupum, verði komið fyrir á ný við gatnamót Höfðabakka og Bæjarháls, í því skyni að greiða fyrir umferð á umræddum gatnamótum og í nágren",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-11T09:57:24.687509+00:00",
+  "id": 1
+ },
+ "0b5c41576977e426": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-10",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/10/kaupa_stodvar_og_steina_fyrir_borgarlinuna/",
+  "title": "Kaupa stöðvar og steina fyrir Borgarlínuna",
+  "sum": "Betri samgöngur hafa gert tvo efniskaupasamninga vegna uppbyggingar fyrstu lotu Borgarlínu.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-11T09:57:24.687509+00:00",
+  "id": 3
+ },
+ "13652fb05d2af2c3": {
+  "region": "Suðurland",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-10",
+  "url": "https://www.visir.is/g/20262919278d/hotelaform-hreidars-strand-vegna-vegleysu",
+  "title": "Hóteláform Hreiðars strand vegna veg­leysu",
+  "sum": "Hreiðar Hermannsson, eigandi Stracta-hótela, kemst hvorki lönd né strönd með áform sín um tíu milljarða króna hótelbyggingu í landi Orustustaða austan Kirkjubæjarklausturs þar sem Vegagerðin neitar að leggja veg til hans vegna andstöðu eige",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-11T09:57:24.687509+00:00",
+  "id": 4
+ },
+ "26ddf8ea818eee5c": {
+  "region": "Norðurland vestra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Jáverk"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-11",
+  "url": "https://byggingar.is/menningarhus-a-saudarkroki-sveitarstjori-segir-gott-ad-sja-verkefnid-komast-af-stad/?utm_source=rss&utm_medium=rss&utm_campaign=menningarhus-a-saudarkroki-sveitarstjori-segir-gott-ad-sja-verkefnid-komast-af-stad",
+  "title": "Menningarhús á Sauðárkróki: Sveitarstjóri segir gott að sjá verkefnið komast af stað",
+  "sum": "Menningarhús á Sauðárkróki: Sveitarstjóri segir gott að sjá verkefnið komast af stað Áhangendur nýs menningarhúss á Sauðárkróki hafa lengi beðið eftir að sjá einhverja framkvæmdahreyfingu á Flæðunum og nú virðast draumar þeirra vera að ræta",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-11T09:57:24.687509+00:00",
+  "id": 2
+ },
+ "88a08356002fd8f2": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-10",
+  "url": "https://byggingar.is/stada-framkvaemda-vid-grensasdeild-landspitala/?utm_source=rss&utm_medium=rss&utm_campaign=stada-framkvaemda-vid-grensasdeild-landspitala",
+  "title": "Staða framkvæmda við Grensásdeild Landspítala",
+  "sum": "Staða framkvæmda við Grensásdeild Landspítala Framkvæmdir við stækkun Grensásdeildar halda áfram samkvæmt áætlun og eru nú á lokastigi. Byggingin er veðurþétt og ytri frágangi að mestu lokið. Unnið er að síðustu verkþáttum utanhúss samhliða",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-11T09:57:24.687509+00:00",
+  "id": 5
  }
 }
