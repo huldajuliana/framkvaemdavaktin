@@ -11567,5 +11567,47 @@
   "tsort": "",
   "first_seen": "2026-08-11T09:57:24.687509+00:00",
   "id": 5
+ },
+ "af26008cfb7b733a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-11",
+  "url": "https://byggingar.is/fagurverk-ehf-faer-72-3-milljona-verk-i-skogarhverfi-40-undir-kostnadaraaetlun/?utm_source=rss&utm_medium=rss&utm_campaign=fagurverk-ehf-faer-72-3-milljona-verk-i-skogarhverfi-40-undir-kostnadaraaetlun",
+  "title": "Fagurverk ehf. fær 72.3 milljóna verk í Skógarhverfi – 40% undir kostnaðaráætlun",
+  "sum": "Fagurverk ehf. fær 72.3 milljóna verk í Skógarhverfi – 40% undir kostnaðaráætlun Bæjarráð Garðabæjar hefur samþykkt að taka 72,3 milljóna króna tilboði Fagurverks ehf. í annan áfanga framkvæmda við veitulagnir og frágang í Skógarhverfi. Til",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-11T14:19:45.933127+00:00",
+  "id": 1
+ },
+ "f3866c288e4f1cc5": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-11",
+  "url": "https://byggingar.is/nytt-hringtorg-a-ad-risa-hratt-vid-akrafjallsveg/?utm_source=rss&utm_medium=rss&utm_campaign=nytt-hringtorg-a-ad-risa-hratt-vid-akrafjallsveg",
+  "title": "Nýtt hringtorg á að rísa hratt við Akrafjallsveg",
+  "sum": "Nýtt hringtorg á að rísa hratt við Akrafjallsveg Tvö fyrirtæki lögðu fram tilboð í nýtt hringtorg við Akrafjallsveg – en framkvæmdin er stórt verkefni sem Vegagerðin og Akraneskaupstaður standa að. Akraneskaupstaður greiðir um 22% af kostna",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-11T14:19:45.933127+00:00",
+  "id": 2
  }
 }
