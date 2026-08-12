@@ -11609,5 +11609,131 @@
   "tsort": "",
   "first_seen": "2026-08-11T14:19:45.933127+00:00",
   "id": 2
+ },
+ "bb7d3359b038ad92": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-12",
+  "url": "https://www.visir.is/g/20262919910d/vegfarendur-gefi-ser-godan-tima-til-ferdalaga-i-dag",
+  "title": "Veg­far­endur gefi sér góðan tíma til ferða­laga í dag",
+  "sum": "Vegagerðin hefur tekið saman þær takmarkanir sem verða á vegum landsins vegna almyrkvans, síðdegis í dag miðvikudaginn 12. ágúst. Vegfarendur eru vegfarendur beðnir um að hafa í huga að búist er við mikilli umferð á vegum landsins, gefa sér",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-12T09:59:42.761388+00:00",
+  "id": 1
+ },
+ "cbf4644a2ec8b2bd": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-11",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-11-lokad-ad-latrabjargi-i-nott-483550/",
+  "title": "Lokað að Látrabjargi í nótt",
+  "sum": "Lögreglan á Vestfjörðum hefur ákveðið að loka leiðinni frá Breiðavík að Bjargtöngum frá miðnætti í nótt og fram til klukkan 8 í fyrramálið, 12. ágúst. Ákvörðunin er tekin í samráði við Náttúruverndarstofnun og Vegagerðina. Ingvar Jakobsson,",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-12T09:59:42.761388+00:00",
+  "id": 5
+ },
+ "c28ea9492f968f62": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-11",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-11-umferdin-thyngist-mjog-anaegjulegt-hvad-margir-eru-a-ferdinni-i-dag-483489/",
+  "title": "Umferðin þyngist – „Mjög ánægjulegt hvað margir eru á ferðinni í dag“",
+  "sum": "Fjöldi fólks er á ferðalagi í dag vegna sólmyrkvans á morgun. G. Pétur Matthíasson, forstöðumaður samskiptadeildar Vegagerðarinnar, segir greinilegt að umferð sé að þyngjast. „Við sjáum það bæði í Hvalfjarðargöngum og þeir segja mér að um S",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-12T09:59:42.761388+00:00",
+  "id": 6
+ },
+ "ce91ea3ee9d2ff64": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-12",
+  "url": "https://byggingar.is/framkvaemdir-vid-rannsoknahus-nys-landspitala-3/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-vid-rannsoknahus-nys-landspitala-3",
+  "title": "Framkvæmdir við rannsóknahús Nýs Landspítala",
+  "sum": "Framkvæmdir við rannsóknahús Nýs Landspítala Góður gangur er í framkvæmdum við rannsóknahúsið. „Lokið hefur verið við uppsetningu stálvirkis fyrir þakgluggann yfir miðrýminu og nú stendur yfir uppsetning handriða í miðrými hússins. Samhliða",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-12T09:59:42.761388+00:00",
+  "id": 2
+ },
+ "0cbc8ed54d9ea826": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-12",
+  "url": "https://byggingar.is/hornafjordur-bydur-ut-jardvinnu-og-regnvatnslagnir-i-saebraut/?utm_source=rss&utm_medium=rss&utm_campaign=hornafjordur-bydur-ut-jardvinnu-og-regnvatnslagnir-i-saebraut",
+  "title": "22.08.2026 Hornafjörður býður út jarðvinnu og regnvatnslagnir í Sæbraut",
+  "sum": "Hornafjörður býður út jarðvinnu og regnvatnslagnir í Sæbraut Sveitarfélagið Hornafjörður óskar eftir tilboðum í jarðvinnu og lagningu nýrra regnvatnslagna í hluta Sæbrautar á Höfn. Framkvæmdin þarf að vera að fullu lokið fyrir 1. október, e",
+  "tender": "2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-01",
+  "first_seen": "2026-08-12T09:59:42.761388+00:00",
+  "id": 3
+ },
+ "198c11ebd250c777": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-12",
+  "url": "https://byggingar.is/utlagning-nsl-4-til-vestmannaeyja-stodvud-eftir-ad-lognin-skemmdist/?utm_source=rss&utm_medium=rss&utm_campaign=utlagning-nsl-4-til-vestmannaeyja-stodvud-eftir-ad-lognin-skemmdist",
+  "title": "Útlagning NSL-4 til Vestmannaeyja stöðvuð eftir að lögnin skemmdist",
+  "sum": "Útlagning NSL-4 til Vestmannaeyja stöðvuð eftir að lögnin skemmdist Skemmdir urðu á nýju NSL-4 almannavarnalögninni til Vestmannaeyja við útlagningu aðfaranótt sunnudagsins 9. ágúst. Framkvæmdir voru stöðvaðar í kjölfarið og er nú beðið eft",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-12T09:59:42.761388+00:00",
+  "id": 4
  }
 }
