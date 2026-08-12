@@ -11735,5 +11735,68 @@
   "tsort": "",
   "first_seen": "2026-08-12T09:59:42.761388+00:00",
   "id": 4
+ },
+ "38b716784dba2ab4": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-12",
+  "url": "https://www.visir.is/g/20262920091d/loka-hvalfjardargongunum-ef-umferd-verdur-of-mikil",
+  "title": "Loka Hval­fjarðar­göngunum ef um­ferð verður of mikil",
+  "sum": "Ef umferð snareykst í Hvalfjarðargöng gæti þurft að loka þeim tímabundið í dag. G. Pétur Matthíasson upplýsingafulltrúi Vegagerðarinnar segir umferð ganga vel og hún hafi dreifst vel síðustu daga. Hann eigi ekki endilega von á því að Vegage",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-12T14:20:46.461109+00:00",
+  "id": 1
+ },
+ "c45728b126b2b7ea": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-12",
+  "url": "https://www.visir.is/g/20262919981d/thurfum-vid-enn-eitt-yfirvaldid-",
+  "title": "Þurfum við enn eitt yfir­valdið?",
+  "sum": "Þeir sem hafa starfað í sveitarstjórnum þekkja af eigin raun hve seinlegt og snúið það getur verið að hrinda mikilvægum verkefnum í framkvæmd. Sama hvort um er að ræða samgöngur, hafnarmannvirki, heilbrigðisþjónustu eða orkumál, þá er samst",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-12T14:20:46.461109+00:00",
+  "id": 2
+ },
+ "38b4731bb0a1b1af": {
+  "region": "Norðurland vestra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-12",
+  "url": "https://byggingar.is/jardvinna-vid-nytt-menningarhus-a-saudarkroki-komin-a-fullt/?utm_source=rss&utm_medium=rss&utm_campaign=jardvinna-vid-nytt-menningarhus-a-saudarkroki-komin-a-fullt",
+  "title": "Jarðvinna við nýtt menningarhús á Sauðárkróki komin á fullt",
+  "sum": "Jarðvinna við nýtt menningarhús á Sauðárkróki komin á fullt Framkvæmdir við nýtt menningarhús á Sauðárkróki eru komnar á fullt, en Þ. Hansen ehf. vinnur nú að jarðvinnu vegna byggingarinnar. Um er að ræða fyrsta verklega áfangann í uppbyggi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-12T14:20:46.461109+00:00",
+  "id": 3
  }
 }
