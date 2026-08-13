@@ -11945,5 +11945,68 @@
   "tsort": "",
   "first_seen": "2026-08-13T10:01:20.944975+00:00",
   "id": 5
+ },
+ "a18fcbca84d1fe54": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-08-13",
+  "url": "https://www.visir.is/g/20262919635d/allt-undir-einu-thaki-i-hjarta-hafnarfjardar",
+  "title": "Allt undir einu þaki í hjarta Hafnar­fjarðar",
+  "sum": "Það hefur heldur betur færst aukið líf í Fjörð í Hafnarfirði að undanförnu. Eftir umfangsmiklar framkvæmdir hýsir húsið nú enn meira úrval verslana, veitingastaða og þjónustu, nýjar og glæsilegar íbúðir og síðast en ekki síst nýtt Bókasafn ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-13T14:22:23.610516+00:00",
+  "id": 1
+ },
+ "79d37fca0371b7f5": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-13",
+  "url": "https://byggingar.is/gardabaer-bydur-ut-eftirlit-med-framkvaemdum-vid-vifilsstadaveg/?utm_source=rss&utm_medium=rss&utm_campaign=gardabaer-bydur-ut-eftirlit-med-framkvaemdum-vid-vifilsstadaveg",
+  "title": "28.08.2026 Garðabær býður út eftirlit með framkvæmdum við Vífilsstaðaveg",
+  "sum": "Garðabær býður út eftirlit með framkvæmdum við Vífilsstaðaveg Garðabær hefur auglýst útboð á eftirliti með umfangsmiklum gatna- og lagnaframkvæmdum á Vífilsstaðavegi milli Spítalavegar og Elliðavatnsvegar. Gert er ráð fyrir samtals 1.040 vi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-13T14:22:23.610516+00:00",
+  "id": 2
+ },
+ "1bc0ea27882b96c4": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-13",
+  "url": "https://byggingar.is/mosfellsbaer-bydur-ut-thridja-afanga-endurnyjunar-skolalodar-varmarskola/?utm_source=rss&utm_medium=rss&utm_campaign=mosfellsbaer-bydur-ut-thridja-afanga-endurnyjunar-skolalodar-varmarskola",
+  "title": "31.08.2026 Mosfellsbær býður út þriðja áfanga endurnýjunar skólalóðar Varmárskóla",
+  "sum": "Mosfellsbær býður út þriðja áfanga endurnýjunar skólalóðar Varmárskóla Mosfellsbær hefur auglýst útboð vegna þriðja áfanga endurnýjunar skólalóðar Varmárskóla. Framkvæmdin felur meðal annars í sér gerð nýs útikennslusvæðis og hjólastæða ása",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-13T14:22:23.610516+00:00",
+  "id": 3
  }
 }
