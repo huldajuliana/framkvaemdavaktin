@@ -11798,5 +11798,152 @@
   "tsort": "",
   "first_seen": "2026-08-12T14:20:46.461109+00:00",
   "id": 3
+ },
+ "1a41f9f5124d9568": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-12",
+  "url": "https://www.visir.is/g/20262898277d/hvad-veistu-um-kirkjur-a-islandi-",
+  "title": "Hvað veistu um… kirkjur á Ís­landi?",
+  "sum": "Kirkjur hafa um aldir verið meðal helstu kennileita íslenskra bæja og byggðarlaga. Þær standa oft á áberandi stað og setja svip sinn á umhverfið með sérkennilegum arkitektúr og sögu.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-13T10:01:20.944975+00:00",
+  "id": 6
+ },
+ "73e0d38463ebeff1": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "50 íbúðir",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-13",
+  "url": "https://byggingar.is/reykjavik-fellur-fra-ibudabyggd-vid-soleyjarrima/?utm_source=rss&utm_medium=rss&utm_campaign=reykjavik-fellur-fra-ibudabyggd-vid-soleyjarrima",
+  "title": "Reykjavík fellur frá íbúðabyggð við Sóleyjarrima",
+  "sum": "Reykjavík fellur frá íbúðabyggð við Sóleyjarrima Reykjavíkurborg hefur ákveðið að falla frá frekari vinnu við fyrirhugaða íbúðabyggð á svokölluðu Sóleyjatúni við Sóleyjarrima í Grafarvogi. Þar hafði verið unnið að uppbyggingu rúmlega 50 íbú",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-13T10:01:20.944975+00:00",
+  "id": 1
+ },
+ "6ea25ad5648a8b7c": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-13",
+  "url": "https://byggingar.is/ny-fristund-vid-borgarholsskola-a-husavik-tekin-i-notkun-i-haust/?utm_source=rss&utm_medium=rss&utm_campaign=ny-fristund-vid-borgarholsskola-a-husavik-tekin-i-notkun-i-haust",
+  "title": "Ný Frístund við Borgarhólsskóla á Húsavík tekin í notkun í haust",
+  "sum": "Ný Frístund við Borgarhólsskóla á Húsavík tekin í notkun í haust Framkvæmdum við nýtt húsnæði Frístundar við Borgarhólsskóla á Húsavík miðar vel áfram. Stefnt er að því að nýbyggingin verði afhent starfsemi frístundar og félagsmiðstöðvar 1.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-13T10:01:20.944975+00:00",
+  "id": 2
+ },
+ "38ec6892f7e24523": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-13",
+  "url": "https://byggingar.is/stefnt-ad-thvi-ad-nyr-leikskoli-a-hellu-verdi-fokheldur-um-aramot/?utm_source=rss&utm_medium=rss&utm_campaign=stefnt-ad-thvi-ad-nyr-leikskoli-a-hellu-verdi-fokheldur-um-aramot",
+  "title": "Stefnt að því að nýr leikskóli á Hellu verði fokheldur um áramót",
+  "sum": "Stefnt að því að nýr leikskóli á Hellu verði fokheldur um áramót Framkvæmdir við nýbyggingu leikskóla á Hellu miða áfram og er nú hafin reising eininga í fyrsta hluta hússins. Stefnt er að því að byggingin verði orðin fokheld um næstu áramó",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-13T10:01:20.944975+00:00",
+  "id": 3
+ },
+ "81c6b9b4e2207047": {
+  "region": "Suðurnes",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-13",
+  "url": "https://byggingar.is/storhuga-verkefni-world-class-a-fitjum/?utm_source=rss&utm_medium=rss&utm_campaign=storhuga-verkefni-world-class-a-fitjum",
+  "title": "Stórhuga verkefni World Class á Fitjum",
+  "sum": "Stórhuga verkefni World Class á Fitjum World Class Wellness Hotel, staðsett á Fitjum í Reykjanesbæ, verður eitt umfangsmesta uppbyggingarverkefni í sögu fyrirtækisins. World Class vinnur nú að undirbúningi umfangsmikils vellíðunarhótels á F",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-13T10:01:20.944975+00:00",
+  "id": 4
+ },
+ "58736ba709b718a9": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-12",
+  "url": "https://byggingar.is/bergraf-ehf-laegst-i-orutbodi-reykjavikurborgar-64-undir-kostnadaraaetlun/?utm_source=rss&utm_medium=rss&utm_campaign=bergraf-ehf-laegst-i-orutbodi-reykjavikurborgar-64-undir-kostnadaraaetlun",
+  "title": "Bergraf ehf. lægst í örútboði Reykjavíkurborgar – 64% undir kostnaðaráætlun",
+  "sum": "Bergraf ehf. lægst í örútboði Reykjavíkurborgar – 64% undir kostnaðaráætlun Þrjú tilboð bárust í örútboð Reykjavíkurborgar vegna uppsetningar búnaðar fyrir skápastýringar í borgarlýsingu. Bergraf ehf. átti langlægsta tilboðið, tæpar 9 millj",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-13T10:01:20.944975+00:00",
+  "id": 7
+ },
+ "6f4f5ca67e48aafb": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Norðurþing – fréttir",
+  "date": "2026-08-13",
+  "url": "https://www.nordurthing.is/is/frettir/stada-a-framkvaemdum-vid-nyja-fristund-vid-borgarholsskola",
+  "title": "Staða á framkvæmdum við nýja Frístund við Borgarhólsskóla",
+  "sum": "Staða á framkvæmdum við nýja Frístund við Borgarhólsskóla",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-13T10:01:20.944975+00:00",
+  "id": 5
  }
 }
