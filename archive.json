@@ -12008,5 +12008,89 @@
   "tsort": "",
   "first_seen": "2026-08-13T14:22:23.610516+00:00",
   "id": 3
+ },
+ "a1aef6f2f3eec29d": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-14",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/14/laekka_gatnagerdargjold_um_90_prosent/",
+  "title": "Lækka gatnagerðargjöld um 90%",
+  "sum": "Borgarráð samþykkti á fundi sínum í gær að veita 90% afslátt af gatnagerðargjaldi af bílastæðum í kjöllurum fjölbýlishúsa. Þetta var eitt af loforðum Sjálfstæðisflokksins sem gefið var í aðdraganda síðustu borgarstjórnarkosninga.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-14T09:57:32.546680+00:00",
+  "id": 1
+ },
+ "dff4aaab6578857d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-14",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/14/bora_eftir_heitu_vatni_i_laugarnesi/",
+  "title": "Bora eftir heitu vatni í Laugarnesi",
+  "sum": "Í ágúst hefja Veitur undirbúning framkvæmda þar sem fyrirhugað er að bora eftir heitu vatni nærri gatnamótum Kringlumýrarbrautar og Laugarvegs/Suðurlandsbrautar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-14T09:57:32.546680+00:00",
+  "id": 2
+ },
+ "02a2a930c6e4a3d9": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-13",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-13-mikilvaegir-fjarskiptainnvidir-sameinadir-undir-korda-483869/",
+  "title": "Mikilvægir fjarskiptainnviðir sameinaðir undir Korda",
+  "sum": "Sameinað félag Farice, Öryggisfjarskipta og tæknihluta Neyðarlínunnar tekur formlega til starfa 1. september undir nafninu Korda. Þorvarður Sveinsson, sem er nú framkvæmdastjóri Farice, verður framkvæmdastjóri félagsins. Á ensku verður það ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-14T09:57:32.546680+00:00",
+  "id": 4
+ },
+ "4bdf83f1a44d5132": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-14",
+  "url": "https://byggingar.is/reykjavik-laekkar-gatnagerdargjald-vegna-bilakjallara-um-90/?utm_source=rss&utm_medium=rss&utm_campaign=reykjavik-laekkar-gatnagerdargjald-vegna-bilakjallara-um-90",
+  "title": "Reykjavík lækkar gatnagerðargjald vegna bílakjallara um 90%",
+  "sum": "Reykjavík lækkar gatnagerðargjald vegna bílakjallara um 90% Reykjavíkurborg ætlar að lækka gatnagerðargjald vegna sameiginlegra bifreiðageymslna verulega í því skyni að skapa aukinn hvata til að byggja bílastæði neðanjarðar. Borgarráð samþy",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-14T09:57:32.546680+00:00",
+  "id": 3
  }
 }
