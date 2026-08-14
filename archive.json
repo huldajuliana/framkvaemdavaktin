@@ -12092,5 +12092,68 @@
   "tsort": "",
   "first_seen": "2026-08-14T09:57:32.546680+00:00",
   "id": 3
+ },
+ "9aff37b12c5eb601": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-14",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-14-rafmagn-komid-a-ad-nyju-i-mosfellsdal-483931/",
+  "title": "Rafmagn komið á að nýju í Mosfellsdal",
+  "sum": "Gröfumaður gróf í háspennustreng um klukkan hálf tíu í morgun með þeim afleiðingum að rafmagn fór af stórum hluta Mosfellsdals. „Verktakinn sem gróf í strenginn, hann lét okkur vita sem við kunnum að meta,“ segir Silja Ingólfsdóttir, upplýs",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-14T14:15:50.312886+00:00",
+  "id": 1
+ },
+ "dc0ee45d70ef2c91": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-14",
+  "url": "https://byggingar.is/nanast-allar-ibudir-i-byggingu-i-kopavogi-eru-ordnar-fokheldar/?utm_source=rss&utm_medium=rss&utm_campaign=nanast-allar-ibudir-i-byggingu-i-kopavogi-eru-ordnar-fokheldar",
+  "title": "Nánast allar íbúðir í byggingu í Kópavogi eru orðnar fokheldar",
+  "sum": "Nánast allar íbúðir í byggingu í Kópavogi eru orðnar fokheldar Nánast allar íbúðir sem nú eru skráðar í byggingu í Kópavogi eru komnar á fokheldisstig eða lengra. Húsnæðis- og mannvirkjastofnun (HMS) segir stöðuna benda til þess að lítið ha",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-14T14:15:50.312886+00:00",
+  "id": 2
+ },
+ "1372e90e7fdf2962": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-14",
+  "url": "https://byggingar.is/reykjavik-hafnar-37-6-milljona-tilbodi-i-hedinsrolo-54-yfir-aaetlun/?utm_source=rss&utm_medium=rss&utm_campaign=reykjavik-hafnar-37-6-milljona-tilbodi-i-hedinsrolo-54-yfir-aaetlun",
+  "title": "Reykjavík hafnar 37.6 milljóna tilboði í Héðinsróló – 54% yfir áætlun",
+  "sum": "Reykjavík hafnar 37,6 milljóna tilboði í Héðinsróló – 54% yfir áætlun Reykjavíkurborg hefur ákveðið að hafna eina tilboðinu sem barst í framkvæmdir við endurgerð opna leiksvæðisins Héðinsróló við Hringbraut 60 í Vesturbæ Reykjavíkur. Barr e",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-14T14:15:50.312886+00:00",
+  "id": 3
  }
 }
