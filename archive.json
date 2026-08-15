@@ -12197,5 +12197,68 @@
   "tsort": "",
   "first_seen": "2026-08-15T09:22:36.625798+00:00",
   "id": 1
+ },
+ "e39c21356ac0222f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-08-15",
+  "url": "https://www.visir.is/g/20262921378d/bandariskur-sjodur-byggt-upp-um-fimm-prosenta-stodu-i-kjolfar-utbods-alvotech",
+  "title": "Banda­rískur sjóður byggt upp um fimm pró­senta stöðu í kjöl­far út­boðs Al­vot­ech",
+  "sum": "Bandarískur sjóður, sem hefur einkum lagt áherslu á fjárfestingar í heilbrigðistengdum fyrirtækjum, hefur byggt upp stóra stöðu í Alvotech í kjölfar útboðs líftæknilyfjafélagsins og er núna þriðji stærsti hluthafinn með nærri fimm prósenta ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-15T13:30:36.881133+00:00",
+  "id": 1
+ },
+ "6985700dd6c3bdbf": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-15",
+  "url": "https://www.visir.is/g/20262921344d/hringvegurinn-lokadur-i-gegnum-borgarnes-annad-kvold",
+  "title": "Hringvegurinn lokaður í gegnum Borgar­nes annað kvöld",
+  "sum": "Sunnudaginn 16. ágúst og mánudagskvöld 17. ágúst er stefnt að því að fræsa Hringveginn í gegnum Borgarnes frá Borgarbraut að brú yfir Borgarfjörð.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-15T13:30:36.881133+00:00",
+  "id": 2
+ },
+ "f66b62cb8f80da82": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-15",
+  "url": "https://byggingar.is/innanhussfragangur-medferdarkjarna-nys-landspitala-kominn-a-fullt/?utm_source=rss&utm_medium=rss&utm_campaign=innanhussfragangur-medferdarkjarna-nys-landspitala-kominn-a-fullt",
+  "title": "Innanhússfrágangur meðferðarkjarna Nýs Landspítala kominn á fullt",
+  "sum": "Innanhússfrágangur meðferðarkjarna Nýs Landspítala kominn á fullt Framkvæmdir við innanhússfrágang meðferðarkjarna Nýs Landspítala við Hringbraut eru komnar á fullt skrið eftir sumarleyfistímann. Unnið er á flestum hæðum hússins samtímis og",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-15T13:30:36.881133+00:00",
+  "id": 3
  }
 }
