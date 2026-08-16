@@ -12260,5 +12260,26 @@
   "tsort": "",
   "first_seen": "2026-08-15T13:30:36.881133+00:00",
   "id": 3
+ },
+ "20516f3a93044d30": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-15",
+  "url": "https://byggingar.is/undirbua-nyja-uppbyggingu-og-ibudir-a-stjornarradsreitnum/?utm_source=rss&utm_medium=rss&utm_campaign=undirbua-nyja-uppbyggingu-og-ibudir-a-stjornarradsreitnum",
+  "title": "Undirbúa nýja uppbyggingu og íbúðir á Stjórnarráðsreitnum",
+  "sum": "Undirbúa nýja uppbyggingu og íbúðir á Stjórnarráðsreitnum Unnið verður áfram að nýju deiliskipulagi fyrir Stjórnarráðsreitinn í miðborg Reykjavíkur þar sem gert er ráð fyrir blandaðri uppbyggingu með íbúðum, ráðuneytum, opinberri þjónustu, ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-16T09:23:47.214848+00:00",
+  "id": 1
  }
 }
