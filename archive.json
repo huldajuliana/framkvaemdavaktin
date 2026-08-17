@@ -12302,5 +12302,47 @@
   "tsort": "",
   "first_seen": "2026-08-16T13:31:46.741144+00:00",
   "id": 1
+ },
+ "23b7134027ca4f53": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-17",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-17-buid-ad-rifa-a-thridja-tug-onytra-husa-i-grindavik-483874/",
+  "title": "Búið að rífa á þriðja tug ónýtra húsa í Grindavík",
+  "sum": "Sprungufyllingar og niðurrif ónýtra húsa í Grindavík ganga vel, segir verktaki. Tuttugu og tvö hús af þrjátíu og fimm hafa verið rifin. „Þetta er búið að ganga mjög vel. Við erum staddir í Stamphólsgjánni og erum að gera við hana og erum ko",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-17T09:37:29.647971+00:00",
+  "id": 1
+ },
+ "05bcf1fdc145ba1b": {
+  "region": "Suðurnes",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-16",
+  "url": "https://byggingar.is/myndir-nytt-world-class-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=myndir-nytt-world-class-hotel",
+  "title": "Myndir: Nýtt World Class hótel",
+  "sum": "Myndir: Nýtt World Class hótel Á fyrirhuguðu hóteli World Class verður áhersla á að skapa umhverfi sem sameinar heilsu, hreyfingu og slökun. Nýtt vellíðunarhótel World Class sem rísa skal í Reykjanesbæ á næstu árum, er ætlað að skapa heilds",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-17T09:37:29.647971+00:00",
+  "id": 2
  }
 }
