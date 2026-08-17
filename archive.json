@@ -12344,5 +12344,47 @@
   "tsort": "",
   "first_seen": "2026-08-17T09:37:29.647971+00:00",
   "id": 2
+ },
+ "9ce9309e988afaa7": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-17",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/17/si_fagna_laekkun_gatnagerdargjalda_i_reykjavik/",
+  "title": "SI fagna lækkun gatnagerðargjalda í Reykjavík",
+  "sum": "„Þetta er kærkomin stefnubreyting hjá Reykjavíkurborg þegar kemur að uppbyggingu og gjaldtöku og er löngu tímabær,“ segir Jóhanna Klara Stefánsdóttir, sviðsstjóri mannvirkjasviðs Samtaka iðnaðarins.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-17T13:39:43.633389+00:00",
+  "id": 1
+ },
+ "577b59d96a138d26": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-17",
+  "url": "https://byggingar.is/haustfundur-um-fasteignamarkadinn-hja-hms/?utm_source=rss&utm_medium=rss&utm_campaign=haustfundur-um-fasteignamarkadinn-hja-hms",
+  "title": "Haustfundur um fasteignamarkaðinn hjá HMS",
+  "sum": "Haustfundur um fasteignamarkaðinn hjá HMS HMS boðar til opins fundar um fasteignamarkaðinn í byrjun hausts á fimmtudaginn 27. ágúst kl. 10:00 í Borgartúni 21. Á fundinum verður farið yfir stöðu og horfur á fasteigna- og lánamarkaði, auk þes",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-17T13:39:43.633389+00:00",
+  "id": 2
  }
 }
