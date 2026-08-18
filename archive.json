@@ -12533,5 +12533,47 @@
   "tsort": "",
   "first_seen": "2026-08-18T09:29:31.921760+00:00",
   "id": 7
+ },
+ "308c0088d300d689": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Stór",
+  "scaleFig": "9 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-18",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/08/18/taeplega_9_milljarda_hagnadur/",
+  "title": "Tæplega 9 milljarða hagnaður",
+  "sum": "Hagnaður af grunnrekstri Landsvirkjunar á öðrum ársfjórðungi nam 8,7 milljörðum króna og handbært fé frá rekstri 6,7 milljörðum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-18T13:42:18.106667+00:00",
+  "id": 1
+ },
+ "5085e28dabef954b": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-18",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-18-tekjur-landsvirkjunar-af-raforkusolu-jukust-um-19-484213/",
+  "title": "Tekjur Landsvirkjunar af raforkusölu jukust um 19%",
+  "sum": "Hagnaður af grunnrekstri Landsvirkjunar á öðrum ársfjórðungi nam 8,7 milljörðum króna og handbært fé frá rekstri 6,7 milljörðum. Þetta kemur fram í árshlutareikningi Landsvirkjunar. Tekjur Landsvirkjunar af raforkusölu jukust um 19% milli á",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-18T13:42:18.106667+00:00",
+  "id": 2
  }
 }
