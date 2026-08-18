@@ -12386,5 +12386,152 @@
   "tsort": "",
   "first_seen": "2026-08-17T13:39:43.633389+00:00",
   "id": 2
+ },
+ "b25728e293961b81": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-18",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/18/ofremdarastand_a_ibudamarkadi/",
+  "title": "„Ófremdarástand“ á íbúðamarkaði",
+  "sum": "Staðan á íbúðamarkaði er erfið. Háir vextir gera byggingaverktökum erfitt fyrir að fjármagna verkefni og þeir sitja uppi með óseldar íbúðir.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-18T09:29:31.921760+00:00",
+  "id": 1
+ },
+ "6439f04dcc0b8e0a": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Jáverk"
+  ],
+  "status": "Í byggingu",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-17",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/08/17/aukinn_verkefnaskortur_hja_verktokum_og_honnudum/",
+  "title": "Aukinn verkefnaskortur hjá verktökum og hönnuðum",
+  "sum": "„Það eru hérna margar tilbúnar, óseldar íbúðir og íbúðir í byggingu sem taka til sín mjög mikinn vaxtakostnað hjá byggingamarkaðnum og ég held að það sé þannig að menn séu misjafnlega staddir í því.“",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-18T09:29:31.921760+00:00",
+  "id": 3
+ },
+ "2bf438a4cc5b147d": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-18",
+  "url": "https://www.visir.is/g/20262922287d/enn-einn-landsbyggdarskatturinn-a-ibua-austurlands",
+  "title": "Enn einn landsbyggðarskatturinn á í­búa Austur­lands",
+  "sum": "Áform ríkisstjórnarinnar um að hækka virðisaukaskatt á baðlón úr 11% í 24% munu koma sérstaklega illa niður á landsbyggðinni. Í Múlaþingi blasir við hvernig þessi skattahækkun mun veikja rekstrargrundvöll Vök Baths, vinna gegn uppbyggingu f",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-18T09:29:31.921760+00:00",
+  "id": 2
+ },
+ "7897703c4d7e27b3": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-17",
+  "url": "https://www.visir.is/g/20262922331d/astandid-minni-a-2007",
+  "title": "Á­standið minni á 2007",
+  "sum": "Hagfræðingurinn Már Wolfgang Mixa segir raunstýrivexti ekki hafa verið hærri síðan rétt fyrir bankahrun. Verktakar gætu neyðst til að gefa verulega afslætti til þess að losa sig við nýjar íbúðir, sem hrannist upp. Már telur „galið“ að eltas",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-18T09:29:31.921760+00:00",
+  "id": 4
+ },
+ "8b998aeb09f68cfd": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-17",
+  "url": "https://www.visir.is/g/20262922243d/rikisstjorn-sem-vandar-sig-ekki-veldur-skada",
+  "title": "Ríkis­stjórn sem vandar sig ekki veldur skaða",
+  "sum": "Í morgunútvarpi Rásar 2 í morgun var rætt við Ástu Stefánsdóttir, sveitarstjóra Bláskógarbyggðar og Harald Þór Jónsson oddvita Skeiða- og Gnúpverjahrepps um neikvæð áhrif hækkunar virðisaukaskatts á baðlón á uppbyggingu ferðaþjónustu í nærs",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-18T09:29:31.921760+00:00",
+  "id": 5
+ },
+ "77a4c9bddf987089": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-17",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-17-endurbygging-stridsarasafnsins-a-reydarfirdi-vel-a-veg-komin-484155/",
+  "title": "Endurbygging stríðsárasafnsins á Reyðarfirði vel á veg komin",
+  "sum": "Framkvæmdir við endurbyggingu Stríðsárasafnsins á Reyðarfirði eru langt komnar. Mikið foktjón varð á safninu 2022 þegar tveir braggar gjöreyðilögðust. Nú rísa braggar í þeirra stað. Safnið hefur verið starfrækt frá 1995. Þar má fræðast um h",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-18T09:29:31.921760+00:00",
+  "id": 6
+ },
+ "f8c0b7c6520331f2": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-17",
+  "url": "https://byggingar.is/glerjun-hafin-a-ollum-hlidum-huss-heilbrigdisvisindasvids-hi/?utm_source=rss&utm_medium=rss&utm_campaign=glerjun-hafin-a-ollum-hlidum-huss-heilbrigdisvisindasvids-hi",
+  "title": "Glerjun hafin á öllum hliðum Húss heilbrigðisvísindasviðs HÍ",
+  "sum": "Glerjun hafin á öllum hliðum Húss heilbrigðisvísindasviðs HÍ Framkvæmdum við Hús heilbrigðisvísindasviðs Háskóla Íslands við Hringbraut miðar vel áfram þrátt fyrir sumarleyfistímann. Stálvirki fimmtu hæðar er nú fullreist og uppsetning gler",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-18T09:29:31.921760+00:00",
+  "id": 7
  }
 }
