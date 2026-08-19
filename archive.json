@@ -12575,5 +12575,89 @@
   "tsort": "",
   "first_seen": "2026-08-18T13:42:18.106667+00:00",
   "id": 2
+ },
+ "74c7723c96e37c4c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-19",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/19/bankinn_breytti_reglunun/",
+  "title": "Bankinn breytti reglunun",
+  "sum": "„Þeir sem fóru inn í þetta í upphafi eru ánægðir og þakklátir fyrir að hafa losnað af leigumarkaði og nýta sér að greiða inn á eignarhlut REIR20 til að auka við hlut sinn hraðar en áætlað var í upphafi og lækka um leið leiguna.“",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-19T09:31:49.193992+00:00",
+  "id": 1
+ },
+ "5ab7f4e654fcbc8f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-18",
+  "url": "https://www.visir.is/g/20262922775d/esb-hvad-kostar-ad-vera-utangards-innvidir-taeknilegt-samstarf-og-varnarmal",
+  "title": "ESB: Hvað kostar að vera utan­garðs? Inn­viðir, tækni­legt sam­starf og varnar­mál",
+  "sum": "Undanfarið hefur í umræðu um kosti og galla aðildar að ESB mikið verið rætt um kostnað samfélagsins af því að ganga í sambandið. Þegar fjallað er um kosti aðildar er hins vegar oft fyrst og fremst horft til efnahagsmála og bent á að við njó",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-19T09:31:49.193992+00:00",
+  "id": 2
+ },
+ "12c54090a940a0fe": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-18",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-18-vilja-efla-innvidi-i-keflavik-og-endurnyja-ratsjarstodvar-484248/",
+  "title": "Vilja efla innviði í Keflavík og endurnýja ratsjárstöðvar",
+  "sum": "Æfingin er kölluð Norður-Víkingur og er haldin á Íslandi annað hvert ár að jafnaði. Æfingin verður tvískipt. Bandaríkin ætla að æfa viðbragð við vaxandi ógn á grundvelli varnarsamningsins og viðbrögð eftir virkjun fimmtu greinar bandalagsin",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-19T09:31:49.193992+00:00",
+  "id": 3
+ },
+ "4a8d9ba0942dd8cf": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-18",
+  "url": "https://byggingar.is/framkvaemdir-vid-staekkun-hjukrunarheimilisins-soltuns-ganga-vel/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-vid-staekkun-hjukrunarheimilisins-soltuns-ganga-vel",
+  "title": "Framkvæmdir við stækkun hjúkrunarheimilisins Sóltúns ganga vel",
+  "sum": "Framkvæmdir við stækkun hjúkrunarheimilisins Sóltúns ganga vel Framkvæmdir við stækkun hjúkrunarheimilisins Sóltúns ganga vel að sögn Ístaks hf. Stálvirki viðbyggingarinnar er nú allt komið upp og álmum hússins hefur að stærstum hluta verið",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-19T09:31:49.193992+00:00",
+  "id": 4
  }
 }
