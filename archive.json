@@ -12659,5 +12659,47 @@
   "tsort": "",
   "first_seen": "2026-08-19T09:31:49.193992+00:00",
   "id": 4
+ },
+ "8278a1cd33e9b935": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-19",
+  "url": "https://www.visir.is/g/20262923110d/baejarrad-hveragerdis-krefst-svara-fra-rikinu-um-straeto",
+  "title": "Bæjar­ráð Hvera­gerðis krefst svara frá ríkinu um strætó",
+  "sum": "Á síðasta fundi bæjarráðs Hveragerðis var samþykkt tillaga frá Okkar Hveragerði þess efnis að bærinn gangi eftir skýrum svörum og forsendum frá Vegagerðinni og innviðaráðuneytinu vegna boðaðra breytinga á almenningssamgöngum milli Suðurland",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-19T13:44:25.881468+00:00",
+  "id": 1
+ },
+ "2bc1b0b672b62d04": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "ÞG verk"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-19",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-19-verktaki-likir-vaxtafyrirkomulaginu-vid-vitahring-484315/",
+  "title": "Verktaki líkir vaxtafyrirkomulaginu við vítahring",
+  "sum": "„Byggingariðnaðurinn mun finna harkalega fyrir þessu,“ segir Þorvaldur Gissurarson, forstjóri ÞG Verks um ákvörðun Seðlabankans að hækka stýrivexti upp í 8%. Hann giskar á að hækkunin hafi í för með sér að fyrirtæki hans greiði um 100 millj",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-19T13:44:25.881468+00:00",
+  "id": 2
  }
 }
