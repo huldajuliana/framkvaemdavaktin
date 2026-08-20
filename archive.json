@@ -12701,5 +12701,131 @@
   "tsort": "",
   "first_seen": "2026-08-19T13:44:25.881468+00:00",
   "id": 2
+ },
+ "13baece257e69171": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-20",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/20/nytt_torg_verdur_a_stjornarradsreit/",
+  "title": "Nýtt torg verður á Stjórnarráðsreit",
+  "sum": "Áform um uppbyggingu á svokölluðum Stjórnarráðsreit eru á áætlun og útlit fyrir að hún geti hafist innan tíðar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-20T09:30:32.518944+00:00",
+  "id": 1
+ },
+ "2749f365142cefca": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-08-20",
+  "url": "https://www.visir.is/g/20262923608d/radast-i-byltingarkenndar-endurbaetur-i-kvosinni",
+  "title": "Ráðast í byltingar­kenndar endur­bætur í Kvosinni",
+  "sum": "Metnaðarfullt plan um endurgerð Kvosarinnar norðan Austurstrætis hefur litið dagsins ljós. Kvosin markast af Tjörninni í miðborg Reykjavíkur í suðri og Reykjavíkurhöfn í norðri. Hönnun verkefnisins er í höndum Batterísins arkitekta.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-20T09:30:32.518944+00:00",
+  "id": 2
+ },
+ "1f2f84f04b79e3be": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-20",
+  "url": "https://byggingar.is/all-verk-ehf-laegst-i-endurbaetur-a-rannsoknardeild-hvest-a-isafirdi/?utm_source=rss&utm_medium=rss&utm_campaign=all-verk-ehf-laegst-i-endurbaetur-a-rannsoknardeild-hvest-a-isafirdi",
+  "title": "All Verk ehf. lægst í endurbætur á rannsóknardeild HVEST á Ísafirði",
+  "sum": "All Verk ehf. lægst í endurbætur á rannsóknardeild HVEST á Ísafirði Tvö tilboð bárust í útboð Framkvæmdasýslunnar – Ríkiseigna vegna endurbóta á rannsóknardeild Heilbrigðisstofnunar Vestfjarða á Ísafirði. All Verk ehf. átti lægra tilboðið, ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-20T09:30:32.518944+00:00",
+  "id": 3
+ },
+ "f8ebd78ac8520463": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-19",
+  "url": "https://byggingar.is/mikill-ahugi-er-a-husunum-vid-hofsbot-a-akureyri/?utm_source=rss&utm_medium=rss&utm_campaign=mikill-ahugi-er-a-husunum-vid-hofsbot-a-akureyri",
+  "title": "„Mikill áhugi“ er á húsunum við Hofsbót á Akureyri",
+  "sum": "„Mikill áhugi“ er á húsunum við Hofsbót á Akureyri Akureyrarbær kynnti í morgun nýja tillögu að breytingu á deiliskipulagi við Hofsbót 1-3 í miðbænum. Hún felur m.a. í sér að ekið verður í og úr bílakjallara við horn Skipagötu og Hofsbótar ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-20T09:30:32.518944+00:00",
+  "id": 4
+ },
+ "b6e65ec2eb1e9a89": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "1.440 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-19",
+  "url": "https://byggingar.is/kalka-bydur-ut-jardvinnu-og-undirstodur-fyrir-1-440-fermetra-stalgrindarhus/?utm_source=rss&utm_medium=rss&utm_campaign=kalka-bydur-ut-jardvinnu-og-undirstodur-fyrir-1-440-fermetra-stalgrindarhus",
+  "title": "31.08.2026 KALKA býður út jarðvinnu og undirstöður fyrir 1.440 fermetra stálgrindarhús",
+  "sum": "KALKA býður út jarðvinnu og undirstöður fyrir 1.440 fermetra stálgrindarhús KALKA sf. hefur auglýst útboð á jarðvinnu og gerð undirstaðna fyrir 1.440 fermetra stálgrindarhús. Verkið felur meðal annars í sér aðstöðusköpun, gröft, fyllingar o",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-20T09:30:32.518944+00:00",
+  "id": 5
+ },
+ "062e2c585349ef2e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-19",
+  "url": "https://byggingar.is/hafnarfjordur-hafnar-ollum-tilbodum-i-2-afanga-knatthuss-hauka/?utm_source=rss&utm_medium=rss&utm_campaign=hafnarfjordur-hafnar-ollum-tilbodum-i-2-afanga-knatthuss-hauka",
+  "title": "Hafnarfjörður hafnar öllum tilboðum í 2. áfanga knatthúss Hauka",
+  "sum": "Hafnarfjörður hafnar öllum tilboðum í 2. áfanga knatthúss Hauka Umhverfis- og framkvæmdaráð Hafnarfjarðar hefur ákveðið að hafna öllum tilboðum sem bárust í 2. áfanga knatthúss Hauka á Ásvöllum og bjóða verkið út að nýju. Ákvörðunin var tek",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-20T09:30:32.518944+00:00",
+  "id": 6
  }
 }
