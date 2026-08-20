@@ -12827,5 +12827,47 @@
   "tsort": "",
   "first_seen": "2026-08-20T09:30:32.518944+00:00",
   "id": 6
+ },
+ "f9c5dd54eea15883": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-20",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-20-rannsoknarboranir-eyjaganga-a-landeyjasandi-langt-komnar-484416/",
+  "title": "Rannsóknarboranir Eyjaganga á Landeyjasandi langt komnar",
+  "sum": "Eyjagöng ehf. hafa gengið frá samningi við norska ráðgjafafyrirtækið Norconsult um að vinna heildstætt kostnaðar- og fýsileikamat á gerð neðansjávarganga milli lands og Vestmannaeyja. „Verkefnið er mikilvægur áfangi í að kortleggja tæknileg",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-20T13:47:13.091887+00:00",
+  "id": 1
+ },
+ "352156a5de82f35c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Reykjavíkurborg – fréttir",
+  "date": "2026-08-20",
+  "url": "https://reykjavik.is/frettir/2026/umferdaroryggi-baett-vid-gatnamot-miklubrautar-og-grensasvegar",
+  "title": "Umferðaröryggi bætt við gatnamót Miklubrautar og Grensásvegar",
+  "sum": "Umferðaröryggi bætt við gatnamót Miklubrautar og Grensásvegar",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-20T13:47:13.091887+00:00",
+  "id": 2
  }
 }
