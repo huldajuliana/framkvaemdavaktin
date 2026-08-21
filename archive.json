@@ -12953,5 +12953,110 @@
   "tsort": "",
   "first_seen": "2026-08-21T09:33:38.939211+00:00",
   "id": 2
+ },
+ "b91f3f82d56f903a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-21",
+  "url": "https://www.visir.is/g/20262924167d/-reykjavikurflugvollur-er-ekki-ad-fara-ur-vatnsmyri-i-nainni-framtid-",
+  "title": "„Reykja­víkur­flug­völlur er ekki að fara úr Vatns­mýri í náinni fram­tíð“",
+  "sum": "Meirihluti umhverfis- og skipulagsráðs Reykjavíkurborgar hefur samþykkt breytingar á deiliskipulagi Reykjavíkurflugvallar, sem heimila meðal annars uppsetningu allt að þrjátíu metra hás masturs. „Ljóst er að Reykjavíkurflugvöllur er ekki að",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-21T13:45:14.626539+00:00",
+  "id": 1
+ },
+ "f18729ce1c450a1c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Vísir – allt",
+  "date": "2026-08-21",
+  "url": "https://www.visir.is/g/20262924147d/hefja-utbodsferli-fyrir-thrju-thusund-fermetra-hofudstodvar",
+  "title": "Hefja út­boðs­ferli fyrir þrjú þúsund fer­metra höfuð­stöðvar",
+  "sum": "Faxaflóahafnir hyggjast reisa nýjar höfuðstöðvar sínar nærri Skarfabakka við Sundahöfn. Auglýst hefur verið forval um þátttöku í lokuðu útboði á hönnun nýs Hafnarhúss en með framkvæmdinni verður sameinuð meginstarfsemi á einum stað.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-21T13:45:14.626539+00:00",
+  "id": 2
+ },
+ "f1e204067a3e3c81": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-21",
+  "url": "https://byggingar.is/reykjavik-haettir-vid-taeplega-500-m-kr-endurbaetur-a-vitatorgi/?utm_source=rss&utm_medium=rss&utm_campaign=reykjavik-haettir-vid-taeplega-500-m-kr-endurbaetur-a-vitatorgi",
+  "title": "Reykjavík hættir við tæplega 500 m.kr. endurbætur á Vitatorgi",
+  "sum": "Reykjavík hættir við tæplega 500 m.kr. endurbætur á Vitatorgi Reykjavíkurborg hefur ákveðið að falla frá áður fyrirhuguðum umfangsmiklum endurbótum á framleiðslueldhúsinu á Vitatorgi. Áætlað var að verja um 500 milljónum króna í framkvæmdin",
+  "tender": "",
+  "start": "",
+  "end": "2028",
+  "tsort": "2028-01",
+  "first_seen": "2026-08-21T13:45:14.626539+00:00",
+  "id": 3
+ },
+ "576e6679f1672e16": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-21",
+  "url": "https://byggingar.is/niu-adilar-budu-i-thjonustu-vid-trjafellingar-i-reykjavik/?utm_source=rss&utm_medium=rss&utm_campaign=niu-adilar-budu-i-thjonustu-vid-trjafellingar-i-reykjavik",
+  "title": "Níu aðilar buðu í þjónustu við trjáfellingar í Reykjavík",
+  "sum": "Níu aðilar buðu í þjónustu við trjáfellingar í Reykjavík Níu aðilar skiluðu tilboðum í EES-útboð Reykjavíkurborgar vegna þjónustu við trjáfellingar í borgarlandinu. Um er að ræða rammasamning um hirðingu skógar- og gróðursvæða borgarinnar, ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-21T13:45:14.626539+00:00",
+  "id": 4
+ },
+ "fb7d63a5aa97107f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-20",
+  "url": "https://byggingar.is/steypuvinna-hafin-vid-nyja-heilsulind-a-siglufirdi/?utm_source=rss&utm_medium=rss&utm_campaign=steypuvinna-hafin-vid-nyja-heilsulind-a-siglufirdi",
+  "title": "Steypuvinna hafin við nýja heilsulind á Siglufirði",
+  "sum": "Steypuvinna hafin við nýja heilsulind á Siglufirði Framkvæmdir við nýja heilsulind við Segul 67 á Siglufirði eru komnar á nýtt stig en steypuvinna við grunn byggingarinnar hófst í morgun. Byggingafélagið Berg ehf. annast framkvæmdir við ver",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-21T13:45:14.626539+00:00",
+  "id": 5
  }
 }
