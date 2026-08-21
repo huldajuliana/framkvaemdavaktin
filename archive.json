@@ -12869,5 +12869,89 @@
   "tsort": "",
   "first_seen": "2026-08-20T13:47:13.091887+00:00",
   "id": 2
+ },
+ "825cd55218e1a2d7": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-21",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/21/alda_tekin_ad_risa_ur_fossvoginum/",
+  "title": "Alda tekin að rísa úr Fossvoginum",
+  "sum": "Mikilvægur áfangi í byggingu Fossvogsbrúarinnar Öldu, sem ná mun yfir voginn frá Kársnesi í Kópavogi yfir í Nauthólsvík í Reykjavík, náðist á dögunum þegar lokið var við að bora alla staura brúarinnar niður í hafsbotninn",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-21T09:33:38.939211+00:00",
+  "id": 1
+ },
+ "c490b8a1b771f46c": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-20",
+  "url": "https://www.visir.is/g/20262923913d/bill-og-motorhjol-skullu-saman-vid-vadlaheidargong",
+  "title": "Bíll og mótor­hjól skullu saman við Vaðlaheiðargöng",
+  "sum": "Bíll og mótorhjól skullu saman á hringveginum sunnan við munna Akureyrarmegin Vaðlaheiðargangnanna á fjórða tímanum í dag.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-21T09:33:38.939211+00:00",
+  "id": 3
+ },
+ "5a1a1ad02dce0148": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-20",
+  "url": "https://www.visir.is/g/20262923838d/baeta-umferdaroryggi-vid-gatnamot-miklubrautar-og-grensasvegar",
+  "title": "Bæta um­ferðar­öryggi við gatna­mót Miklu­brautar og Grens­ás­vegar",
+  "sum": "Á næstu dögum verður ráðist í framkvæmdir við gatnamót Miklubrautar og Grensásvegar með það að markmiði að bæta umferðaröryggi, sýnileika og aðgengi fyrir gangandi og hjólandi vegfarendur. Áætlað er að verkinu ljúki um mánaðamótin september",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-21T09:33:38.939211+00:00",
+  "id": 4
+ },
+ "cf5976d2be1bdc67": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-21",
+  "url": "https://www.ruv.is/frettir/erlent/2026-08-21-thrir-sagdir-hafa-meidst-i-snorpum-jardskjalfta-i-andesfjollum-484491/",
+  "title": "Þrír sagðir hafa meiðst í snörpum jarðskjálfta í Andesfjöllum",
+  "sum": "Þrír meiddust lítillega þegar jarðskjálfti af stærðinni 6,7 reið yfir miðhluta Perú í gær að sögn yfirvalda. Konur á göng í Andesfjöllum.EPA / Paula Bayarte Þau segja jafnframt að um það bil tuttugu byggingar hafi laskast, þar af sex skólar",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-21T09:33:38.939211+00:00",
+  "id": 2
  }
 }
