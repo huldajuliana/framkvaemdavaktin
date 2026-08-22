@@ -13058,5 +13058,215 @@
   "tsort": "",
   "first_seen": "2026-08-21T13:45:14.626539+00:00",
   "id": 5
+ },
+ "d6e1bc6df7e7d53c": {
+  "region": "Suðurnes",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-08-21",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/21/gridarleg_skattalaekkun/",
+  "title": "„Gríðarleg skattalækkun“",
+  "sum": "Meirihluti Sjálfstæðisflokksins og Miðflokksins í skipulagsráði Reykjanesbæjar samþykkti á fundi ráðsins í morgun að fella niður byggingarréttargjald á íbúðum, iðnaðarhúsnæði, verslunar- og þjónustuhúsnæði og bygginga á athafnasvæðum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-22T09:23:31.775381+00:00",
+  "id": 2
+ },
+ "557131e3de79fe6d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Hafnar",
+  "src": "Vísir – allt",
+  "date": "2026-08-21",
+  "url": "https://www.visir.is/g/20262924435d/buist-vid-thungri-umferd-a-fjolfornum-gatnamotum",
+  "title": "Búist við þungri um­ferð á fjöl­förnum gatna­mótum",
+  "sum": "Búist er við talsverðum töfum á umferð um gatnamót Miklubrautar og Grensásvegar næstu vikur en framkvæmdir hefjast þar eftir helgi. Verkefnastjóri hjá Vegagerðinni hvetur fólk til að kynna sér hjáleiðir.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-22T09:23:31.775381+00:00",
+  "id": 3
+ },
+ "90f4e68804c9f142": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "150 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-21",
+  "url": "https://www.visir.is/g/20262924413d/afnema-byggingarrettargjold-i-reykjanesbae",
+  "title": "Af­nema byggingarréttargjöld í Reykja­nes­bæ",
+  "sum": "Skipulagsráð Reykjanesbæjar samþykkti á fundi sínum í morgun að fella niður öll byggingargjöld á nýjar framkvæmdir. Vilhjálmur Árnason bæjarstjóri segir að ákvörðunin kunni að lækka kostnað við gerð 150 fermetra íbúahúsnæðis um rúmar fimm m",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-22T09:23:31.775381+00:00",
+  "id": 4
+ },
+ "8ae29dd71d9aa8d6": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-08-21",
+  "url": "https://www.visir.is/g/20262924353d/nyi-landspitalinn-verdi-tilbuinn-i-arslok-2029",
+  "title": "Nýi Land­spítalinn verði til­búinn í árs­lok 2029",
+  "sum": "Stefnt er að verklokum við framkvæmd nýs Landspítala í árslok 2029. Á sama tími hefs yfirfærslutími svo hægt sé að hefja starfsemi spítalans á ný.",
+  "tender": "",
+  "start": "",
+  "end": "lok 2029",
+  "tsort": "2029-12",
+  "first_seen": "2026-08-22T09:23:31.775381+00:00",
+  "id": 5
+ },
+ "65cef2af791cc4b1": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-08-21",
+  "url": "https://www.visir.is/g/20262924339d/geti-munad-allt-ad-tvo-thusund-kronum-a-matarkorfunni-eftir-verslunum",
+  "title": "Geti munað allt að tvö þúsund krónum á matarkörfunni eftir verslunum",
+  "sum": "Lægsta verðið á matvöru er enn að finna í Prís samkvæmt úttekt Verðlagseftirlits ASÍ sem framkvæmd var dagana 10. til 14. ágúst. Þegar verð voru borin saman í lágvöruverslununum: Bónus, Krónunni, Nettó og Prís var lægsta verðið oftast að fi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-22T09:23:31.775381+00:00",
+  "id": 6
+ },
+ "4b72ece31433e81d": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-22",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-22-samtal-vid-nagranna-upphaf-thess-ad-skolinn-fekk-veglega-gjof-484568/",
+  "title": "Samtal við nágranna upphaf þess að skólinn fékk veglega gjöf",
+  "sum": "Gagnaversfyrirtækið Verne Global og tæknifyrirtækið Ofar gáfu Hvassaleitisskóla á Ásbrú veglega gjöf í dag: Þrívíddarprentara, tölvur, sýndarveruleikagleraugu og fleira sem nýtist í nýsköpunar- og tæknismiðju skólans. Unnar Stefán Sigurðsso",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-22T09:23:31.775381+00:00",
+  "id": 1
+ },
+ "9171d5e2e778c8aa": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-21",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-21-stefna-a-ad-ljuka-byggingu-nys-landspitala-fyrir-arslok-2029-484553/",
+  "title": "Stefna á að ljúka byggingu nýs Landspítala fyrir árslok 2029",
+  "sum": "Áætlað er að byggingu nýja Landspítalans við Hringbraut ljúki fyrir árslok 2029. Framkvæmdatímabil spítalans hófst árið 2010 og nær til 2031. Skóflustunga var tekin að sjúkrahóteli árið 2015, sem var fyrsti áfangi verkefnisins. Á vef Stjórn",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-22T09:23:31.775381+00:00",
+  "id": 7
+ },
+ "a80b1ba3bc1ca91a": {
+  "region": "Norðurland eystra",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-21",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-21-loggaeslan-er-i-faranlegri-stodu-484529/",
+  "title": "„Löggæslan er í fáránlegri stöðu“",
+  "sum": "Dregið hefur verið úr löggæslu á Þórshöfn eftir að lögreglustöðinni var lokað vegna myglu fyrir tæpu ári. Lítið hefur gerst í húsnæðismálum og stöðugildum lögreglumanna hefur fækkað. „Við höfum ekki orðið vör við neinar framkvæmdir þar eða ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-22T09:23:31.775381+00:00",
+  "id": 8
+ },
+ "ed2e01bfe0e67d6a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-21",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-21-merki-um-kolnun-a-fasteigna-og-byggingamarkadi-484532/",
+  "title": "Merki um kólnun á fasteigna- og byggingamarkaði",
+  "sum": "Merkja mátti kólnun á fasteignamarkaði á fyrri helmingi ársins, miðað við sama tímabil í fyrra, og færri byggingarleyfi voru gefin út. Þetta kemur fram í mánaðarskýrslu Húsnæðis- og mannvirkjastofnunar . Tæplega 5.000 kaupsamningum var þing",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-22T09:23:31.775381+00:00",
+  "id": 9
+ },
+ "6777b2f6804a34f1": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-21",
+  "url": "https://byggingar.is/efla-hefur-eftirlit-med-staekkun-sigoldustodvar/?utm_source=rss&utm_medium=rss&utm_campaign=efla-hefur-eftirlit-med-staekkun-sigoldustodvar",
+  "title": "EFLA hefur eftirlit með stækkun Sig­öldu­stöðvar",
+  "sum": "EFLA hefur eftirlit með stækkun Sig­öldu­stöðvar EFLA hefur gert samning við Landsvirkjun um eftirlit með framkvæmdum við stækkun Sigöldustöðvar, auk endurbóta og viðhalds sem tengjast verkefninu. EFLA mun sinna eftirlitinu yfir allt framkv",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-22T09:23:31.775381+00:00",
+  "id": 10
  }
 }
