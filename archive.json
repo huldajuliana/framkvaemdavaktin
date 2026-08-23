@@ -13268,5 +13268,26 @@
   "tsort": "",
   "first_seen": "2026-08-22T09:23:31.775381+00:00",
   "id": 10
+ },
+ "ae9e6d5abdf04ce0": {
+  "region": "Norðurland vestra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-23",
+  "url": "https://byggingar.is/skagafjordur-skuldbatt-sig-til-hundrud-milljona-framkvaemda/?utm_source=rss&utm_medium=rss&utm_campaign=skagafjordur-skuldbatt-sig-til-hundrud-milljona-framkvaemda",
+  "title": "Skagafjörður skuldbatt sig til hundruð milljóna framkvæmda",
+  "sum": "Skagafjörður skuldbatt sig til hundruð milljóna framkvæmda Sveitarfélagið Skagafjörður hefur skuldbundið sig til 376 milljóna króna fráveituframkvæmda á Hólum í Hjaltadal samkvæmt nýlegu samkomulagi við íslenska ríkið. Á móti greiðir ríkið ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-23T13:32:53.820996+00:00",
+  "id": 1
  }
 }
