@@ -13289,5 +13289,110 @@
   "tsort": "",
   "first_seen": "2026-08-23T13:32:53.820996+00:00",
   "id": 1
+ },
+ "adf6f6ce0ff43f64": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-23",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/23/vegavinna_vid_baulu_naestu_tvo_kvold/",
+  "title": "Vegavinna við Baulu næstu tvö kvöld",
+  "sum": "Vegagerðin hefur heimilað framkvæmdir á Hringvegi, Vesturlandsvegi, fram hjá Baulu og Borgarfjarðarbraut næstu tvö kvöld, að því gefnu að veður leyfi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-24T09:43:10.846303+00:00",
+  "id": 3
+ },
+ "9b286cb152a7dd6f": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-23",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/23/vilja_adgerdir_vegna_vatnsleka_i_gongunum/",
+  "title": "Vilja aðgerðir vegna vatnsleka í göngunum",
+  "sum": "Um 400 íbúar Fjallabyggðar og aðrir notendur Héðinsfjarðarganga hafa skrifað undir áskorun um að Vegagerðin grípi til aðgerða vegna áralangs vatnsleka í Ólafsfjarðarhluta ganganna.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-24T09:43:10.846303+00:00",
+  "id": 4
+ },
+ "a9f6d9c3d2e7a3ee": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-23",
+  "url": "https://www.visir.is/g/20262924710d/-skiljum-mjog-vel-ad-thetta-se-erfitt-fyrir-ibuana-i-hverfinu-",
+  "title": "„Skiljum mjög vel að þetta sé erfitt fyrir í­búana í hverfinu“",
+  "sum": "Ein fárra leiða inn og út úr íbúðahverfinu á Kársnesi hefur verið lokuð vegna framkvæmda síðan í júlí en áætlað er að þeim ljúki í síðasta lagi í október og þá sé unnt að opna fyrir umferð út úr hverfinu á ný. Verið er að leggja nýja stofnl",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-24T09:43:10.846303+00:00",
+  "id": 5
+ },
+ "cbe5d3e922951c5f": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-24",
+  "url": "https://byggingar.is/jj-pipulagnir-ehf-fa-306-milljona-gatnagerdarverk-vid-vikursand-i-olfusi/?utm_source=rss&utm_medium=rss&utm_campaign=jj-pipulagnir-ehf-fa-306-milljona-gatnagerdarverk-vid-vikursand-i-olfusi",
+  "title": "JJ pípulagnir ehf. fá 306 milljóna gatnagerðarverk við Víkursand í Ölfusi",
+  "sum": "JJ pípulagnir ehf. fá 306 milljóna gatnagerðarverk við Víkursand í Ölfusi Framkvæmda- og hafnarnefnd Sveitarfélagsins Ölfuss hefur samþykkt að taka rúmlega 305,7 milljóna króna tilboði JJ pípulagna ehf. í gatnagerð við Víkursand. Tilboðið v",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-24T09:43:10.846303+00:00",
+  "id": 1
+ },
+ "d3c10acd91c37516": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-24",
+  "url": "https://byggingar.is/pk-verk-ehf-faer-gatnagerd-vid-strandstig-i-vogabyggd/?utm_source=rss&utm_medium=rss&utm_campaign=pk-verk-ehf-faer-gatnagerd-vid-strandstig-i-vogabyggd",
+  "title": "PK verk ehf. fær gatnagerð við Strandstíg í Vogabyggð",
+  "sum": "PK verk ehf. fær gatnagerð við Strandstíg í Vogabyggð Reykjavíkurborg hefur ákveðið að ganga að tilboði PK verks ehf. í gatna- og stígagerð við Strandstíg í Vogabyggð. Tilboð fyrirtækisins hljóðar upp á 207,6 milljónir króna með virðisaukas",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-24T09:43:10.846303+00:00",
+  "id": 2
  }
 }
