@@ -13394,5 +13394,47 @@
   "tsort": "",
   "first_seen": "2026-08-24T09:43:10.846303+00:00",
   "id": 2
+ },
+ "a864835d092d1e11": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-24",
+  "url": "https://www.visir.is/g/20262925317d/malbika-vid-baulu-i-kvold",
+  "title": "Mal­bika við Baulu í kvöld",
+  "sum": "Áætlað er að malbika 1,6 kílómetra langan kafla þjóðvegar 1 við veitingastaðinn Baulu í kvöld, miðvikudagskvöldið 24. ágúst, og annað kvöld, þriðjudagskvöldið 25. ágúst. Áætlað er að framkvæmdir standi frá kl 20:00 til 07:00 að morgni bæði ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-24T13:52:13.049880+00:00",
+  "id": 1
+ },
+ "f4c62dc0c1e37b5e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-24",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-24-loftmengun-vegna-saebrautarstokks-liklega-vanmetin-484709/",
+  "title": "Loftmengun vegna Sæbrautarstokks líklega vanmetin",
+  "sum": "Heilbrigðiseftirlit Reykjavíkur telur áhrif loftmengunar vegna Sæbrautarstokks vera vanmetin og að rík þörf sé á góðum mengunarvörnum. Einnig þurfi að kanna betur hvort mengaður jarðvegur á framkvæmdasvæði geti komist í snertingu við grunnv",
+  "tender": "",
+  "start": "2027",
+  "end": "2032",
+  "tsort": "2027-01",
+  "first_seen": "2026-08-24T13:52:13.049880+00:00",
+  "id": 2
  }
 }
