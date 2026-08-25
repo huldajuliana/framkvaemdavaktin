@@ -13583,5 +13583,68 @@
   "tsort": "",
   "first_seen": "2026-08-25T09:31:54.236829+00:00",
   "id": 3
+ },
+ "a6c9cd9a31132396": {
+  "region": "Suðurnes",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-25",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/25/viljayfirlysing_um_nytt_gagnaver/",
+  "title": "Viljayfirlýsing um nýtt gagnaver",
+  "sum": "Bæjarstjóri Reykjanesbæjar hefur undirritað viljayfirlýsingu milli sveitarfélagsins og Orbis Invest ehf. vegna fyrirhugaðrar uppbyggingar gagnavers á Vogshóli. Þar fer um þessar mundir fram öflug uppbygging gagnavera, til að mynda á vegum&h",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-25T13:50:57.167303+00:00",
+  "id": 1
+ },
+ "3f30c4a263df0056": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-08-25",
+  "url": "https://www.visir.is/g/20262925849d/-thetta-er-erfidur-dagur-og-ferlinu-er-ekki-lokid-",
+  "title": "„Þetta er erfiður dagur og ferlinu er ekki lokið“",
+  "sum": "Hildur Björnsdóttir borgarstjóri staðfestir í skilaboðum til fréttastofu að í kjölfar aukafundar borgarráðs í morgun sé unnið að skipulagsbreytingum hjá borginni. Enn er verið að ræða við það starfsfólk sem breytingarnar hafa áhrif á.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-25T13:50:57.167303+00:00",
+  "id": 2
+ },
+ "bd7d82322dce2586": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "8.9 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-25",
+  "url": "https://byggingar.is/nytt-8-9-milljarda-hjukrunarheimili-a-akureyri-faerist-naer-framkvaemdum-2/?utm_source=rss&utm_medium=rss&utm_campaign=nytt-8-9-milljarda-hjukrunarheimili-a-akureyri-faerist-naer-framkvaemdum-2",
+  "title": "Nýtt 8.9 milljarða hjúkrunarheimili á Akureyri færist nær framkvæmdum",
+  "sum": "Nýtt 8.9 milljarða hjúkrunarheimili á Akureyri færist nær framkvæmdum Uppbygging nýs 140 rýma hjúkrunarheimilis við Þursaholt 6 á Akureyri færist nær framkvæmdum. Reitir munu byggja um 9.100 fermetra hjúkrunarheimili fyrir áætlaða 8,9 millj",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-25T13:50:57.167303+00:00",
+  "id": 3
  }
 }
