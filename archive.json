@@ -1477,27 +1477,6 @@
   "first_seen": "2026-06-02T12:40:10.388023+00:00",
   "id": 1
  },
- "1f6d2daa589ea1db": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-06-02",
-  "url": "https://www.visir.is/g/20262891925d/nytt-og-mikid-golfsvaedi-i-hafnarfirdi-komid-a-veg",
-  "title": "Nýtt og mikið golfs­væði í Hafnar­firði komið á veg",
-  "sum": "Hafnfirðingar eru komnir vel á veg með hugmyndavinnu sem snýr að gríðarlega metnaðarfullri uppbyggingu á golfsvæði í Snókalöndum við Bláfjallaveg. Gert er ráð fyrir uppbyggingu hvorki meira né minna en þriggja valla – tveggja 18 holu valla ",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-06-02T12:40:10.388023+00:00",
-  "id": 2
- },
  "9110e73c71e92b36": {
   "region": "Suðurnes",
   "type": "Íbúðir",
@@ -10855,27 +10834,6 @@
   "first_seen": "2026-08-05T15:14:05.211069+00:00",
   "id": 1
  },
- "4a6575c1780a624d": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-08-05",
-  "url": "https://www.visir.is/g/20262917332d/gaetu-verid-fluttir-a-brott-um-bord-i-bandero",
-  "title": "Gætu verið fluttir á brott um borð í Bandero",
-  "sum": "Öllum áhafnarmeðlimum Bandero hefur verið birt ákvörðun um brottvísun og endurkomubann. Þeir eru nú frjálsir ferða sinna innan höfuðborgarsvæðisins en ríkislögreglustjóri vinnur að framkvæmd brottvísunar. Ekki er loku fyrir það skotið að sk",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-08-05T15:14:05.211069+00:00",
-  "id": 2
- },
  "76b2cca44ebc693b": {
   "region": "Suðurnes",
   "type": "Innviðir",
@@ -12282,27 +12240,6 @@
   "first_seen": "2026-08-16T09:23:47.214848+00:00",
   "id": 1
  },
- "04ee28a969bc57b0": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-08-16",
-  "url": "https://www.mbl.is/frettir/innlent/2026/08/16/krefur_hafnarfjardarbae_svara_vegna_hatidarinnar/",
-  "title": "Krefur Hafnarfjarðarbæ svara vegna hátíðarinnar",
-  "sum": "Tinna Bessadóttir, hönnuður og viðburðastjóri, sakar Hafnarfjarðarbæ um að hafa tekið yfir hátíð sem hún segist hafa skapað og þróað frá grunni. Hún segir bæinn nú halda hátíðina undir sama heiti og með sömu grunnuppbyggingu og hún hafi þró",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-08-16T13:31:46.741144+00:00",
-  "id": 1
- },
  "23b7134027ca4f53": {
   "region": "Suðurnes",
   "type": "Innviðir",
@@ -13437,48 +13374,6 @@
   "first_seen": "2026-08-24T13:52:13.049880+00:00",
   "id": 2
  },
- "5491877fa026ea21": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-08-24",
-  "url": "https://www.mbl.is/frettir/innlent/2026/08/24/leit_haldid_afram_thar_til_madurinn_finnst/",
-  "title": "Leit haldið áfram þar til maðurinn finnst",
-  "sum": "Ferðamaðurinn sem talinn er hafa fallið í Jökulsá á Brú við Stuðlagil í dag er enn ófundinn.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-08-25T09:31:54.236829+00:00",
-  "id": 4
- },
- "2781b3a5ae56d86a": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-08-24",
-  "url": "https://www.mbl.is/frettir/innlent/2026/08/24/myndir_leit_stendur_enn_yfir_i_anni/",
-  "title": "Myndir: Leit stendur enn yfir í ánni",
-  "sum": "Leit stendur enn yfir að þeim sem talið er að fallið hafi í Jökulsá á Brú við Stuðlagil í dag.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-08-25T09:31:54.236829+00:00",
-  "id": 5
- },
  "3fd0db3a41e4cfe2": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -13499,48 +13394,6 @@
   "tsort": "",
   "first_seen": "2026-08-25T09:31:54.236829+00:00",
   "id": 1
- },
- "19d61bff2e146baf": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Í byggingu",
-  "src": "Vísir – allt",
-  "date": "2026-08-24",
-  "url": "https://www.visir.is/g/20262925531d/leit-enn-i-fullum-gangi-og-hatt-i-hundrad-a-svaedinu",
-  "title": "Leit enn í fullum gangi og hátt í hundrað á svæðinu",
-  "sum": "Leit stendur enn yfir að manni sem talið er að hafi fallið út í Jökulsá á Brú við Stuðlagil. Hátt í hundrað manns taka þátt í aðgerðinni frá öllum björgunarsveitum á Austurlandi en tilkynning barst um atvikið rúmlega eitt í dag.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-08-25T09:31:54.236829+00:00",
-  "id": 6
- },
- "77b63409c3a76e2a": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-08-25",
-  "url": "https://www.ruv.is/frettir/innlent/2026-08-25-madurinn-sem-fell-i-studlagil-fannst-latinn-484797/",
-  "title": "Maðurinn sem féll í Stuðlagil fannst látinn",
-  "sum": "Karlmaður sem féll i Jökulsá á Brú í Stuðlagili í gærmorgun er látinn. Hann fannst á tíunda tímanum í gærkvöldi. Maðurinn er erlendur ferðamaður á fertugsaldri. Lögregla er búin að hafa samband við aðstandendur mannsins og upplýsa þá um sly",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-08-25T09:31:54.236829+00:00",
-  "id": 2
  },
  "3b83eddaa35cc5dd": {
   "region": "Höfuðborgarsvæðið",
@@ -13646,5 +13499,26 @@
   "tsort": "",
   "first_seen": "2026-08-25T13:50:57.167303+00:00",
   "id": 3
+ },
+ "351afbf9af47ab1f": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "36 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-25",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-25-vandasamt-verk-ad-staekka-thyrlupall-a-fridudu-landi-484828/",
+  "title": "Vandasamt verk að stækka þyrlupall á friðuðu landi",
+  "sum": "Í fréttaskýringaþættinum Þetta helst var fjallað um stækkun þyrlupallsins í Surtsey og hvernig slíkar framkvæmdir eru skipulagðar með tilliti til náttúruverndar. Umhverfis- og skipulagsráð Vestmannaeyja samþykkti á fundi sínum í síðustu vik",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-25T15:59:02.757706+00:00",
+  "id": 1
  }
 }
