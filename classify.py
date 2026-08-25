@@ -57,7 +57,9 @@ _BUILD_CTX = [
     # byggingarsagnir / staða
     "bygging", "byggja", "byggð", "byggt", "byggi", "reisa", "rís", "reist",
     "reisn", "útboð", "niðurrif", "nýbygg", "fokhelt", "skóflustung", "verktak",
-    "áform", "fyrirhug", "hófst", "hafin", "hafnar", "lokið", "ljúka", "lýkur",
+    # ATH: "hafnar " með bili (sögnin/lh. "framkvæmdir hafnar" = hefjast). Án bils
+    # gripi það staðanöfnin "Hafnarfjörður/Hafnarbraut/Hafnargata" o.s.frv.
+    "áform", "fyrirhug", "hófst", "hafin", "hafnar ", "lokið", "ljúka", "lýkur",
     "stækk", "viðbygg", "endurbygg", "endurbæt", "endurnýj", "jarðvinn", "áfang",
     "gröft", "grafa", "steyp", "múr", "lóðaúthlut", "byggingarlóð",
     # mannvirki / innviðir (nafnorð)
@@ -119,6 +121,8 @@ def is_relevant(item: dict) -> bool:
     # "háskólabrú" (aðfaranám, t.d. hjá Keili) er NÁMSLEIÐ, ekki samgöngubrú — má
     # ekki kveikja á lykilorðinu "brú ". Hreinsum áður en lykilorð eru metin.
     t_kw = t_kw.replace("háskólabrú", " ")
+    # "Jökulsá á Brú" er Áin (staðanafn) — má ekki kveikja á "brú "-lykilorðinu.
+    t_kw = t_kw.replace("jökulsá á brú", " ").replace("á brú við", " ")
     # mánuðurinn "febrúar" inniheldur "brúar" — má ekki kveikja á brúar-lykilorðinu.
     t_kw = t_kw.replace("febrúar", " ")
     # "orlofsíbúðir" (sumarhús/bókanir hjá stéttarfélögum) inniheldur "íbúðir" en er
@@ -245,7 +249,11 @@ _HARD_NEGATIVES = [
     # framkvæmdafréttir þótt staðsetning nefni "gatnamót"/"brú"/"hús". Stofninn
     # "slys" nær banaslys/umferðarslys/bílslys/vinnuslys; "lést"/"fórst"/"lét lífið"
     # ná dauðsföllum. ("andlát" er þegar á listanum hér að ofan.)
-    "slys", "lést", "fórst", "lét lífið", "drukkn",
+    # dauðsföll/slys/leit-björgun — "látin(n)"/"féll í"/"fallið í"/"björgunarsveit"
+    # (t.d. ferðamaður féll í á; staðanöfn eins og "Jökulsá á Brú" kveikja annars
+    # á "brú "). Leitar-/björgunaraðgerðir eru neyð, ekki framkvæmd.
+    "slys", "lést", "látin", "fórst", "lét lífið", "drukkn", "féll í", "fallið í",
+    "fallið út í", "fannst lát", "björgunarsveit",
     # umferðaróhöpp / björgun — t.d. bíll út af brú, brú lokuð vegna skemmda á
     # brúarhandriði, björgunaraðgerðir. Óhapp/neyð, ekki framkvæmd. "steypubíl"
     # grípur ÖLL afbrigði steypubíls-óhappsins (dreginn upp, tæma lón o.s.frv.) og
