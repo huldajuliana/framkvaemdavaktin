@@ -13436,5 +13436,152 @@
   "tsort": "2027-01",
   "first_seen": "2026-08-24T13:52:13.049880+00:00",
   "id": 2
+ },
+ "5491877fa026ea21": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-24",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/24/leit_haldid_afram_thar_til_madurinn_finnst/",
+  "title": "Leit haldið áfram þar til maðurinn finnst",
+  "sum": "Ferðamaðurinn sem talinn er hafa fallið í Jökulsá á Brú við Stuðlagil í dag er enn ófundinn.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-25T09:31:54.236829+00:00",
+  "id": 4
+ },
+ "2781b3a5ae56d86a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-24",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/24/myndir_leit_stendur_enn_yfir_i_anni/",
+  "title": "Myndir: Leit stendur enn yfir í ánni",
+  "sum": "Leit stendur enn yfir að þeim sem talið er að fallið hafi í Jökulsá á Brú við Stuðlagil í dag.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-25T09:31:54.236829+00:00",
+  "id": 5
+ },
+ "3fd0db3a41e4cfe2": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-25",
+  "url": "https://www.visir.is/g/20262925660d/mun-esb-hjalpa-vid-vegagerd-a-islandi-",
+  "title": "Mun ESB hjálpa við vega­gerð á Ís­landi?",
+  "sum": "Innganga í ESB mun hjálpa Íslandi töluvert við innviðauppbyggingu. Annars vegar er möguleiki að fá beina styrki til innviðauppbyggingar og hins vegar verður hægt að fá ódýrt fjármagn frá Evrópska fjárfestingarbankanum EIB til slíkrar uppbyg",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-25T09:31:54.236829+00:00",
+  "id": 1
+ },
+ "19d61bff2e146baf": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-08-24",
+  "url": "https://www.visir.is/g/20262925531d/leit-enn-i-fullum-gangi-og-hatt-i-hundrad-a-svaedinu",
+  "title": "Leit enn í fullum gangi og hátt í hundrað á svæðinu",
+  "sum": "Leit stendur enn yfir að manni sem talið er að hafi fallið út í Jökulsá á Brú við Stuðlagil. Hátt í hundrað manns taka þátt í aðgerðinni frá öllum björgunarsveitum á Austurlandi en tilkynning barst um atvikið rúmlega eitt í dag.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-25T09:31:54.236829+00:00",
+  "id": 6
+ },
+ "77b63409c3a76e2a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-25",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-25-madurinn-sem-fell-i-studlagil-fannst-latinn-484797/",
+  "title": "Maðurinn sem féll í Stuðlagil fannst látinn",
+  "sum": "Karlmaður sem féll i Jökulsá á Brú í Stuðlagili í gærmorgun er látinn. Hann fannst á tíunda tímanum í gærkvöldi. Maðurinn er erlendur ferðamaður á fertugsaldri. Lögregla er búin að hafa samband við aðstandendur mannsins og upplýsa þá um sly",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-25T09:31:54.236829+00:00",
+  "id": 2
+ },
+ "3b83eddaa35cc5dd": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-24",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-24-opnunartimi-sundhallarinnar-skertur-thetta-verkefni-hefur-staekkad-484741/",
+  "title": "Opnunartími Sundhallarinnar skertur: „Þetta verkefni hefur stækkað“",
+  "sum": "Opnunartími Sundhallarinnar í Reykjavík verður skertur á virkum dögum frá og með morgundeginum og þar til viðgerðum á búningsklefum laugarinnar lýkur. Framkvæmdir hafa staðið yfir í klefunum um nokkra hríð. Á meðan hafa karlar notað gamla b",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-25T09:31:54.236829+00:00",
+  "id": 7
+ },
+ "788c451ab97aa13c": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-25",
+  "url": "https://byggingar.is/fimm-verkfraedistofur-vilja-hanna-3-lotu-borgarlinu-og-ny-gatnamot-vid-bustadaveg/?utm_source=rss&utm_medium=rss&utm_campaign=fimm-verkfraedistofur-vilja-hanna-3-lotu-borgarlinu-og-ny-gatnamot-vid-bustadaveg",
+  "title": "Fimm verkfræðistofur vilja hanna 3. lotu Borgarlínu og ný gatnamót við Bústaðaveg",
+  "sum": "Fimm verkfræðistofur vilja hanna 3. lotu Borgarlínu og ný gatnamót við Bústaðaveg Fimm verkfræðistofur skiluðu tilboðum í umfangsmikið hönnunarverkefni Vegagerðarinnar vegna endurgerðar gatnamóta Reykjanesbrautar og Bústaðavegar og hluta þr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-25T09:31:54.236829+00:00",
+  "id": 3
  }
 }
