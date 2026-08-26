@@ -13520,5 +13520,152 @@
   "tsort": "",
   "first_seen": "2026-08-25T15:59:02.757706+00:00",
   "id": 1
+ },
+ "db5275e8e7603e6b": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-26",
+  "url": "https://www.visir.is/g/20262926215d/opnum-dyr-fyrir-innvidafjarfestingu-um-allt-land",
+  "title": "Opnum dyr fyrir inn­viða­fjár­festingu um allt land",
+  "sum": "Ísland stendur frammi fyrir stórfelldri innviðauppbyggingu á næsta áratug. Leggja þarf vegi, byggja brýr og göng, styrkja raforkukerfið og fjárfesta í höfnum, flugvöllum, vatns- og fráveitum og öðrum samfélagsinnviðum um allt land.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-26T09:37:17.448296+00:00",
+  "id": 1
+ },
+ "47e11d05c503c17a": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-26",
+  "url": "https://www.visir.is/g/20262926180d/husid-ad-mosfelli-tekid-i-gegn-og-biskup-flytur-inn",
+  "title": "Húsið að Mosfelli tekið í gegn og biskup flytur inn",
+  "sum": "Biskup Íslands mun flytja að Mosfelli í Mosfellsdal þegar framkvæmdum á íbúðarhúsnæði á staðnum lýkur. Þetta kemur fram í fundargerð stjórnar Þjóðkirkjunnar frá því fyrr í ágúst.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-26T09:37:17.448296+00:00",
+  "id": 2
+ },
+ "28cf7b2ee51d79a5": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-25",
+  "url": "https://www.visir.is/g/20262925953d/landsvirkjun-island-allt-og-ovissan-um-esb-adild",
+  "title": "Lands­virkjun, „Ís­land allt“ og ó­vissan um ESB-aðild",
+  "sum": "Landsvirkjun er ekki venjulegt fyrirtæki. Hún er eign íslensku þjóðarinnar og hefur í áratugi gegnt lykilhlutverki í uppbyggingu íslensks samfélags. Verðmæti hennar felst því ekki aðeins í þeim arði sem hún getur skilað ríkissjóði, heldur e",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-26T09:37:17.448296+00:00",
+  "id": 5
+ },
+ "def8315ff8ceded9": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Hafnar",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-25",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-25-thurfa-ad-fraesa-upp-kilometra-langt-klaedingarlag-vid-kaldarmela-484865/",
+  "title": "Þurfa að fræsa upp kílómetra langt klæðingarlag við Kaldármela",
+  "sum": "Fræsa þarf upp nýlega lagt klæðingarlag á um eins kílómetra löngum kafla Snæfellsvegar við Kaldármela og leggja að nýju eftir að það skemmdist. Bæjarstjóri Snæfellsbæjar fundaði með stjórnendum Vegagerðarinnar og segir þá hafa lofað meiri v",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-26T09:37:17.448296+00:00",
+  "id": 6
+ },
+ "76f22f2c6b4855df": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-25",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-25-rafmagnslaust-a-hluta-sudurnesja-484862/",
+  "title": "Rafmagnslaust á hluta Suðurnesja",
+  "sum": "Rafmagnslaust er á hluta Suðurnesja eftir að þrjár háspennulínur Landsnets leystu út um klukkan fjögur síðdegis. Í tilkynningu Landsnets segir að útslátturinn hafi valdið því að Svartsengisvirkjun sé úti. Einnig sé rafmagnslaust í Grindavík",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-26T09:37:17.448296+00:00",
+  "id": 7
+ },
+ "2d22a8c869af9412": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-26",
+  "url": "https://byggingar.is/graent-ljos-a-nyja-gongu-og-hjolabru-i-botni-kopavogs/?utm_source=rss&utm_medium=rss&utm_campaign=graent-ljos-a-nyja-gongu-og-hjolabru-i-botni-kopavogs",
+  "title": "Grænt ljós á nýja göngu- og hjólabrú í botni Kópavogs",
+  "sum": "Grænt ljós á nýja göngu- og hjólabrú í botni Kópavogs Bæjarstjórn Kópavogs hefur samþykkt framkvæmdaleyfi vegna nýrra aðskilinna göngu- og hjólastíga í botni Kópavogs. Framkvæmdin felur meðal annars í sér nýja brú fyrir gangandi vegfarendur",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-26T09:37:17.448296+00:00",
+  "id": 3
+ },
+ "3404d0e0c6334103": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-26",
+  "url": "https://byggingar.is/ollum-tilbodum-i-leikvoll-i-nesjahverfi-hafnad-laegsta-tilbod-naer-tvofalt-yfir-aaetlun/?utm_source=rss&utm_medium=rss&utm_campaign=ollum-tilbodum-i-leikvoll-i-nesjahverfi-hafnad-laegsta-tilbod-naer-tvofalt-yfir-aaetlun",
+  "title": "Öllum tilboðum í leikvöll í Nesjahverfi hafnað – lægsta tilboð nær tvöfalt yfir áætlun",
+  "sum": "Öllum tilboðum í leikvöll í Nesjahverfi hafnað – lægsta tilboð nær tvöfalt yfir áætlun Bæjarráð Sveitarfélagsins Hornafjarðar hefur ákveðið að hafna öllum tilboðum sem bárust í framkvæmdir við nýjan leikvöll í Nesjahverfi. Lægsta tilboðið v",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-26T09:37:17.448296+00:00",
+  "id": 4
  }
 }
