@@ -13667,5 +13667,47 @@
   "tsort": "",
   "first_seen": "2026-08-26T09:37:17.448296+00:00",
   "id": 4
+ },
+ "a3efb6fafedd81bc": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-26",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/26/segir_staekkun_thjodleikhuss_enn_a_aaetlun/",
+  "title": "Segir stækkun Þjóðleikhúss enn á áætlun",
+  "sum": "„Við erum vel á veg komin með forathugun og þá taka auðvitað við næstu skref eins og í hefðbundnum byggingarframkvæmdum,“ segir Logi Einarsson ráðherra menningar-, nýsköpunar- og háskólamála.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-26T13:54:57.305842+00:00",
+  "id": 1
+ },
+ "17899713537f5d2a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-26",
+  "url": "https://byggingar.is/framkvaemdir-hafnar-vid-arnarland-grafa-og-grjot-med-7928-milljona-gatnagerdarverk/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-hafnar-vid-arnarland-grafa-og-grjot-med-7928-milljona-gatnagerdarverk",
+  "title": "Framkvæmdir hafnar við Arnarland – Grafa og grjót með 792,8 milljóna gatnagerðarverk",
+  "sum": "Framkvæmdir hafnar við Arnarland – Grafa og grjót með 792,8 milljóna gatnagerðarverk. Framkvæmdir við gatnagerð og veitulagnir í Arnarlandi í Garðabæ eru hafnar. Verktakinn Grafa og grjót ehf. átti lægsta tilboð í verkið, tæplega 793 milljó",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-26T13:54:57.305842+00:00",
+  "id": 2
  }
 }
