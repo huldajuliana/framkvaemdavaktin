@@ -13709,5 +13709,152 @@
   "tsort": "",
   "first_seen": "2026-08-26T13:54:57.305842+00:00",
   "id": 2
+ },
+ "53d942157a91932d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-27",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/27/segir_stodu_fyrstu_kaupenda_ekki_fara_versnandi/",
+  "title": "Segir stöðu fyrstu kaupenda ekki fara versnandi",
+  "sum": "Fyrstu kaupendum hefur ekki fækkað á húsnæðismarkaði að undanförnu, raunverð húsnæðis hefur farið lækkandi og mun það að öllum líkindum halda áfram. Þá eru ekki merki um „frost“ á markaðnum né um að staða ungs fólks á leið inn á markaðinn f",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-27T19:24:52.898660+00:00",
+  "id": 1
+ },
+ "2022b18fe37c7cac": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-08-27",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/08/27/kauptaekifaeri_a_fasteignamarkadi/",
+  "title": "Kauptækifæri á fasteignamarkaði",
+  "sum": "Egill Lúðvíksson, forstjóri Íveru, stærsta einkarekna leigufélags landsins, segir lækkun raunverðs íbúða hafa skapað kauptækifæri fyrir félagið.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-27T19:24:52.898660+00:00",
+  "id": 2
+ },
+ "d952710963a7d0ed": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-27",
+  "url": "https://www.visir.is/g/20262926437d/beint-streymi-haskolamenntadir-a-husnaedismarkadi",
+  "title": "Beint streymi: Háskóla­menntaðir á húsnæðis­markaði",
+  "sum": "Niðurstöður könnunar um stöðu háskólamenntaðra á húsnæðismarkaði verða kynntar á morgun á fundi BHM og félaga háskólamenntaðra í Norræna húsinu. Hér að neðan má fylgjast með fundinum í beinu streymi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-27T19:24:52.898660+00:00",
+  "id": 3
+ },
+ "8c416599cd1b1de5": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-08-26",
+  "url": "https://www.visir.is/g/20262926502d/leikskoli-spratt-upp-eins-og-gorkula",
+  "title": "Leik­skóli spratt upp eins og gor­kúla",
+  "sum": "Nýr leikskóli með pláss fyrir yfir hundrað börn hefur sprottið upp með undraverðum hraða í Elliðaárdal. Verktaki afhendir borginni hann á næstu vikum. Vonast er til að hægt sé að hefja starfsemi þar sem allra fyrst.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-27T19:24:52.898660+00:00",
+  "id": 6
+ },
+ "e3825e8aa55396ac": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "5.200 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-27",
+  "url": "https://byggingar.is/5-200-fermetra-nybygging-vid-heilbrigdisstofnun-sudurlands-a-selfossi/?utm_source=rss&utm_medium=rss&utm_campaign=5-200-fermetra-nybygging-vid-heilbrigdisstofnun-sudurlands-a-selfossi",
+  "title": "5.200 fermetra nýbygging við Heilbrigðisstofnun Suðurlands á Selfossi",
+  "sum": "5.200 fermetra nýbygging við Heilbrigðisstofnun Suðurlands á Selfossi Heilmiklar framkvæmdir eru að fara að hefjast hjá Heilbrigðisstofnun Suðurlands á Selfossi en þar á að fara að byggja við húsnæði stofnunarinnar fyrir um tíu milljarða kr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-27T19:24:52.898660+00:00",
+  "id": 4
+ },
+ "dcc6cb99427f692d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-27",
+  "url": "https://byggingar.is/colas-med-laegsta-tilbod-i-malbik-a-breidamerkursandi/?utm_source=rss&utm_medium=rss&utm_campaign=colas-med-laegsta-tilbod-i-malbik-a-breidamerkursandi",
+  "title": "Colas með lægsta tilboð í malbik á Breiðamerkursandi – 32,3% yfir áætlun",
+  "sum": "Colas með lægsta tilboð í malbik á Breiðamerkursandi – 32,3% yfir áætlun Colas Ísland ehf. átti lægsta tilboðið í malbiksyfirlagnir Vegagerðarinnar vestan Jökulsár á Breiðamerkursandi. Tilboðið hljóðar upp á 328,4 milljónir króna og er rúmu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-27T19:24:52.898660+00:00",
+  "id": 5
+ },
+ "11543fe09bd2aa84": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-26",
+  "url": "https://byggingar.is/thrju-tilbod-i-nidurrif-laugasolar-laegsta-tilbod-adeins-35-af-kostnadaraaetlun/?utm_source=rss&utm_medium=rss&utm_campaign=thrju-tilbod-i-nidurrif-laugasolar-laegsta-tilbod-adeins-35-af-kostnadaraaetlun",
+  "title": "Þrjú tilboð í niðurrif Laugasólar – lægsta tilboð aðeins 35% af kostnaðaráætlun",
+  "sum": "Þrjú tilboð í niðurrif Laugasólar – lægsta tilboð aðeins 35% af kostnaðaráætlun Þrjú tilboð bárust í niðurrif leikskólabyggingarinnar Laugasólar við Leirulæk 6 í Reykjavík. H2Orka ehf. átti lægsta tilboðið, rúmar 25,1 milljón króna, sem nem",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-27T19:24:52.898660+00:00",
+  "id": 7
  }
 }
