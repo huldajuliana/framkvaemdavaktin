@@ -13856,5 +13856,110 @@
   "tsort": "",
   "first_seen": "2026-08-27T19:24:52.898660+00:00",
   "id": 7
+ },
+ "355d90a7e4691e58": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-08-28",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/28/ny_nalgun_a_fasteignamarkadi_geti_laekkad_verd/",
+  "title": "Ný nálgun á fasteignamarkaði geti lækkað verð",
+  "sum": "Ný nálgun við fasteignakaup var kynnt á haustfundi Húsnæðis- mannvirkja- og skipulagsstofnunar í gærmorgun, þar sem staða mála á húsnæðismarkaði var í brennidepli.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-28T20:41:22.214757+00:00",
+  "id": 1
+ },
+ "441e62092b903c26": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "316,4 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Vísir – allt",
+  "date": "2026-08-28",
+  "url": "https://www.visir.is/g/20262926672d/storglaesilegt-einbylishus-a-arnarnesi-til-solu",
+  "title": "Stór­glæsi­legt ein­býlis­hús á Arnar­nesi til sölu",
+  "sum": "Stórglæsilegt einbýlishús frumbyggjanna Ragnhildar Björnsson og Arnbjörns Kristinssonar að Mávanesi 9 á Arnarnesi í Garðabæ hefur verið sett á sölu. Húsið var teiknað af Helga Hjálmarssyni arkitekt, reist árið 1970 og er 316,4 fermetrar að ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-28T20:41:22.214757+00:00",
+  "id": 2
+ },
+ "9942b9b0540b299d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "18.000 m²",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-28",
+  "url": "https://byggingar.is/18-000-fermetra-storverk-istaks-i-nuuk-tekid-i-notkun/?utm_source=rss&utm_medium=rss&utm_campaign=18-000-fermetra-storverk-istaks-i-nuuk-tekid-i-notkun",
+  "title": "18.000 fermetra stórverk Ístaks í Nuuk tekið í notkun",
+  "sum": "18.000 fermetra stórverk Ístaks í Nuuk tekið í notkun Nýr 18.000 fermetra skóli sem Ístak hefur byggt í Nuuk á Grænlandi hefur verið tekinn í notkun eftir langt og umfangsmikið framkvæmdarferli. Ístak var alverktaki við byggingu skólans, At",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-28T20:41:22.214757+00:00",
+  "id": 3
+ },
+ "64097cb4f363bdad": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-28",
+  "url": "https://byggingar.is/thaksmidjan-ehf-laegst-i-175-milljona-thakendurnyjun-menntaskolans-a-akureyri/?utm_source=rss&utm_medium=rss&utm_campaign=thaksmidjan-ehf-laegst-i-175-milljona-thakendurnyjun-menntaskolans-a-akureyri",
+  "title": "Þaksmiðjan ehf. lægst í 175 milljóna þakendurnýjun Menntaskólans á Akureyri",
+  "sum": "Þaksmiðjan ehf. lægst í 175 milljóna þakendurnýjun Menntaskólans á Akureyri Þaksmiðjan ehf. átti lægsta tilboðið í endurnýjun þaks á Hólaálmu Menntaskólans á Akureyri þegar tilboð voru opnuð hjá Framkvæmdasýslunni – Ríkiseignum (FSRE) þann ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-28T20:41:22.214757+00:00",
+  "id": 4
+ },
+ "c275edeee777f7d4": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-28",
+  "url": "https://byggingar.is/k16-ehf-laegst-i-thakendurnyjun-haskolans-a-akureyri-tvo-tilbod-barust/?utm_source=rss&utm_medium=rss&utm_campaign=k16-ehf-laegst-i-thakendurnyjun-haskolans-a-akureyri-tvo-tilbod-barust",
+  "title": "K16 ehf. lægst í þakendurnýjun Háskólans á Akureyri – tvö tilboð bárust",
+  "sum": "K16 ehf. lægst í þakendurnýjun Háskólans á Akureyri – tvö tilboð bárust K16 ehf. átti lægsta tilboðið í þakendurnýjun við Háskólann á Akureyri þegar tilboð í verkið voru opnuð hjá Framkvæmdasýslunni – Ríkiseignum (FSRE) þann 20.08.2026 Tilb",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-28T20:41:22.214757+00:00",
+  "id": 5
  }
 }
