@@ -13961,5 +13961,26 @@
   "tsort": "",
   "first_seen": "2026-08-28T20:41:22.214757+00:00",
   "id": 5
+ },
+ "faf3e04b34c010c7": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-28",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/28/gefur_nu_graent_ljos_a_hotelibudir/",
+  "title": "Gefur nú grænt ljós á hótelíbúðir",
+  "sum": "Skipulagsfulltrúi Reykjavíkurborgar hefur breytt fyrri afstöðu sinni um áform um hótelíbúðir við Bergstaðastræti. Leiðrétt umsögn skipulagsfulltrúans var lögð fram á fundi nýverið og því er ekkert því til fyrirstöðu að áformin verði að veru",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-28T22:54:55.482871+00:00",
+  "id": 1
  }
 }
