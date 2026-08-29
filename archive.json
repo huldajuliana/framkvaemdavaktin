@@ -13982,5 +13982,68 @@
   "tsort": "",
   "first_seen": "2026-08-28T22:54:55.482871+00:00",
   "id": 1
+ },
+ "f0764fe82a06ec40": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-29",
+  "url": "https://www.ruv.is/frettir/erlent/2026-08-29-yfir-2400-saknad-i-nepal-og-tibet-485281/",
+  "title": "Yfir 2.400 saknað í Nepal og Tíbet",
+  "sum": "Yfir 2.400 er nú saknað í Nepal og Tíbet og tæplega 600 hafa fundist látnir eftir hamfaraflóðið sem féll við landamæri Nepal og Tíbets. Fjöldi þeirra sem saknað er hækkaði snarlega þegar ljóst var að 933 starfsmanna vatnsaflsvirkjunar væri ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-29T14:09:13.483529+00:00",
+  "id": 1
+ },
+ "f446c45402e5591c": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "1.371 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-29",
+  "url": "https://byggingar.is/reitir-fa-graent-ljos-a-1-371-fermetra-hus-vid-korputun/?utm_source=rss&utm_medium=rss&utm_campaign=reitir-fa-graent-ljos-a-1-371-fermetra-hus-vid-korputun",
+  "title": "„Reitir fá grænt ljós á 1.371 fermetra hús við Korputún“",
+  "sum": "„Reitir fá grænt ljós á 1.371 fermetra hús við Korputún“ Byggingarfulltrúi Mosfellsbæjar hefur samþykkt byggingaráform Reita – þróunar ehf. vegna nýs tveggja hæða verslunar- og þjónustuhúss við Korputún 4. Húsið verður rúmlega 1.371 fermetr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-29T14:09:13.483529+00:00",
+  "id": 2
+ },
+ "9363a3fdbe80b99d": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-29",
+  "url": "https://byggingar.is/framkvaemdir-vid-borgarlinu-hafnar-vid-nautholsveg-og-haskolann-i-reykjavik/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-vid-borgarlinu-hafnar-vid-nautholsveg-og-haskolann-i-reykjavik",
+  "title": "Framkvæmdir við Borgarlínu hafnar við Nauthólsveg og Háskólann í Reykjavík",
+  "sum": "Framkvæmdir við Borgarlínu hafnar við Nauthólsveg og Háskólann í Reykjavík Framkvæmdir við uppbyggingu innviða Borgarlínu við Nauthólsveg og Háskólann í Reykjavík hófust föstudaginn 28. ágúst. Verkið er hluti af fyrstu lotu Borgarlínu og er",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-29T14:09:13.483529+00:00",
+  "id": 3
  }
 }
