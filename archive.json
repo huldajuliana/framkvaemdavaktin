@@ -14045,5 +14045,68 @@
   "tsort": "",
   "first_seen": "2026-08-29T14:09:13.483529+00:00",
   "id": 3
+ },
+ "b463287db8604408": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-08-29",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/08/29/mun_draga_ur_frambodi_leiguibuda/",
+  "title": "Mun draga úr framboði leiguíbúða",
+  "sum": "Egill Lúðvíksson, forstjóri Íveru íbúðafélags, segir skýr merki um að vaxtahækkanir Seðlabankans hafi dregið úr nýframkvæmdum við íbúðarhúsnæði að undanförnu. Það muni birtast í minna framboði íbúða, þ.m.t. leiguíbúða, þegar núverandi framk",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-30T14:15:40.995831+00:00",
+  "id": 3
+ },
+ "05148f66b4be7751": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-30",
+  "url": "https://byggingar.is/voruhus-beru-hf-a-holmsheidi-alutbod/?utm_source=rss&utm_medium=rss&utm_campaign=voruhus-beru-hf-a-holmsheidi-alutbod",
+  "title": "28.09.2026 Vöruhús Beru hf á Hólmsheiði – Alútboð",
+  "sum": "Vöruhús Beru hf á Hólmsheiði – Alútboð JTV fyrir hönd Beru hf, kt. 420369-7789, auglýsir eftir umsóknum um þátttökurétt í lokuðu alútboði vegna hönnunar og byggingar á um 23.000 m2 vöruhúsi á Hólmsheiði í Reykjavík. Verkið felur í sér fulln",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-30T14:15:40.995831+00:00",
+  "id": 1
+ },
+ "c407d9c0e9186020": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-30",
+  "url": "https://byggingar.is/atlas-verktakar-byrjadir-a-nidurrifi-hagaborgar-adalverkid-bodid-ut-i-haust/?utm_source=rss&utm_medium=rss&utm_campaign=atlas-verktakar-byrjadir-a-nidurrifi-hagaborgar-adalverkid-bodid-ut-i-haust",
+  "title": "Atlas Verktakar byrjaðir á niðurrifi Hagaborgar – aðalverkið boðið út í haust",
+  "sum": "Atlas Verktakar byrjaðir á niðurrifi Hagaborgar – aðalverkið boðið út í haust Atlas Verktakar ehf. eru byrjaðir á niðurrifi innanhúss í leikskólanum Hagaborg við Fornhaga í Reykjavík. Niðurrifsvinnunni á að ljúka í haust en samhliða er unni",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-30T14:15:40.995831+00:00",
+  "id": 2
  }
 }
