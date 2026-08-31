@@ -14192,5 +14192,47 @@
   "tsort": "",
   "first_seen": "2026-08-31T16:41:17.804127+00:00",
   "id": 4
+ },
+ "35252c06cfa2ab0f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Verklok",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-31",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/31/staersti_skoli_graenlands_opnadur/",
+  "title": "Stærsti skóli Grænlands opnaður",
+  "sum": "Grunnskólinn Atuarfik Inussuk á Grænlandi, sem fyrstu drög voru lögð að fyrir tæplega sjö árum þegar hönnun og verktilboð Ístaks um byggingu nýs skóla í miðbæ Nuuk hlaut sigur í hugmyndasamkeppni í desember 2019, hefur nú loks opnað dyr sín",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-31T19:24:53.194230+00:00",
+  "id": 1
+ },
+ "7ee8176e6ae54b88": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-31",
+  "url": "https://byggingar.is/varmarskoli-endurnyjun-skolaloda-3-afangi/?utm_source=rss&utm_medium=rss&utm_campaign=varmarskoli-endurnyjun-skolaloda-3-afangi",
+  "title": "Opnun útboðs: Varmárskóli – Endurnýjun skólalóða 3. áfangi",
+  "sum": "Opnun útboðs: Varmárskóli – Endurnýjun skólalóða 3. áfangi Tilboðsfrestur vegna útboðsins Varmárskóli – Endurnýjun skólalóða 3. áfangi rann út þann 31. ágúst kl. 10:30. Átta tilboð bárust og þakkar Mosfellsbær þeim aðilum fyrir þátttökuna. ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-31T19:24:53.194230+00:00",
+  "id": 2
  }
 }
