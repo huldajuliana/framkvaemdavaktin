@@ -14108,5 +14108,89 @@
   "tsort": "",
   "first_seen": "2026-08-30T14:15:40.995831+00:00",
   "id": 2
+ },
+ "ed60326e0ccc7b45": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "mbl.is – innlent",
+  "date": "2026-08-31",
+  "url": "https://www.mbl.is/frettir/innlent/2026/08/31/hefja_gjaldtoku_stakt_gjald_ad_lagmarki_1_500_kr/",
+  "title": "Hefja gjaldtöku: Stakt gjald að lágmarki 1.500 kr.",
+  "sum": "Nýr hringvegur um Hornafjörð var opnaður fyrir umferð í júní. Gjaldtaka á nýja veginum hefst í september en veggjöld standa undir hluta kostnaðar við framkvæmdina, rekstur og viðhald vegarins.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-31T16:41:17.804127+00:00",
+  "id": 1
+ },
+ "53147d2635e0dc78": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-08-31",
+  "url": "https://www.visir.is/g/20262928409d/gjaldtaka-um-nyjan-hornafjardarveg-hefst-a-morgun",
+  "title": "Gjald­taka um nýjan Hornafjarðarveg hefst á morgun",
+  "sum": "Gjaldtaka um nýjan hringveg um Hornafjörð hefst á morgun, 1. september. Nýr Hringvegur (1) um Hornafjörð var opnaður fyrir umferð í júní. Í tilkynningu frá Vegagerðinni kemur fram að veggjöld standi undir hluta kostnaðar við framkvæmdina, r",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-31T16:41:17.804127+00:00",
+  "id": 2
+ },
+ "8550dd3a7ebc57f2": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-31",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-31-byggja-nyja-sundlaug-i-lundi-i-oxafirdi-484559/",
+  "title": "Byggja nýja sundlaug í Lundi í Öxafirði",
+  "sum": "Fresta þurfti ýmsum framkvæmdum í vor í Norðurþingi vegna óvissu um fjárhagsstöðu bæjarsins eftir fráhvarf PCC frá Bakka. Þá settu málaferli gegn hvalaskoðunarfyrirtækjum fjárhag sveitarfélagsins í uppnám. Hjálmar Bogi Hafliðason, þáverandi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-31T16:41:17.804127+00:00",
+  "id": 3
+ },
+ "99f3d32344f247d3": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-08-31",
+  "url": "https://byggingar.is/ollum-rannsoknum-fyrir-eyjagong-lokid/?utm_source=rss&utm_medium=rss&utm_campaign=ollum-rannsoknum-fyrir-eyjagong-lokid",
+  "title": "Öllum rannsóknum fyrir Eyjagöng lokið – fýsileika- og kostnaðarmat tilbúið í lok árs",
+  "sum": "Öllum rannsóknum fyrir Eyjagöng lokið – fýsileika- og kostnaðarmat tilbúið í lok árs Öllum vettvangsrannsóknum og nauðsynlegri gagnasöfnun vegna fýsileikamats á mögulegum jarðgöngum milli lands og Vestmannaeyja er lokið. Síðustu kjarnaborun",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-08-31T16:41:17.804127+00:00",
+  "id": 4
  }
 }
