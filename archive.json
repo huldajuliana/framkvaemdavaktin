@@ -14234,5 +14234,110 @@
   "tsort": "",
   "first_seen": "2026-08-31T19:24:53.194230+00:00",
   "id": 2
+ },
+ "d1db06296d897b37": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-01",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/01/framkvaemdir_hafnar_fyrir_arftaka_turnsins/",
+  "title": "Framkvæmdir hafnar fyrir arftaka turnsins",
+  "sum": "Framkvæmdir eru hafnar við gömlu höfuðstöðvar Landsvirkjunar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-01T13:54:30.907609+00:00",
+  "id": 1
+ },
+ "6d9823c1a0369944": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-01",
+  "url": "https://www.visir.is/g/20262928892d/nordausturland-faer-loks-langthradan-veg",
+  "title": "Norð­austur­land fær loks langþráðan veg",
+  "sum": "Íbúar Norðausturlands sjá fram á þáttaskil í samgöngumálum með nýjum uppbyggðum vegi yfir Brekknaheiði. Með vegagerðinni þvert yfir Langanes, milli Þórshafnar og Bakkafjarðar, fæst samfellt slitlag um Norðurausturveg sem skapar áhugaverðari",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-01T13:54:30.907609+00:00",
+  "id": 2
+ },
+ "506b5a24c354c871": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "18 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-01-gjaldtaka-hafin-vid-hornafjardarfljot-stok-ferd-kostar-1500-kronur-485757/",
+  "title": "Gjaldtaka hafin við Hornafjarðarfljót – stök ferð kostar 1500 krónur",
+  "sum": "Sjálfvirk gjaldtaka hófst á miðnætti á veginum og nýju brúnni yfir Hornafjarðarfljót. Brúin var tekin í notkun 24. júní og hefur verið gjaldfrjálst að aka yfir hana. Nú kostar það 1500 krónur. Á vef Vegagerðarinnar segir að veggjöldin eigi ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-01T13:54:30.907609+00:00",
+  "id": 3
+ },
+ "7dd558a132009e3a": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-31",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-31-endurbaett-innisundlaug-loksins-opnud-a-akureyri-485737/",
+  "title": "Endurbætt innisundlaug loksins opnuð á Akureyri",
+  "sum": "Framkvæmdir við endurbætur á innilauginni í Akureyrarsundlaug hófust haustið 2024. Framkvæmdin er mikil lyftistöng fyrir sundlaugina, ekki síst sundkennslu á Akureyri. Kostnaður við framkvæmdina hleypur á nokkur hundruð milljónum. Mikil ánæ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-01T13:54:30.907609+00:00",
+  "id": 4
+ },
+ "352bb3eb124417e9": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-08-31",
+  "url": "https://www.ruv.is/frettir/innlent/2026-08-31-breytingar-a-jofnunarsjodi-bitna-a-borgarbyggd-485682/",
+  "title": "Breytingar á Jöfnunarsjóði bitna á Borgarbyggð",
+  "sum": "Lægri framlög úr Jöfnunarsjóði sveitarfélaga urðu til þess að fjárhagsáætlun Borgarbyggðar stenst ekki og fresta þarf framkvæmdum. Sveitarstjóri segist undrandi því breytingar á Jöfnunarsjóði hefðu átt að styrkja rekstur víðfeðmra sveitarfé",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-01T13:54:30.907609+00:00",
+  "id": 5
  }
 }
