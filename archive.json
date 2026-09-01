@@ -14339,5 +14339,109 @@
   "tsort": "",
   "first_seen": "2026-09-01T13:54:30.907609+00:00",
   "id": 5
+ },
+ "fc4584f5cac40d03": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-01",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/01/hefja_framkvaemdir_vid_borgarlinu/",
+  "title": "Hefja framkvæmdir við borgarlínu",
+  "sum": "Framkvæmdir eru hafnar við uppbyggingu innviða fyrir borgarlínu við Nauthólsveg og Háskólann í Reykjavík (HR).",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-01T17:11:45.515755+00:00",
+  "id": 1
+ },
+ "3748fb8021ca24bb": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-01",
+  "url": "https://www.visir.is/g/20262929027d/byrjad-ad-leggja-borgarlinu-vid-nautholsveg",
+  "title": "Byrjað að leggja Borgarlínu við Nauthólsveg",
+  "sum": "Framkvæmdir við Borgarlínu eru hafnar við Nauthólsveg og HR. Þar er um að ræða hluta af fyrstu lotu Borgarlínunnar sem felur í sér breytingar á götusniði Nauthólsvegar, Menntavegar og Menntasveigs. Einnig stendur til að breyta gatnamótum og",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-01T17:11:45.515755+00:00",
+  "id": 2
+ },
+ "166a91e402fb6f8d": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-01-framkvaemdir-hafnar-vid-borgarlinu-vid-nautholsveg-485798/",
+  "title": "Framkvæmdir hafnar við Borgarlínu við Nauthólsveg",
+  "sum": "Vinna er hafin við að byggja upp innviði fyrir Borgarlínu við Nauthólsveg og Háskólann í Reykjavík. Breikka á Nauthólsveg og koma þar fyrir sérrými fyrir Borgarlínu á miðri götu. Áfram verður ein akrein fyrir almenna umferð í báðar áttir. B",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-01T17:11:45.515755+00:00",
+  "id": 3
+ },
+ "f29f26ae545228d6": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-01",
+  "url": "https://byggingar.is/hs-veitur-bjoda-ut-60-mva-aflspenni-fyrir-spennistodina-i-vestmannaeyjum/?utm_source=rss&utm_medium=rss&utm_campaign=hs-veitur-bjoda-ut-60-mva-aflspenni-fyrir-spennistodina-i-vestmannaeyjum",
+  "title": "07.10.2026 HS Veitur bjóða út 60 MVA aflspenni fyrir spennistöðina í Vestmannaeyjum",
+  "sum": "HS Veitur bjóða út 60 MVA aflspenni fyrir spennistöðina í Vestmannaeyjum HS Veitur hafa auglýst útboð á framleiðslu og afhendingu á nýjum 60 MVA aflspenni fyrir 66 kV spennistöð fyrirtækisins í Vestmannaeyjum. Tilboðsfrestur er til 7. októb",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-01T17:11:45.515755+00:00",
+  "id": 4
+ },
+ "a61d8987d58e4fe9": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "Reykjavíkurborg – fréttir",
+  "date": "2026-09-01",
+  "url": "https://reykjavik.is/frettir/2026/borgarlinuframkvaemdir-hafnar-vid-nautholsveg-hr",
+  "title": "Borgarlínuframkvæmdir hafnar við Nauthólsveg – HR",
+  "sum": "Borgarlínuframkvæmdir hafnar við Nauthólsveg – HR",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-01T17:11:45.515755+00:00"
  }
 }
