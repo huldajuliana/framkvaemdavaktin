@@ -14547,5 +14547,257 @@
   "tsort": "",
   "first_seen": "2026-09-02T17:01:55.655399+00:00",
   "id": 1
+ },
+ "421c00308ade513b": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Risa",
+  "scaleFig": "450 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-09-02",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/02/nytt_hverfi_i_gardabae_i_motun/",
+  "title": "Nýtt hverfi í Garðabæ í mótun",
+  "sum": "Hverfið er staðsett milli Arnarness og Smárahverfis, en þar mun rísa blönduð byggð með um 450 íbúðum og um 36 þúsund fermetrum af atvinnuhúsnæði þegar hverfið verður fullbyggt.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-03T13:13:53.648500+00:00",
+  "id": 8
+ },
+ "05028e60929464f0": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-03",
+  "url": "https://www.visir.is/g/20262929953d/husnaedisstefnan-sem-gerdi-ungt-folk-ad-leigulidum",
+  "title": "Húsnæðisstefnan sem gerði ungt fólk að leigu­liðum",
+  "sum": "Það þykja fréttir að Viðskiptaráð sé sammála okkur í samtökum leigjenda um að endurskoða þurfi húsnæðisstuðning á Íslandi. Það þykir hins vegar ekki frétt að okkar blessaða Viðskiptaráð sjái hlutina í öðru samhengi en við sem leigjum íbúðir",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-03T13:13:53.648500+00:00",
+  "id": 1
+ },
+ "978a4adf02b7e894": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-03",
+  "url": "https://www.visir.is/g/20262929937d/bryna-stjornvold-og-sedlabankann-ad-horfa-meira-a-frambodshlid-markadarins",
+  "title": "Brýna stjórn­völd og Seðla­bankann að horfa meira á fram­boðs­hlið markaðarins",
+  "sum": "Stjórnendur fjárfestingafélagsins Langasjávar, sem er meðal annars umsvifamikið í verkefnum tengt byggingarstarfsemi, vara við því að langvarandi samdráttur í uppbyggingu íbúðarhúsnæðis geti leitt til vaxandi spennu á húsnæðismarkaði þegar ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-03T13:13:53.648500+00:00",
+  "id": 2
+ },
+ "4e32a738e7f66592": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-02",
+  "url": "https://www.visir.is/g/20262929614d/virdi-menntunar-og-stada-a-husnaedismarkadi",
+  "title": "Virði menntunar og staða á hús­næðis­markaði",
+  "sum": "Meginmarkmið í kjarabaráttu stéttarfélaga háskólamenntaðra hefur lengi verið skýrt: Háskólamenntun á að borga sig. Hún á að skila sér í sanngjörnum launum, góðum lífskjörum og félagslegu öryggi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-03T13:13:53.648500+00:00",
+  "id": 9
+ },
+ "a1f94b8a006d0935": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-03",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-03-gera-nytt-umhverfismat-fyrir-hvalarvirkjun-485957/",
+  "title": "Gera nýtt umhverfismat fyrir Hvalárvirkjun",
+  "sum": "Vesturverk vinnur að nýju umhverfismati fyrir Hvalárvirkjun á Ströndum. Talsmaður segir að ef allt gangi að óskum geti framkvæmdir hafist 2028 og virkjunin skilað orku inn á kerfið 2031. „Staðan er sú að við erum að vinna að því að klára un",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-03T13:13:53.648500+00:00",
+  "id": 3
+ },
+ "ddf3eaaeda660327": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-02",
+  "url": "https://www.ruv.is/frettir/erlent/2026-09-02-hiti-festi-bru-i-uppreistri-stodu-i-chicago-485926/",
+  "title": "Hiti festi brú í uppreistri stöðu í Chicago",
+  "sum": "Mikil röskun varð á umferð í Chicago í dag þegar brú á DuSable Lake Shore Drive yfir Chicago River festist í uppreistri stöðu. Brúnni var lyft um klukkan 10 að morgni að staðartíma til að hleypa skemmtiferðaskipi upp ána. Þegar kom að því a",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-03T13:13:53.648500+00:00",
+  "id": 10
+ },
+ "f2dee1834055f0e8": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "ÞG verk"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-03",
+  "url": "https://byggingar.is/tekjuhaest-i-verktakabransanum/?utm_source=rss&utm_medium=rss&utm_campaign=tekjuhaest-i-verktakabransanum",
+  "title": "Tekju­hæst í verk­taka­bransanum",
+  "sum": "Tekju­hæst í verk­taka­bransanum Forstjóri og eigandi ÞG Verk var meðal tekjuhæstu Íslendinganna í fyrra. Fleiri forstjórar og eigendur fyrirtækja í bransanum rata á listann. Forstjórar og eigendur ýmissa verktakafyrirtækja eru meðal þeirra",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-03T13:13:53.648500+00:00",
+  "id": 4
+ },
+ "bafc804984a9cc1e": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Stór",
+  "scaleFig": "10 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-03",
+  "url": "https://byggingar.is/10-milljarda-uppbyggingu-i-helguvik/?utm_source=rss&utm_medium=rss&utm_campaign=10-milljarda-uppbyggingu-i-helguvik",
+  "title": "Hönnun útboðsgagna hafin fyrir allt að 10 milljarða uppbyggingu í Helguvík",
+  "sum": "Hönnun útboðsgagna hafin fyrir allt að 10 milljarða uppbyggingu í Helguvík Hönnun útboðsgagna vegna stórfelldrar uppbyggingar á Suðurbakka Helguvíkurhafnar er hafin. Verkefnið felur meðal annars í sér nýjan 390 metra viðlegukant og nýja eld",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-03T13:13:53.648500+00:00",
+  "id": 5
+ },
+ "8ddc6b31aeb8d8f0": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Risa",
+  "scaleFig": "450 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-03",
+  "url": "https://byggingar.is/framkvaemdir-hafnar-vid-nytt-hverfi-i-gardabae/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-hafnar-vid-nytt-hverfi-i-gardabae",
+  "title": "Framkvæmdir hafnar við nýtt hverfi í Garðabæ",
+  "sum": "Framkvæmdir hafnar við nýtt hverfi í Garðabæ Vinnuvélar eru nú komnar á fullt skrið við fyrstu gatnagerðarverkefnin í nýju hverfi í Garðabæ sem nefnist Arnarland. Er hverfið staðsett milli Arnarness og Smárahverfis, en þar mun rísa blönduð ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-03T13:13:53.648500+00:00",
+  "id": 6
+ },
+ "2b410eb031ec3cef": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "24.000 m²",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-03",
+  "url": "https://byggingar.is/24-000-fermetra-nybygging-gedsvids-landspitala/?utm_source=rss&utm_medium=rss&utm_campaign=24-000-fermetra-nybygging-gedsvids-landspitala",
+  "title": "24.000 fermetra nýbygging geðsviðs Landspítala komin í formlegt skipulagsferli í Fossvogi",
+  "sum": "24.000 fermetra nýbygging geðsviðs Landspítala komin í formlegt skipulagsferli í Fossvogi Undirbúningur að nýju geðsviði Landspítala í Fossvogi hefur tekið skref áfram en gert er ráð fyrir um 24.000 fermetra nýbyggingu í fyrsta áfanga. Skip",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-03T13:13:53.648500+00:00",
+  "id": 7
+ },
+ "225b3112e1746e6b": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-02",
+  "url": "https://byggingar.is/bmw-og-mini-fa-sinar-eigin-hofudstodvar/?utm_source=rss&utm_medium=rss&utm_campaign=bmw-og-mini-fa-sinar-eigin-hofudstodvar",
+  "title": "BMW og MINI fá sínar eigin höfuðstöðvar",
+  "sum": "BMW og MINI fá sínar eigin höfuðstöðvar Framkvæmdir standa nú yfir við byggingu nýrra höfuðstöðva undir BMW og MINI á Íslandi við Hestháls 10 í Reykjavík. Gert er ráð fyrir að byggingin verði tekin í notkun snemma á næsta ári. Verkefnastjór",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-03T13:13:53.648500+00:00",
+  "id": 11
+ },
+ "117a57bac29953a1": {
+  "region": "Norðurland eystra",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-02",
+  "url": "https://byggingar.is/skoflustunga-tekin-ad-nyjum-studentagordum-a-akureyri/?utm_source=rss&utm_medium=rss&utm_campaign=skoflustunga-tekin-ad-nyjum-studentagordum-a-akureyri",
+  "title": "Skóflustunga tekin að nýjum stúdentagörðum á Akureyri",
+  "sum": "Skóflustunga tekin að nýjum stúdentagörðum á Akureyri Fyrsta skóflustunga að nýjum stúdentagörðum var tekin á Akureyri í dag. Byggð verða þrjú fjölbýlishús með litlum íbúðum og einstaklingsherbergjum. Vonir standa til að fyrstu íbúar flytji",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-03T13:13:53.648500+00:00",
+  "id": 12
  }
 }
