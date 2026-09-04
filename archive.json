@@ -15388,5 +15388,110 @@
   "tsort": "",
   "first_seen": "2026-09-04T13:07:58.155682+00:00",
   "id": 16
+ },
+ "6542577917d6441d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-04",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/04/oliklegt_er_ad_blondulon_fyllist_thetta_sumar/",
+  "title": "Ólíklegt er að Blöndulón fyllist þetta sumar",
+  "sum": "Miðlunarstaðan lóna Landsvirkjunar á hálendinu er góð þrátt fyrir lakara innrennsli í lónin en gerist og gengur í meðalári.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-04T16:46:12.939217+00:00",
+  "id": 1
+ },
+ "e60cfa016ec2bcc3": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-04",
+  "url": "https://www.visir.is/g/20262930518d/fella-nidur-gatnagerdargjald-vegna-bilakjallara",
+  "title": "Fella niður gatna­gerðar­gjald vegna bílakjallara",
+  "sum": "Bæjarráð Hafnarfjarðarbæjar hefur samþykkt að fella niður gatnagerðargjald vegna bílakjallara og sameiginlegra bifreiðageymslna. Markmiðið er að bílastæði færist í auknum mæli neðanjarðar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-04T16:46:12.939217+00:00",
+  "id": 2
+ },
+ "de1c3ff37f9ce53a": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-04",
+  "url": "https://www.visir.is/g/20262930510d/gagnaver-verne-og-israel",
+  "title": "Gagnaver, Verne og Ísrael",
+  "sum": "Vart fer fram hjá neinum að gagnaver spretta nú upp um heimsbyggðina vítt og breitt. Á Íslandi eru a.m.k. fjögur og fer fjölgandi. Um leið berast fregnir miklum vexti þeirra og orkuþörfin virðist vaxa svo gegndarlaust að jafnast við fár.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-04T16:46:12.939217+00:00",
+  "id": 3
+ },
+ "198e4befe85f8407": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-04",
+  "url": "https://www.visir.is/g/20262930507d/sterkari-innvidir-fyrir-stem-menntun",
+  "title": "Sterkari inn­viðir fyrir STEM menntun",
+  "sum": "Þegar einstaklingurinn verður burðarásinn. Öflugt starf í menntun verður oft til vegna þess að einn kennari, skólastjóri, sérfræðingur eða frumkvöðull hefur frumkvæði og drifkraft til að koma hlutunum af stað. Slíkir einstaklingar skipta mi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-04T16:46:12.939217+00:00",
+  "id": 4
+ },
+ "b0e22b9fc2a1b3a7": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-04",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-04-sextiu-milljonir-i-langthradar-vidgerdir-i-breiddalsskola-485075/",
+  "title": "Sextíu milljónir í langþráðar viðgerðir í Breiðdalsskóla",
+  "sum": "Eftir áralanga bið eru viðgerðir hafnar á leik- og grunnskólanum á Breiðdalsvík. Vatnsskemmdir urðu á húsinu vegna leka. Skólahald verður fært til meðan á framkvæmdum stendur. Skólarnir á Breiðdalsvík og á Stöðvarfirði voru sameinaðir 2018 ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-04T16:46:12.939217+00:00",
+  "id": 5
  }
 }
