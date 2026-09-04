@@ -267,6 +267,14 @@ _HARD_NEGATIVES = [
     "umferð eykst", "umferð jókst", "umferð minnkar", "umferð dregst saman",
     "umferðartalning", "umferðarþung", "umferðarmagn", "umferðartöl",
     "opin fyrir umferð", "umferð á nýjan leik",
+    # biluð/óvirk umferðarljós (viðhald á gatnamótum) — kviknar á "gatnamót". Ekki
+    # bert "umferðarljós" — það birtist í gildum vegaframkvæmdum (Arnarnesvegur,
+    # ný brú yfir Breiðholtsbraut). "umferðarljósin" (ákv. gr.) og "óvirk/bilaðra"
+    # eru ástands-/bilanafréttir.
+    "óvirk umferðarljós", "umferðarljósin", "bilaðra ljós",
+    # skipulags-REGLA um fjölda bílastæða við nýbyggingar (stefna, ekki verkefni) —
+    # kviknar á "nýbygging". Sama frétt birtist oft frá mörgum miðlum.
+    "hámark á fjölda bílastæða",
     # veðurviðvaranir — "veðurfræðingur Vegagerðarinnar varar við hviðum/sandfoki".
     # Veður, ekki framkvæmd.
     "veðurfræðing", "hviðum", "hviða", "veðurviðvörun", "sandfok", "varar við vindi",
