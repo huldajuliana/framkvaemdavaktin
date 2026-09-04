@@ -14863,27 +14863,6 @@
   "first_seen": "2026-09-03T16:57:27.152079+00:00",
   "id": 3
  },
- "f03117c0115a8618": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "mbl.is – innlent",
-  "date": "2026-09-03",
-  "url": "https://www.mbl.is/frettir/innlent/2026/09/03/ovirk_umferdarljos_gatnamotunum_lokad/",
-  "title": "Óvirk umferðarljós: Gatnamótunum lokað",
-  "sum": "Búið er að loka fyrir umferð um gatnamótin á meðan viðgerðum stendur. Ekki er ljóst hversu langan tíma viðgerðir munu taka.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-09-03T16:57:27.152079+00:00",
-  "id": 4
- },
  "3e96d5d455b94682": {
   "region": "Höfuðborgarsvæðið",
   "type": "Íbúðir",
@@ -14968,90 +14947,6 @@
   "first_seen": "2026-09-03T16:57:27.152079+00:00",
   "id": 8
  },
- "64beb44acee1cc74": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-09-03",
-  "url": "https://www.visir.is/g/20262929998d/hamark-bilastaeda-vid-nybyggingar-falli-nidur",
-  "title": "Há­mark bílastæða við ný­byggingar falli niður",
-  "sum": "Meirihlutinn í umhverfis- og skipulagsráði Reykjavíkur samþykkti í gær að fella niður bindandi hámark á fjölda bílastæða við nýbyggingar og endurnýjun byggðar.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-09-03T16:57:27.152079+00:00",
-  "id": 9
- },
- "f3d3a918bce752e6": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-09-03",
-  "url": "https://www.visir.is/g/20262930020d/ovirk-umferdarljos-valda-tofum",
-  "title": "Ó­virk um­ferðar­ljós valda töfum",
-  "sum": "Umferðarljós á gatnamótum Breiðholtsbrautar og Nýbýlavegar, á og við brúnna yfir Reykjanesbraut, eru óvirk og óvíst hversu lengi viðgerð mun standa yfir. Sama gildir um umferðarljósin á gatnamótum Nýbýlavegar, Dalvegar og Skemmuvegar.",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-09-03T16:57:27.152079+00:00",
-  "id": 10
- },
- "755b0b8f914b0826": {
-  "region": "Landið allt",
-  "type": "Íbúðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Í byggingu",
-  "src": "RÚV – fréttir",
-  "date": "2026-09-03",
-  "url": "https://www.ruv.is/frettir/innlent/2026-09-03-rymka-reglur-um-fjolda-bilastaeda-vid-nybyggingar-485969/",
-  "title": "Rýmka reglur um fjölda bílastæða við nýbyggingar",
-  "sum": "Fulltrúar Sjálfstæðisflokks, Framsóknarflokks, Viðreisnar og Miðflokksins í umhverfis- og skipulagsráði samþykktu í gær að afnema hámark á fjölda bílastæða við nýbyggingar og hækka viðmið um hversu mörg stæði ættu að fylgja íbúðum. Fulltrúa",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-09-03T16:57:27.152079+00:00",
-  "id": 11
- },
- "002665f4fa20da54": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-09-03",
-  "url": "https://www.ruv.is/frettir/innlent/2026-09-03-thurfa-ad-loka-hluta-gatnamota-vegna-biladra-ljosa-485978/",
-  "title": "Þurfa að loka hluta gatnamóta vegna bilaðra ljósa",
-  "sum": "Umferðarljósin á gatnamótum Breiðholtsbrautar og Reykjanesbrautar og Nýbýlavegs, Dalvegar og Skemmuvegar eru óvirk. Þetta veldur nokkrum vandræðum því búið er að loka Nýbýlavegi í báðar áttir yfir brúna yfir á Breiðholtsbraut, einnig beygju",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-09-03T16:57:27.152079+00:00",
-  "id": 12
- },
  "16c5477692a04b5b": {
   "region": "Norðurland eystra",
   "type": "Innviðir",
@@ -15072,27 +14967,6 @@
   "tsort": "",
   "first_seen": "2026-09-03T16:57:27.152079+00:00",
   "id": 13
- },
- "33db6f3d06adadd0": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Reykjavíkurborg – fréttir",
-  "date": "2026-09-03",
-  "url": "https://reykjavik.is/frettir/2026/umferdar-ljos-vid-tvenn-gatna-mot-ovirk",
-  "title": "Umferðar­ljós við tvenn gatna­mót óvirk",
-  "sum": "Umferðar­ljós við tvenn gatna­mót óvirk",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-09-03T16:57:27.152079+00:00",
-  "id": 14
  },
  "29b88c88b4388aa3": {
   "region": "Höfuðborgarsvæðið",
@@ -15409,27 +15283,6 @@
   "tsort": "",
   "first_seen": "2026-09-04T13:07:58.155682+00:00",
   "id": 19
- },
- "f1ecfde8ecf672aa": {
-  "region": "Höfuðborgarsvæðið",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Vegagerðin (verkkaupi)"
-  ],
-  "status": "Skipulag",
-  "src": "RÚV – fréttir",
-  "date": "2026-09-03",
-  "url": "https://www.ruv.is/frettir/innlent/2026-09-03-umferdarljos-vid-mjodd-komin-i-lag-486008/",
-  "title": "Umferðarljós við Mjódd komin í lag",
-  "sum": "Miklar umferðartafir urðu eftir að ljósin biluðu.Moritz Kindler Búið er að laga bilun í umferðarljósum á og við Breiðholtsbrú. Umferðarljósin á gatnamótum Breiðholtsbrautar og Reykjanesbrautar og Nýbýlavegar, Dalvegar og Skemmuvegar urðu óv",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-09-04T13:07:58.155682+00:00",
-  "id": 20
  },
  "2752e6aba4ebb05b": {
   "region": "Höfuðborgarsvæðið",
