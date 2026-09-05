@@ -15493,5 +15493,110 @@
   "tsort": "",
   "first_seen": "2026-09-04T16:46:12.939217+00:00",
   "id": 5
+ },
+ "8aa848afdf465226": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-05",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/05/vegtenging_milli_kopavogs_og_reykjavikur_nalgast/",
+  "title": "Vegtenging milli Kópavogs og Reykjavíkur nálgast",
+  "sum": "Framkvæmdir á Arnarnesvegi milli Rjúpnavegar og Breiðsholtsbrautar hafa nú staðið yfir í á fjórða ár og hefur hluti verksins verið tekinn í notkun. Á gatnamótum Arnarnesvegar og Rjúpnavegar er unnið að gerð hringtorgs og undirganga og mun l",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-05T12:20:57.181010+00:00",
+  "id": 1
+ },
+ "bc6f20789b266c86": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-05",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-05-tilraunavindvirkjun-naerri-thorshofn-kemst-ekki-undan-umhverfismati-486050/",
+  "title": "Tilraunavindvirkjun nærri Þórshöfn kemst ekki undan umhverfismati",
+  "sum": "Umhverfisáhrif af tveimur vindtúrbínum á Sauðaneshálsi í Langanesbyggð verða rannsökuð. Fyrirtækið Wpd Ísland kærði ákvörðun um umhverfismat og fór fram á að hún yrði ógilt, úrskurðarnefnd umhverfis- og auðlindamála hafnaði því . Þýska orku",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-05T12:20:57.181010+00:00",
+  "id": 2
+ },
+ "8866a9c7449bb5d0": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-05",
+  "url": "https://byggingar.is/fjardabyggd-bydur-ut-nytt-loftraestikerfi-i-fjardabyggdarhollina/?utm_source=rss&utm_medium=rss&utm_campaign=fjardabyggd-bydur-ut-nytt-loftraestikerfi-i-fjardabyggdarhollina",
+  "title": "24.09.2026 Fjarðabyggð býður út nýtt loftræstikerfi í Fjarðabyggðarhöllina",
+  "sum": "Fjarðabyggð býður út nýtt loftræstikerfi í Fjarðabyggðarhöllina Fjarðabyggð óskar eftir tilboðum í uppsetningu á nýju loftræstikerfi í Fjarðabyggðarhöllinni á Reyðarfirði. Framkvæmdin felur meðal annars í sér 293 metra af loftræstistokkum o",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-05T12:20:57.181010+00:00",
+  "id": 3
+ },
+ "29d0e9b9449726f1": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "315 m²",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-05",
+  "url": "https://byggingar.is/sudavikurhofn-bydur-ut-endurnyjun-hardvidarbryggju-vid-midgard/?utm_source=rss&utm_medium=rss&utm_campaign=sudavikurhofn-bydur-ut-endurnyjun-hardvidarbryggju-vid-midgard",
+  "title": "22.09.2026 Súðavíkurhöfn býður út endurnýjun harðviðarbryggju við Miðgarð",
+  "sum": "Súðavíkurhöfn býður út endurnýjun harðviðarbryggju við Miðgarð Súðavíkurhöfn óskar eftir tilboðum í endurnýjun harðviðarbryggju við Miðgarð í Súðavík. Framkvæmdin felur meðal annars í sér endurnýjun á 315 fermetrum af dekkklæðningu og 60 me",
+  "tender": "2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-01",
+  "first_seen": "2026-09-05T12:20:57.181010+00:00",
+  "id": 4
+ },
+ "ceb4b331af0220e5": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-04",
+  "url": "https://byggingar.is/jakvaedari-tonn-i-gard-flugvallarins/?utm_source=rss&utm_medium=rss&utm_campaign=jakvaedari-tonn-i-gard-flugvallarins",
+  "title": "Jákvæðari tónn í garð flugvallarins",
+  "sum": "Jákvæðari tónn í garð flugvallarins Borgarráð samþykkti á fundi sínum 27. ágúst síðastliðinn tillögu að breytingu á deiliskipulagi Reykjavíkurflugvallar vegna skilgreiningar nýrra lóða við Nauthólsveg. Það telst ekki til tíðinda að skilgrei",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-05T12:20:57.181010+00:00",
+  "id": 5
  }
 }
