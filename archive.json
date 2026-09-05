@@ -15598,5 +15598,47 @@
   "tsort": "",
   "first_seen": "2026-09-05T12:20:57.181010+00:00",
   "id": 5
+ },
+ "b524110a1122e9b1": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-05",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/05/nytt_hjukrunarheimili_ris_a_asbru/",
+  "title": "Nýtt hjúkrunarheimili rís á Ásbrú",
+  "sum": "Framkvæmdir við nýtt hjúkrunarheimili við Keilisbraut á Ásbrú eru nú að hefjast.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-05T15:50:19.645456+00:00",
+  "id": 1
+ },
+ "482377ee0434536a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-05",
+  "url": "https://byggingar.is/hafnarfjordur-fellir-nidur-gatnagerdargjald-af-bilakjollurum/?utm_source=rss&utm_medium=rss&utm_campaign=hafnarfjordur-fellir-nidur-gatnagerdargjald-af-bilakjollurum",
+  "title": "Hafnarfjörður fellir niður gatnagerðargjald af bílakjöllurum",
+  "sum": "Hafnarfjörður fellir niður gatnagerðargjald af bílakjöllurum Bæjarráð Hafnarfjarðar hefur samþykkt að fella niður að fullu gatnagerðargjald vegna bílakjallara og sameiginlegra bifreiðageymslna. Með breytingunni vill sveitarfélagið meðal ann",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-05T15:50:19.645456+00:00",
+  "id": 2
  }
 }
