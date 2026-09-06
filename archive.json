@@ -15703,5 +15703,47 @@
   "tsort": "",
   "first_seen": "2026-09-06T12:35:45.143296+00:00",
   "id": 3
+ },
+ "b5b01fb3ad0aed08": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-06",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/06/vill_stodva_frekari_uppbyggingu_i_skalafelli/",
+  "title": "Vill stöðva frekari uppbyggingu í Skálafelli",
+  "sum": "Áform um uppbyggingu á skíðasvæðinu í Skálafelli kunna að vera í uppnámi en samþykkt var á fundi samstarfsnefndar skíðasvæða höfuðborgarsvæðisins fyrir skemmstu að láta kanna hvort tilefni sé til að endurskoða samkomulag frá árinu 2018 um u",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-06T16:00:29.816314+00:00",
+  "id": 1
+ },
+ "a134e0f835c6fa00": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-06",
+  "url": "https://byggingar.is/cowi-faer-14-9-m-kr-undirbuningsverk/?utm_source=rss&utm_medium=rss&utm_campaign=cowi-faer-14-9-m-kr-undirbuningsverk",
+  "title": "COWI fær 14.9 m.kr. undirbúningsverk vegna stórskipakants Vestmannaeyjahafnar",
+  "sum": "COWI fær 14.9 m.kr. undirbúningsverk Framkvæmda- og hafnarráð Vestmannaeyja hefur samþykkt að taka 14,9 milljóna króna tilboði COWI í umhverfismat og vinnu við nýtt aðalskipulag vegna svæðisins við Eiðið og Haugasvæðið. Vinnan er liður í un",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-06T16:00:29.816314+00:00",
+  "id": 2
  }
 }
