@@ -15640,5 +15640,68 @@
   "tsort": "",
   "first_seen": "2026-09-05T15:50:19.645456+00:00",
   "id": 2
+ },
+ "6d9b8889b555e2db": {
+  "region": "Norðurland vestra",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-06",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-06-milljarda-uppbygging-borealis-a-blonduosi-486083/",
+  "title": "Milljarða uppbygging Borealis á Blönduósi",
+  "sum": "Tugmilljarða uppbygging Borealis Data Center á Blönduósi er komin vel á veg. Fermetrafjöldi gagnaversins verður tvöfaldaður og við það skapast um 150 störf á uppbyggingartímanum. Gagnrýnt hefur verið hversu fá störf verða að lokinni uppbygg",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-06T12:35:45.143296+00:00",
+  "id": 1
+ },
+ "c2c4e5aa0240153b": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-06",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-06-gul-vidvorun-a-sudausturlandi-vegagerdin-varar-vid-hvassvidri-486175/",
+  "title": "Gul viðvörun á Suðausturlandi – Vegagerðin varar við hvassviðri",
+  "sum": "Vegagerðin varar vegfarendur við miklu hvassviðri frá því í kvöld og fram á annað kvöld á Suðausturlandi, einkum í Öræfum. Aðstæður geta orðið varasamar fyrir ökutæki sem taka á sig mikinn vind. Gul viðvörun vegna veðurs verður í gildi á Su",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-06T12:35:45.143296+00:00",
+  "id": 2
+ },
+ "e1878ecbbca08646": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-06",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-06-alverksmidjan-a-grundartanga-nanast-komin-i-fullan-rekstur-486168/",
+  "title": "Álverksmiðjan á Grundartanga nánast komin í fullan rekstur",
+  "sum": "Álverksmiðja Norðuráls á Grundartanga er komin í nánast full afköst tíu mánuðum eftir að óvænt bilun varð í rafspennum versins. Bilunin varð til þess að álframleiðslan dróst saman um tvo þriðju hluta enda þurfti að stöðva algerlega framleið",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-06T12:35:45.143296+00:00",
+  "id": 3
  }
 }
