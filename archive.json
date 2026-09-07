@@ -15829,5 +15829,68 @@
   "tsort": "",
   "first_seen": "2026-09-07T14:45:32.277321+00:00",
   "id": 4
+ },
+ "664e22a8c3b27d43": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-07",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/07/laekkar_heimildir_en_timalinan_helst_obreytt/",
+  "title": "Lækkar heimildir en tímalínan helst óbreytt",
+  "sum": "Daði Már Kristófersson, fjármála- og efnahagsráðherra, segir að fjárfestingaheimildir á komandi ári vegna nýframkvæmda verði minnkaðar, en að það muni þó ekki tefja neinar stórframkvæmdir eins og Þjóðarhöll, Nýja Landspítalann eða nýtt fang",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-07T18:08:14.051204+00:00",
+  "id": 1
+ },
+ "96dd777f8ba89194": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-07",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/07/gongin_lokud_verid_ad_draga_bil/",
+  "title": "Göngin lokuð: Verið að draga bíl",
+  "sum": "Hvalfjarðargöng eru lokuð eins og er, en verið er að draga bíl upp úr göngunum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-07T18:08:14.051204+00:00",
+  "id": 2
+ },
+ "cd45b5b3b3d38832": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-07",
+  "url": "https://www.visir.is/g/20262931660d/stodnun-og-dyrtid-ad-baki-storsigri-afd",
+  "title": "Stöðnun og dýr­tíð að baki stór­sigri AfD",
+  "sum": "Langvarandi stöðnun, hátt verðlag, þungt regluverk og versnandi innviðir eiga stóran þátt í sögulegu fylgi AfD í Saxlandi-Anhalt, að mati íslenskrar athafnakonu sem hefur búið í Þýskalandi í rúm tuttugu ár. Hún segir of einfalt að skýra nið",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-07T18:08:14.051204+00:00",
+  "id": 3
  }
 }
