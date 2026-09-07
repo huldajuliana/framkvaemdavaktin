@@ -15745,5 +15745,89 @@
   "tsort": "",
   "first_seen": "2026-09-06T16:00:29.816314+00:00",
   "id": 2
+ },
+ "673662f7ffb9dc56": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-07",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/07/aukid_hlutafe_vegna_fljotaganga_til_skodunar/",
+  "title": "Aukið hlutafé vegna Fljótaganga til skoðunar",
+  "sum": "Til að innviðafélagið Göng og brú geti tekið að sér ábyrgð á fjármögnun og framkvæmd Fljótaganga kemur til skoðunar að auka við hlutafé félagsins þannig að það hafi fjárhagslega burði til að standa undir verkefninu og hraða framvindu þess.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-07T14:45:32.277321+00:00",
+  "id": 1
+ },
+ "341c9f8ce7f2cf86": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-07",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/07/hlutfall_fyrstu_kaupenda_ekki_meira_i_19_ar/",
+  "title": "Hlutfall fyrstu kaupenda ekki meira í 19 ár",
+  "sum": "Hlutdeild fyrstu kaupenda á fasteignamarkaði hefur, að heimsfaraldrinum undanskildum, ekki verið meiri í 19 ár. Fyrstu kaupendur komu að rúmlega 36% allra kaupsamninga sem þinglýst var á fyrri helmingi ársins.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-07T14:45:32.277321+00:00",
+  "id": 2
+ },
+ "3e6d774a78237892": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-07",
+  "url": "https://byggingar.is/styttist-i-langthrada-vegtengingu-milli-kopavogs-og-reykjavikur/?utm_source=rss&utm_medium=rss&utm_campaign=styttist-i-langthrada-vegtengingu-milli-kopavogs-og-reykjavikur",
+  "title": "Styttist í langþráða vegtengingu milli Kópavogs og Reykjavíkur",
+  "sum": "Styttist í langþráða vegtengingu milli Kópavogs og Reykjavíkur Framkvæmdir á Arnarnesvegi milli Rjúpnavegar og Breiðsholtsbrautar hafa nú staðið yfir í á fjórða ár og hefur hluti verksins verið tekinn í notkun. Á gatnamótum Arnarnesvegar og",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-07T14:45:32.277321+00:00",
+  "id": 3
+ },
+ "92dac3fdb15a5a4f": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-07",
+  "url": "https://byggingar.is/360-milljona-hreinsistod-ris-i-thorlakshofn/?utm_source=rss&utm_medium=rss&utm_campaign=360-milljona-hreinsistod-ris-i-thorlakshofn",
+  "title": "360 milljóna hreinsistöð rís í Þorlákshöfn",
+  "sum": "360 milljóna hreinsistöð rís í Þorlákshöfn Framkvæmdir standa yfir við nýja fráveituhreinsistöð á hafnarsvæðinu í Þorlákshöfn. Heildarkostnaður verkefnisins er um 360 milljónir króna og K16 ehf. er aðalverktaki. Stefnt er að því að taka stö",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-07T14:45:32.277321+00:00",
+  "id": 4
  }
 }
