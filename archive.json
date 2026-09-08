@@ -15892,5 +15892,89 @@
   "tsort": "",
   "first_seen": "2026-09-07T18:08:14.051204+00:00",
   "id": 3
+ },
+ "e033234cc5152aae": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-08",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/08/hoggvid_a_rafmagnshnut_fljotagong_og_sanngirnisbaet/",
+  "title": "Höggvið á rafmagnshnút, Fljótagöng og sanngirnisbætur",
+  "sum": "Fjöldi mála er væntanlegur á þingmálaskrá ríkisstjórnarinnar sem verður formlega kynnt síðar í þessari viku. Forsætisráðherra fór yfir nokkur þeirra á kynningarfundi ríkisstjórnarinnar í morgun.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-08T13:18:22.701955+00:00",
+  "id": 1
+ },
+ "5bee5edd78381ad4": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "1.62 ma.kr.",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-08",
+  "url": "https://byggingar.is/istak-faer-1-62-milljarda-verk-vid-nytt-flugvelastaedi-a-keflavikurflugvelli/?utm_source=rss&utm_medium=rss&utm_campaign=istak-faer-1-62-milljarda-verk-vid-nytt-flugvelastaedi-a-keflavikurflugvelli",
+  "title": "Ístak fær 1.62 milljarða verk við nýtt flugvélastæði á Keflavíkurflugvelli",
+  "sum": "Ístak fær 1.62 milljarða verk við nýtt flugvélastæði á Keflavíkurflugvelli Isavia ohf. hefur samið við Ístak hf. um framkvæmdir við NTA25, nýtt flugvélastæði við flugstöðina á Keflavíkurflugvelli. Samningsfjárhæðin nemur rúmum 1,619 milljör",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-08T13:18:22.701955+00:00",
+  "id": 2
+ },
+ "ffb09bc97b9d0b96": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-08",
+  "url": "https://byggingar.is/ny-byggingarsvaedi-a-hofudborgarsvaedinu/?utm_source=rss&utm_medium=rss&utm_campaign=ny-byggingarsvaedi-a-hofudborgarsvaedinu",
+  "title": "Stefnubreyting Reykjavíkur gæti opnað stór ný byggingarsvæði á höfuðborgarsvæðinu",
+  "sum": "Stefnubreyting Reykjavíkur gæti opnað stór ný byggingarsvæði á höfuðborgarsvæðinu Ný afstaða Reykjavíkurborgar til vaxtarmarka höfuðborgarsvæðisins gæti greitt fyrir uppbyggingu á stórum nýjum byggingarsvæðum í nágrannasveitarfélögum borgar",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-08T13:18:22.701955+00:00",
+  "id": 3
+ },
+ "e0ce717eeae556d2": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-08",
+  "url": "https://byggingar.is/stort-ithrottahus-er-reist-i-arnesi/?utm_source=rss&utm_medium=rss&utm_campaign=stort-ithrottahus-er-reist-i-arnesi",
+  "title": "Stórt íþróttahús er reist í Árnesi",
+  "sum": "Stórt íþróttahús er reist í Árnesi Við Árnes í Skeiða- og Gnúpverjahreppi á Suðurlandi eru nú á lokastigi framkvæmdir við byggingu nýrrar íþróttamiðstöðvar sem verður tekin í notkun í næsta mánuði. Þetta er eitt stærsta hús sinnar gerðar se",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-08T13:18:22.701955+00:00",
+  "id": 4
  }
 }
