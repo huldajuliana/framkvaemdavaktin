@@ -15976,5 +15976,131 @@
   "tsort": "",
   "first_seen": "2026-09-08T13:18:22.701955+00:00",
   "id": 4
+ },
+ "0156106b09e73346": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-09-08",
+  "url": "https://www.mbl.is/200milur/frettir/2026/09/08/fyrsta_afanga_ad_ljuka_hja_first_water/",
+  "title": "Fyrsta áfanga að ljúka hjá First Water",
+  "sum": "First Water og Ístak hafa undirritað samning um framkvæmdir á athafnasvæði First Water í Þorlákshöfn. Ljúka á fyrsta áfanga landeldisverkefnis félagsins og tvöfalda árlega framleiðslugetu First Water.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-08T17:06:06.036581+00:00",
+  "id": 1
+ },
+ "2f3dbd093a21173a": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "19 km",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-08",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-08-samthykkja-undirbuningsframkvaemdir-fyrir-fljotagong-486446/",
+  "title": "Samþykkja undirbúningsframkvæmdir fyrir Fljótagöng",
+  "sum": "Bæjarstjórn Fjallabyggðar hefur samþykkt að hefja undirbúningsframkvæmdir vegna Fljótaganga. Málið verður formlega tekið upp í bæjarráði á fimmtudag. Í tilkynningu á vef sveitarfélagsins segir að framkvæmdir snúi að vatnsbólinu í Hólsdal í ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-08T17:06:06.036581+00:00",
+  "id": 2
+ },
+ "1cfa4efbef0f19e3": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-08",
+  "url": "https://byggingar.is/undirbuningsframkvaemdir-vid-fljotagong-hefjast-i-haust/?utm_source=rss&utm_medium=rss&utm_campaign=undirbuningsframkvaemdir-vid-fljotagong-hefjast-i-haust",
+  "title": "Undirbúningsframkvæmdir við Fljótagöng hefjast í haust",
+  "sum": "Undirbúningsframkvæmdir við Fljótagöng hefjast í haust Undirbúningsframkvæmdir vegna Fljótaganga eiga að hefjast strax í haust en stjórnvöld stefna áfram að því að meginframkvæmdir við jarðgöngin hefjist á næsta ári. Kristrún Frostadóttir f",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-08T17:06:06.036581+00:00",
+  "id": 3
+ },
+ "adff1f80df9ef860": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-08",
+  "url": "https://byggingar.is/fresta-vinnu-vid-bruna-yfir-jokulsa-fram-a-vor/?utm_source=rss&utm_medium=rss&utm_campaign=fresta-vinnu-vid-bruna-yfir-jokulsa-fram-a-vor",
+  "title": "Fresta vinnu við brúna yfir Jökulsá fram á vor",
+  "sum": "Fresta vinnu við brúna yfir Jökulsá fram á vor Vegagerðin hefur frestað viðhaldsvinnu við brúna yfir Jökulsá á Fjöllum í annað sinn þetta árið. Nú er stefnt að því að ljúka verkefninu í vor. Áframhaldandi viðhaldsvinnu við brúna yfir Jökuls",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-08T17:06:06.036581+00:00",
+  "id": 4
+ },
+ "8ef1c1e152fac39a": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-08",
+  "url": "https://byggingar.is/first-water-semur-vid-istak-um-uppbyggingu-i-thorlakshofn/?utm_source=rss&utm_medium=rss&utm_campaign=first-water-semur-vid-istak-um-uppbyggingu-i-thorlakshofn",
+  "title": "First Wa­ter semur við Ís­tak um upp­byggingu í Þor­láks­höfn",
+  "sum": "First Wa­ter semur við Ís­tak um upp­byggingu í Þor­láks­höfn Verkefnið felur í sér uppbyggingu kerja- og stjórnbyggingar sem mun hýsa átta eldisker. First Water og verktakafyrirtækið Ístak hafa undirritað samning um umfangsmiklar framkvæmd",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-08T17:06:06.036581+00:00",
+  "id": 5
+ },
+ "4e8d3720f412acab": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Norðurþing – fréttir",
+  "date": "2026-09-08",
+  "url": "https://www.nordurthing.is/is/frettir/kynning-tillogu-a-vinnslustigi-vegna-nys-deiliskipulags-idnadarsvaedisins-a-bakka-3-afangi",
+  "title": "Kynning tillögu á vinnslustigi vegna nýs deiliskipulags iðnaðarsvæðisins á Bakka – 3. áfangi.",
+  "sum": "Kynning tillögu á vinnslustigi vegna nýs deiliskipulags iðnaðarsvæðisins á Bakka – 3. áfangi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-08T17:06:06.036581+00:00",
+  "id": 6
  }
 }
