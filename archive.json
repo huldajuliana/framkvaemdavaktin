@@ -16249,5 +16249,68 @@
   "tsort": "",
   "first_seen": "2026-09-09T13:21:52.615562+00:00",
   "id": 7
+ },
+ "4c9faf0364f115c8": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-09",
+  "url": "https://www.visir.is/g/20262932575d/fjolmidlakreppan-lydraedishalli-en-ekki-bara-rekstrarvandi",
+  "title": "Fjölmiðlakreppan: Lýðræðishalli en ekki bara rekstrarvandi",
+  "sum": "Engin greining á stöðunni á íslenskum fjölmiðlamarkaði stenst skoðun án þess að benda á að íslenskir miðlar eiga nú í harðri alþjóðlegri samkeppni um athygli og fjármuni landsmanna. Þar hallar mjög á íslenska miðla og má líkja stöðunni við ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-09T17:03:25.498366+00:00",
+  "id": 1
+ },
+ "404df2ef096b3d27": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-09",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-09-bua-sig-undir-ad-hleypa-heita-vatninu-a-486577/",
+  "title": "Búa sig undir að hleypa heita vatninu á",
+  "sum": "Íbúar og atvinnurekendur í Innri-Njarðvík og Vogum geta vænst þess að heita vatnið komist aftur á innan skamms. HS Veitur hafa staðið í framkvæmdum á veitukerfi sínu og þess vegna hefur verið heitavatnslaust víða á Suðurnesjum. Upp úr klukk",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-09T17:03:25.498366+00:00",
+  "id": 2
+ },
+ "0b1221c4f6d449c8": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-09",
+  "url": "https://byggingar.is/aukin-skattbyrdi-a-ibudaframkvaemdir/?utm_source=rss&utm_medium=rss&utm_campaign=aukin-skattbyrdi-a-ibudaframkvaemdir",
+  "title": "Aukin skattbyrði á íbúðaframkvæmdir",
+  "sum": "Aukin skattbyrði á íbúðaframkvæmdir Endurgreiðsla virðisaukaskatts vegna vinnu við íbúðarhúsnæði mun að óbreyttu fjárlagafrumvarpi ríkisstjórnarinnar vegna ársins 2027 lækka úr 35% í 20%. Fyrir vikið er fyrirséð að skattbyrði á byggingarfra",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-09T17:03:25.498366+00:00",
+  "id": 3
  }
 }
