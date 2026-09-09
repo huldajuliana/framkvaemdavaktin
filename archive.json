@@ -16102,5 +16102,152 @@
   "tsort": "",
   "first_seen": "2026-09-08T17:06:06.036581+00:00",
   "id": 6
+ },
+ "e37537e87e521f39": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-09",
+  "url": "https://www.visir.is/g/20262932410d/ekkert-heitt-vatn-a-sudurnesjum-i-dag",
+  "title": "Ekkert heitt vatn á Suður­nesjum í dag",
+  "sum": "HS Veitur og HS Orka ráðast í viðamiklar framkvæmdir í dag og verður lokað fyrir heitt vatn á Suðurnesjum vegna þeirra. Búið er að skrúfa fyrir vatnið á hluta svæðisins.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-09T13:21:52.615562+00:00",
+  "id": 1
+ },
+ "a6ec11a2bf17f929": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-08",
+  "url": "https://www.visir.is/g/20262932265d/rukka-meira-fyrir-aksturinn-og-serstaklega-fyrir-veginn",
+  "title": "Rukka meira fyrir aksturinn og sér­stak­lega fyrir veginn",
+  "sum": "Ríkisstjórnin boðar tæplega 16 prósenta hækkun kílómetragjalds í fjárlagafrumvarpi ársins 2027, samhliða áformum um að fjármagna fleiri samgöngumannvirki með veggjöldum. Ökumenn greiða bæði gjöldin á gjaldskyldum leiðum. Stjórnvöld telja þa",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-09T13:21:52.615562+00:00",
+  "id": 6
+ },
+ "07f5ec0ae307cecc": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-09",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-09-fagnar-aformum-radherra-a-leigumarkadi-486488/",
+  "title": "Fagnar áformum ráðherra á leigumarkaði",
+  "sum": "Formaður Leigjendasamtakanna fagnar fyrirhuguðu frumvarpi um reglubundnar breytingar á leigufjárhæð. Nái frumvarp félags- og húsnæðismálaráðherra fram að ganga verður ekki lengur heimilt að tengja leigusamninga við mánaðarlega vísitölu. Yng",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-09T13:21:52.615562+00:00",
+  "id": 2
+ },
+ "2ccefe4ef9fc5f30": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-09",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-09-heitavatnslaust-a-sudurnesjum-i-dag-486486/",
+  "title": "Heitavatnslaust á Suðurnesjum í dag",
+  "sum": "Heitavatnslaust verður í dag á Suðurnesjum vegna framkvæmda HS Veitna við stofnæð hitaveitu við Njarðarbraut og framkvæmda HS Orku við dælustöð á Fitjum. Tilkynnt var um framkvæmdirnar fyrir tæpri viku. Lokun fyrir heita vatnið hefur áhrif ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-09T13:21:52.615562+00:00",
+  "id": 3
+ },
+ "691e3792574f16c0": {
+  "region": "Norðurland vestra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-09",
+  "url": "https://byggingar.is/hunathing-vestra-bydur-ut-nidurrif-husa/?utm_source=rss&utm_medium=rss&utm_campaign=hunathing-vestra-bydur-ut-nidurrif-husa",
+  "title": "01.10.2026 Húnaþing vestra býður út niðurrif húsa á steypustöðvarreit á Hvammstanga",
+  "sum": "Húnaþing vestra býður út niðurrif húsa á steypustöðvarreit á Hvammstanga Húnaþing vestra óskar eftir tilboðum í niðurrif og brottflutning húsa við Norðurbraut 28, 30 og 32 á Hvammstanga ásamt gömlu steypusílói og steypustöð við Norðurbraut ",
+  "tender": "2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-01",
+  "first_seen": "2026-09-09T13:21:52.615562+00:00",
+  "id": 4
+ },
+ "da8278330eeaa9d4": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-09",
+  "url": "https://byggingar.is/leyfa-ekki-byggingu-ibudarhusa-vid-vatnsenda/?utm_source=rss&utm_medium=rss&utm_campaign=leyfa-ekki-byggingu-ibudarhusa-vid-vatnsenda",
+  "title": "Leyfa ekki byggingu íbúðarhúsa við Vatnsenda",
+  "sum": "Leyfa ekki byggingu íbúðarhúsa við Vatnsenda Kópavogsbær hefur hafnað því að gera breytingar á aðal- og deiliskipulagi sínu til að heimila byggingu 18 nýrra einbýlishúsa á Vatnsendalandinu. Þetta var niðurstaðan þegar umsókn þess efnis var ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-09T13:21:52.615562+00:00",
+  "id": 5
+ },
+ "2e5c784b40c55eb9": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-08",
+  "url": "https://byggingar.is/nytt-ithrottahus-stekkjaskola/?utm_source=rss&utm_medium=rss&utm_campaign=nytt-ithrottahus-stekkjaskola",
+  "title": "Nýtt íþróttahús Stekkjaskóla færist nær framkvæmdum á Selfossi",
+  "sum": "Nýtt íþróttahús Stekkjaskóla færist nær framkvæmdum á Selfossi Undirbúningur að þriðja áfanga Stekkjaskóla á Selfossi, sem felur í sér byggingu nýs íþróttahúss, færist áfram hjá Sveitarfélaginu Árborg. Tillögur að þriðja áfanga skólans voru",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-09T13:21:52.615562+00:00",
+  "id": 7
  }
 }
