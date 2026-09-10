@@ -16522,5 +16522,110 @@
   "tsort": "",
   "first_seen": "2026-09-10T13:18:51.577833+00:00",
   "id": 9
+ },
+ "9b0b837dedcfdb42": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-10",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/10/100_milljona_framurkeyrsla_i_rangarthingi_ytra/",
+  "title": "100 milljóna framúrkeyrsla í Rangárþingi ytra",
+  "sum": "Framkvæmdir og viðhald á Laugalandi í Holtum, þar sem meðal annars Laugalandsskóli er starfræktur, fara um 100 milljónir króna fram úr upphaflegri áætlun.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-10T16:54:49.866084+00:00",
+  "id": 1
+ },
+ "8a6d4653b04566cf": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-10",
+  "url": "https://www.visir.is/g/20262933155d/stodugleiki-a-leigumarkadi",
+  "title": "Stöðug­leiki á leigumarkaði",
+  "sum": "Félags- og húsnæðismálaráðherra hefur boðað lagabreytingu. Hún virðist annars vegar að hafa það í för með sér að fjárhæð húsaleigu á íbúðamarkaði megi aðeins hækka einu sinni á tólf mánaða fresti og hins vegar að verðtrygging leiguverðs ver",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-10T16:54:49.866084+00:00",
+  "id": 2
+ },
+ "b0592f97f7273f21": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "4,4 ma.kr.",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-10",
+  "url": "https://www.visir.is/g/20262933101d/skera-ruma-fjora-milljarda-af-vegagerd",
+  "title": "Skera rúma fjóra milljarða af vega­gerð",
+  "sum": "Ráðamenn Vegagerðarinnar og Betri samgangna lesa stórfelldan niðurskurð til framkvæmda í vegagerð út úr nýbirtu fjárlagafrumvarpi ríkisstjórnarinnar, niðurskurð upp á samtals 4,4 milljarða króna. Hjá Vegagerðinni er boðaður 2,4 milljarða kr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-10T16:54:49.866084+00:00",
+  "id": 3
+ },
+ "500e5ac60aaa3951": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-10",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-10-kjosarhreppur-itrekar-andstodu-vid-haensnabu-486687/",
+  "title": "Kjós­ar­hrepp­ur ít­rek­ar and­stöðu við hænsna­bú",
+  "sum": "Matfugl vill reisa allt að tíuþúsund fermetra hænsnabú á Tindstöðum í Eilífsdal í Kjós. Búið gæti hýst allt að 39.900 stofnfugla, og áætluð framleiðsla rúm 500 tonn á ári. Kjósarhreppur telur framkvæmdina líklega til að hafa umtalsverð umhv",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-10T16:54:49.866084+00:00",
+  "id": 4
+ },
+ "f6dbb04378c96663": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-10",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-10-segist-hafa-tapad-ad-minnsta-kosti-thremur-milljonum-a-vidskiptum-vid-solarmegin-486666/",
+  "title": "Segist hafa tapað að minnsta kosti þremur milljónum á viðskiptum við Sólarmegin",
+  "sum": "Maður sem átti í viðskiptum við leigufélagið Sólarmegin, sem leigði út íbúðir á Spáni, segist hafa tapað um þremur milljónum króna. Hann greiddi ársleigu fyrirfram og segir að aldrei hafi verið staðið við loforð. Gekk mjög vel í fyrstu Frét",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-10T16:54:49.866084+00:00",
+  "id": 5
  }
 }
