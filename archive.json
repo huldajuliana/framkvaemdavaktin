@@ -16795,5 +16795,47 @@
   "tsort": "",
   "first_seen": "2026-09-11T13:13:02.182470+00:00",
   "id": 8
+ },
+ "17eb78a56bc77b88": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-11",
+  "url": "https://www.visir.is/g/20262933630d/ljosagatnamotin-eigi-ad-duga-naestu-tuttugu-ar",
+  "title": "Ljósagatnamótin eigi að duga næstu tuttugu ár",
+  "sum": "Samgöngustjóri Reykjavíkur segir ekki hagkvæmt að gera gatnamót Arnarnesvegar og Breiðholtsbrautar fullmislæg nú. Vegagerðin telur ljósastýrðu lausnina geta annað umferð vel í tuttugu ár eftir opnun, þótt bílferðum á höfuðborgarsvæðinu sé s",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-11T16:56:07.982219+00:00",
+  "id": 1
+ },
+ "3268e3d08650fb1e": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-11",
+  "url": "https://byggingar.is/gudmundur-dadi-radinn-forstjori-hja-gong-og-bru-ohf/?utm_source=rss&utm_medium=rss&utm_campaign=gudmundur-dadi-radinn-forstjori-hja-gong-og-bru-ohf",
+  "title": "Guðmundur Daði ráðinn forstjóri hjá Göng og brú ohf.",
+  "sum": "Guðmundur Daði ráðinn forstjóri hjá Göng og brú ohf. Innviðafélagið Göng og brú ohf. hefur ráðið Guðmund Daða Rúnarsson í starf forstjóra félagsins. Í tilkynningu kemur fram að ákvörðun um ráðninguna hafi verið tekin af stjórn félagsins að ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-11T16:56:07.982219+00:00",
+  "id": 2
  }
 }
