@@ -16837,5 +16837,89 @@
   "tsort": "",
   "first_seen": "2026-09-11T16:56:07.982219+00:00",
   "id": 2
+ },
+ "263d7ba035797877": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-12",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/12/menningarauki_i_mosfellsdalnum/",
+  "title": "Menningarauki í Mosfellsdalnum",
+  "sum": "Um 250 manns búa á um 80 býlum í Mosfellsdal. Þetta er samfélag í útjaðri borgar; sveit og landbúnaðarsvæði þaðan sem margir íbúanna sækja þó þjónustu og vinnu í þéttbýlið. Frá gatnamótunum þar sem beygt er af Vesturlandsvegi inn í Mosfelld",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-12T12:36:39.651749+00:00",
+  "id": 1
+ },
+ "ce65b39a4e32b863": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-12",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/12/hvit_jord_og_halkublettir_fyrir_nordan/",
+  "title": "Hvít jörð og hálkublettir fyrir norðan",
+  "sum": "Á norðulandi er nú víða hvít jörð upp til fjalla, líkt og sjá má á vefmyndavélum Vegagerðarinnar á svæðinu, og von á frekari slyddu í dag.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-12T12:36:39.651749+00:00",
+  "id": 2
+ },
+ "9d52b547f3c9c6f6": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-12",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/12/thriggja_bila_arekstur_heidin_opnud_a_ny/",
+  "title": "Þriggja bíla árekstur: Heiðin opnuð á ný",
+  "sum": "Samkvæmt korti á síðu Vegagerðarinnar, umferdin.is, hefur Hellisheiði verið opnuð að nýju.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-12T12:36:39.651749+00:00",
+  "id": 3
+ },
+ "5a6e0d7653c5a727": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "30.000 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-11",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-11-thad-er-keyrt-a-malid-a-hnefanum-486805/",
+  "title": "„Það er keyrt á málið á hnefanum“",
+  "sum": "Hafnarfjarðarbær hét Tækniskólanum lóð fyrir nýja skólabyggingu sem er þegar í notkun fyrir aðra starfsemi. Ljóst er að framkvæmdir tefjast. Forsvarsmenn Tækniskólans hafa rætt óformlega við önnur sveitarfélög um að skólinn verði þar. Nýja ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-12T12:36:39.651749+00:00",
+  "id": 4
  }
 }
