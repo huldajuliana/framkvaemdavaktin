@@ -16921,5 +16921,26 @@
   "tsort": "",
   "first_seen": "2026-09-12T12:36:39.651749+00:00",
   "id": 4
+ },
+ "6f04fce2ded79ed0": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-12",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/12/vinna_undir_bru_og_sigla_a_pramma/",
+  "title": "Vinna undir brú og sigla á pramma",
+  "sum": "Unnið er um þessar mundir að endurnýjun lagna og strengja undir Borgarfjarðarbrúnni og þar eru á vettvangi starfsmenn Borgarverks hf.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-12T16:02:16.175920+00:00",
+  "id": 1
  }
 }
