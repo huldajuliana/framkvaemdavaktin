@@ -16963,5 +16963,26 @@
   "tsort": "",
   "first_seen": "2026-09-13T13:38:32.163836+00:00",
   "id": 1
+ },
+ "6275637c67a56021": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-13",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-13-rafmagnslaust-i-hluta-asbruar-486967/",
+  "title": "Rafmagnslaust í hluta Ásbrúar",
+  "sum": "Rafmagnslaust er í hluta Ásbrúar í Reykjanesbæ vegna bilunar. HS Veitur greina frá rafmagnsleysinu í tilkynningu . Þar segir að unnið sé að því að koma rafmagni aftur á eins fljótt og auðið er. „Það kom upp bilun í dreifistöð hjá okkur sem ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-13T16:51:29.956434+00:00",
+  "id": 1
  }
 }
