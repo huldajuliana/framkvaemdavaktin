@@ -16942,5 +16942,26 @@
   "tsort": "",
   "first_seen": "2026-09-12T16:02:16.175920+00:00",
   "id": 1
+ },
+ "5da8cccabd38a17d": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-12",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/12/baejaryfirvold_vilja_fleiri_bilakjallara/",
+  "title": "Bæjaryfirvöld vilja fleiri bílakjallara",
+  "sum": "Gjöld af byggingu bílakjallara í fjölbýli í Hafnarfirði þar sem gert er ráð fyrir þremur bílum eða fleiri hafa verið felld niður.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-13T13:38:32.163836+00:00",
+  "id": 1
  }
 }
