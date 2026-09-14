@@ -16984,5 +16984,131 @@
   "tsort": "",
   "first_seen": "2026-09-13T16:51:29.956434+00:00",
   "id": 1
+ },
+ "6b2af9e36db83492": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-14",
+  "url": "https://www.visir.is/g/20262934416d/ad-stiga-varlega-til-jardar-eda-rydja-burt-hindrunum",
+  "title": "Að stíga var­lega til jarðar eða ryðja burt hindrunum",
+  "sum": "Aldrei nokkurntíman hef ég fengið eins mikið af ábendingum frá áhyggjufullum íbúum um land allt vegna hvers kyns framkvæmda. Sveitarstjórnastigið á greinilega fullt í fangi með eftirlit með óleyfisframkvæmdum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-14T15:38:13.525628+00:00",
+  "id": 1
+ },
+ "1ce8e9f4f6d65e7a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-14",
+  "url": "https://www.visir.is/g/20262934301d/tveir-hopferdabilar-skullu-saman-a-sudurlandsbraut",
+  "title": "Tveir hópferðabílar skullu saman á Suður­lands­braut",
+  "sum": "Tveir hópferðabílar skullu saman við gatnamót Suðurlandsbrautar og Reykjavegar sem leiðir inn í Laugardal. Atvikið átti sér stað rétt fyrir klukkan tíu.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-14T15:38:13.525628+00:00",
+  "id": 2
+ },
+ "3dbe6ceb531afe7a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-14",
+  "url": "https://www.visir.is/g/20262934234d/thegar-smidirnir-sjalfir-bidja-um-ad-haegja-a-velinni",
+  "title": "Þegar smiðirnir sjálfir biðja um að hægja á vélinni",
+  "sum": "Ef verkfræðingur segði okkur að tíu prósenta líkur væru á því að ný brú hryndi myndum við ekki opna hana og sjá hvað gerðist.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-14T15:38:13.525628+00:00",
+  "id": 3
+ },
+ "bd42d1e66dc73218": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-14",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-14-rikid-greiddi-107000-kronur-med-hverjum-farthega-arid-2024-487032/",
+  "title": "Ríkið greiddi 107.000 krónur með hverjum farþega árið 2024",
+  "sum": "Langnesingar eru óánægðir með samráðsleysi Vegagerðarinnar þegar kemur að útboði á áætlunarflugi frá Akureyri til Vopnafjarðar og Þórshafnar. Til stendur að fækka flugferðum úr fimm ferðum á viku niður í þrjár. Útboð í áætlunarflugið var au",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-14T15:38:13.525628+00:00",
+  "id": 4
+ },
+ "b8bd8627b17c4ad0": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-14",
+  "url": "https://byggingar.is/k16-faer-thakendurnyjun-haskolans-a-akureyri-fyrir-64-m-kr/?utm_source=rss&utm_medium=rss&utm_campaign=k16-faer-thakendurnyjun-haskolans-a-akureyri-fyrir-64-m-kr",
+  "title": "K16 fær þakendurnýjun Háskólans á Akureyri fyrir 64 m.kr.",
+  "sum": "K16 fær þakendurnýjun Háskólans á Akureyri fyrir 64 m.kr. K16 ehf. hefur fengið þakendurnýjun við Háskólann á Akureyri fyrir tæpar 64 milljónir króna. Framkvæmdasýslan – Ríkiseignir (FSRE) tilkynnti 10. september að tilboði K16 ehf. hefði v",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-14T15:38:13.525628+00:00",
+  "id": 5
+ },
+ "bbe8a95a84045b9d": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-14",
+  "url": "https://byggingar.is/all-verk-faer-endurbaetur-a-rannsoknardeild-hvest-fyrir-78-3-milljonir/?utm_source=rss&utm_medium=rss&utm_campaign=all-verk-faer-endurbaetur-a-rannsoknardeild-hvest-fyrir-78-3-milljonir",
+  "title": "ALL Verk fær endurbætur á rannsóknardeild HVEST fyrir 78.3 milljónir",
+  "sum": "ALL Verk fær endurbætur á rannsóknardeild HVEST fyrir 78.3 milljónir ALL Verk ehf. hefur fengið endurbætur á rannsóknardeild Heilbrigðisstofnunar Vestfjarða á Ísafirði fyrir rúmar 78,3 milljónir króna. Framkvæmdasýslan – Ríkiseignir (FSRE) ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-14T15:38:13.525628+00:00",
+  "id": 6
  }
 }
