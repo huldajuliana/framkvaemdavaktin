@@ -17110,5 +17110,90 @@
   "tsort": "",
   "first_seen": "2026-09-14T15:38:13.525628+00:00",
   "id": 6
+ },
+ "619a7cec88dc5752": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-14",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/14/haett_vid_uppbyggingu_taekniskolans_i_hafnarfirdi/",
+  "title": "Hætt við uppbyggingu Tækniskólans í Hafnarfirði",
+  "sum": "Hætt hefur verið við uppbyggingu Tækniskólans við Flensborgarhöfn í Hafnarfirði.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-14T18:22:50.157521+00:00",
+  "id": 1
+ },
+ "1a709e50d118b672": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)",
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-14",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/14/timabundnar_truflanir_a_umferd/",
+  "title": "Tímabundnar truflanir á umferð",
+  "sum": "Tímabundnar truflanir verða á umferð á gatnamótunum Miklubraut–Klambratún og Miklubraut–Stakkahlíð á miðvikudag og fimmtudag þar sem Reykjavíkurborg og Vegagerðin munu á næstu dögum vinna að uppfærslu á umferðarljósastýringu.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-14T18:22:50.157521+00:00",
+  "id": 2
+ },
+ "ed08d344a8a44346": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-14",
+  "url": "https://www.visir.is/g/20262934683d/samkomulag-taekniskolans-og-hafnarfjardar-ut-um-thufur",
+  "title": "Sam­komu­lag Tækniskólans og Hafnar­fjarðar út um þúfur",
+  "sum": "Nýbygging Tækniskólans verður ekki í Hafnarfirði líkt og stóð til eftir að bænum tókst ekki að afhenda skólanum lóðina sem fyrirhuguð var undir skólann í tæka tíð.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-14T18:22:50.157521+00:00",
+  "id": 3
+ },
+ "435854905bf8b4e9": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-14",
+  "url": "https://www.visir.is/g/20262934659d/unnid-ad-uppfaerslu-umferdarljosa",
+  "title": "Unnið að upp­færslu um­ferðar­ljósa",
+  "sum": "Á næstu dögum verður unnið að uppfærslu á umferðarljósastýringu á gatnamótum Miklubrautar og Klambratúns annars vegar og Miklubraut og Stakkahlíðar hins vegar. Slökkt verður á ljósunum hluta miðvikudagsins og fimmtudagsins næstkomandi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-14T18:22:50.157521+00:00",
+  "id": 4
  }
 }
