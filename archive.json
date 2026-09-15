@@ -17383,5 +17383,47 @@
   "tsort": "",
   "first_seen": "2026-09-15T14:08:34.539400+00:00",
   "id": 8
+ },
+ "fb0b9aa4b3089260": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-15",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-15-fyrsta-vindorkuverid-gangsett-i-blidvidri-487161/",
+  "title": "Fyrsta vindorkuverið gangsett í blíðviðri",
+  "sum": "Fyrsta vindorkuver landsins, Vaðölduver, var gangsett í dag við hátíðlega athöfn. Ásbjörg Kristinsdóttir, framkvæmdastjóri framkvæmdasviðs Landsvirkjunnar flutti ávarp ásamt Brynju Baldursdóttur stjórnarformanni og Herði Arnarsyni forstjóra",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-15T17:30:37.231643+00:00",
+  "id": 1
+ },
+ "f8b54d29bdaf31f2": {
+  "region": "Norðurland eystra",
+  "type": "Atvinna",
+  "scale": "Risa",
+  "scaleFig": "120 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-15",
+  "url": "https://byggingar.is/120-milljarda-gagnaver-a-bakka/?utm_source=rss&utm_medium=rss&utm_campaign=120-milljarda-gagnaver-a-bakka",
+  "title": "120 milljarða gagnaver á Bakka",
+  "sum": "120 milljarða gagnaver á Bakka EyrieDC hyggst reisa nýtt gagnaver á iðnaðarsvæðinu á Bakka við Húsavík en verkefnið var kynnt á fundi í bænum fyrr í dag ásamt tillögu að nýju deiliskipulagi. Í fréttatilkynningu segir að um mjög umfangsmikið",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-15T17:30:37.231643+00:00",
+  "id": 2
  }
 }
