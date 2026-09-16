@@ -17658,5 +17658,68 @@
   "tsort": "",
   "first_seen": "2026-09-16T14:01:07.212612+00:00",
   "id": 7
+ },
+ "671308aecb8ecf77": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-16",
+  "url": "https://www.visir.is/g/20262935729d/fimm-aukaibudir-thar-sem-adeins-matti-vera-ein",
+  "title": "Fimm aukaíbúðir þar sem að­eins mátti vera ein",
+  "sum": "Eigendur einbýlishúss í Breiðholti verða að breyta húsinu eftir að fimm aukaíbúðir voru innréttaðar þar sem borgin leyfir aðeins eina. Borgin gaf þeim þó of skamman tíma til breytinganna og tók ekki nægilegt tillit til fólksins sem leigir í",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-16T17:30:34.743857+00:00",
+  "id": 1
+ },
+ "06c021c79936d2eb": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-16",
+  "url": "https://www.visir.is/g/20262935628d/hms-vill-dyrari-byggingar",
+  "title": "HMS vill dýrari byggingar",
+  "sum": "Innleiðing lífsferilsgreininga í íslenskar byggingar átti að vera skref í átt að vistvænni mannvirkjagerð.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-16T17:30:34.743857+00:00",
+  "id": 2
+ },
+ "8c98c5f3af98f831": {
+  "region": "Norðurland eystra",
+  "type": "Atvinna",
+  "scale": "Risa",
+  "scaleFig": "120 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-16",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-16-vilja-byrja-ad-byggja-gagnaver-a-bakka-a-naestu-sex-manudum-487249/",
+  "title": "Vilja byrja að byggja gagnaver á Bakka á næstu sex mánuðum",
+  "sum": "Eitt stærsta gagnaver landsins gæti risið á Bakka, norðan Húsavíkur. Áform bresks fyrirtækis um 120 milljarða byggingu voru kynnt íbúum í Norðurþingi í gær. Íbúar sem sátu kynningarfundinn í gær virtust taka vel í hugmyndina - því eftir að ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-16T17:30:34.743857+00:00",
+  "id": 3
  }
 }
