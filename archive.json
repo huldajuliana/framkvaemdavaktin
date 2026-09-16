@@ -17425,5 +17425,238 @@
   "tsort": "",
   "first_seen": "2026-09-15T17:30:37.231643+00:00",
   "id": 2
+ },
+ "aa152d4cdd9ec724": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-16",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/16/beint_streymi_nytt_hverfi_kynnt_i_reykjanesbae/",
+  "title": "Beint streymi: Nýtt hverfi kynnt í Reykjanesbæ",
+  "sum": "Nýtt hverfi í Reyjanesbæ er meðal þess sem kynnt verður á atvinnu- og framkvæmdaþingi Reykjanesbæjar",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-16T14:01:07.212612+00:00",
+  "id": 1
+ },
+ "4d568b4ef2ef7a2b": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-16",
+  "url": "https://www.visir.is/g/20262935096d/98-prosent-loft-en-gegnir-lykilhlutverki-i-islensku-atvinnulifi",
+  "title": "98 pró­sent loft en gegnir lykil­hlut­verki í ís­lensku at­vinnulífi",
+  "sum": "Það er líklega ekki margt sem sameinar ferskan íslenskan fisk á leið til útlanda, gólfhita í fjölbýlishúsi og grasþak á nýbyggingu. Svarið gæti þó leynst í verksmiðju Tempru þar sem hráefni á stærð við sykurkorn er „poppað“ upp og breytt í ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-16T14:01:07.212612+00:00",
+  "id": 2
+ },
+ "93611b2fd53fab84": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)",
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-16",
+  "url": "https://www.visir.is/g/20262934988d/tafir-vid-gonguljos-a-hringbraut-ekki-vegna-bilunar",
+  "title": "Tafir við gönguljós á Hring­braut ekki vegna bilunar",
+  "sum": "Deildarstjóri samgangna hjá Reykjavík segir tafir við gönguljós á Hringbraut ekki vegna bilunar. Reykjavíkurborg og Vegagerðin hafa síðustu vikur innleitt nýtt ljósastýringakerfi, rauntímastýringu umferðarljósa, á Hringbraut.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-16T14:01:07.212612+00:00",
+  "id": 3
+ },
+ "2a7302a1990052b7": {
+  "region": "Norðurland eystra",
+  "type": "Atvinna",
+  "scale": "Risa",
+  "scaleFig": "120 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-09-15",
+  "url": "https://www.visir.is/g/20262935237d/byggja-eitt-staersta-gagnaver-islands-a-bakka",
+  "title": "Byggja eitt stærsta gagnaver Ís­lands á Bakka",
+  "sum": "Til stendur að byggja eitt stærsta gagnaver Íslands við Bakka á Húsavík. Uppbyggingin muni fjölga störfum í bænum töluvert og kosta um 120 milljarða króna. Bandarískur tæknirisi gæti orðið viðskiptavinur gagnaversins.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-16T14:01:07.212612+00:00",
+  "id": 8
+ },
+ "f280e803f7c063ea": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-16",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-16-einstaklingar-i-brottvisunarstod-verda-vistadir-a-asbru-487219/",
+  "title": "Einstaklingar í brottvísunarstöð verða vistaðir á Ásbrú",
+  "sum": "Dómsmálaráðuneytið er komið með augastað á húsnæði fyrir brottvísunarstöð fyrir einstaklinga og hefjast samningaviðræður við eiganda húsnæðisins á morgun. Frumvarp dómsmálaráðherra um stöðina var samþykkt í júní. Frumvarpið var umdeilt utan",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-16T14:01:07.212612+00:00",
+  "id": 4
+ },
+ "9de8d31debd96cf8": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-15",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-15-hjukrunarheimili-fyrir-99-ibua-rykur-upp-487167/",
+  "title": "Hjúkrunarheimili fyrir 99 íbúa rýkur upp",
+  "sum": "Með nýrri aðferð tekur einungis einn og hálfan mánuð að byggja hjúkrunarheimili í Hafnarfirði. Verktaki segir þetta fyrsta heimilið sem er byggt á þennan hátt. Það má kannski helst líkja þessu við að raða saman risastórum legókubbum. Hver k",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-16T14:01:07.212612+00:00",
+  "id": 9
+ },
+ "a0dab2a621bfbf19": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-16",
+  "url": "https://byggingar.is/tilbod-opnud-i-varaaflskerfi-nys-landspitala/?utm_source=rss&utm_medium=rss&utm_campaign=tilbod-opnud-i-varaaflskerfi-nys-landspitala",
+  "title": "Tilboð opnuð í varaaflskerfi Nýs Landspítala",
+  "sum": "Tilboð opnuð í varaaflskerfi Nýs Landspítala Nýr Landspítali ohf. hefur opnað tilboð í umfangsmikið varaaflskerfi fyrir nýbyggingarnar við Hringbraut. Búnaðurinn á að tryggja rekstraröryggi spítalans og rafmagnsþörf nýbygginganna komi til t",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-16T14:01:07.212612+00:00",
+  "id": 5
+ },
+ "eafa6a3257510f5c": {
+  "region": "Suðurnes",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "1,4 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-16",
+  "url": "https://byggingar.is/icelandair-selur-adra-fasteign-a-asbru/?utm_source=rss&utm_medium=rss&utm_campaign=icelandair-selur-adra-fasteign-a-asbru",
+  "title": "Icelandair selur aðra fasteign á Ásbrú",
+  "sum": "Icelandair selur aðra fasteign á Ásbrú Icelandair hefur nú selt tvö fjölbýlishús á Ásbrú fyrir tæplega 1,4 milljarða króna síðastliðið ár. Dótturfélag Icelandair, IGS fasteignir ehf., seldi í lok ágúst fjölbýlishús að Keilisbraut 748 á Ásbr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-16T14:01:07.212612+00:00",
+  "id": 6
+ },
+ "dea97719674ab3b5": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "1.62 ma.kr.",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-15",
+  "url": "https://byggingar.is/istak-faer-1-62-milljarda-flughladsframkvaemd-a-keflavikurflugvelli/?utm_source=rss&utm_medium=rss&utm_campaign=istak-faer-1-62-milljarda-flughladsframkvaemd-a-keflavikurflugvelli",
+  "title": "Ístak fær 1.62 milljarða flughlaðsframkvæmd á Keflavíkurflugvelli",
+  "sum": "Ístak fær 1.62 milljarða flughlaðsframkvæmd á Keflavíkurflugvelli Ístak hf. hefur fengið um 1,62 milljarða króna framkvæmd fyrir Isavia á Keflavíkurflugvelli vegna NTA25-verkefnisins. Um er að ræða framkvæmdir við nýtt flughlað á Keflavíkur",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-16T14:01:07.212612+00:00",
+  "id": 10
+ },
+ "5d7bbd49e49d00ea": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "4.68 ma.kr.",
+  "verk": [
+   "Suðurverk",
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-15",
+  "url": "https://byggingar.is/sudurverk-og-fossvelar-laegst-med-4-68-milljarda-tilbod-i-kjalarnesveg/?utm_source=rss&utm_medium=rss&utm_campaign=sudurverk-og-fossvelar-laegst-med-4-68-milljarda-tilbod-i-kjalarnesveg",
+  "title": "Suðurverk og Fossvélar lægst með 4.68 milljarða tilboð í Kjalarnesveg",
+  "sum": "Suðurverk og Fossvélar lægst með 4.68 milljarða tilboð í Kjalarnesveg Suðurverk hf. og Fossvélar ehf. áttu lægsta tilboðið í annan áfanga breikkunar Hringvegar um Kjalarnes, frá Vallá að Hvalfjarðarvegi. Sameiginlegt tilboð fyrirtækjanna hl",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-16T14:01:07.212612+00:00",
+  "id": 11
+ },
+ "270c0bfea9dafec2": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Norðurþing – fréttir",
+  "date": "2026-09-16",
+  "url": "https://www.nordurthing.is/is/frettir/uppbygging-gagnavers-til-skodunar-a-bakka",
+  "title": "Uppbygging gagnavers til skoðunar á Bakka",
+  "sum": "Uppbygging gagnavers til skoðunar á Bakka",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-16T14:01:07.212612+00:00",
+  "id": 7
  }
 }
