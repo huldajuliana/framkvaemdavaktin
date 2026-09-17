@@ -17910,5 +17910,89 @@
   "tsort": "",
   "first_seen": "2026-09-17T14:04:59.265398+00:00",
   "id": 9
+ },
+ "7cd014ef4ead1bce": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-17",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/17/thverpolitisk_samstada_um_hamarsvirkjun/",
+  "title": "Þverpólitísk samstaða um Hamarsvirkjun",
+  "sum": "Þingsályktunartillaga verður lögð fram á núverandi löggjafarþingi um að Hamarsvirkjun á Austurlandi verði færð úr biðflokki í orkunýtingarflokk. Fjórtán þingmenn standa að tillögunni, þar af þrettán úr stjórnarandstöðu og einn úr stjórnarme",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-17T17:31:36.642898+00:00",
+  "id": 1
+ },
+ "3a5cd49c20f1c936": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-17",
+  "url": "https://www.visir.is/g/20262936283d/tengir-storframkvaemdir-vid-framtid-lydraedisins",
+  "title": "Tengir stór­fram­kvæmdir við fram­tíð lýð­ræðisins",
+  "sum": "Stofnun innviðafélagsins Ganga og brúar er líka pólitískt verkefni um að sýna að lýðræðislega kjörnar ríkisstjórnir geti komið stórum hlutum í verk, segir Kristrún Frostadóttir forsætisráðherra. Hún segir stóra erlenda fjárfesta sýna félagi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-17T17:31:36.642898+00:00",
+  "id": 2
+ },
+ "0c515951fbae8254": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-17",
+  "url": "https://www.visir.is/g/20262936197d/sundabraut-verdi-eitt-thad-fyrsta-a-dagskra",
+  "title": "Sunda­braut verði eitt það fyrsta á dag­skrá",
+  "sum": "Samgönguráðherra segir að Sundabraut verði eitt af fyrstu verkefnum nýs innviðafélags sem ber heitið Göng og brú. Hún muni gjörbylta samgöngum og draga úr akstri á höfuðborgarsvæðinu um hundrað og fimmtíu þúsund kílómetra á dag.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-17T17:31:36.642898+00:00",
+  "id": 3
+ },
+ "8258619ae35eac03": {
+  "region": "Norðurland eystra",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-17",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-17-taeknirisinn-microsoft-er-vaentanlegur-kunni-gagnaversins-a-bakka-487339/",
+  "title": "Tæknirisinn Microsoft er væntanlegur kúnni gagnaversins á Bakka",
+  "sum": "Bandaríska stórfyrirtækið Microsoft er fyrirhugaður viðskiptavinur gagnaversins á Bakka við Húsavík sem mögulega mun rísa þar. Þetta herma heimildir fréttastofu. Verkefnið var kynnt á fundi á Húsavík á þriðjudaginn. Fulltrúar Microsoft komu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-17T17:31:36.642898+00:00",
+  "id": 4
  }
 }
