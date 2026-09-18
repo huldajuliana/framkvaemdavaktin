@@ -17994,5 +17994,68 @@
   "tsort": "",
   "first_seen": "2026-09-17T17:31:36.642898+00:00",
   "id": 4
+ },
+ "bab68543eb1fa685": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-18",
+  "url": "https://byggingar.is/gong-og-bru-setur-fimm-stor-samgonguverkefni-formlega-i-farveg/?utm_source=rss&utm_medium=rss&utm_campaign=gong-og-bru-setur-fimm-stor-samgonguverkefni-formlega-i-farveg",
+  "title": "Göng og brú setur fimm stór samgönguverkefni formlega í farveg",
+  "sum": "Göng og brú setur fimm stór samgönguverkefni formlega í farveg nnviðaráðuneytið og hið nýja ríkisfélag Göng og brú hafa undirritað viljayfirlýsingu um uppbyggingu stórra samgöngumannvirkja. Með henni er stigið fyrsta formlega skrefið að því",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-18T13:22:35.446753+00:00",
+  "id": 1
+ },
+ "05d1114ebc85bee5": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Lítil",
+  "scaleFig": "16 íbúðir",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-18",
+  "url": "https://byggingar.is/reykjavik-bydur-ut-byggingarrett-fyrir-allt-ad-16-ibudir-vid-hraunberg-1/?utm_source=rss&utm_medium=rss&utm_campaign=reykjavik-bydur-ut-byggingarrett-fyrir-allt-ad-16-ibudir-vid-hraunberg-1",
+  "title": "Reykjavík býður út byggingarrétt fyrir allt að 16 íbúðir við Hraunberg 1",
+  "sum": "Reykjavík býður út byggingarrétt fyrir allt að 16 íbúðir við Hraunberg 1 Reykjavíkurborg hyggst bjóða til sölu byggingarrétt á íbúðarhúsalóðinni við Hraunberg 1 í Breiðholti þar sem gert er ráð fyrir uppbyggingu á allt að 16 íbúðum ásamt þj",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-18T13:22:35.446753+00:00",
+  "id": 2
+ },
+ "45d31e1dced7dc7d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-17",
+  "url": "https://byggingar.is/opinber-utbod-langt-undir-aaetlunum/?utm_source=rss&utm_medium=rss&utm_campaign=opinber-utbod-langt-undir-aaetlunum",
+  "title": "Opinber útboð langt undir áætlunum",
+  "sum": "Opinber útboð langt undir áætlunum Rétt rúmur helmingur þeirra opinberu útboða sem boðuð voru á árunum 2022–2025 varð að veruleika. Rétt rúmur helmingur þeirra opinberu útboða sem boðuð voru á árunum 2022–2025 varð að veruleika. Þetta kemur",
+  "tender": "",
+  "start": "2022",
+  "end": "2025",
+  "tsort": "2022-01",
+  "first_seen": "2026-09-18T13:22:35.446753+00:00",
+  "id": 3
  }
 }
