@@ -18057,5 +18057,47 @@
   "tsort": "2022-01",
   "first_seen": "2026-09-18T13:22:35.446753+00:00",
   "id": 3
+ },
+ "7656fa32e6eeab5b": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-18",
+  "url": "https://www.visir.is/g/20262936829d/-thetta-er-orugglega-daudastrid-sem-tekur-langan-tima-",
+  "title": "„Þetta er örugg­lega dauða­stríð sem tekur langan tíma“",
+  "sum": "Starfsmaður Vegagerðarinnar á Patreksfirði segir andarnefjuna sem liggi á Skeiðsnesi í Kjálkafirði ekki vera þá fyrstu sinnar tegundar sem reki á land á Vestfjörðum í sumar. Hann telji hvalreka hafa verið tíðari á svæðinu í sumar en áður se",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-19T12:51:40.812393+00:00",
+  "id": 1
+ },
+ "266a935e132cbaee": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-18",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-18-undirritudu-viljayfirlysingu-um-staekkun-verkmenntaskolans-a-akureyri-487465/",
+  "title": "Undirrituðu viljayfirlýsingu um stækkun Verkmenntaskólans á Akureyri",
+  "sum": "Akureyrarbær ætlar að sjá um framkvæmd viðbyggingar við Verkmenntaskólann í bænum en ríkið greiðir áfram sinn hluta, sextíu prósent. Samkomulag þess efnis var undirritað á Akureyri í dag. Árið 2023 lýsti þáverandi mennta- og barnamálaráðher",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-19T12:51:40.812393+00:00",
+  "id": 2
  }
 }
