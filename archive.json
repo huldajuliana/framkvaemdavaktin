@@ -18099,5 +18099,89 @@
   "tsort": "",
   "first_seen": "2026-09-19T12:51:40.812393+00:00",
   "id": 2
+ },
+ "57406d90cf973be9": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-20",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/20/hreinsudu_talsvert_magn_af_oliu_ur_gongunum/",
+  "title": "Hreinsuðu talsvert magn af olíu úr göngunum",
+  "sum": "Loka varð fyrir umferð um undirgöng þar sem Hálsavegur liggur undir Vesturlandsveg í um klukkustund vegna olíuleka sem varð úr fólksbíl í morgun.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-20T13:26:18.740674+00:00",
+  "id": 1
+ },
+ "f2f955e4c4e8ef06": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-20",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/20/samid_um_nidurrif_leikskolans/",
+  "title": "Samið um niðurrif leikskólans",
+  "sum": "Umhverfis- og skipulagssvið Reykjavíkur hefur ákveðið að ganga að tilboði fyrirtækisins H2Orku ehf. um niðurrif á leikskólanum Laugasól við Leirulæk. Tilboðið hljóðaði upp á rúmar 25 milljónir. Var það aðeins 35% af kostnaðaráætlun, sem hlj",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-20T13:26:18.740674+00:00",
+  "id": 2
+ },
+ "98ed22799620c27c": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "1.685 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-19",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/19/hafa_sott_um_ad_threfalda_staerd_stjornarradsins/",
+  "title": "Hafa sótt um að þrefalda stærð Stjórnarráðsins",
+  "sum": "Sótt hefur verið um leyfi til að reisa 1.685 fermetra skrifstofubyggingu við Stjórnarráðshúsið við Lækjargötu.Byggingarleyfisumsóknin var tekin fyrir á afgreiðslufundi byggingarfulltrúa Reykjavíkur í vikunni en afgreiðslu hennar frestað veg",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-20T13:26:18.740674+00:00",
+  "id": 3
+ },
+ "f82f09553e339613": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-19",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-19-tvo-ny-hverfi-og-blasid-til-soknar-487325/",
+  "title": "Tvö ný hverfi og blásið til sóknar",
+  "sum": "Tvö þúsund ný störf, þar af eitt þúsund varanleg, verða til við uppbyggingu í Reykjanesbæ. Bæjarstjóri segir fjölda tækifæra í bænum og tvö ný hverfi í bígerð. Þessi áform voru kynnt á atvinnu- og framkvæmdaþingi Reykjanesbæjar. Bæjarstjóri",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-20T13:26:18.740674+00:00",
+  "id": 4
  }
 }
