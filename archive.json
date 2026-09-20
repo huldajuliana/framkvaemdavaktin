@@ -18183,5 +18183,47 @@
   "tsort": "",
   "first_seen": "2026-09-20T13:26:18.740674+00:00",
   "id": 4
+ },
+ "a54d876a449101a1": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-20",
+  "url": "https://byggingar.is/skrifstofa-logmanna-verdi-hotel/?utm_source=rss&utm_medium=rss&utm_campaign=skrifstofa-logmanna-verdi-hotel",
+  "title": "Skrifstofa lögmanna verði hótel",
+  "sum": "Skrifstofa lögmanna verði hótel Lögmannafélag Íslands áformar að breyta skrifstofubyggingu félagsins í Álftamýri 9 í hótel eða gistiheimili. Skipulagsfulltrúi Reykjavíkur hefur tekið jákvætt í erindið, en þó með skilyrðum. Húsið á lóð nr. 9",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-20T16:42:14.702698+00:00",
+  "id": 1
+ },
+ "1e535aa433570a63": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-20",
+  "url": "https://byggingar.is/cowi-faer-148-5-m-kr-eftirlit-med-nyrri-thjorsarbru/?utm_source=rss&utm_medium=rss&utm_campaign=cowi-faer-148-5-m-kr-eftirlit-med-nyrri-thjorsarbru",
+  "title": "COWI fær 148.5 m.kr. eftirlit með nýrri Þjórsárbrú",
+  "sum": "COWI fær 148.5 m.kr. eftirlit með nýrri Þjórsárbrú Vegagerðin hefur gengið frá samningi við COWI Ísland um eftirlit og ráðgjöf vegna nýbyggingar Búðafossvegar og nýrrar 204 metra brúar yfir Þjórsá. Samningurinn byggir á tilboði Mannvits, nú",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-20T16:42:14.702698+00:00",
+  "id": 2
  }
 }
