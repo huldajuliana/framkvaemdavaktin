@@ -18225,5 +18225,194 @@
   "tsort": "",
   "first_seen": "2026-09-20T16:42:14.702698+00:00",
   "id": 2
+ },
+ "ca4c37e469bdde47": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-21",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/21/boda_storsokn_i_uppbyggingu_hjukrunarryma/",
+  "title": "Boða stórsókn í uppbyggingu hjúkrunarrýma",
+  "sum": "Mikil sókn er í uppbyggingu hjúkrunarrýma á Norðurlandi en búið er að taka tilboði Reita í byggingu hjúkrunarheimilis við Þursaholt á Akureyri. Þá eru framkvæmdir í fullum gangi við nýtt hjúkrunarheimili við Auðbrekku á Húsavík.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-21T15:38:32.001058+00:00",
+  "id": 1
+ },
+ "0676ce664d84be53": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-21",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/21/sprengja_bratt_fyrir_endurnyjudum_midbae_i_kopavogi/",
+  "title": "Sprengja brátt fyrir endurnýjuðum miðbæ í Kópavogi",
+  "sum": "Bílakjallarinn á Fannborgarreitnum hefur verið rifinn að mestu. Eftir að niðurrifi er lokið stendur til að fara í klapparlosun og loks sprengingar á reitnum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-21T15:38:32.001058+00:00",
+  "id": 2
+ },
+ "420fc052d1494a5f": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-09-21",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/09/21/staersta_fjarfestingin_til_thessa/",
+  "title": "Stærsta fjárfestingin til þessa",
+  "sum": "Bera hf., móðurfélag Ölgerðarinnar og fleiri fyrirtækja, hefur auglýst útboð vegna hönnunar og byggingar nýs vöruhúss á Hólmsheiði í Reykjavík. Um er að ræða lokað alútboð þar sem helstu verkþættir eru fullnaðarhönnun húss og lóðar, jarðvin",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-21T15:38:32.001058+00:00",
+  "id": 3
+ },
+ "d5b2f1c89e9b24c4": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Stór",
+  "scaleFig": "260 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-21",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-21-nytt-timabundid-hverfi-ris-i-hafnarfirdi-487624/",
+  "title": "Nýtt tímabundið hverfi rís í Hafnarfirði",
+  "sum": "Hafnarfjarðarbær og Stólpi hafa náð samningum um uppbyggingu á nýju tímabundnu hverfi sem rísa á við Krýsuvíkurveg og Hvaleyrarveg í Hafnarfirði. Byggja á 130 hús með 260 íbúðum sem verða 35 fermetrar. Fyrirtækið Stólpi sér um uppsetningu o",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-21T15:38:32.001058+00:00",
+  "id": 4
+ },
+ "d04f4568d194e0d1": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Stór",
+  "scaleFig": "7,2 ma.kr.",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-20",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-20-enn-eitt-arid-sem-folk-er-sent-upp-a-fjallveg-med-20-kilometra-hamarkshrada-a-koflum-487580/",
+  "title": "Enn eitt árið sem fólk er sent upp á fjallveg með 20 kílómetra hámarkshraða á köflum",
+  "sum": "Umfangsmiklar framkvæmdir hafa staðið yfir í Gufudalssveit síðan 2019. Aðeins ein brú er eftir til að ljúka verkinu sem hefur verið bæði seinlegt og kostnaðarsamt. Framkvæmdir á Vestfjarðavegi nr. 60 hafa tekið lengri tíma og kostað meira e",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-21T15:38:32.001058+00:00",
+  "id": 8
+ },
+ "2bc1e4029a790ec1": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "2.8 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-21",
+  "url": "https://byggingar.is/2-8-milljarda-uppbygging-hja-reykjagardi-a-hellu/?utm_source=rss&utm_medium=rss&utm_campaign=2-8-milljarda-uppbygging-hja-reykjagardi-a-hellu",
+  "title": "2.8 milljarða uppbygging hjá Reykjagarði á Hellu",
+  "sum": "2.8 milljarða uppbygging hjá Reykjagarði á Hellu Framkvæmdir standa nú yfir við um 4.000 fermetra nýbyggingu Reykjagarðs á Hellu. Um er að ræða umfangsmikla fjárfestingu sem áætlað er að geti numið allt að 2,8 milljörðum króna og mun uppbyg",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-21T15:38:32.001058+00:00",
+  "id": 5
+ },
+ "db8807042f786ff6": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-21",
+  "url": "https://byggingar.is/mikil-uppbygging-i-vikingathorpinu/?utm_source=rss&utm_medium=rss&utm_campaign=mikil-uppbygging-i-vikingathorpinu",
+  "title": "Mikil uppbygging í víkingaþorpinu",
+  "sum": "Mikil uppbygging í víkingaþorpinu Mikið stendur til hjá Jóhannesi Viðari Bjarnasyni og hans fólki á Fjörukránni og Hótel Víking í Hafnarfirði. Um næstu mánaðamót verður þeim tímamótum fagnað að Hótel Víking hefur verið tvöfaldað að stærð og",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-21T15:38:32.001058+00:00",
+  "id": 6
+ },
+ "e47c258ac1416bf5": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-21",
+  "url": "https://byggingar.is/idan-kennir-verktokum/?utm_source=rss&utm_medium=rss&utm_campaign=idan-kennir-verktokum",
+  "title": "IÐAN kennir verktökum magntöku, einingaverð og tilboðsgerð",
+  "sum": "IÐAN kennir verktökum magntöku, einingaverð og tilboðsgerð IÐAN fræðslusetur heldur í byrjun október námskeið í tilboðsgerð verktaka þar sem farið verður yfir meðal annars lög og reglur um útboð, magntöku, einingaverð og útfyllingu tilboðss",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-21T15:38:32.001058+00:00",
+  "id": 7
+ },
+ "85df3aa250205f9f": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-20",
+  "url": "https://byggingar.is/ollum-tilbodum-i-lod-bildudalsskola-hafnad/?utm_source=rss&utm_medium=rss&utm_campaign=ollum-tilbodum-i-lod-bildudalsskola-hafnad",
+  "title": "Öllum tilboðum í lóð Bíldudalsskóla hafnað – lægstbjóðandi dró sig síðan út",
+  "sum": "Öllum tilboðum í lóð Bíldudalsskóla hafnað – lægstbjóðandi dró sig síðan út Framkvæmdir við nýja skólalóð Bíldudalsskóla hafa tafist verulega eftir að öll þrjú tilboð sem bárust í verkið reyndust talsvert yfir kostnaðaráætlun Vesturbyggðar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-21T15:38:32.001058+00:00",
+  "id": 9
  }
 }
