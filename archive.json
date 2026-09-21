@@ -18414,5 +18414,26 @@
   "tsort": "",
   "first_seen": "2026-09-21T15:38:32.001058+00:00",
   "id": 9
+ },
+ "c99bfcdd0bdfec28": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-21",
+  "url": "https://www.visir.is/g/20262937842d/litlu-naer-um-peningana-i-fljotagong",
+  "title": "Litlu nær um peningana í Fljótagöng",
+  "sum": "Enn vantar skýr svör um framlag ríkisins til Fljótaganga að mati Stefáns Vagns Stefánssonar þingmanns. Hann spurði um fjárveitingu til ganganna en innviðaráðherra vísaði til heimildar til að leggja fé eða eignir í innviðafélagið, án þess að",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-21T18:30:26.918254+00:00",
+  "id": 1
  }
 }
