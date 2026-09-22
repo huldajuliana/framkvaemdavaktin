@@ -32,6 +32,15 @@ sources:
     type: rss
     url: "https://byggingar.is/feed/"
 
+  # ---- Héraðsmiðlar ------------------------------------------------------
+  # Staðbundnar framkvæmdafréttir sem rata sjaldan á landsmiðla (t.d. ný
+  # dreifingarmiðstöð Eimskips á Selfossi). Dagskráin er WordPress-síða með
+  # /feed/ RSS-straumi. ATH: gátaðu fyrstu keyrslu í Actions — ef straumurinn
+  # skilar engu birtist heimildin með "!" og þá þarf að yfirfara slóðina.
+  - name: "Dagskráin – Suðurland"
+    type: rss
+    url: "https://www.dfs.is/feed/"
+
   # ---- Opinberar stofnanir ----------------------------------------------
   - name: "Stjórnarráðið – fréttir"
     type: rss
