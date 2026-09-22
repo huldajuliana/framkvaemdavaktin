@@ -18435,5 +18435,152 @@
   "tsort": "",
   "first_seen": "2026-09-21T18:30:26.918254+00:00",
   "id": 1
+ },
+ "7fe81e0ad95b29a9": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-22",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/22/verulega_haegir_a_uppbyggingu/",
+  "title": "Verulega hægir á uppbyggingu",
+  "sum": "Íbúðum í byggingu á landinu hefur fækkað um 11% á síðasta hálfa ári og á sama tíma hefur nýjum óseldum íbúðum fjölgað. Þetta sýna nýjar tölur Húsnæðis- og mannvirkjastofnunar, en ný spá stofnunarinnar gerir nú ráð fyrir samtals um 1.000 fær",
+  "tender": "",
+  "start": "2027",
+  "end": "2028",
+  "tsort": "2027-01",
+  "first_seen": "2026-09-22T13:52:59.816033+00:00",
+  "id": 1
+ },
+ "05872682485f04a6": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-22",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/22/beint_stada_ibudauppbyggingar_a_islandi/",
+  "title": "Beint: Staða íbúðauppbyggingar á Íslandi",
+  "sum": "Staða og horfur á byggingarmarkaði og íbúðauppbygging í Reykjavík verður til umfjöllunar á opnum fundi á vegum Húsnæðis-, mannvirkja- og skipulagsstofnunar í dag. Beint streymi verður á mbl.is.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-22T13:52:59.816033+00:00",
+  "id": 2
+ },
+ "fa346538ec3e4b99": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Stór",
+  "scaleFig": "260 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-22",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/22/ibudir_fyrir_timabundna_vinnu/",
+  "title": "Íbúðir fyrir tímabundna vinnu",
+  "sum": "Reisa á 130 húseiningar með 260 íbúðum á um 10 hektara svæði við Krýsuvíkurveg og Hvaleyrarveg í Hafnarfirði.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-22T13:52:59.816033+00:00",
+  "id": 3
+ },
+ "59d3f5c187cf91e3": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-22",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/22/gagnryna_laekkun_fjarveitinga_til_vegagerdarinnar/",
+  "title": "Gagnrýna lækkun fjárveitinga til Vegagerðarinnar",
+  "sum": "Þingmenn stjórnarandstöðunnar í umhverfis- og samgöngunefnd gagnrýna að verja eigi minni fjármunum til Vegagerðarinnar á næsta ári skv. fjárlagafrumvarpi ríkisstjórnarinnar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-22T13:52:59.816033+00:00",
+  "id": 4
+ },
+ "de119ed24127010c": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-09-22",
+  "url": "https://www.visir.is/g/20262938185d/horfur-a-husnaedismarkadi-versna",
+  "title": "Horfur á hús­næðis­markaði versna",
+  "sum": "Íbúðum í byggingu hefur fækkað á sama tíma og nýjum óseldum íbúðum hefur fjölgað. Nýjar framkvæmdir á milli íbúðatalninga HMS hafa aldrei verið færri og ekki hafa færri íbúðir verið á fyrri framvindustigum. Horfur um íbúðauppbyggingu árin 2",
+  "tender": "",
+  "start": "2027",
+  "end": "2028",
+  "tsort": "2027-01",
+  "first_seen": "2026-09-22T13:52:59.816033+00:00",
+  "id": 5
+ },
+ "5e0566d85deb0566": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-09-22",
+  "url": "https://www.visir.is/g/20262938173d/bein-utsending-kynna-nidurstodur-septembertalningar-hms",
+  "title": "Bein út­sending: Kynna niður­stöður septem­bertalningar HMS",
+  "sum": "Fulltrúar HMS fóru yfir niðurstöður síðustu talningar á íbúðum í byggingu á opnum fundi, sem hófst klukkan 12. Fundinn mátti sjá í beinni útsendingu hér að neðan.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-22T13:52:59.816033+00:00",
+  "id": 6
+ },
+ "8ee82bba262e7c1c": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Risa",
+  "scaleFig": "6216 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-22",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-22-ibudum-i-byggingu-faekkar-og-horfur-um-framhaldid-versna-487712/",
+  "title": "Íbúðum í byggingu fækkar og horfur um framhaldið versna",
+  "sum": "Mjög hefur dregið úr uppbyggingu nýs húsnæðis síðustu mánuði. Íbúðum í byggingu hefur fækkað um 11 prósent á landinu öllu á hálfu ári. Mestur er samdrátturinn þegar litið er til framkvæmda sem hafa hafist síðustu mánuði, nýframkvæmdum hefur",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-22T13:52:59.816033+00:00",
+  "id": 7
  }
 }
