@@ -18624,5 +18624,26 @@
   "tsort": "",
   "first_seen": "2026-09-22T16:24:55.983673+00:00",
   "id": 2
+ },
+ "c850f21ea7e052fd": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-22",
+  "url": "https://www.visir.is/g/20262938326d/aukinn-launakostnadur-gaeti-kallad-a-enn-frekara-adhald-sedlabankans",
+  "title": "Aukinn launa­kostnaður gæti kallað á enn frekara að­hald Seðla­bankans",
+  "sum": "Þrátt fyrir vaxandi merki um kólnun í hagkerfinu, meðal annars á fasteignamarkaði, er útlit fyrir þráláta verðbólgu á komandi mánuðum og er þróunin á vinnumarkaði sögð geta ráðið miklu um hvort peningastefnunefnd Seðlabankans sjái ástæðu ti",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-22T17:32:38.662501+00:00",
+  "id": 1
  }
 }
