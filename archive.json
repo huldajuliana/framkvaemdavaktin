@@ -18582,5 +18582,47 @@
   "tsort": "",
   "first_seen": "2026-09-22T13:52:59.816033+00:00",
   "id": 7
+ },
+ "8fdb66cf276f9d3c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-22",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/22/afnema_reglur_um_hamarksfjolda_bilastaeda/",
+  "title": "Afnema reglur um hámarksfjölda bílastæða",
+  "sum": "Borgaryfirvöld munu afnema reglur um bindandi hámarksfjölda bílastæða við nýbyggingar og endurnýjun byggðar og breyta viðmiðunargildum þar um.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-22T16:24:55.983673+00:00",
+  "id": 1
+ },
+ "69ad28199c557eb8": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-22",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/22/radleggur_folki_ad_selja_fyrst_adur_en_thad_kaupir/",
+  "title": "Ráðleggur fólki að selja fyrst áður en það kaupir",
+  "sum": "&bdquo;Það er líf á fasteignamarkaðnum og kannski hægt að tala um markað í fullkomnu jafnvægi milli kaupenda og seljenda, ef frá er skilinn markaður með nýbyggingar,&ldquo; segir Páll Pálsson fasteignasali, en hann er gestur Óskars Bergsson",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-22T16:24:55.983673+00:00",
+  "id": 2
  }
 }
