@@ -18666,5 +18666,131 @@
   "tsort": "",
   "first_seen": "2026-09-23T08:44:47.786435+00:00",
   "id": 1
+ },
+ "86d84a3d3a840bb3": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-23",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/23/beint_adgengishindranir_fatladra_a_husnaedismarkadi/",
+  "title": "Beint: Aðgengishindranir fatlaðra á húsnæðismarkaði",
+  "sum": "Fatlað fólk úr ólíkum áttum deilir reynslu sinni af rýru húsnæðisframboði, ósveigjanlegu kerfi, aðgengishindrunum og skorti á stuðningi til viðeigandi aðlögunar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-23T14:03:41.338831+00:00",
+  "id": 1
+ },
+ "cfa4656abff6e7a8": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-23",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/23/afleidingarnar_blasa_nu_vid/",
+  "title": "„Afleiðingarnar blasa nú við“",
+  "sum": "Íbúðum í byggingu hér á landi hefur fækkað um ellefu prósent frá því í mars og horfur eru á að færri íbúðir verði fullbúnar á næstu tveimur árum en áður var gert ráð fyrir.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-23T14:03:41.338831+00:00",
+  "id": 2
+ },
+ "33c69128916a5bed": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Risa",
+  "scaleFig": "770 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-23",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-23-kaldur-byggingamarkadur-kolnar-enn-meira-487822/",
+  "title": "Kaldur byggingamarkaður kólnar enn meira",
+  "sum": "Frá því í mars hefur íbúðum í byggingu fækkað um 11% og hátt í 1.900 nýjar íbúðir eru tilbúnar en óseldar – 85% fleiri en þær voru fyrir ári síðan. Þetta kemur fram í nýrri greiningu Húsnæðis-, mannvirkja- og skipulagsstofnunar , HMS, sem k",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-23T14:03:41.338831+00:00",
+  "id": 3
+ },
+ "d9c19004543ce291": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-23",
+  "url": "https://byggingar.is/all-verk-semur-um-thrju-verkefni-a-isafirdi-fyrir-rumar-447-milljonir/?utm_source=rss&utm_medium=rss&utm_campaign=all-verk-semur-um-thrju-verkefni-a-isafirdi-fyrir-rumar-447-milljonir",
+  "title": "ALL Verk semur um þrjú verkefni á Ísafirði fyrir rúmar 447 milljónir",
+  "sum": "ALL Verk semur um þrjú verkefni á Ísafirði fyrir rúmar 447 milljónir ALL Verk ehf. hefur gengið frá samningum um þrjú ný framkvæmdaverkefni á Ísafirði. Um er að ræða byggingu nýs móttökuhúss við Hrafnatanga, endurbætur á rannsóknardeild Hei",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-23T14:03:41.338831+00:00",
+  "id": 4
+ },
+ "0d76699498c3fc51": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-23",
+  "url": "https://byggingar.is/bildudalsskoli-151-milljon-yfir-aaetlun/?utm_source=rss&utm_medium=rss&utm_campaign=bildudalsskoli-151-milljon-yfir-aaetlun",
+  "title": "Bíldudalsskóli 151 milljón yfir áætlun – kostnaðarmat og eftirfylgni brugðust",
+  "sum": "Bíldudalsskóli 151 milljón yfir áætlun – kostnaðarmat og eftirfylgni brugðust Áætlaður lokakostnaður við nýbyggingu Bíldudalsskóla er 151 milljón króna hærri en upphaflega var gert ráð fyrir. Greining Vesturbyggðar sýnir að hönnunar-, ráðgj",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-23T14:03:41.338831+00:00",
+  "id": 5
+ },
+ "3284f02b0619ef4e": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Risa",
+  "scaleFig": "772 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-23",
+  "url": "https://byggingar.is/nyjar-ibudaframkvaemdir-aldrei-faerri/?utm_source=rss&utm_medium=rss&utm_campaign=nyjar-ibudaframkvaemdir-aldrei-faerri",
+  "title": "Nýjar íbúðaframkvæmdir aldrei færri – fækka um 56% á hálfu ári",
+  "sum": "Nýjar íbúðaframkvæmdir aldrei færri – fækka um 56% á hálfu ári Verulega hefur hægt á nýrri íbúðauppbyggingu á Íslandi. Framkvæmdir hófust við aðeins 772 íbúðir frá síðustu talningu Húsnæðis- og mannvirkjastofnunar í mars og hafa nýjar framk",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-23T14:03:41.338831+00:00",
+  "id": 6
  }
 }
