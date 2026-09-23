@@ -18645,5 +18645,26 @@
   "tsort": "",
   "first_seen": "2026-09-22T17:32:38.662501+00:00",
   "id": 1
+ },
+ "c9c8ee27e1346202": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-22",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/22/sjalfkeyrandi_vagnar_framtidin_a_borgarlinu/",
+  "title": "Sjálfkeyrandi vagnar framtíðin á borgarlínu",
+  "sum": "Sjálfkeyrandi tækni getur komið í stað hefðbundinna almenningsvagna í borgarlínukerfið þegar fram í sækir.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-23T08:44:47.786435+00:00",
+  "id": 1
  }
 }
