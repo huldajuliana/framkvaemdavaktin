@@ -18855,5 +18855,152 @@
   "tsort": "",
   "first_seen": "2026-09-23T17:44:42.267701+00:00",
   "id": 3
+ },
+ "04ace8e4457006e5": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-24",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/24/breidholtsbraut_lokud_a_nokkrum_stodum_i_kvold/",
+  "title": "Breiðholtsbraut lokuð á nokkrum stöðum í kvöld",
+  "sum": "Í kvöld frá klukkan 19 til miðnættis verður Breiðholtsbraut lokuð á nokkrum stöðum, eða við nýju gatnamótin, vinstri beygju inn á Breiðholtsbraut við Vatnsendahvarf og við Þingtorg/Selásbraut.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-24T12:55:23.825272+00:00",
+  "id": 1
+ },
+ "cd2d919299db9fdb": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-24",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/09/24/bankar_og_verktakar_horfist_i_augu_vid_vandann/",
+  "title": "Bankar og verktakar horfist í augu við vandann",
+  "sum": "„Líklega mun arðbærnin sem menn vonuðust eftir úr mörgum þessara verkefna – hún verður ekki sú sem menn vonuðust eftir. Því fyrr sem menn horfast í augu við það því auðveldara verður að losa um þetta.“",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-24T12:55:23.825272+00:00",
+  "id": 2
+ },
+ "84950b6136c9a19c": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "2,5 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Vísir – allt",
+  "date": "2026-09-24",
+  "url": "https://www.visir.is/g/20262939037d/borgarverk-med-laegsta-bod-i-thjorsarbru-og-budafossveg",
+  "title": "Borgarverk með lægsta boð í Þjórs­ár­brú og Búðafossveg",
+  "sum": "Borgarverk ehf. í Borgarnesi átti lægsta boð í smíði nýrrar Þjórsárbrúar á móts við þorpið Árnes og lagningu Búðafossvegar. Tilboð Borgarverks hljóðar upp á liðlega 2,5 milljarða króna og var 87% af kostnaðaráætlun, sem var upp á rétt rúma ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-24T12:55:23.825272+00:00",
+  "id": 3
+ },
+ "8abf0df7cc661961": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-23",
+  "url": "https://www.visir.is/g/20262938781d/setja-upp-fjorutiu-smahysi-i-thjorsardal",
+  "title": "Setja upp fjöru­tíu smá­hýsi í Þjórs­ár­dal",
+  "sum": "Bláa lónið og Byko hafa undirritað kaupsamning um kaup á 21 smáhýsi frá Byko til að setja upp í Þjórsárdal. Húsin eru liður í umfangsmikilli uppbyggingu Bláa lónsins í Þjórsárdal en fyrirhugað er að húsin verði 40 þegar framkvæmdum lýkur.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-24T12:55:23.825272+00:00",
+  "id": 5
+ },
+ "5bb64bfe96f296d0": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-24",
+  "url": "https://byggingar.is/husnaedismarkadurinn-eins-og-villta-vestrid/?utm_source=rss&utm_medium=rss&utm_campaign=husnaedismarkadurinn-eins-og-villta-vestrid",
+  "title": "Húsnæðismarkaðurinn eins og villta vestrið",
+  "sum": "Húsnæðismarkaðurinn eins og villta vestrið Óaðgengilegt húsnæði, lágar tekjur og mikill kostnaður vegna fötlunar eru meðal hindrana sem geta komið í veg fyrir að fatlaður einstaklingur geti fest kaup á húsnæði á frjálsum markaði. Þá geta la",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-24T12:55:23.825272+00:00",
+  "id": 4
+ },
+ "53607bea53cd36eb": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "2.53 ma.kr.",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-23",
+  "url": "https://byggingar.is/borgarverk-laegst-i-budafossveg-og-nyja-thjorsarbru-bydur-2-53-milljarda/?utm_source=rss&utm_medium=rss&utm_campaign=borgarverk-laegst-i-budafossveg-og-nyja-thjorsarbru-bydur-2-53-milljarda",
+  "title": "Borgarverk lægst í Búðafossveg og nýja Þjórsárbrú – býður 2.53 milljarða",
+  "sum": "Borgarverk lægst í Búðafossveg og nýja Þjórsárbrú – býður 2.53 milljarða Borgarverk ehf. átti lægsta tilboðið þegar Vegagerðin opnaði 23. september tilboð í nýbyggingu Búðafossvegar milli Þjórsárdalsvegar og Landvegar, ásamt smíði nýrrar 20",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-24T12:55:23.825272+00:00",
+  "id": 6
+ },
+ "4183e221df1712a6": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-23",
+  "url": "https://byggingar.is/grafa-og-grjot-ehf-faer-hlemms-og-borgarlinuverkid-fyrir-760-milljonir/?utm_source=rss&utm_medium=rss&utm_campaign=grafa-og-grjot-ehf-faer-hlemms-og-borgarlinuverkid-fyrir-760-milljonir",
+  "title": "Grafa og grjót ehf. fær Hlemms- og Borgarlínuverkið fyrir 760 milljónir",
+  "sum": "Grafa og grjót ehf. fær Hlemms- og Borgarlínuverkið fyrir 760 milljónir Umhverfis- og skipulagssvið Reykjavíkurborgar hefur ákveðið að ganga til samninga við Gröfu og grjót – INVIT ehf. um umfangsmiklar framkvæmdir við Hlemmtorg norður og B",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-24T12:55:23.825272+00:00",
+  "id": 7
  }
 }
