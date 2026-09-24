@@ -41,6 +41,29 @@ sources:
     type: rss
     url: "https://www.dfs.is/feed/"
 
+  # Fleiri héraðsmiðlar (allir WordPress -> /feed/ líklegast rétt). Yfirfarðu
+  # fyrstu keyrslu í Actions: straumur sem skilar engu birtist með "!" og þá þarf
+  # að prófa aðra slóð (t.d. án "www", eða html-fallback eins og HMS/Vegagerðin).
+  - name: "Víkurfréttir – Suðurnes"
+    type: rss
+    url: "https://www.vf.is/feed"
+
+  - name: "Skessuhorn – Vesturland"
+    type: rss
+    url: "https://skessuhorn.is/feed/"
+
+  - name: "Austurfrétt – Austurland"
+    type: rss
+    url: "https://austurfrett.is/feed/"
+
+  - name: "Feykir – Norðurland vestra"
+    type: rss
+    url: "https://www.feykir.is/is/rss/allt"
+
+  - name: "Bæjarins besta – Vestfirðir"
+    type: rss
+    url: "https://www.bb.is/feed/"
+
   # ---- Opinberar stofnanir ----------------------------------------------
   - name: "Stjórnarráðið – fréttir"
     type: rss
