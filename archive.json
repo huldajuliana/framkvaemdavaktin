@@ -19002,5 +19002,68 @@
   "tsort": "",
   "first_seen": "2026-09-24T12:55:23.825272+00:00",
   "id": 7
+ },
+ "facf47fca66ac36e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-24",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/24/bilastaedahusid_ad_verda_tilbuid/",
+  "title": "Bílastæðahúsið að verða tilbúið",
+  "sum": "Framkvæmdir við hið nýja bílastæða- og tæknihús Nýs Landspítala (NSLH) við Hringbraut eru á lokastigi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-24T17:46:21.930525+00:00",
+  "id": 1
+ },
+ "fb1b24b74db941fc": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-24",
+  "url": "https://www.visir.is/g/20262939281d/tuttugu-ar-fra-brottfor-varnarlidsins-ur-afalli-i-uppbyggingu",
+  "title": "Tuttugu ár frá brott­för varnar­liðsins – úr á­falli í upp­byggingu",
+  "sum": "Tuttugu árum síðar er Ásbrú ekki lengur fyrst og fremst „gamla varnarsvæðið“. Þar eru nú nær 70 fyrirtæki, þúsundir manna eiga þar heimili og á svæðinu hefur byggst upp fjölbreytt samfélag menntunar, atvinnulífs, hátækni, íþrótta og menning",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-24T17:46:21.930525+00:00",
+  "id": 2
+ },
+ "52afdb6e434757ee": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-24",
+  "url": "https://byggingar.is/adstada-akraneshafnar-storbaett/?utm_source=rss&utm_medium=rss&utm_campaign=adstada-akraneshafnar-storbaett",
+  "title": "Aðstaða Akraneshafnar stórbætt",
+  "sum": "Aðstaða Akraneshafnar stórbætt Framkvæmdum Faxaflóahafna við Aðalhafnargarð á Akranesi er lokið. Með lengingu og endurbótum á hafnarbakkanum hefur aðstaða Akraneshafnar verið stórbætt og höfnin er nú betur í stakk búin til að þjónusta fiski",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-24T17:46:21.930525+00:00",
+  "id": 3
  }
 }
