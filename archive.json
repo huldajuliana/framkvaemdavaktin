@@ -19065,5 +19065,26 @@
   "tsort": "",
   "first_seen": "2026-09-24T17:46:21.930525+00:00",
   "id": 3
+ },
+ "098c98411bf17860": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Risa",
+  "scaleFig": "1000 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-09-25",
+  "url": "https://bb.is/2026/09/leiguibudir-25-milljarda-krona-rikisstyrkur-til-leiguibuda-a-hofudborgarsvaedinu/",
+  "title": "Leiguíbúðir: 25 milljarða króna ríkisstyrkur til leiguíbúða á höfuðborgarsvæðinu",
+  "sum": "Frá 2016 hefur ríkissjóður greitt 25 milljarðar króna í stofnframlög til uppbyggingar á leiguíbúðum á höfuðborgarsvæðinu. Alls hefur verið veittur styrkur til byggingar á 3.152 leiguíbúðum á þessu tímabili. Utan höfuðborgarsvæðisins hefur r",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-25T14:24:38.534784+00:00",
+  "id": 1
  }
 }
