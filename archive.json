@@ -19086,5 +19086,68 @@
   "tsort": "",
   "first_seen": "2026-09-25T14:24:38.534784+00:00",
   "id": 1
+ },
+ "206c6627e542b4b4": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-27",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/27/uppbygging_i_arnarholti_bidur/",
+  "title": "Uppbygging í Arnarholti bíður",
+  "sum": "Félagið Arnarholt fasteignir ehf. hefur kynnt fyrir skipulagsyfirvöldum í Reykjavík metnaðarfulla uppbyggingu íbúðahverfis á landi Arnarholts á Kjalarnesi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-27T14:32:58.845263+00:00",
+  "id": 1
+ },
+ "0257451b62350d17": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "30 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-27",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-27-atnorth-greidir-fyrir-uppbyggingu-tjaldsvaedis-a-akureyri-488081/",
+  "title": "AtNorth greiðir fyrir uppbyggingu tjaldsvæðis á Akureyri",
+  "sum": "Deilur hafa staðið um stækkun lóðar AtNorth til vesturs, við rætur Hlíðarfjalls á Akureyri. Margar athugasemdir bárust um deiliskipulagsbreytinguna og er unnið að því að svara þeim. „Við erum bara að vanda okkur og það standa enn þá út af n",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-27T14:32:58.845263+00:00",
+  "id": 2
+ },
+ "fd6a9edf7a684129": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Akureyri.net – fréttir",
+  "date": "2026-09-27",
+  "url": "https://www.akureyri.net/is/frettir/haetta-vid-nidurrif-ad-hvannavollum-10",
+  "title": "Hætta við niðurrif að Hvannavöllum 10",
+  "sum": "Hætta við niðurrif að Hvannavöllum 10",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-27T14:32:58.845263+00:00",
+  "id": 3
  }
 }
