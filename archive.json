@@ -19149,5 +19149,89 @@
   "tsort": "",
   "first_seen": "2026-09-27T14:32:58.845263+00:00",
   "id": 3
+ },
+ "358e2cc291459edb": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-09-28",
+  "url": "https://www.mbl.is/frettir/innlent/2026/09/28/segja_raduneytid_tulka_fjarmagnskostnad_upp_a_nytt/",
+  "title": "Segja ráðuneytið túlka fjármagnskostnað upp á nýtt",
+  "sum": "Orkuveita Reykjavíkur óttast að túlkun innanríkisráðuneytisins geti staðið í vegi fyrir því að sveitarfélög taki höndum saman um dýrar framkvæmdir við fráveitur.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-28T17:19:49.090978+00:00",
+  "id": 1
+ },
+ "eb466d40391525c2": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-09-28",
+  "url": "https://www.visir.is/g/20262940880d/ny-gongubru-vigd",
+  "title": "Ný göngu­brú vígð",
+  "sum": "Ný göngu- og hjólabrú var formlega opnuð í Elliðaárdal í morgun. Brúin kemur í stað veitustokks sem var nýttur sem göngubrú. Krakkar úr Árbæjarskóla tóku þátt í athöfninni.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-28T17:19:49.090978+00:00",
+  "id": 2
+ },
+ "53f59a8d7c055559": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Risa",
+  "scaleFig": "600 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-28",
+  "url": "https://byggingar.is/600-ibuda-byggd-a-ad-risa-vid-kollunarklettsveg/?utm_source=rss&utm_medium=rss&utm_campaign=600-ibuda-byggd-a-ad-risa-vid-kollunarklettsveg",
+  "title": "600 íbúða byggð á að rísa við Köllunarklettsveg",
+  "sum": "600 íbúða byggð á að rísa við Köllunarklettsveg Við Köllunarklettsveg, þar sem nú er iðnaðar- og athafnasvæði, stendur til að reisa nýja byggð. Gert er ráð fyrir um 600 íbúðum, auk hjúkrunarheimilis, leikskóla, veitingastaða, hótels, verslu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-28T17:19:49.090978+00:00",
+  "id": 3
+ },
+ "82983ef9c3ff6f9b": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-09-28",
+  "url": "https://bb.is/2026/09/ov-strengir-i-jordu-ad-latrabjargi/",
+  "title": "OV: strengir í jörðu að Látrabjargi",
+  "sum": "Skipulags- og umhverfisráð Vesturbyggðar hefur samþykkt fyrir sitt leyti umsókn Orkubús Vestfjarða um framkvæmdaleyfi vegna lagningar 24 kV háspennustrengs og ljósleiðara frá Breiðavík að Brunnahæð og Urðarhjalla á Látrabjargi. Ráðið leggur",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-28T17:19:49.090978+00:00",
+  "id": 4
  }
 }
