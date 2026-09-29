@@ -19233,5 +19233,174 @@
   "tsort": "",
   "first_seen": "2026-09-28T17:19:49.090978+00:00",
   "id": 4
+ },
+ "53ce803e6101e67b": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "ÍAV"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-09-29",
+  "url": "https://www.visir.is/g/20262941269d/thjodarhollin-a-ad-risa-i-januar-2030",
+  "title": "Þjóðarhöllin á að rísa í janúar 2030",
+  "sum": "Borgarráð Reykjavíkur samþykkti á fundi þess í morgun verksamning milli Þjóðarhallar ehf. og ÍAV hf. um hönnun og byggingu nýrrar Þjóðarhallar fyrir innanhússíþróttir sem á að rísa í Laugardal. Áætluð verlok eru 2030 en Ísland á að vera með",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-29T15:20:41.179978+00:00",
+  "id": 1
+ },
+ "197eb66d5e5d06b8": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Stór",
+  "scaleFig": "260 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-29",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-29-telur-morgu-osvarad-um-hverfi-fyrir-erlent-starfsfolk-488349/",
+  "title": "Telur mörgu ósvarað um hverfi fyrir erlent starfsfólk",
+  "sum": "Hafnarfjarðarbær hefur hafið samstarf við Stólpa um uppbyggingu á nýju tímabundnu hverfi fyrir erlent starfsfólk sem kemur hingað til lands í skemmri tíma, við Krýsuvíkurveg og Hvaleyrarvatnsveg, rétt við Vellina. Gert er ráð fyrir allt að ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-29T15:20:41.179978+00:00",
+  "id": 2
+ },
+ "985db4ad367b664a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "16,8 ma.kr.",
+  "verk": [
+   "ÍAV",
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-29",
+  "url": "https://www.ruv.is/frettir/ithrottir/2026-09-29-thjodarhollin-a-ad-vera-klar-i-januar-2030-488338/",
+  "title": "Þjóðarhöllin á að vera klár í janúar 2030",
+  "sum": "Borgarráð samþykkti á fundi sínum í morgun fyrirliggjandi verksamning milli Þjóðarhallar ehf. og ÍAV hf. um hönnun og byggingu Þjóðarhallar í Laugardal. Umsamið verð fyrir verkið eru rúmir 16,8 milljarðar króna að meðtöldum virðisaukaskatti",
+  "tender": "",
+  "start": "",
+  "end": "25. janúar 2030",
+  "tsort": "2030-01",
+  "first_seen": "2026-09-29T15:20:41.179978+00:00",
+  "id": 3
+ },
+ "a0d6979fa20d4528": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-29",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-29-hoffellsarbru-lokud-vegna-vidgerda-488289/",
+  "title": "Hoffellsárbrú lokuð vegna viðgerða",
+  "sum": "Brúin yfir Hoffellsá.RÚV / Brynja Dögg Friðriksdóttir Hoffellsárbrú í Hornafirði verður lokuð frá klukkan 7:00 þriðjudaginn 29. september til klukkan 16:00 fimmtudaginn 1. október vegna viðhaldsaðgerða á brúnni sem er einbreið. Hoffellsárbr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-29T15:20:41.179978+00:00",
+  "id": 4
+ },
+ "7f794c26fef141c5": {
+  "region": "Norðurland vestra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-29",
+  "url": "https://byggingar.is/varaaflsrafstod-fyrir-hsn-a-blonduosi/?utm_source=rss&utm_medium=rss&utm_campaign=varaaflsrafstod-fyrir-hsn-a-blonduosi",
+  "title": "29.10.2026 Varaaflsrafstöð fyrir HSN á Blönduósi",
+  "sum": "Varaaflsrafstöð fyrir HSN á Blönduósi Consensa, fyrir hönd Heilbrigðisstofnunar Norðurlands (HSN), óskar eftir tilboðum í varaaflsrafstöð fyrir HSN á Blönduósi samkvæmt skilmálum útboðslýsingar þessarar. Um er að ræða kaup á fullbúinni dísi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-29T15:20:41.179978+00:00",
+  "id": 5
+ },
+ "f9814fb31ae889c8": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-29",
+  "url": "https://byggingar.is/tindhagur-ehf-hefur-naesta-afanga-holabrekkuskola-fyrir-834-milljonir/?utm_source=rss&utm_medium=rss&utm_campaign=tindhagur-ehf-hefur-naesta-afanga-holabrekkuskola-fyrir-834-milljonir",
+  "title": "Tindhagur ehf. hefur næsta áfanga Hólabrekkuskóla fyrir 834 milljónir",
+  "sum": "Tindhagur ehf. hefur næsta áfanga Hólabrekkuskóla fyrir 834 milljónir Framkvæmdum við hús 4 í Hólabrekkuskóla er lokið og kennsla hafin í húsinu. Á sama tíma eru framkvæmdir hafnar við hús 3 þar sem Tindhagur ehf. er einnig verktaki. Reykja",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-29T15:20:41.179978+00:00",
+  "id": 6
+ },
+ "eb029c94d5f2cfe0": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-29",
+  "url": "https://byggingar.is/framkvaemdir-vid-medferdarkjarna-a-godri-leid/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-vid-medferdarkjarna-a-godri-leid",
+  "title": "Framkvæmdir við meðferðarkjarna á góðri leið",
+  "sum": "Framkvæmdir við meðferðarkjarna á góðri leið Nú á haustmánuðum hefur starfsemin á verkstað meðferðarkjarnans aukist verulega og fjölgar starfsmönnum jafnt og þétt eftir því sem innanhússfrágangi á neðri hæðum vindur fram. Nú er unnið á öllu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-29T15:20:41.179978+00:00",
+  "id": 7
+ },
+ "c9952a7c67555c37": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-09-29",
+  "url": "https://bb.is/2026/09/skograekt-a-bildudal-vilja-afram-gildandi-deiliskipulag/",
+  "title": "Skógrækt á Bíldudal: vilja áfram gildandi deiliskipulag",
+  "sum": "Skipulags- og umhverfisráð Vesturbyggðar leggst gegn umsókn um breytingu á vegtengingu Skógræktarsvæðisins í Seljadal innan við Bíldudal. Fyrirhuguð vegtenging hefur verið til umfjöllunar og m.a. fengin umsögn Vegagerðarinnar og forsvarsmen",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-29T15:20:41.179978+00:00",
+  "id": 8
  }
 }
