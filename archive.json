@@ -19467,5 +19467,111 @@
   "tsort": "",
   "first_seen": "2026-09-29T18:29:03.731521+00:00",
   "id": 3
+ },
+ "4d3b1c85f08f1907": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-09-30",
+  "url": "https://www.visir.is/g/20262941758d/markadurinn-vanmetid-gjaldeyrisinnflaedid-af-uppbyggingu-gagnavera",
+  "title": "Markaðurinn van­metið gjald­eyris­inn­flæðið af upp­byggingu gagna­vera",
+  "sum": "Peningastefnan er að hjálpa við að draga úr vexti einkaneyslu og fjárfestingu, sem veldur minni innflutningi á sama tíma viðskiptakjör útflutningsgreina eru góð, en það hefur ýtt undir mikla gengisstyrkingu á krónunni og þá er líklegt að ma",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-30T15:36:04.821077+00:00",
+  "id": 1
+ },
+ "93271ef5b0c6880a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Lítil",
+  "scaleFig": "16 íbúðir",
+  "verk": [
+   "ÍAV",
+   "Jáverk"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-09-30",
+  "url": "https://www.ruv.is/frettir/innlent/2026-09-30-gert-miklu-meiri-mistok-i-skipulagsmalum-en-adur-488427/",
+  "title": "„Gert miklu meiri mistök í skipulagsmálum en áður“",
+  "sum": "Eins og fjallað var um í Speglinum í liðinni viku standa um 1.900 nýjar og tilbúnar íbúðir tómar – 85% fleiri en fyrir ári. Margar hafa verið til sölu í heilt ár. Atvinnuleysi í bygginga- og mannvirkjagerð fer vaxandi og dæmi eru um að öflu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-30T15:36:04.821077+00:00",
+  "id": 2
+ },
+ "ff26b0c64f211b15": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-30",
+  "url": "https://byggingar.is/nyr-landspitali-bydur-ut-uppsetningu-11-kv-haspennubunadar-og-strengja/?utm_source=rss&utm_medium=rss&utm_campaign=nyr-landspitali-bydur-ut-uppsetningu-11-kv-haspennubunadar-og-strengja",
+  "title": "04.11.2026 Nýr Landspítali býður út uppsetningu 11 kV háspennubúnaðar og strengja",
+  "sum": "Nýr Landspítali býður út uppsetningu 11 kV háspennubúnaðar og strengja Nýr Landspítali ohf. hefur auglýst almennt útboð vegna uppsetningar og tenginga á 11 kV háspennubúnaði fyrir uppbyggingu nýs Landspítala við Hringbraut. Verkið felur með",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-30T15:36:04.821077+00:00",
+  "id": 3
+ },
+ "2df003742a7c4604": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-09-30",
+  "url": "https://byggingar.is/framkvaemdir-hefjast-i-gamla-landsbankahusinu-a-akranesi/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-hefjast-i-gamla-landsbankahusinu-a-akranesi",
+  "title": "Framkvæmdir hefjast í gamla Landsbankahúsinu á Akranesi",
+  "sum": "Framkvæmdir hefjast í gamla Landsbankahúsinu á Akranesi Það verður mikið um að vera í gamla Landsbankahúsin við Akratorg um næstu helgi en þá hefjast fyrstu framkvæmdir hjá nýjum eigendum þessa sögufræga mannvirkis við Suðurgötu 57. Hraun 9",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-30T15:36:04.821077+00:00",
+  "id": 4
+ },
+ "82536e9e3ff7a604": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "36 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-09-30",
+  "url": "https://bb.is/2026/09/uppbygging-a-ingjaldssandi/",
+  "title": "Uppbygging á Ingjaldssandi",
+  "sum": "Í sumar hafa staðið yfir endurbætur á húsakosti á Brekku á Ingjaldssandi og hefur m.a. verið skipt um glugga, auk þess sem byggingar hafa verið einangraðar og klæddar. Einnig var húsakosturinn aukinn með tveimur 36 fermetra gestahúsum sem k",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-09-30T15:36:04.821077+00:00",
+  "id": 5
  }
 }
