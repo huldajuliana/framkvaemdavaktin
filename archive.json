@@ -19573,5 +19573,361 @@
   "tsort": "",
   "first_seen": "2026-09-30T15:36:04.821077+00:00",
   "id": 5
+ },
+ "9c9ee5ee4ae7e223": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-01",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/01/fundadi_med_kristrunu_fyrir_kurteisissakir/",
+  "title": "Fundaði með Kristrúnu fyrir kurteisissakir",
+  "sum": "Hörður Arnarson, fráfarandi forstjóri Landsvirkjunar, fundaði með Kristrúnu Frostadóttur forsætisráðherra fyrir kurteisissakir á skrifstofu Stjórnarráðsins við Hverfisgötu fyrr í dag áður en hann tilkynnti opinberlega um að hann myndi hætta",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 1
+ },
+ "b377c862a315cf9e": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-01",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/01/sautjan_ara_stjornartid_a_enda/",
+  "title": "Sautján ára stjórnartíð á enda",
+  "sum": "Hörður Arnarson, forstjóri Landsvirkjunar, hefur tilkynnt að hann muni láta af starfi forstjóra fyrirtækisins eftir 17 ár í forstjórastólnum. Hann tók við eftir mikið uppbyggingartímabil þar sem skuldir Landsvirkjunar voru talsverðar en tím",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 2
+ },
+ "dc243574f309189d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-01",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/10/01/hordur_haettur_sem_forstjori_landsvirkjunar/",
+  "title": "Hörður hættur sem forstjóri Landsvirkjunar",
+  "sum": "Hörður Arnarson er hættur sem forstjóri Landsvirkjunar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 3
+ },
+ "7c8e990f75b4bc37": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-01",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/01/hordur_a_fundi_i_stjornarradinu/",
+  "title": "Hörður á fundi í Stjórnarráðinu",
+  "sum": "Hörður Arnarson, forstjóri Landsvirkjunar, er á fundi í skrifstofu Stjórnarráðsins við Hverfisgötu samkvæmt heimildum mbl.is",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 4
+ },
+ "27148c74ee2b9eed": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-01",
+  "url": "https://www.mbl.is/200milur/frettir/2026/10/01/vetrarsiglingar_tryggdar/",
+  "title": "Vetrarsiglingar tryggðar",
+  "sum": "Vegagerðin hefur framlengt samning við Björgvin ehf. um siglingar með farþega, frakt og póst milli Mjóafjarðar og Neskaupsstaðar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 5
+ },
+ "0066526b99133f92": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-01",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/01/sorphirda_i_breidholti_fer_i_utbod/",
+  "title": "Sorphirða í Breiðholti fer í útboð",
+  "sum": "Tillaga um útboð á sorphirðu við heimili í Breiðholti var samþykkt á fundi borgarstjórnar sl. þriðjudag, en það voru meirihlutaflokkarnir þrír, Sjálfstæðisflokkur, Framsóknarflokkur og Viðreisn, sem lögðu fram tillögu þar um.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 6
+ },
+ "1ece86c97e1a18ef": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-01",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/01/bodar_ovaent_til_starfsmannafundar_hja_landsvirkjun/",
+  "title": "Boðar óvænt til starfsmannafundar hjá Landsvirkjun",
+  "sum": "Hörður Arnarson, forstjóri Landsvirkjunar, hefur boðað til starfsmannafundar hjá Landsvirkjun.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 7
+ },
+ "2f6652546d6bd539": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-01",
+  "url": "https://www.visir.is/g/20262942541d/hordur-haettir-sem-forstjori-landsvirkjunar",
+  "title": "Hörður hættir sem for­stjóri Lands­virkjunar",
+  "sum": "Hörður Arnarson hefur ákveðið að láta af störfum sem forstjóri Landsvirkjunar. Kristín Linda Árnadóttir, aðstoðarforstjóri Landsvirkjunar, mun taka tímabundið við starfi forstjóra frá 1. nóvember, þar til nýr forstjóri verður ráðinn.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 8
+ },
+ "a1579171b84af2d7": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "Vísir – allt",
+  "date": "2026-10-01",
+  "url": "https://www.visir.is/g/20262942419d/-eg-vaeri-ad-ljuga-ef-eg-segdi-ad-thad-vaeri-tilviljun-",
+  "title": "„Ég væri að ljúga ef ég segði að það væri til­viljun“",
+  "sum": "Oddviti Samfylkingarinnar í Kópavogi segir að útboð vegna byggingar stúku við Kórinn, sem nú hefur verið dæmt ólöglegt, beri öll merki þess að Kópavogsbær hafi flýtt sér of mikið við gerð þess. Engin tilviljun sé að fyrsta skóflustunga hafi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 9
+ },
+ "1171ec85aca2544d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-01",
+  "url": "https://www.visir.is/g/20262942434d/bodadi-til-starfsmannafundar-og-maetti-i-stjornarradid",
+  "title": "Boðaði til starfsmannafundar og mætti í stjórnar­ráðið",
+  "sum": "Hörður Arnarson forstjóri Landsvirkjunar hefur óvænt boðað til starfsmannafundar eftir hádegið í dag. Samkvæmt heimildum Vísis hefur Hörður velt stöðu sinni sem forstjóri fyrir sér undanfarið og mun það vera tilefni fundarins. Vísir hefur e",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 10
+ },
+ "13523b85bf63317a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-01-hordur-laetur-af-storfum-sem-forstjori-landsvirkjunar-488556/",
+  "title": "Hörður lætur af störfum sem forstjóri Landsvirkjunar",
+  "sum": "Hörður Arnarson hefur ákveðið að láta af störfum sem forstjóri Landsvirkjunar. Hann tók við stjórn fyrirtækisins síðla árs 2009. Landsvirkjun greinir frá þessu í tilkynningu. Þar segir að á þeim 17 árum sem Hörður hefur gegnt starfinu hafi ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 11
+ },
+ "33ea676e0e1f05f6": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-01-taeplega-helmingur-med-ithyngjandi-leigu-thratt-fyrir-batnandi-stodu-488549/",
+  "title": "Tæplega helmingur með íþyngjandi leigu þrátt fyrir batnandi stöðu",
+  "sum": "Horfurnar hjá leigjendum virðast fara batnandi, samkvæmt nýrri leigumarkaðskönnun Húsnæðis-, mannvirkja- og skipulagsstofnunar. Þar kemur fram að leigjendur telja fleiri íbúðir í boði á sama tíma og verðþrýstingur hefur minnkað. Þeir gera r",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 12
+ },
+ "4f3abbaa6c88e897": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-01-hordur-bodar-starfsmannafund-hja-landsvirkjun-488540/",
+  "title": "Hörður boðar starfsmannafund hjá Landsvirkjun",
+  "sum": "Boðað hefur verið til starfsmannafundar hjá Landsvirkjun eftir hádegi. Vísir greindi fyrst frá fundinum og sagði að Hörður Arnarson forstjóri hefði boðað til hans. Fréttastofa hefur hvorki náð tali af Herði né upplýsingafulltrúum fyrirtækis",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00"
+ },
+ "fca45de8b6dd7550": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Risa",
+  "scaleFig": "630 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-01-rumlega-200-nyjar-ibudir-i-hafnarfirdi-stadid-tomar-i-meira-en-ar-488528/",
+  "title": "Rúmlega 200 nýjar íbúðir í Hafnarfirði staðið tómar í meira en ár",
+  "sum": "Samkvæmt upplýsingum frá HMS eru alls tæplega 460 nýjar íbúðir til sölu í Hafnarfirði, töluvert fleiri en í Kópavogi, 190, og Garðabæ, 286, en þó ekki eins margar og í Reykjavík - þar sem um 630 íbúðir eru á söluskrá. Orri Björnsson, formað",
+  "tender": "",
+  "start": "2024",
+  "end": "2025",
+  "tsort": "2024-01",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 13
+ },
+ "37811d634166fb8c": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "ÞG verk"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-01",
+  "url": "https://byggingar.is/val-kopavogsbaejar-a-thg-verk-i-framkvaemd-vid-korinn-fellt-ur-gildi/?utm_source=rss&utm_medium=rss&utm_campaign=val-kopavogsbaejar-a-thg-verk-i-framkvaemd-vid-korinn-fellt-ur-gildi",
+  "title": "Val Kópavogsbæjar á ÞG verk í framkvæmd við Kórinn fellt úr gildi",
+  "sum": "Val Kópavogsbæjar á ÞG verk í framkvæmd við Kórinn fellt úr gildi Kærunefnd útboðsmála hefur fellt úr gildi ákvörðun Kópavogsbæjar um að velja tilboð ÞG verktaka ehf. í hönnun og byggingu nýs knattspyrnuleikvangs við Kórinn. Málið var tekið",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 14
+ },
+ "aefd6946d5369953": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-01",
+  "url": "https://byggingar.is/stafraenir-tviburar-geta-breytt-rekstri-og-vidhaldi-mannvirkja/?utm_source=rss&utm_medium=rss&utm_campaign=stafraenir-tviburar-geta-breytt-rekstri-og-vidhaldi-mannvirkja",
+  "title": "Stafrænir tvíburar geta breytt rekstri og viðhaldi mannvirkja",
+  "sum": "Stafrænir tvíburar geta breytt rekstri og viðhaldi mannvirkja Stafrænir tvíburar geta orðið sífellt mikilvægara verkfæri við rekstur, viðhald og ákvarðanatöku um mannvirki, að mati EFLU. Með stafrænum tvíbura er raunverulegt mannvirki eða i",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 15
+ },
+ "3a33acd270ade5b2": {
+  "region": "Norðurland vestra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-10-01",
+  "url": "https://bb.is/2026/10/verkefnisstjorar-i-brothaettum-byggdum-fundudu-a-saudarkroki/",
+  "title": "Verkefnisstjórar í Brothættum byggðum funduðu á Sauðárkróki",
+  "sum": "Þrír nýir verkefnisstjórar í Brothættum byggðum komu á námskeið í Byggðastofnun í vikunni þar sem farið var yfir framkvæmd og verklag í byggðaþróunarverkefninu. Öll starfa þau hjá Vestfjarðastofu og sinna hvert sínu þátttökubyggðarlaginu þ.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-01T15:59:05.172066+00:00",
+  "id": 16
  }
 }
