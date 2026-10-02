@@ -20349,5 +20349,68 @@
   "tsort": "",
   "first_seen": "2026-10-02T15:21:21.312321+00:00",
   "id": 12
+ },
+ "f2c7d330ebd6f739": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-02",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/02/brynja_med_odrum_haetti_en_hordur_hafdi_vanist/",
+  "title": "Brynja: Með öðrum hætti en Hörður hafði vanist",
+  "sum": "Brynja Baldursdóttir, stjórnarformaður Landsvirkjunar, segir að ágreiningurinn sem leiddi til starfsloka Harðar Arnarsonar, fráfarandi forstjóra Landsvirkjunar, hafi snúist um „vinnubrögð“. Stjórn og forstjóri hafi hins vegar verið samhuga ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-02T18:14:16.198793+00:00",
+  "id": 1
+ },
+ "c3dd3f6057d98332": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-02",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-02-wolt-hafnar-thvi-ad-sendlar-starfi-i-gerviverktoku-488673/",
+  "title": "Wolt hafnar því að sendlar starfi í gerviverktöku",
+  "sum": "Heimsendingarfyrirtækið Wolt segir fullyrðingar um að sendlar fyrirtækisins starfi í svokallaðri gerviverktöku rangar. Gerviverktaka eigi við þegar einstaklingur sinni starfi líkt og hann væri launþegi en sé skráður sem verktaki, og njóti þ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-02T18:14:16.198793+00:00",
+  "id": 2
+ },
+ "ef5c85ee2777b781": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-02",
+  "url": "https://byggingar.is/mosfellsbaer-bydur-ut-nyja-grjotgildru-vid-holtastod/?utm_source=rss&utm_medium=rss&utm_campaign=mosfellsbaer-bydur-ut-nyja-grjotgildru-vid-holtastod",
+  "title": "19.10.2026 Mosfellsbær býður út nýja grjótgildru við Holtastöð",
+  "sum": "Mosfellsbær býður út nýja grjótgildru við Holtastöð Mosfellsbær hefur auglýst útboð vegna nýrrar grjótgildru við skólpdælustöðina Holtastöð. Verkið felur meðal annars í sér jarðvinnu, steypuvinnu og færslu háspennustrengs og skal framkvæmdu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-02T18:14:16.198793+00:00",
+  "id": 3
  }
 }
