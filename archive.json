@@ -20538,5 +20538,47 @@
   "tsort": "2027-01",
   "first_seen": "2026-10-03T14:07:48.941471+00:00",
   "id": 5
+ },
+ "ddb4654a17abf1c9": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-03",
+  "url": "https://www.visir.is/g/20262943412d/thusundir-manna-motmaela-i-50-borgum",
+  "title": "Þúsundir manna mót­mæla í 50 borgum",
+  "sum": "Mörg þúsund manns fylla götur og torg á Spáni í dag til að mótmæla ástandinu á húsnæðismarkaðnum þar í landi. Skipulögðu mótmælin fara fram í meira en 50 borgum en þar á meðal er Madrid, Valencia og Barcelona.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-03T17:01:01.115864+00:00",
+  "id": 1
+ },
+ "4173626b6aa91471": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-03",
+  "url": "https://www.visir.is/g/20262943414d/-...-ekki-alltaf-sammala-um-allt-",
+  "title": "„... ekki alltaf sam­mála um allt“ ?",
+  "sum": "Ljóst er að Hörður Arnarson forstjóri Landsvirkjunar til 17 ára stígur til hliðar á örlagastundu, þegar endurskoðun á mikilvægasta raforkusamningi fyrirtækisins – við Alcoa Fjarðaál – stendur fyrir dyrum. Enginn skyldi þó ætla Herði að vera",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-03T17:01:01.115864+00:00",
+  "id": 2
  }
 }
