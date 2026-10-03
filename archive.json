@@ -20412,5 +20412,131 @@
   "tsort": "",
   "first_seen": "2026-10-02T18:14:16.198793+00:00",
   "id": 3
+ },
+ "54fa6cf72f4849d6": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-03",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/03/undirbua_hlemm_fyrir_borgarlinuna/",
+  "title": "Undirbúa Hlemm fyrir borgarlínuna",
+  "sum": "Undirbúningur fyrir borgarlínuna er í fullum gangi og framkvæmdir hafnar á nokkrum stöðum á höfuðborgarsvæðinu.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-03T14:07:48.941471+00:00",
+  "id": 1
+ },
+ "ce213b4babe1d9ba": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-03",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/03/engin_ein_astaeda_starfsloka/",
+  "title": "Engin ein ástæða starfsloka",
+  "sum": "Ágreiningur um stjórnarhætti og nálgun við ákvarðanatöku varð til þess að Hörður Arnarson ákvað að láta af störfum sem forstjóri Landsvirkjunar. Kristrún Frostadóttir forsætisráðherra segir Hörð hafa greint sér frá ákvörðuninni á fundi þeir",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-03T14:07:48.941471+00:00",
+  "id": 2
+ },
+ "d1f013ff713d75d2": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-02",
+  "url": "https://www.visir.is/g/20262943247d/ibuar-gattadir-eftir-ofrukkanir-fra-vegagerdinni",
+  "title": "Í­búar gáttaðir eftir ofrukkanir frá Vega­gerðinni",
+  "sum": "Íbúar í Hornafirði og nærsveitum ráku upp stór augu þegar villa hjá Vegagerðarinni olli því að ökumenn voru ofrukkaðir fyrir veggjöld yfir nýjan veg yfir Hornafjarðarlón.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-03T14:07:48.941471+00:00",
+  "id": 6
+ },
+ "f81a5064a2e9e07d": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-03",
+  "url": "https://www.ruv.is/frettir/erlent/2026-10-03-motmaelt-i-meira-en-50-borgum-og-baejum-488728/",
+  "title": "Mótmælt í meira en 50 borgum og bæjum",
+  "sum": "Skipulögð mótmæli fara fram í meira en 50 borgum og bæjum á Spáni í dag. Mótmælin snúa að húsnæðismálum, ekki síst leigumarkaðnum. Mótmælin hófust eftir að Maricarmen, 87 ára gömul kona, var borin út úr húsnæði sem hún hafði leigt áratugum ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-03T14:07:48.941471+00:00",
+  "id": 3
+ },
+ "a3906da6f5b45130": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-03",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-03-vikulokin-kjaramalin-landsvirkjun-gervigreind-og-fridur-488723/",
+  "title": "Vikulokin – Kjaramálin, Landsvirkjun, gervigreind og friður",
+  "sum": "Kjaramál og atvinnuleysi, Landsvirkjun og samtal forseta Íslands og ungs fólks eru til umræðu í Vikulokunum í dag. Þátturinn er í þremur hlutum. Ingvar Þór Björnsson er umsjónarmaður Vikulokanna sem má horfa á í spilaranum hér að ofan. Þátt",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-03T14:07:48.941471+00:00",
+  "id": 4
+ },
+ "f7cfc511eda2674f": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-03",
+  "url": "https://byggingar.is/gardabaer-bydur-ut-thjonustu-og-vidhald-allrar-gatnalysingar/?utm_source=rss&utm_medium=rss&utm_campaign=gardabaer-bydur-ut-thjonustu-og-vidhald-allrar-gatnalysingar",
+  "title": "03.11.2026 Garðabær býður út þjónustu og viðhald allrar gatnalýsingar 2027–2030",
+  "sum": "Garðabær býður út þjónustu og viðhald allrar gatnalýsingar 2027–2030 Garðabær hefur auglýst útboð á þjónustu og viðhaldi allrar gatnalýsingar í sveitarfélaginu. Verkið nær til gatnalýsingarkerfisins bæði á veitusvæði HS Veitna og Veitna og ",
+  "tender": "",
+  "start": "2027",
+  "end": "2030",
+  "tsort": "2027-01",
+  "first_seen": "2026-10-03T14:07:48.941471+00:00",
+  "id": 5
  }
 }
