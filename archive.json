@@ -20706,5 +20706,47 @@
   "tsort": "",
   "first_seen": "2026-10-04T14:36:42.921099+00:00",
   "id": 6
+ },
+ "59073d4ea9d8c8ec": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-04",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/04/nyr_sjovarnargardur/",
+  "title": "Nýr sjóvarnargarður",
+  "sum": "Lokið er framkvæmdum við nýjan sjóvarnargarð á Grundartanga. Yfir 200 þúsund rúmmetrar af kjarna og grjóti fóru í framkvæmdina. Garðurinn er hluti af nýrri flæðigryfju og styður við áframhaldandi þjónustu við iðnfyrirtækin á svæðinu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-04T17:19:30.943913+00:00",
+  "id": 1
+ },
+ "7ace33f7e776962c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-04",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/04/vegagerdin_metur_tilbod_i_vestfjardaveg/",
+  "title": "Vegagerðin metur tilboð í Vestfjarðaveg",
+  "sum": "Aðeins bárust tvö tilboð í nýbyggingu hluta Vestfjarðavegar og voru þau langt yfir áætluðum verktakakostnaði. Verið er að yfirfara tilboðin hjá Vegagerðinni og skoða næstu skref, segir G. Pétur Matthíasson upplýsingafulltrúi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-04T17:19:30.943913+00:00",
+  "id": 2
  }
 }
