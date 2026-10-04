@@ -20580,5 +20580,131 @@
   "tsort": "",
   "first_seen": "2026-10-03T17:01:01.115864+00:00",
   "id": 2
+ },
+ "99c72004cc4e2838": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-04",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/10/04/hlutdeildarlanin_vekja_ahuga/",
+  "title": "Hlutdeildarlánin vekja áhuga",
+  "sum": "Páll Edwald, yfirlögfræðingur hjá Reir Verki, segir marga sýna því áhuga að kaupa nýjar íbúðir í Stefnisvogi með hlutdeildarlánum. Íbúðirnar hafi verið boðnar til sölu í síðustu viku og sé meirihluti þeirra þegar seldur",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-04T14:36:42.921099+00:00",
+  "id": 1
+ },
+ "dcfac92e8d5457eb": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-03",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/03/uppbyggingaraform_endurmetin/",
+  "title": "Uppbyggingaráform endurmetin",
+  "sum": "Bryndís Björnsdóttir, framkvæmdastjóri Laugaráss Lagoon, segir fyrirhugaða hækkun VSK á baðlón, úr 11% í 24%, „óhjákvæmilega hafa áhrif á það hvernig fyrirtækið metur næstu skref og frekari fjárfestingar“.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-04T14:36:42.921099+00:00",
+  "id": 4
+ },
+ "aa146d879bdbd491": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-10-04",
+  "url": "https://www.visir.is/g/20262943698d/arnarnesvegur-opnar-loks-a-morgun",
+  "title": "Arnarnesvegur opnar loks á morgun",
+  "sum": "Opnað verður fyrir umferð um nýja Arnarnesveginn á morgun klukkan 14.00. Svæðið sé þó enn vinnusvæði enda standi yfir framkvæmdir við nýtt hringtorg við mót Arnarnesvegar og Rjúpnavegar og við nærliggjandi göngu- og hjólastíga.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-04T14:36:42.921099+00:00",
+  "id": 2
+ },
+ "9b78053cfa6263df": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-04",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-04-aldrei-jafn-margar-konur-og-born-leitad-til-kvennaathvarfsins-viku-fra-opnun-nys-husnaedis-488727/",
+  "title": "Aldrei jafn margar konur og börn leitað til Kvennaathvarfsins viku frá opnun nýs húsnæðis",
+  "sum": "Nýtt og stærra kvennaathvarf er þétt setið aðeins viku frá opnun. Framkvæmdastýra athvarfsins segir nýja kynslóð farna að leita skjóls í athvarfinu. Nýja Kvennaathvarfið var formlega opnað 3. september en var ekki tekið í notkun fyrr en í s",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-04T14:36:42.921099+00:00",
+  "id": 3
+ },
+ "cf827a43e9fdae8d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "30 ma.kr.",
+  "verk": [
+   "Eykt"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-03",
+  "url": "https://byggingar.is/30-milljarda-velta/?utm_source=rss&utm_medium=rss&utm_campaign=30-milljarda-velta",
+  "title": "30 milljarða velta",
+  "sum": "30 milljarða velta Móðurfélag Eyktar, Íþöku, Steypustöðvarinnar og fleiri félaga hefur hagnast um 11 milljarða á fjórum árum. Árið áður nam hagnaðurinn 2.238 milljónum en samanlagður hagnaður áranna 2022-2025 nemur tæplega 11 milljörðum kró",
+  "tender": "",
+  "start": "2022",
+  "end": "2025",
+  "tsort": "2022-01",
+  "first_seen": "2026-10-04T14:36:42.921099+00:00",
+  "id": 5
+ },
+ "610c2fc79ae56a84": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-03",
+  "url": "https://byggingar.is/jon-og-margeir-fa-330-milljona-gatnagerd-vid-vikursand-i-olfusi/?utm_source=rss&utm_medium=rss&utm_campaign=jon-og-margeir-fa-330-milljona-gatnagerd-vid-vikursand-i-olfusi",
+  "title": "Jón og Margeir fá 330 milljóna gatnagerð við Víkursand í Ölfusi",
+  "sum": "Jón og Margeir fá 330 milljóna gatnagerð við Víkursand í Ölfusi Jón og Margeir ehf. hafa undirritað verksamning við Sveitarfélagið Ölfus vegna gatnagerðar og lagna við Víkursand vestan Þorlákshafnar. Tilboð fyrirtækisins í útboðinu nam 329,",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-04T14:36:42.921099+00:00",
+  "id": 6
  }
 }
