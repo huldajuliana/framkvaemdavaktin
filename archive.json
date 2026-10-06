@@ -21024,5 +21024,152 @@
   "tsort": "",
   "first_seen": "2026-10-05T17:50:50.792272+00:00",
   "id": 13
+ },
+ "377a43df0f48811f": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-06",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/06/umferd_hleypt_a_nyjan_veg/",
+  "title": "Umferð hleypt á nýjan veg",
+  "sum": "Umferð var hleypt á nýjan Arnarnesveg, milli Rjúpnavegar og Breiðholtsbrautar, í gær og markar það mikilvægan áfanga í framkvæmdum vegna nýs Arnarnesvegar, sem gert er ráð fyrir að ljúki í kringum mánaðamótin nóvember-desember.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-06T15:40:42.914933+00:00",
+  "id": 1
+ },
+ "1ac7bb8934b3666e": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-06",
+  "url": "https://www.visir.is/g/20262944636d/verdi-ad-gera-fyrirvara-vid-rannsokn-um-karlmennsku",
+  "title": "Verði að gera fyrir­vara við rann­sókn um karl­mennsku",
+  "sum": "Doktor í félagstölfræði segir að gera verði fyrirvara við rannsókn alþjóðlegrar hugveitu á vegum Norrænu ráðherranefndarinnar um hugmyndir íslenskra karlmanna um karlmennsku. Hann setur stór spurningamerki við framkvæmd könnunarinnar, um sé",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-06T15:40:42.914933+00:00",
+  "id": 2
+ },
+ "d9b79f7493c6deee": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-06",
+  "url": "https://www.visir.is/g/20262944566d/leit-ad-eftirmanni-hardar-hefdi-hafist-i-haust-eda-vetur",
+  "title": "Leit að eftir­manni Harðar hefði hafist í haust eða vetur",
+  "sum": "Leit að eftirmanni Harðar Arnarsonar í starfi forstjóra Landsvirkjunar hefði hafist í haust eða vetur, að sögn Brynju Baldursdóttur stjórnarformanns. Hún segir næsta forstjóra þurfa að vera öflugan leiðtoga með reynslu af stjórnun og stórum",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-06T15:40:42.914933+00:00",
+  "id": 3
+ },
+ "f6f0ef5f6f78115f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-06",
+  "url": "https://www.visir.is/g/20262943954d/kona-fagnar-tolf-arum-i-nyjum-og-glaesilegum-firdi",
+  "title": "Kona fagnar tólf árum í nýjum og glæsi­legum Firði",
+  "sum": "Tískuverslunin Kona tekur á móti viðskiptavinum í stærra og glæsilegra húsnæði í nýbyggingu Fjarðar. Laufey, eigandi verslunarinnar, leggur áherslu á vandaðan fatnað, persónulega þjónustu og að konur hafi svigrúm til að skoða, máta og finna",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-06T15:40:42.914933+00:00",
+  "id": 4
+ },
+ "4131b8ecce2a4e99": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-06",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-06-telur-ad-val-a-naesta-forstjora-landsvirkjunar-gaeti-komid-a-ovart-489005/",
+  "title": "Telur að val á næsta forstjóra Landsvirkjunar gæti komið á óvart",
+  "sum": "Hörður Arnarson lét af störfum sem forstjóri Landsvirkjunar í síðustu viku vegna ágreinings um stjórnarhætti. Hann tók við stjórn fyrirtækisins síðla árs 2009. Aðstoðarforstjórinn tekur tímabundið við þar til nýr forstjóri hefur verið ráðin",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-06T15:40:42.914933+00:00",
+  "id": 5
+ },
+ "e5436dcd761d3263": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-05",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-05-vegagerdin-varar-vid-hrimi-a-vegum-eda-launhalku-i-nott-488894/",
+  "title": "Vegagerðin varar við hrími á vegum eða launhálku í nótt",
+  "sum": "Vegagerðin varar við hrími á vegum og launhálku við vissar aðstæður.Birgir Þór Harðarson Vegagerðin varar við að sums staðar geti orðið vart hríms eða launhálku á vegum í nótt, einkum þar sem vegir liggja í dældum í landslagi nærri sjó, vat",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-06T15:40:42.914933+00:00",
+  "id": 7
+ },
+ "a3976aafe5042544": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-06",
+  "url": "https://byggingar.is/vogar-bjoda-ut-faeranlegar-huseiningar-fyrir-thrjar-leikskoladeildir-vid-sudurvelli/?utm_source=rss&utm_medium=rss&utm_campaign=vogar-bjoda-ut-faeranlegar-huseiningar-fyrir-thrjar-leikskoladeildir-vid-sudurvelli",
+  "title": "05.11.2026 Vogar bjóða út færanlegar húseiningar fyrir þrjár leikskóladeildir við Suðurvelli",
+  "sum": "Vogar bjóða út færanlegar húseiningar fyrir þrjár leikskóladeildir við Suðurvelli Sveitarfélagið Vogar hefur auglýst útboð á kaupum og uppsetningu færanlegra húseininga við Heilsuleikskólann Suðurvelli. Húseiningarnar eiga að hýsa þrjár lei",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-06T15:40:42.914933+00:00",
+  "id": 6
  }
 }
