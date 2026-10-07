@@ -130,6 +130,10 @@ def is_relevant(item: dict) -> bool:
     # að BYGGJA orlofsíbúðir hefur annað samhengi (bygging/útboð/framkvæmdir) og
     # heldur sér því inni.
     t_kw = re.sub(r"orlofsíbúð\w*", " ", t_kw)
+    # "hugveita" (think tank) inniheldur "veitu" sem er byggingar-samhengi (hita-/
+    # vatnsveitur). Hlutleysum svo hún kveiki ekki ranglega (t.d. "framkvæmd
+    # könnunar á vegum hugveitu").
+    t_kw = re.sub(r"hugveit\w*", " ", t_kw)
     # "framkvæmd stefnu/laga/áætlunar/skólastefnu" = INNLEIÐING stefnu/laga, ekki
     # bygging — látum slíkt ekki kveikja á "framkvæmd". (Heldur "Framkvæmdir hefjast
     # við ..." óbreyttu, því þar fylgir ekki stefnu-/laga-orð.)
@@ -294,6 +298,9 @@ _HARD_NEGATIVES = [
     "uppsögn", "uppsagnir", "sagt upp", "hagræðingaraðgerð",
     # samfélagsmiðla-/áhrifavaldaefni — aldrei framkvæmdafrétt.
     "instagram",
+    # smásölu-/opnunarfrétt verslunar sem FLYTUR í nýtt húsnæði — kviknar á
+    # "nýbygging" (úr "húsnæði í nýbyggingu") en snýst um verslunina, ekki bygginguna.
+    "tískuverslun",
     # Samhjálp: deila/úrskurður um byggingarleyfi kaffistofu (félags-/dómsmál, ekki
     # byggingarverkefni). Athugið: útilokar líka hugsanlega framtíðar-byggingu
     # Samhjálpar — meðvituð precision-ákvörðun.
