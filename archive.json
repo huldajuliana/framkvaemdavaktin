@@ -21046,27 +21046,6 @@
   "first_seen": "2026-10-06T15:40:42.914933+00:00",
   "id": 1
  },
- "1ac7bb8934b3666e": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-10-06",
-  "url": "https://www.visir.is/g/20262944636d/verdi-ad-gera-fyrirvara-vid-rannsokn-um-karlmennsku",
-  "title": "Verði að gera fyrir­vara við rann­sókn um karl­mennsku",
-  "sum": "Doktor í félagstölfræði segir að gera verði fyrirvara við rannsókn alþjóðlegrar hugveitu á vegum Norrænu ráðherranefndarinnar um hugmyndir íslenskra karlmanna um karlmennsku. Hann setur stór spurningamerki við framkvæmd könnunarinnar, um sé",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-10-06T15:40:42.914933+00:00",
-  "id": 2
- },
  "d9b79f7493c6deee": {
   "region": "Landið allt",
   "type": "Innviðir",
@@ -21087,27 +21066,6 @@
   "tsort": "",
   "first_seen": "2026-10-06T15:40:42.914933+00:00",
   "id": 3
- },
- "f6f0ef5f6f78115f": {
-  "region": "Landið allt",
-  "type": "Innviðir",
-  "scale": "Miðlungs",
-  "scaleFig": "—",
-  "verk": [
-   "Óútboðið"
-  ],
-  "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-10-06",
-  "url": "https://www.visir.is/g/20262943954d/kona-fagnar-tolf-arum-i-nyjum-og-glaesilegum-firdi",
-  "title": "Kona fagnar tólf árum í nýjum og glæsi­legum Firði",
-  "sum": "Tískuverslunin Kona tekur á móti viðskiptavinum í stærra og glæsilegra húsnæði í nýbyggingu Fjarðar. Laufey, eigandi verslunarinnar, leggur áherslu á vandaðan fatnað, persónulega þjónustu og að konur hafi svigrúm til að skoða, máta og finna",
-  "tender": "",
-  "start": "",
-  "end": "",
-  "tsort": "",
-  "first_seen": "2026-10-06T15:40:42.914933+00:00",
-  "id": 4
  },
  "4131b8ecce2a4e99": {
   "region": "Landið allt",
@@ -21171,5 +21129,47 @@
   "tsort": "",
   "first_seen": "2026-10-06T15:40:42.914933+00:00",
   "id": 6
+ },
+ "155b507ea76c35db": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-07",
+  "url": "https://byggingar.is/karina-ehf-faer-jardvinnu-vid-stjornarradshusid-fyrir-358-milljonir/?utm_source=rss&utm_medium=rss&utm_campaign=karina-ehf-faer-jardvinnu-vid-stjornarradshusid-fyrir-358-milljonir",
+  "title": "Karína ehf. fær jarðvinnu við Stjórnarráðshúsið fyrir 35,8 milljónir",
+  "sum": "Karína ehf. fær jarðvinnu við Stjórnarráðshúsið fyrir 35,8 milljónir Framkvæmdasýslan – Ríkiseignir, FSRE, hefur gengið að tilboði Karínu ehf. í jarðvinnu vegna fyrirhugaðrar nýbyggingar við Stjórnarráðshúsið við Lækjargötu 1 í Reykjavík. T",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-07T08:59:42.365891+00:00",
+  "id": 1
+ },
+ "fca91ea3aef942a9": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-07",
+  "url": "https://byggingar.is/steypu-undirstadna-lokid-i-vadolduveri/?utm_source=rss&utm_medium=rss&utm_campaign=steypu-undirstadna-lokid-i-vadolduveri",
+  "title": "Steypu undirstaðna lokið í Vaðölduveri",
+  "sum": "Steypu undirstaðna lokið í Vaðölduveri Síðasta undirstaðan fyrir vindmyllurnar í Vaðölduveri var steypt föstudaginn 2. október. Þar með er stórum áfanga náð í framkvæmdunum. Fjórtán vindmyllur hafa þegar verið reistar og áætlað er að reisa ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-07T08:59:42.365891+00:00",
+  "id": 2
  }
 }
