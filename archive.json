@@ -21171,5 +21171,89 @@
   "tsort": "",
   "first_seen": "2026-10-07T08:59:42.365891+00:00",
   "id": 2
+ },
+ "f3ede7ae2ddce7bd": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-07",
+  "url": "https://www.visir.is/g/20262945278d/heimskuleg-leigubremsa-eda-heimskulegir-hagfraedingar-",
+  "title": "Heimsku­leg leigubremsa eða heimskulegir hag­fræðingar?",
+  "sum": "Íslenski leigumarkaðurinn hefur haft þá sérstöðu að búa við minni hömlur á hækkunum leigu en almennt tíðkast í grannríkjunum. Í Bandaríkjunum, landi hinna óheftu markaðshátta, hefur víða verið meira um hömlur á hækkunum leiguverðs en á Ísla",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-07T16:04:46.336463+00:00",
+  "id": 1
+ },
+ "be619379222cbbb1": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Risa",
+  "scaleFig": "85 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-10-07",
+  "url": "https://www.visir.is/g/20262945200d/landsvirkjun-aetti-ad-fjarfesta-i-islensku-reikniafli",
+  "title": "Lands­virkjun ætti að fjár­festa í ís­lensku reikniafli",
+  "sum": "Í síðustu viku birti bandaríska hagstofan (Census Bureau) byggingartölur fyrir ágúst. Framkvæmdir við gagnaver mældust tæplega 85 milljarðar dollara á ársgrundvelli.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-07T16:04:46.336463+00:00",
+  "id": 2
+ },
+ "38fdd4658029893f": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-07",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-07-500-kronur-mun-kosta-ad-aka-yfir-nyja-olfusarbru-489102/",
+  "title": "500 krónur mun kosta að aka yfir nýja Ölfusárbrú",
+  "sum": "Um 80 manns vinna við smíði Ölfusárbrúarinnar og er verkið töluvert á undan áætlun. Brúin verður um tvö þúsund tonn að þyngd. Það er allt á fullu við byggingu nýju Ölfusárbrúarinnar, sem verður 330 metra löng stagbrú yfir Ölfusá og þá er tö",
+  "tender": "",
+  "start": "",
+  "end": "2. október 2028",
+  "tsort": "2028-10",
+  "first_seen": "2026-10-07T16:04:46.336463+00:00",
+  "id": 3
+ },
+ "28bae865504b78c1": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "3.5 ma.kr.",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-07",
+  "url": "https://byggingar.is/veitur-bjoda-ut-allt-ad-3-5-milljarda-rammasamning/?utm_source=rss&utm_medium=rss&utm_campaign=veitur-bjoda-ut-allt-ad-3-5-milljarda-rammasamning",
+  "title": "05.11.2026 Veitur bjóða út allt að 3.5 milljarða rammasamning um þjónustu við vél- og rafbúnað",
+  "sum": "Veitur bjóða út allt að 3.5 milljarða rammasamning um þjónustu við vél- og rafbúnað Veitur ohf. hafa auglýst umfangsmikið útboð vegna þjónustu og viðhalds vél- og rafbúnaðar í veitukerfum fyrirtækisins. Hámarksvirði rammasamningsins er 3,5 ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-07T16:04:46.336463+00:00",
+  "id": 4
  }
 }
