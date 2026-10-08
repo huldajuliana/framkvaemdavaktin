@@ -21255,5 +21255,152 @@
   "tsort": "",
   "first_seen": "2026-10-07T16:04:46.336463+00:00",
   "id": 4
+ },
+ "d5ae02348289c0e6": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-08",
+  "url": "https://www.visir.is/g/20262945721d/samrad-sem-breytir",
+  "title": "Sam­ráð sem breytir",
+  "sum": "Aðalskipulag Hafnarfjarðar 2025 - 2040 hefur nú verið formlega samþykkt. Aðalskipulag er eitt mikilvægasta verkfæri sveitarfélaga.",
+  "tender": "",
+  "start": "2025",
+  "end": "2040",
+  "tsort": "2025-01",
+  "first_seen": "2026-10-08T16:06:55.833522+00:00",
+  "id": 1
+ },
+ "75fb138f75de78b3": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Vísir – allt",
+  "date": "2026-10-07",
+  "url": "https://www.visir.is/g/20262945094d/nidurrif-hafid-a-laugasol",
+  "title": "Niður­rif hafið á Laugasól",
+  "sum": "Niðurrif á leikskólanum Laugasól við Leirulæk í Laugardal hófst fyrr í þessum mánuði. Ákveðið var í nóvember árið 2024 að rífa leikskólann en verkið var ekki boðið út fyrr en í sumar. Ekki liggur fyrir endanleg hönnun á nýjum leikskóla né h",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-08T16:06:55.833522+00:00",
+  "id": 7
+ },
+ "04631b148f8850ab": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-08",
+  "url": "https://byggingar.is/mistok-vid-utlagningu-ollu-thvi-ad-tjon-vard-a-almannavarnalogninni-nsl-4/?utm_source=rss&utm_medium=rss&utm_campaign=mistok-vid-utlagningu-ollu-thvi-ad-tjon-vard-a-almannavarnalogninni-nsl-4",
+  "title": "Mistök við útlagningu ollu því að tjón varð á almannavarnalögninni NSL-4",
+  "sum": "Mistök við útlagningu ollu því að tjón varð á almannavarnalögninni NSL-4 Á fundi bæjarráðs Vestmannaeyja þann 6. október var fjallað um útlagningu almannavarnalagnarinnar NSL-4 og tjón sem varð á lögninni við framkvæmdina. Stýrihópur um vat",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-08T16:06:55.833522+00:00",
+  "id": 2
+ },
+ "148c9cd6962197d2": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "1.000 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-08",
+  "url": "https://byggingar.is/samid-um-560-milljona-uppbyggingu-nyrrar-thjonustumidstodvar-gkg/?utm_source=rss&utm_medium=rss&utm_campaign=samid-um-560-milljona-uppbyggingu-nyrrar-thjonustumidstodvar-gkg",
+  "title": "Samið um 560 milljóna uppbyggingu nýrrar þjónustumiðstöðvar GKG",
+  "sum": "Samið um 560 milljóna uppbyggingu nýrrar þjónustumiðstöðvar GKG Kópavogsbær, Garðabær og Golfklúbbur Kópavogs og Garðabæjar, GKG, hafa undirritað samstarfssamning um byggingu nýrrar um 1.000 fermetra þjónustumiðstöðvar fyrir golfvelli klúbb",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-08T16:06:55.833522+00:00",
+  "id": 3
+ },
+ "ddffd826d1049701": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-08",
+  "url": "https://byggingar.is/landsvirkjun-bydur-ut-eftirlit-vegna-endurnyjunar-sogsstodva/?utm_source=rss&utm_medium=rss&utm_campaign=landsvirkjun-bydur-ut-eftirlit-vegna-endurnyjunar-sogsstodva",
+  "title": "06.11.2026 Landsvirkjun býður út eftirlit vegna endurnýjunar Sogsstöðva",
+  "sum": "Landsvirkjun býður út eftirlit vegna endurnýjunar Sogsstöðva Landsvirkjun hefur auglýst útboð á eftirlitsþjónustu og samningsstjórnun vegna umfangsmikillar endurnýjunar Sogsstöðva. Ráðgjafinn sem verður valinn mun meðal annars sinna staðare",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-08T16:06:55.833522+00:00",
+  "id": 4
+ },
+ "cdbd9d9c52d9a9fe": {
+  "region": "Vestfirðir",
+  "type": "Atvinna",
+  "scale": "Risa",
+  "scaleFig": "6.5 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-08",
+  "url": "https://byggingar.is/6-5-milljarda-kalkthorungaverksmidja-tekur-a-sig-mynd-a-langeyri-i-sudavik/?utm_source=rss&utm_medium=rss&utm_campaign=6-5-milljarda-kalkthorungaverksmidja-tekur-a-sig-mynd-a-langeyri-i-sudavik",
+  "title": "6.5 milljarða kalkþörungaverksmiðja tekur á sig mynd á Langeyri í Súðavík",
+  "sum": "6.5 milljarða kalkþörungaverksmiðja tekur á sig mynd á Langeyri í Súðavík Framkvæmdir við nýja kalkþörungaverksmiðju Íslenska kalkþörungafélagsins á Langeyri í Súðavík eru komnar vel á veg. Burðarvirki verksmiðjuhússins er risið og stefnt e",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-08T16:06:55.833522+00:00",
+  "id": 5
+ },
+ "433afc5d2f84b104": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-08",
+  "url": "https://byggingar.is/nytt-gamasvaedi-ris-fyrir-400-milljonir/?utm_source=rss&utm_medium=rss&utm_campaign=nytt-gamasvaedi-ris-fyrir-400-milljonir",
+  "title": "Nýtt gámasvæði rís fyrir 400 milljónir",
+  "sum": "Nýtt gámasvæði rís fyrir 400 milljónir Faxaflóahafnir hafa varið um 400 milljónum króna í uppbyggingu nýs gámasvæðis á Grundartanga. Faxaflóahafnir hafa varið um 400 milljónum króna í uppbyggingu nýs gámasvæðis á Grundartanga. Framkvæmdum v",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-08T16:06:55.833522+00:00",
+  "id": 6
  }
 }
