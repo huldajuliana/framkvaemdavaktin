@@ -21402,5 +21402,47 @@
   "tsort": "",
   "first_seen": "2026-10-08T16:06:55.833522+00:00",
   "id": 6
+ },
+ "beec49144480afa2": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-08",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-08-isafjardarbaer-leidir-honnun-og-byggingu-nys-verknamshuss-i-stad-rikisins-489311/",
+  "title": "Ísafjarðarbær leiðir hönnun og byggingu nýs verknámshúss í stað ríkisins",
+  "sum": "Bæjarstjóri Ísafjarðarbæjar og mennta- og barnamálaráðherra undirrituðu í gær viljayfirlýsingu um stækkun verknámshúss Menntaskólans á Ísafirði. Stækkunin hefur verið lengi í bígerð en nú er gert ráð fyrir að sveitarfélagið leiði framkvæmdi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-08T19:10:24.960999+00:00",
+  "id": 1
+ },
+ "d81790e0e874ae3e": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-08",
+  "url": "https://byggingar.is/veitur-bjoda-ut-1-9-kilometra-endurnyjun-a-stofnlogn-hitaveitu-i-skorholti-og-bakka/?utm_source=rss&utm_medium=rss&utm_campaign=veitur-bjoda-ut-1-9-kilometra-endurnyjun-a-stofnlogn-hitaveitu-i-skorholti-og-bakka",
+  "title": "05.11.2026 Veitur bjóða út 1.9 kílómetra endurnýjun á stofnlögn hitaveitu í Skorholti og Bakka",
+  "sum": "Veitur bjóða út 1.9 kílómetra endurnýjun á stofnlögn hitaveitu í Skorholti og Bakka Veitur ohf. hafa auglýst útboð vegna endurnýjunar á stofnlögn Hitaveitu Akraness og Borgarfjarðar, HAB, í landi Skorholts og Bakka í Hvalfjarðarsveit. Ný DN",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-08T19:10:24.960999+00:00",
+  "id": 2
  }
 }
