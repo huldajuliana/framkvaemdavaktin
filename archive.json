@@ -21633,5 +21633,152 @@
   "tsort": "",
   "first_seen": "2026-10-09T15:48:34.052351+00:00",
   "id": 9
+ },
+ "eabd7ce2ec4f008b": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-10",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/10/lodin_hefur_aldrei_verid_yfirgefin/",
+  "title": "„Lóðin hefur aldrei verið yfirgefin“",
+  "sum": "Rétttrúnaðarsöfnuðurinn á Íslandi harmar ákvörðun borgarráðs um að afturkalla lóðaúthlutun safnaðarins að Mýrargötu 21-23. Fjármagn liggi fyrir til byggingar kirkju og framkvæmdir gætu hafist á morgun. Það eina sem vantar sé byggingarleyfi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-10T15:02:05.653581+00:00",
+  "id": 1
+ },
+ "d114a917c2b1e04b": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-10",
+  "url": "https://www.visir.is/g/20262946614d/rikid-hefur-gert-sig-ad-ritstjora",
+  "title": "Ríkið hefur gert sig að rit­stjóra",
+  "sum": "Flettu blaði, kveiktu á útvarpinu eða skrunaðu niður fréttavef. Þú lest um átök á Alþingi og hækkun stýrivaxta. En þú lest líka um konuna sem missti manninn sinn, unga föðurinn sem greindist með krabbamein, húsnæðismarkaðinn, nýja veitingas",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-10T15:02:05.653581+00:00",
+  "id": 2
+ },
+ "6a50e52ebb196f1c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-10",
+  "url": "https://www.visir.is/g/20262946532d/segjast-geta-hafid-framkvaemdir-a-morgun",
+  "title": "Segjast geta hafið fram­kvæmdir á morgun",
+  "sum": "Rétttrúnaðarsöfnuðurinn á Íslandi segir fjármögnun kirkjubyggingar við Mýrargötu tryggða og allan undirbúning að baki. Ákvörðun borgarráðs um að afturkalla lóðaúthlutunina hafi komið söfnuðinum á óvart. Hann óskar eftir samtali við borgaryf",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-10T15:02:05.653581+00:00",
+  "id": 3
+ },
+ "61e9fb49503a4430": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-10",
+  "url": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-10-10-husid-skaldaevisaga-um-framkvaemdir-sem-ohandlagnir-geta-lika-haft-gaman-ad-489256/",
+  "title": "Húsið: Skáldævisaga um framkvæmdir sem óhandlagnir geta líka haft gaman að",
+  "sum": "„Það er ekki til kona sem er jafn óhandlagin og ég og ég vissi stundum ekkert hvað var verið að segja mér. En það er svo fínn taktur í þessari bók að það skipti engu máli,“ segir Kolbrún Bergþórsdóttir, bókmenntagagnrýnandi Kiljunnar, um Hú",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-10T15:02:05.653581+00:00",
+  "id": 4
+ },
+ "3aee1b4ef012db76": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-10",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-10-hundrad-tonna-bor-fluttur-i-laugardal-489470/",
+  "title": "Hundrað tonna bor fluttur í Laugardal",
+  "sum": "Hundrað tonna bor verður fluttur frá Hellisheiði að Engjateig í Laugardal í dag. Þar hefst borun eftir heitu vatni í næstu viku. Í tilkynningu frá Veitum segir að framkvæmdin sé nýr kafli í nær aldarlangri sögu jarðnýtingar á svæðinu. Borun",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-10T15:02:05.653581+00:00",
+  "id": 5
+ },
+ "ca0c4bbbafe5c645": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-10",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-10-hefur-smaralindin-ekki-alltaf-verid-tharna-488662/",
+  "title": "Hefur Smáralindin ekki alltaf verið þarna?",
+  "sum": "Hesthús og græn tún blasa við á fréttamyndum af framkvæmdum sem voru að hefjast í Kópavogi um aldamótin. Á Reykjanesbraut má sjá tvær akreinar en ekki fjórar eins og í dag og Smáratorg er helsta kennileitið sem gefur vísbendingu um hvað er ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-10T15:02:05.653581+00:00",
+  "id": 6
+ },
+ "979fbfd2bd73e26a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Stór",
+  "scaleFig": "200 íbúðir",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-10",
+  "url": "https://byggingar.is/ny-tillaga-um-allt-ad-200-ibudir-i-sponginni-kynnt/?utm_source=rss&utm_medium=rss&utm_campaign=ny-tillaga-um-allt-ad-200-ibudir-i-sponginni-kynnt",
+  "title": "Ný tillaga um allt að 200 íbúðir í Spönginni kynnt",
+  "sum": "Ný tillaga um allt að 200 íbúðir í Spönginni kynnt Ný vinnslutillaga um umfangsmikla uppbyggingu í Spönginni í Grafarvogi var kynnt á fundi umhverfis- og skipulagsráðs Reykjavíkurborgar 7. október. Samkvæmt fyrri áformum er gert ráð fyrir a",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-10T15:02:05.653581+00:00",
+  "id": 7
  }
 }
