@@ -21885,5 +21885,26 @@
   "tsort": "",
   "first_seen": "2026-10-11T15:19:20.800723+00:00",
   "id": 4
+ },
+ "844e532653ba8713": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-11",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/11/saga_nys_landspitala_skrad_ur_lofti/",
+  "title": "Saga nýs Landspítala skráð úr lofti",
+  "sum": "Regluleg myndataka af byggingasvæði nýs Landspítala er órjúfanlegur þáttur af starfseminni og er tilgangurinn bæði að skrá sögu framkvæmdanna en ekki síst að ná heildaryfirsýn á stöðuna hverju sinni",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-11T17:55:27.124760+00:00",
+  "id": 1
  }
 }
