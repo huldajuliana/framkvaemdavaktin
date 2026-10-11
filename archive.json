@@ -21801,5 +21801,89 @@
   "tsort": "",
   "first_seen": "2026-10-10T17:40:33.790100+00:00",
   "id": 1
+ },
+ "51b3d4868d79cdb6": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-11",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/11/ny_taekni_vid_lagningu_strengja/",
+  "title": "Ný tækni við lagningu strengja",
+  "sum": "Í sumar hafa Veitur staðið að miklum framkvæmdum í Vatnagörðum í Sundahöfn.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-11T15:19:20.800723+00:00",
+  "id": 1
+ },
+ "aee44246e0c66e24": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-10-11",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/10/11/leita_til_islands_til_ad_throa_jardvarma/",
+  "title": "Leita til Íslands til að þróa jarðvarma",
+  "sum": "Samstarf Arctic Europe og hitaveitunnar í Slóvakíu, MH Templárenský holding (MHTH), um nýtingu jarðhita til húshitunar er komið á framkvæmdastig og vinnan við fyrstu verkefni er hafin.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-11T15:19:20.800723+00:00",
+  "id": 2
+ },
+ "3f192e111c5704ee": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-11",
+  "url": "https://www.visir.is/g/20262946901d/nytt-flod-i-nepal-hreif-med-ser-bryr-og-hus",
+  "title": "Nýtt flóð í Nepal hreif með sér brýr og hús",
+  "sum": "Fimm er saknað og um fimmtíu var bjargað eftir skyndiflóð í ánni Budhi Gandaki í Nepal. Á myndbandi sést þar sem flóðið ryður niður húsum og brú úr vegi sínum en um fimmtán hundruð létust í flóðum í landinu í síðasta mánuði.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-11T15:19:20.800723+00:00",
+  "id": 3
+ },
+ "db262530cc66bb83": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-11",
+  "url": "https://www.ruv.is/frettir/erlent/2026-10-11-pafinn-a-leid-i-adgerd-489531/",
+  "title": "Páfinn á leið í aðgerð",
+  "sum": "Leó páfi XIV er á leið í aðgerð á næstu dögum. Hnúður fannst á lunga hans við reglubundna læknisskoðun nýlega. Páfinn tilkynnti þetta á Péturstorginu í Róm í dag. Hann segir að hnúðurinn hafi fundist snemma. Aðgerðin verður framkvæmd á Geme",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-11T15:19:20.800723+00:00",
+  "id": 4
  }
 }
