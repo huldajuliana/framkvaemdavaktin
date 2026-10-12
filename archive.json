@@ -21906,5 +21906,131 @@
   "tsort": "",
   "first_seen": "2026-10-11T17:55:27.124760+00:00",
   "id": 1
+ },
+ "da1a66188d9e6aa0": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "ÍAV"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-12",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/12/thjodarhollin_nyja_er_komin_a_fullt_skrid/",
+  "title": "Þjóðarhöllin nýja er komin á fullt skrið",
+  "sum": "Undirbúningur að byggingu nýrrar þjóðarhallar í Laugardal er hafinn af fullum krafti hjá Íslenskum aðalverktökum (ÍAV), sem byggja húsið.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-12T18:34:02.542682+00:00",
+  "id": 1
+ },
+ "7cf82de96334a84a": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-12",
+  "url": "https://www.visir.is/g/20262947304d/baer-i-vexti-nytt-adalskipulag-hafnarfjardar",
+  "title": "Bær í vexti - nýtt aðal­skipu­lag Hafnar­fjarðar",
+  "sum": "Nýtt aðalskipulag Hafnarfjarðar var samþykkt á síðasta bæjarstjórnarfundi og gildir til ársins 2040. Markmið þess er að Hafnarfjörður sé eftirsóknarverður staður til að búa og starfa í.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-12T18:34:02.542682+00:00",
+  "id": 2
+ },
+ "75e4fa467050cf4e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Lítil",
+  "scaleFig": "16 íbúðir",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-12",
+  "url": "https://byggingar.is/landslagnir-ehf-bjoda-122-7-milljonir-i-byggingarrett-vid-hraunberg/?utm_source=rss&utm_medium=rss&utm_campaign=landslagnir-ehf-bjoda-122-7-milljonir-i-byggingarrett-vid-hraunberg",
+  "title": "Landslagnir ehf. bjóða 122.7 milljónir í byggingarrétt við Hraunberg",
+  "sum": "Landslagnir ehf. bjóða 122.7 milljónir í byggingarrétt við Hraunberg Landslagnir ehf. áttu hæsta tilboðið í byggingarrétt fyrir allt að 16 íbúðir við Hraunberg 1 í Breiðholti, eða tæplega 122,7 milljónir króna. Tvö tilboð bárust í byggingar",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-12T18:34:02.542682+00:00",
+  "id": 3
+ },
+ "3b6e824b83f29cf5": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Eykt"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-12",
+  "url": "https://byggingar.is/oll-tilbod-yfir-aaetlun/?utm_source=rss&utm_medium=rss&utm_campaign=oll-tilbod-yfir-aaetlun",
+  "title": "Öll tilboð yfir áætlun",
+  "sum": "Öll tilboð yfir áætlun Verktakafyrirtækið Eykt ehf. skilaði inn lægsta tilboðinu í innanhússfrágang nýs rannsóknarhúss Nýja Landspítalans við Hringbraut. Húsið hefur þegar verið steypt en lokafrágangur stendur yfir á útveggjum og þaki. Þett",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-12T18:34:02.542682+00:00",
+  "id": 4
+ },
+ "e025f80557da2caa": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-12",
+  "url": "https://byggingar.is/faxafloahafnir-bjoda-ut-honnun-a-lengingu-sundabakka/?utm_source=rss&utm_medium=rss&utm_campaign=faxafloahafnir-bjoda-ut-honnun-a-lengingu-sundabakka",
+  "title": "12.11.2026 Faxaflóahafnir bjóða út hönnun á lengingu Sundabakka",
+  "sum": "Faxaflóahafnir bjóða út hönnun á lengingu Sundabakka Faxaflóahafnir hafa auglýst útboð á verkfræðihönnun vegna fyrirhugaðrar lengingar Sundabakka í Sundahöfn í Reykjavík. Verkefnið felur í sér fullnaðarhönnun nýs hafnarbakka, tilheyrandi ma",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-12T18:34:02.542682+00:00",
+  "id": 5
+ },
+ "c6bef85434803216": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-12",
+  "url": "https://byggingar.is/landsvirkjunarhusid-faer-nytt-hlutverk/?utm_source=rss&utm_medium=rss&utm_campaign=landsvirkjunarhusid-faer-nytt-hlutverk",
+  "title": "Landsvirkjunarhúsið fær nýtt hlutverk",
+  "sum": "Landsvirkjunarhúsið fær nýtt hlutverk Miklar endurbætur standa yfir á stórhýsi Landsvirkjunar við Háaleitisbraut í Reykjavík. Læknastöð verður á þremur neðstu hæðunum. Landsvirkjun þurfti að leggja af starfsemi í höfuðstöðvum sínum við Háal",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-12T18:34:02.542682+00:00",
+  "id": 6
  }
 }
