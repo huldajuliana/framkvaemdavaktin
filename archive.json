@@ -22305,5 +22305,68 @@
   "tsort": "",
   "first_seen": "2026-10-13T16:42:37.011150+00:00",
   "id": 13
+ },
+ "0caf2bdef0c2bd00": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-13",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/13/kristrun_hugmyndin_fyrst_og_fremst_fyrirsjaanleiki/",
+  "title": "Kristrún: Hugmyndin „fyrst og fremst fyrirsjáanleiki“",
+  "sum": "Kristrún Frostadóttir forsætisráðherra segir markmið frumvarps um svokallaða leigubremsu fyrst og fremst vera að tryggja fyrirsjáanleika á leigumarkaði. Aðgerðin ein og sér muni ekki leysa vanda markaðarins og aukið framboð húsnæðis þurfi t",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-13T19:46:08.411739+00:00",
+  "id": 1
+ },
+ "9e54e085bec191b4": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "Vísir – allt",
+  "date": "2026-10-13",
+  "url": "https://www.visir.is/g/20262947902d/taeknirisarnir-horfa-til-islands-en-raforkukerfid-raedur-ekki-vid-eftirspurnina",
+  "title": "Tæknirisarnir horfa til Ís­lands en raf­orku­kerfið ræður ekki við eftir­spurnina",
+  "sum": "Öll stærstu bandarísku tæknifyrirtækin hafa kannað möguleika á uppbyggingu gagnavera á Íslandi en umfang þeirra verkefna sem þau horfa til er langt umfram það sem raforkukerfið ræður við. Ekki er talið raunhæft að ráðast í mjög stór gagnave",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-13T19:46:08.411739+00:00",
+  "id": 2
+ },
+ "78f44f8236dc87e7": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-13",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-13-vara-vid-hvassvidri-sydst-og-ofsavedri-a-nordvesturlandi-489713/",
+  "title": "Vara við hvassviðri syðst og ofsaveðri á Norðvesturlandi",
+  "sum": "Vegagerðin varar vegfarendur við mjög hvössum vindi undir Eyjafjöllum, í Mýrdal og Öræfum frá því snemma í fyrramálið og til um kl. 9:00 á morgun. Gular og appelsínugular viðvaranir hafa verið gefnar út fyrir morgundaginn og búist er við að",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-13T19:46:08.411739+00:00",
+  "id": 3
  }
 }
