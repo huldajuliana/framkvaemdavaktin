@@ -22515,5 +22515,47 @@
   "tsort": "",
   "first_seen": "2026-10-14T14:18:59.593203+00:00",
   "id": 6
+ },
+ "f5342de04c8aacd2": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-14",
+  "url": "https://www.visir.is/g/20262948428d/er-mikid-umframbod-a-fasteignamarkadi-",
+  "title": "Er mikið um­fram­boð á fast­eigna­markaði?",
+  "sum": "Ásgeir Jónsson seðlabankastjóri sagði í viðtali við visi.is 7. október síðastliðinn: „Núna erum við að sjá mikið umframboð á fasteignamarkaði.“",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-14T17:49:05.185786+00:00",
+  "id": 1
+ },
+ "cbef292fe3a5819c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-14",
+  "url": "https://byggingar.is/led-gotulampar-og-gangbrautarlampar-fyrir-borgarlinu/?utm_source=rss&utm_medium=rss&utm_campaign=led-gotulampar-og-gangbrautarlampar-fyrir-borgarlinu",
+  "title": "19.11.2026 LED-götulampar og gangbrautarlampar fyrir Borgarlínu",
+  "sum": "LED-götulampar og gangbrautarlampar fyrir Borgarlínu Betri samgöngur ohf. hafa auglýst útboð á framleiðslu og afhendingu LED-götulampa og sérstakra gangbrautarlampa fyrir fyrsta áfanga Borgarlínu á höfuðborgarsvæðinu. Lampana á að setja á l",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-14T17:49:05.185786+00:00",
+  "id": 2
  }
 }
