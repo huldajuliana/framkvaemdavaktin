@@ -22368,5 +22368,152 @@
   "tsort": "",
   "first_seen": "2026-10-13T19:46:08.411739+00:00",
   "id": 3
+ },
+ "3d4e74ecf08e77b7": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-14",
+  "url": "https://www.visir.is/g/20262948258d/ureltar-forsendur-sagdar-hafa-leitt-til-storfellds-vanmats-a-ibudathorf",
+  "title": "Úr­eltar for­sendur sagðar hafa leitt til stór­fellds van­mats á íbúðaþörf",
+  "sum": "Forsendur skipulagsyfirvalda á höfuðborgarsvæðinu um þörf fyrir nýjar íbúðir eru byggðar á úreltum forsendum um fólksfjölgun og stærð heimila, að sögn framkvæmdastjóra þróunarfélags á fasteignamarkaði, með þeim afleiðingum að eftirspurnin h",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-14T14:18:59.593203+00:00",
+  "id": 1
+ },
+ "8ef2cce604ce8b26": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-14",
+  "url": "https://www.visir.is/g/20262948004d/osamraemi-og-skekkjur-i-forsendum-skipulagsyfirvalda-dyru-verdi-keyptar",
+  "title": "Ó­sam­ræmi og skekkjur í for­sendum skipu­lags­yfir­valda dýru verði keyptar",
+  "sum": "Ósamræmi og skekkjur í forsendum skipulags á höfuðborgarsvæðinu eru dýru verði keyptar. Á sama tíma og skortur er á íbúðarhúsnæði standa nýjar íbúðir sem svara ekki þörf auðar og fasteignaverð er í hæstu hæðum. Það er kominn tími til að ski",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-14T14:18:59.593203+00:00",
+  "id": 2
+ },
+ "0e1cbd779d28e555": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-13",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-13-lokun-a-hringvegi-vegna-ovedurs-og-sjor-gaeti-gengid-a-land-489766/",
+  "title": "Lokun á Hringvegi vegna óveðurs og sjór gæti gengið á land",
+  "sum": "Hringveginum verður lokað að hluta milli klukkan 5:00 og 9:00 í fyrramálið á Suður- og Suðausturlandi vegna óveðurs. Á vef Vegagerðarinnar segir að annars vegar verði mjúk lokun á Hringvegi frá Fagurhólsmýri að Freysnesi og hins vegar frá H",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-14T14:18:59.593203+00:00",
+  "id": 7
+ },
+ "9b85c75aaa20e227": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-14",
+  "url": "https://byggingar.is/sprengdu-1-300-metra-langa-bru-vegna-endurbota/?utm_source=rss&utm_medium=rss&utm_campaign=sprengdu-1-300-metra-langa-bru-vegna-endurbota",
+  "title": "Sprengdu 1.300 metra langa brú vegna endurbóta",
+  "sum": "Sprengdu 1.300 metra langa brú vegna endurbóta Ítalskir verkfræðingar sprengdu um helgina 13 höft á brú yfir ána Tíber. Sprengingin var liður í endurbótum á brúnni. Ítalskir verkfræðingar sprengdu um helgina 13 höft í brúnni Viadotto Tevere",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-14T14:18:59.593203+00:00",
+  "id": 3
+ },
+ "12945fcd31163e4b": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-14",
+  "url": "https://byggingar.is/hornafjordur-bydur-ut-endurnyjun-sindravallar-a-hofn/?utm_source=rss&utm_medium=rss&utm_campaign=hornafjordur-bydur-ut-endurnyjun-sindravallar-a-hofn",
+  "title": "26.10.2026 Hornafjörður býður út endurnýjun Sindravallar á Höfn",
+  "sum": "Hornafjörður býður út endurnýjun Sindravallar á Höfn Sveitarfélagið Hornafjörður hefur auglýst útboð á jarðvinnu og yfirborðsfrágangi vegna endurnýjunar Sindravallar á Höfn í Hornafirði. Framkvæmdin felur í sér undirbyggingu nýs gervigrasva",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-14T14:18:59.593203+00:00",
+  "id": 4
+ },
+ "67618eeced662026": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-10-14",
+  "url": "https://bb.is/2026/10/isafjardarbaer-eyrarklafur-i-auglysingu/",
+  "title": "Ísafjarðarbær: Eyrarkláfur í auglýsingu",
+  "sum": "Bæjarstjórn Ísafjarðarbæjar samþykkti á fundi sínum í gær að heimila auglýsingu á breytingum á Aðalskipulagi Ísafjarðarbæjar 2008-2025, vegna Eyrarkláfs undir afþreyingar og ferðamannasvæði, þar sem að auki muni falli úr gildi reitur aðveit",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-14T14:18:59.593203+00:00",
+  "id": 5
+ },
+ "cda63962a86d5acb": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-10-14",
+  "url": "https://bb.is/2026/10/vestfirdir-vont-vedur-og-spad-versnandi/",
+  "title": "Vestfirðir: vont veður og spáð versnandi",
+  "sum": "Á Vestfjarðakjálkanum, suður í Dali og á Snæfellsnesi, er spáð NA-átt, allt að ofsaveðri, frá því um hádegi og þar til seint í kvöld. Mikil snjókoma og hríðarveður verða á fjallvegum segir á vef Vegagerðarinnar. Appelsínugul viðvörun tekur ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-14T14:18:59.593203+00:00",
+  "id": 6
  }
 }
