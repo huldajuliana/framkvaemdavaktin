@@ -22808,5 +22808,47 @@
   "tsort": "",
   "first_seen": "2026-10-15T13:55:30.545317+00:00",
   "id": 10
+ },
+ "e5ea129c3c2aaa2a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-15",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/15/borgarstjori_raesti_borinn/",
+  "title": "Borgarstjóri ræsti borinn",
+  "sum": "Hildur Björnsdóttir borgarstjóri og Sólrún Kristjánsdóttir framkvæmdastýra Veitna ræstu formlega borun eftir heitu vatni við Engjateig í Laugardalnum í dag við hátíðlega athöfn.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-15T17:38:41.800512+00:00",
+  "id": 1
+ },
+ "ec4642daa99d945e": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Hafnar",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-15",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-15-borad-eftir-heitu-vatni-i-laugardal-i-fyrsta-sinn-i-44-ar-490070/",
+  "title": "Borað eftir heitu vatni í Laugardal í fyrsta sinn í 44 ár",
+  "sum": "Við Engjateig í Laugardal á að bora eftir heitu vatni - þar er reyndar nánast örugglega heitt vatn enda nokkrar borholur í kring. Framkvæmdir hófust formlega í dag. „Við ætlum sem sagt með þessu vonandi að auka afkastagetu okkar um allt að ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-15T17:38:41.800512+00:00",
+  "id": 2
  }
 }
