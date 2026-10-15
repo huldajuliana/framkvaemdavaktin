@@ -22557,5 +22557,256 @@
   "tsort": "",
   "first_seen": "2026-10-14T17:49:05.185786+00:00",
   "id": 2
+ },
+ "548e879b086a70a2": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-15",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/15/hver_vindmylla_vegur_582_tonn/",
+  "title": "Hver vindmylla vegur 582 tonn",
+  "sum": "Lokið er vinnu við undirstöður fyrir vindmyllurnar í Vaðölduveri Landsvirkjunar. Síðasta undirstaðan var steypt föstudaginn 2. október síðastliðinn.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-15T13:55:30.545317+00:00",
+  "id": 1
+ },
+ "efcfa94fac1b06f8": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-15",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/10/15/fjarmalastjori_landsvirkjunar_segir_upp/",
+  "title": "Fjármálastjóri Landsvirkjunar segir upp",
+  "sum": "Rafnar Lárusson, framkvæmdastjóri fjármála og upplýsingatækni hjá Landsvirkjun, hefur sagt starfi sínu lausu hjá fyrirtækinu.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-15T13:55:30.545317+00:00",
+  "id": 2
+ },
+ "e02912c8a7801364": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-10-15",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/15/landsvirkjun_auglysir_eftir_nyjum_forstjora/",
+  "title": "Landsvirkjun auglýsir eftir nýjum forstjóra",
+  "sum": "Landsvirkjun auglýsir eftir nýjum forstjóra í heilsíðuauglýsingu í Morgunblaðinu í dag.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-15T13:55:30.545317+00:00",
+  "id": 3
+ },
+ "7fcdb2b9391ccfcc": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-10-15",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/15/alvotech_og_veritas_haetta_vid_holmsheidi/",
+  "title": "Alvotech og Veritas hætta við Hólmsheiði",
+  "sum": "Tvö af þeim fimm fyrirtækjum sem höfðu fengið lóðavilyrði fyrir lóð á Hólmsheiði fyrir tveimur árum hafa fallið frá uppbyggingu þar, en þrjú fyrirtæki stefna á að hefja uppbyggingu fljótlega eftir að lóðirnar verða byggingarhæfar á næsta ár",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-15T13:55:30.545317+00:00",
+  "id": 4
+ },
+ "2cf7e2be996bf96c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-15",
+  "url": "https://www.visir.is/g/20262948858d/rafnar-fylgir-herdi-og-segir-upp",
+  "title": "Rafnar fylgir Herði og segir upp",
+  "sum": "Rafnar Lárusson hefur ákveðið að láta af störfum sem fjármálastjóri Landsvirkjunar. Hann hafi ákveðið fyrir nokkrum árum að fylgja forstjóranum eftir.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-15T13:55:30.545317+00:00",
+  "id": 5
+ },
+ "e08c2e90240261dd": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-15",
+  "url": "https://www.visir.is/g/20262948659d/borkjarnar-vegna-eyjaganga-gefa-tilefni-til-bjartsyni",
+  "title": "Bor­kjarnar vegna Eyja­ganga gefa til­efni til bjart­sýni",
+  "sum": "Norskur jarðgangasérfræðingur sem lagði mat á borkjarna úr rannsóknarholum á Heimaey og á Landeyjarsandi í tengslum við möguleg jarðgöng til Vestmannaeyja segir kjarnana mun betri en hann hafi búist við.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-15T13:55:30.545317+00:00",
+  "id": 6
+ },
+ "179694012d8f03f1": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-14",
+  "url": "https://www.visir.is/g/20262948479d/valholl-skrefi-naer-thvi-ad-verda-niutiu-herbergja-hotel",
+  "title": "Val­höll skrefi nær því að verða níu­tíu her­bergja hótel",
+  "sum": "Áform um að breyta Valhöll við Háaleitisbraut í hótel með allt að níutíu herbergjum hafa fengið samþykki umhverfis- og skipulagsráðs Reykjavíkur. Breytingunni á deiliskipulagi hefur verið vísað til borgarráðs.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-15T13:55:30.545317+00:00",
+  "id": 11
+ },
+ "71d88b9cee633e2a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-15",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-15-fjarmalastjori-landsvirkjunar-haettir-490016/",
+  "title": "Fjármálastjóri Landsvirkjunar hættir",
+  "sum": "Breytingar eru fram undan hjá Landsvirkjun því fyrirtækið þarf ekki aðeins að ráða nýjan forstjóra heldur varð ljóst í dag að einnig þarf að ráða nýjan fjármálastjóra. Rafnar Lárusson, sem hefur verið fjármálastjóri Landsvirkjunar síðustu 1",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-15T13:55:30.545317+00:00"
+ },
+ "4366c7383464ee06": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-15",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-15-borkjarnar-a-landeyjasandi-og-i-eyjum-betri-en-vid-var-buist-490012/",
+  "title": "Borkjarnar á Landeyjasandi og í Eyjum betri en við var búist",
+  "sum": "Borkjarnar í Vestmannaeyjum og í Landeyjasandi þar sem til stendur að bora fyrir Eyjagöngum eru mun betri en við var búist að mati norska sérfræðingsins Eivinds Grøv sem Eyjagöng fengu til ráðgjafar. „Það eru bara talsvert betri aðstæður en",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-15T13:55:30.545317+00:00",
+  "id": 7
+ },
+ "6419043f30479d22": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-15",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-15-ovissustigi-aflett-i-sudavikurhlid-489984/",
+  "title": "Óvissustigi aflétt í Súðavíkurhlíð",
+  "sum": "Óvissustigi á veginum um Súðavíkurhlíð var aflétt klukkan hálf átta í morgun. Óvissustigi hafði verið lýst yfir vegna hættu á snjóflóðum í snjókomunni sem fylgdi óveðri gærdagsins og næturinnar. Súðavíkurhlíð. Mynd úr safni.Vegagerðin",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-15T13:55:30.545317+00:00",
+  "id": 8
+ },
+ "e625f54fbab6a1a9": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-15",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-15-hafnfirdingar-motmaela-nyju-timabundnu-hverfi-489938/",
+  "title": "Hafnfirðingar mótmæla nýju tímabundnu hverfi",
+  "sum": "Fjölmenni var á íbúafundi á Ásvöllum í Hafnarfirði á þriðjudagskvöld um fyrirhugað íbúðahverfi við Krýsuvíkurveg og Hvaleyrarvatnsveg. Hafnarfjarðarbær gerði samning við Styrkás fasteignir í síðasta mánuði um uppbyggingu á tímabundnu starfs",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-15T13:55:30.545317+00:00",
+  "id": 9
+ },
+ "64132cdb2e60eb2c": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Dagskráin – Suðurland",
+  "date": "2026-10-15",
+  "url": "https://www.dfs.is/frettir/frett/landsvirkjun-stydur-vid-uppsprettu-sudurlands/",
+  "title": "Landsvirkjun styður við Uppsprettu Suðurlands",
+  "sum": "Landsvirkjun hefur gengið til liðs við nýsköpunarhátíðina Uppsprettu Suðurlands og verður einn helsti bakhjarl hennar. Samkomulag þess efnis var undirritað á dögunum. Uppspretta Suðurlands verður í Ölfusi dagana 6.–7. nóvember 2026 og er sa",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-15T13:55:30.545317+00:00",
+  "id": 10
  }
 }
