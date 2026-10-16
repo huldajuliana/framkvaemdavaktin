@@ -22850,5 +22850,110 @@
   "tsort": "",
   "first_seen": "2026-10-15T17:38:41.800512+00:00",
   "id": 2
+ },
+ "49fd5da0e04d8037": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Eykt"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-16",
+  "url": "https://www.visir.is/g/20262948857d/svansvottadar-gaedaibudir-thar-sem-hugsad-er-fyrir-hverju-smaatridi",
+  "title": "Svansvottaðar gæðaíbúðir þar sem hugsað er fyrir hverju smá­at­riði",
+  "sum": "Í nýju og ört vaxandi hverfi í Hafnarfirði hafa risið sex glæsileg fjölbýlishús við Áshamar 12–26. Þar býður byggingafélagið Eykt upp á 154 nútímalegar og Svansvottaðar íbúðir sem sameina vandaða hönnun, góð rými og nálægð við náttúru og fj",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-16T13:43:56.571503+00:00",
+  "id": 1
+ },
+ "4b749f8ded4bc342": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-16",
+  "url": "https://www.visir.is/g/20262949239d/vaxtarmorkin-eru-verdbolguvaldur",
+  "title": "Vaxtar­mörkin eru verðbólgu­valdur",
+  "sum": "Vaxtarmörkin voru tilraun. Þeim var ætlað að stuðla að hagkvæmum rekstri og uppbyggingu á höfuðborgarsvæðinu með betri nýtingu innviða. En það eru íbúarnir sem greiða reksturinn á endanum, í húsnæðisverði, sköttum og ferðatíma.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-16T13:43:56.571503+00:00",
+  "id": 2
+ },
+ "a6defafed250e95e": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-16",
+  "url": "https://byggingar.is/hms-arettar-krofur-um-oryggisuttektir-mannvirkja/?utm_source=rss&utm_medium=rss&utm_campaign=hms-arettar-krofur-um-oryggisuttektir-mannvirkja",
+  "title": "HMS áréttar kröfur um öryggisúttektir mannvirkja",
+  "sum": "HMS áréttar kröfur um öryggisúttektir mannvirkja Húsnæðis-, mannvirkja- og skipulagsstofnun (HMS) áréttar að óheimilt sé að taka nýbyggingar og önnur mannvirki í notkun fyrr en öryggisúttekt hefur farið fram með jákvæðri niðurstöðu og tilsk",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-16T13:43:56.571503+00:00",
+  "id": 3
+ },
+ "2880d6ab2ea5b952": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-16",
+  "url": "https://byggingar.is/staekkun-seydisfjardarskola-bodin-ut-ad-nyju/?utm_source=rss&utm_medium=rss&utm_campaign=staekkun-seydisfjardarskola-bodin-ut-ad-nyju",
+  "title": "Stækkun Seyðisfjarðarskóla boðin út að nýju",
+  "sum": "Stækkun Seyðisfjarðarskóla boðin út að nýju Sveitarstjórn Múlaþings hefur samþykkt að bjóða stækkun Seyðisfjarðarskóla út að nýju eftir að tveimur tilboðum í framkvæmdirnar var hafnað vegna þess að þau voru yfir kostnaðaráætlun. Lægsta tilb",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-16T13:43:56.571503+00:00",
+  "id": 4
+ },
+ "cae7d66a8aecfcbd": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "4,23 km",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-10-16",
+  "url": "https://bb.is/2026/10/dyrafjordur-jardstrengur-verdur-loftlina/",
+  "title": "Dýrafjörður: jarðstrengur verður loftlína",
+  "sum": "Ísafjarðarbær hefur kynnt vinnslutillögu um breytingu á aðalskipulagi á rafstreng Landsnets frá munna Dýrafjarðarganga að línunni yfir Dýrafjörð, Breiðadalslínu 1. Verður áformum um jarðstreng á þessari 4,23 km leið breytt í loftlínu. Í gre",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-16T13:43:56.571503+00:00",
+  "id": 5
  }
 }
