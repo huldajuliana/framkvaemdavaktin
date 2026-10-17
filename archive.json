@@ -22955,5 +22955,47 @@
   "tsort": "",
   "first_seen": "2026-10-16T13:43:56.571503+00:00",
   "id": 5
+ },
+ "0acccdb4edd35b0c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-16",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/16/vilja_bora_thriggja_kilometra_djupa_holu/",
+  "title": "Vilja bora þriggja kílómetra djúpa holu",
+  "sum": "Skipulagsnefnd Uppsveita mælir með því að Orkuveitunni verði veitt framkvæmdaleyfi til að bora allt að þriggja kílómetra djúpa háhitaholu á Nesjavöllum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-17T12:40:46.170560+00:00",
+  "id": 2
+ },
+ "5d64a03269560000": {
+  "region": "Norðurland eystra",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-17",
+  "url": "https://byggingar.is/faeranlegt-skrifstofuhusnaedi-vid-hjukrunarheimilid-hlid/?utm_source=rss&utm_medium=rss&utm_campaign=faeranlegt-skrifstofuhusnaedi-vid-hjukrunarheimilid-hlid",
+  "title": "16.11.2026 Færanlegt skrifstofuhúsnæði við Hjúkrunarheimilið Hlíð",
+  "sum": "Færanlegt skrifstofuhúsnæði við Hjúkrunarheimilið Hlíð Framkvæmdasýslan – Ríkiseignir (FSRE) hefur auglýst útboð á fullnaðarhönnun, smíði og uppsetningu færanlegra húseininga fyrir skrifstofuhúsnæði við Hjúkrunarheimilið Hlíð að Austurbyggð",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-17T12:40:46.170560+00:00",
+  "id": 1
  }
 }
