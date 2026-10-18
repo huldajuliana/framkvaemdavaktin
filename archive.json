@@ -22997,5 +22997,26 @@
   "tsort": "",
   "first_seen": "2026-10-17T12:40:46.170560+00:00",
   "id": 1
+ },
+ "3947dc1105edf5f4": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-17",
+  "url": "https://www.visir.is/g/20262949782d/engin-yfirsyn-hvort-thad-seu-tik-tok-myndbond-eda-klam-sem-eigi-ad-geyma",
+  "title": "Engin yfir­sýn hvort það séu Tik Tok-mynd­bönd eða klám sem eigi að geyma",
+  "sum": "Björg Eva Erlendsdóttir framkvæmdastjóri Landverndar varar við stefnuleysi í uppbyggingu gagnavera. Það verði að vera skýrt hvaða gögn gagnaver á Íslandi geymi og hvort að gögn sem séu Íslendingum samfélagslega mikilvæg séu. Björg Eva segir",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-18T12:57:59.689233+00:00",
+  "id": 1
  }
 }
