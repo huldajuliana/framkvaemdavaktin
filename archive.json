@@ -23228,5 +23228,26 @@
   "tsort": "",
   "first_seen": "2026-10-19T16:10:36.146179+00:00",
   "id": 10
+ },
+ "a6c519eb352776b7": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-19",
+  "url": "https://byggingar.is/landsvirkjun-bydur-ut-adalmannvirki-hvammsvirkjunar/?utm_source=rss&utm_medium=rss&utm_campaign=landsvirkjun-bydur-ut-adalmannvirki-hvammsvirkjunar",
+  "title": "20.04.2027 Landsvirkjun býður út aðalmannvirki Hvammsvirkjunar",
+  "sum": "Landsvirkjun býður út aðalmannvirki Hvammsvirkjunar Landsvirkjun hefur auglýst útboð á umfangsmikilli mannvirkjagerð vegna Hvammsvirkjunar í neðri hluta Þjórsár. Verkið, sem ber heitið HVM10 – Mannvirkjagerð, tekur meðal annars til bygginga",
+  "tender": "20. apríl 2027",
+  "start": "",
+  "end": "",
+  "tsort": "2027-04",
+  "first_seen": "2026-10-19T19:04:51.737170+00:00",
+  "id": 1
  }
 }
