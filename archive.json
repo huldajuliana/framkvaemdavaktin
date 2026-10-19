@@ -23018,5 +23018,215 @@
   "tsort": "",
   "first_seen": "2026-10-18T12:57:59.689233+00:00",
   "id": 1
+ },
+ "1af46ea0cadab210": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-19",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/19/ekkert_meira_ad_segja_um_starfslok_hardar/",
+  "title": "Ekkert meira að segja um starfslok Harðar",
+  "sum": "„Af hverju hrökklaðist forstjóri Landsvirkjunar úr starfi eftir 17 ára farsælt starf?“ spurði Guðlaugur Þór og sagði almenning eiga rétt á skýringum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-19T16:10:36.146179+00:00",
+  "id": 1
+ },
+ "05ea39378562c26d": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-10-19",
+  "url": "https://www.visir.is/g/20262950543d/tilbodum-hafnad-i-glaesibruna-en-efnt-til-samkeppnisvidraedna",
+  "title": "Til­boðum hafnað í glæsibrúna en efnt til samkeppnisviðræðna",
+  "sum": "Vegagerðin hefur ákveðið að hafna báðum tilboðunum sem bárust í lokaáfanga Vestfjarðavegar um Gufudalssveit. Í staðinn hefur verktökunum verið boðið að taka þátt í samkeppnisviðræðum með það að markmiði að ná niður kostnaði án þess að verkl",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-19T16:10:36.146179+00:00",
+  "id": 2
+ },
+ "b10ad7f43b56e5fd": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-19",
+  "url": "https://www.visir.is/g/20262950392d/ibuarnir-hofdu-betur",
+  "title": "Í­búarnir höfðu betur",
+  "sum": "Meirihlutinn í bæjarstjórn Hafnarfjarðar hefur ákveðið að falla frá áformum um uppbyggingu íbúða fyrir tímabundna búsetu við Krýsuvíkurveg og Hvaleyrarvatnsveg. Uppbyggingin þótti afar umdeild og var henni mótmælt á íbúafundi fyrr í mánuðin",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-19T16:10:36.146179+00:00",
+  "id": 3
+ },
+ "5f5683280d876fa7": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Stór",
+  "scaleFig": "260 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-19",
+  "url": "https://byggingar.is/hafnarfjordur-fellur-fra-uppbyggingu-260-timabundinna-ibuda/?utm_source=rss&utm_medium=rss&utm_campaign=hafnarfjordur-fellur-fra-uppbyggingu-260-timabundinna-ibuda",
+  "title": "Hafnarfjörður fellur frá uppbyggingu 260 tímabundinna íbúða",
+  "sum": "Hafnarfjörður fellur frá uppbyggingu 260 tímabundinna íbúða Meirihluti bæjarstjórnar Hafnarfjarðar hefur ákveðið að falla frá fyrirhugaðri uppbyggingu 260 íbúða fyrir tímabundna búsetu við Krýsuvíkurveg og Hvaleyrarvatnsveg. Áformin voru un",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-19T16:10:36.146179+00:00",
+  "id": 4
+ },
+ "ddbdb611f38eb8bb": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "40 íbúðir",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-19",
+  "url": "https://byggingar.is/e-sigurdsson-bydur-68-milljonir-i-byggingarrett-fyrir-40-ibudir-vid-sudurhola/?utm_source=rss&utm_medium=rss&utm_campaign=e-sigurdsson-bydur-68-milljonir-i-byggingarrett-fyrir-40-ibudir-vid-sudurhola",
+  "title": "E. Sigurðsson býður 68 milljónir í byggingarrétt fyrir 40 íbúðir við Suðurhóla",
+  "sum": "E. Sigurðsson býður 68 milljónir í byggingarrétt fyrir 40 íbúðir við Suðurhóla E. Sigurðsson ehf. bauð 68 milljónir króna í byggingarrétt á lóðinni Suðurhólar 27 í Breiðholti, þar sem gert er ráð fyrir uppbyggingu allt að 40 íbúða. Fyrirtæk",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-19T16:10:36.146179+00:00",
+  "id": 5
+ },
+ "b52463ba6b455795": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-19",
+  "url": "https://byggingar.is/hornafjordur-bydur-ut-endurnyjun-gervigrass-i-barunni/?utm_source=rss&utm_medium=rss&utm_campaign=hornafjordur-bydur-ut-endurnyjun-gervigrass-i-barunni",
+  "title": "24.11.2026 Hornafjörður býður út endurnýjun gervigrass í Bárunni",
+  "sum": "Hornafjörður býður út endurnýjun gervigrass í Bárunni Sveitarfélagið Hornafjörður hefur auglýst útboð á kaupum, afhendingu og uppsetningu nýs gervigraskerfis í knattspyrnuhúsinu Bárunni á Höfn. Um er að ræða gervigras án innfylliefna og ska",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-19T16:10:36.146179+00:00",
+  "id": 6
+ },
+ "f3bea89353d5cabd": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-19",
+  "url": "https://byggingar.is/mikil-uppbygging-radgerd-i-sponginni/?utm_source=rss&utm_medium=rss&utm_campaign=mikil-uppbygging-radgerd-i-sponginni",
+  "title": "Mikil uppbygging ráðgerð í Spönginni",
+  "sum": "Mikil uppbygging ráðgerð í Spönginni Vel hefur verið tekið í hugmyndir fasteignafélagsins Reita um uppbyggingu í Spönginni í Grafarvogi. Félagið hyggst ráðast í uppbyggingu sem felur í sér byggingu nýrra íbúða og meira rými fyrir verslanir ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-19T16:10:36.146179+00:00",
+  "id": 7
+ },
+ "aca57574625d7021": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "314 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-19",
+  "url": "https://byggingar.is/framkvaemdir-hafnar-vid-314-fermetra-mottokuhus-a-isafirdi/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-hafnar-vid-314-fermetra-mottokuhus-a-isafirdi",
+  "title": "Framkvæmdir hafnar við 314 fermetra móttökuhús á Ísafirði",
+  "sum": "Framkvæmdir hafnar við 314 fermetra móttökuhús á Ísafirði Framkvæmdir eru hafnar við byggingu nýs 314 fermetra móttökuhúss fyrir farþega skemmtiferðaskipa á Hrafnatanga við Sundabakka á Ísafirði. All verk ehf. annast framkvæmdirnar samkvæmt",
+  "tender": "",
+  "start": "",
+  "end": "vor 2027",
+  "tsort": "2027-04",
+  "first_seen": "2026-10-19T16:10:36.146179+00:00",
+  "id": 8
+ },
+ "e4581b87351965d4": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "4,6 km",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-10-19",
+  "url": "https://bb.is/2026/10/vestfjardastofa-vill-semja-vid-laegstbjodanda-um-thverun-djupafjardar/",
+  "title": "Vestfjarðastofa: vill semja við lægstbjóðanda um þverun Djúpafjarðar",
+  "sum": "Birt hefur verið ályktun stjórnar Vestfjarðastofu frá 30. september sl. um útboð Vegagerðarinnar á lokaáfanga vegagerðar í Gufudalssveit. Tilboð í verkáfangann voru opnuð daginn áður. Um er að ræða nýbyggingu Vestfjarðavegar á um 4,6 km kaf",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-19T16:10:36.146179+00:00",
+  "id": 9
+ },
+ "7f86a77bc0018ea7": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-10-19",
+  "url": "https://bb.is/2026/10/isafjardarbaer-leggst-gegn-thvi-ad-leggja-nidur-embaetti-logreglustjora-a-vestfjordum/",
+  "title": "Ísafjarðarbær: leggst gegn því að leggja niður embætti lögreglustjóra á Vestfjörðum",
+  "sum": "Í síðustu viku ræddi bæjarráð Ísafjarðarbæjar um drög að frumvarpi til laga um breytingar á lögreglulögum og fleiri lögum (skipulagsbreytingar hjá lögreglu). Bæjarráð Ísafjarðarbæjar samþykkti að lýsa þungum áhyggjum af fyrirhuguðum breytin",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-19T16:10:36.146179+00:00",
+  "id": 10
  }
 }
