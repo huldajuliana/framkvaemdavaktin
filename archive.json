@@ -23249,5 +23249,153 @@
   "tsort": "2027-04",
   "first_seen": "2026-10-19T19:04:51.737170+00:00",
   "id": 1
+ },
+ "0a7c3b20593804c1": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-20",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/20/hjolreidarmadur_fluttur_a_bradamottoku/",
+  "title": "Hjólreiðarmaður fluttur á bráðamóttöku",
+  "sum": "Hjólreiðarmaður var fluttur með sjúkrabifreið á bráðamóttöku Landspítalans eftir árekstur við bíl á gatnamótum Laugarásvegar, Sundlaugavegar og Brúnavegs í morgun.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-20T14:04:42.534491+00:00",
+  "id": 1
+ },
+ "b23369ceb518e092": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-20",
+  "url": "https://www.visir.is/g/20262950857d/mikilvaegt-er-ad-draga-laerdom-af-smaibudamalinu-i-hafnarfirdi",
+  "title": "Mikil­vægt er að draga lær­dóm af smáíbúðamálinu i Hafnar­firði",
+  "sum": "Meirihluti Samfylkingar, Viðreisnar og Sjálfstæðisflokks í Hafnarfirði hefur ákveðið að falla frá áformum um uppbyggingu íbúða fyrir tímabundna búsetu við Krýsuvíkurveg og Hvaleyrarvatnsveg.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-20T14:04:42.534491+00:00",
+  "id": 2
+ },
+ "4e764853f42e8740": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-19",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-19-gott-daemi-um-ad-thad-er-ekki-verid-ad-laekna-rett-mein-490382/",
+  "title": "„Gott dæmi um að það er ekki verið að lækna rétt mein“",
+  "sum": "Í síðustu viku var greint frá því að Litli spítalinn ehf. hefði tekið á leigu neðstu hæðir Háaleitisbrautar 68, sem voru áður að hluta höfuðstöðvar Landsvirkjunar. Ætlunin er að reka margþætta heilbrigðisþjónustu. Þar á meðal er svokölluð s",
+  "tender": "",
+  "start": "2022",
+  "end": "2024",
+  "tsort": "2022-01",
+  "first_seen": "2026-10-20T14:04:42.534491+00:00",
+  "id": 7
+ },
+ "f56811ae987d9572": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "67 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-20",
+  "url": "https://byggingar.is/gardabaer-auglysir-byggingarrett-fyrir-67-ibudir-i-hnodraholti-sudur/?utm_source=rss&utm_medium=rss&utm_campaign=gardabaer-auglysir-byggingarrett-fyrir-67-ibudir-i-hnodraholti-sudur",
+  "title": "Garðabær auglýsir byggingarrétt fyrir 67 íbúðir í Hnoðraholti suður",
+  "sum": "Garðabær auglýsir byggingarrétt fyrir 67 íbúðir í Hnoðraholti suður Garðabær hefur auglýst til sölu byggingarrétt fyrir 26 einbýlishús og 41 raðhúsaíbúð í Hnoðraholti suður. Þar af eru 23 raðhúsaíbúðir boðnar á almennum markaði en 18 íbúðir",
+  "tender": "30. október 2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-10",
+  "first_seen": "2026-10-20T14:04:42.534491+00:00",
+  "id": 3
+ },
+ "d948c44a426fd2c2": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-10-20",
+  "url": "https://bb.is/2026/10/ibudaverd-fjolbyli-a-landsbyggdinni-haekkar-mest/",
+  "title": "Íbúðaverð: fjölbýli á landsbyggðinni hækkar mest",
+  "sum": "Síðustu 12 mánuði hefur verð á fjölbýlisíbúðum á landsbyggðinni hækkað um 2,32% samkvæmt tölum Húsnæðis- og mannvirkjastofnunar, HMS. Það er heldur meira en verð á fjölbýli á höfuðborgarsvæðinu, sem hækkaði um 2,10% á sama tíma. Verð á sérb",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-20T14:04:42.534491+00:00",
+  "id": 4
+ },
+ "58f44fb1745fc22c": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-10-20",
+  "url": "https://bb.is/2026/10/vegagerdin-finnbogi-bjarnason-nyr-deildarstjori-a-isafirdi/",
+  "title": "Vegagerðin: Finnbogi Bjarnason nýr deildarstjóri á Ísafirði",
+  "sum": "Vegagerðin hefur ráðið Finnboga Bjarnason, bæjartæknifræðing í Bolungavík í starf deildarstjóra þjónustudeildar Vestursvæðis á Ísafirði. Tekur hann við af Kristni Lyngmó, sem lætur senn af störfum. Finnbogi sagði í samstarfi við Bæjarins be",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-20T14:04:42.534491+00:00",
+  "id": 5
+ },
+ "8be0f0bf25b04e67": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "4,6 km",
+  "verk": [
+   "Ístak",
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-10-20",
+  "url": "https://bb.is/2026/10/djupifjordur-badum-tilbodum-hafnad-samkeppnisvidraedur-framundan/",
+  "title": "Djúpifjörður: báðum tilboðum hafnað – samkeppnisviðræður framundan",
+  "sum": "Vegagerðin hefur hafnað báðum tilboðum sem bárust í lokaáfanga vegagerðar í Gufudalssveit. Tilboð í verkáfangann voru opnuð 29. september sl. Um er að ræða nýbyggingu Vestfjarðavegar á um 4,6 km kafla yfir Djúpa- og Gufufjörð. Innifalið í v",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-20T14:04:42.534491+00:00",
+  "id": 6
  }
 }
