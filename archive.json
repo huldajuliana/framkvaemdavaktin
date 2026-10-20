@@ -23397,5 +23397,26 @@
   "tsort": "",
   "first_seen": "2026-10-20T14:04:42.534491+00:00",
   "id": 6
+ },
+ "8ee3d6b821bc5799": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "2,27 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-20",
+  "url": "https://byggingar.is/borgarlina-framkvaemdarod-breytt-i-227-milljarda-verki-vid-nautholsveg/?utm_source=rss&utm_medium=rss&utm_campaign=borgarlina-framkvaemdarod-breytt-i-227-milljarda-verki-vid-nautholsveg",
+  "title": "Borgarlína – framkvæmdaröð breytt í 2,27 milljarða verki við Nauthólsveg",
+  "sum": "Borgarlína – framkvæmdaröð breytt í 2,27 milljarða verki við Nauthólsveg Framkvæmdaröð við uppbyggingu Borgarlínu við Nauthólsveg og Háskólann í Reykjavík hefur verið endurskoðuð. Helsta breytingin felst í því að framkvæmdum við Menntasveig",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-20T17:48:27.257402+00:00",
+  "id": 1
  }
 }
