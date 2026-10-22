@@ -24111,5 +24111,26 @@
   "tsort": "",
   "first_seen": "2026-10-22T14:19:38.454293+00:00",
   "id": 15
+ },
+ "82300a5055db149e": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-10-22",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/10/22/fleiri_hotel_threyja_thorrann_i_vetur/",
+  "title": "Fleiri hótel þreyja þorrann í vetur",
+  "sum": "Hótel á landsbyggðinni hafa í sumum tilvikum ákveðið að draga úr þjónustu í vetur og jafnvel loka tímabundið. Sem dæmi hefur hótelið í Kerlingarfjöllum ákveðið að loka dyrum sínum fyrir almennum bókunum frá nóvember fram í mars en það tekur",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-22T17:52:21.891786+00:00",
+  "id": 1
  }
 }
