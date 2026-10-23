@@ -24489,5 +24489,47 @@
   "tsort": "",
   "first_seen": "2026-10-23T14:02:53.712161+00:00",
   "id": 11
+ },
+ "571a98ea0c456be8": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-23",
+  "url": "https://byggingar.is/veitur-leita-tveggja-verktaka-i-fodrun-fraveitulagna-an-uppgraftar/?utm_source=rss&utm_medium=rss&utm_campaign=veitur-leita-tveggja-verktaka-i-fodrun-fraveitulagna-an-uppgraftar",
+  "title": "18.01.2027 Veitur leita tveggja verktaka í fóðrun fráveitulagna án uppgraftar",
+  "sum": "Veitur leita tveggja verktaka í fóðrun fráveitulagna án uppgraftar Veitur ohf. hafa auglýst útboð á rammasamningi við tvo verktaka um fóðrun fráveitulagna án uppgraftar. Verkefnið nær fyrst og fremst til endurnýjunar lagna fyrir skólp og re",
+  "tender": "2027",
+  "start": "",
+  "end": "",
+  "tsort": "2027-01",
+  "first_seen": "2026-10-23T17:44:55.471628+00:00",
+  "id": 1
+ },
+ "4bb30538274ebcda": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Akureyri.net – fréttir",
+  "date": "2026-10-23",
+  "url": "https://www.akureyri.net/is/frettir/afslattur-med-loftbru-verdur-fost-tala",
+  "title": "Afsláttur með Loftbrú verður föst tala",
+  "sum": "Afsláttur með Loftbrú verður föst tala",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-23T17:44:55.471628+00:00",
+  "id": 2
  }
 }
