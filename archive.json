@@ -24531,5 +24531,110 @@
   "tsort": "",
   "first_seen": "2026-10-23T17:44:55.471628+00:00",
   "id": 2
+ },
+ "c25d1170d233eab8": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-24",
+  "url": "https://www.visir.is/g/20262953051d/i-m-simply-the-best-better-than-all-the-rest...-skyrt-markmid-oskyr-framkvaemd-og-enn-ein-utgafan",
+  "title": "I'm simply the best, better than all the rest...: Skýrt mark­mið, ó­skýr fram­kvæmd og enn ein út­gáfan",
+  "sum": "Ráðherra segir breytinguna einfalda en vísar sífellt til skýringa sem eiga eftir að koma. Traust á framkvæmdinni verður ekki byggt á loforðum um skýringar síðar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-24T13:04:50.749436+00:00",
+  "id": 1
+ },
+ "60f7ae0ac31ff445": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-24",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-24-ingvar-motfallinn-breytingum-a-loftbru-490800/",
+  "title": "Ingvar mótfallinn breytingum á Loftbrú",
+  "sum": "Ingvar Þóroddsson, þingmaður Viðreisnar í Norðausturkjördæmi, er mótfallinn breytingu ríkisstjórnarinnar á fyrirkomulagi Loftbrúar eins og hún var kynnt í gær. Mbl.is greinir frá . Innviðaráðuneytið kynnti í gær breytingar á Loftbrú. Bæjars",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-24T13:04:50.749436+00:00",
+  "id": 2
+ },
+ "66e827201b380daf": {
+  "region": "Vesturland",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-23",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-23-mikilvaegt-ad-tryggja-ad-gogn-sem-geymd-seu-i-gagnaverum-a-islandi-seu-ekki-eitthvert-rusl-490791/",
+  "title": "Mikilvægt að tryggja að gögn sem geymd séu í gagnaverum á Íslandi séu ekki „eitthvert rusl“",
+  "sum": "Björg Eva Erlendsdóttir, framkvæmdastjóri Landverndar, segir brýnt að móta stefnu og lagaramma utan um uppbyggingu og starfsemi gagnavera á Íslandi. Þrjú alþjóðleg fyrirtæki reka sjö gagnaver hér á landi. Fram kom í fréttum í gær að til sko",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-24T13:04:50.749436+00:00",
+  "id": 4
+ },
+ "8916e1665ed8e766": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-23",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-23-fa-taekifaeri-til-ad-laera-islensku-i-vinnunni-490786/",
+  "title": "Fá tækifæri til að læra íslensku í vinnunni",
+  "sum": "Svokölluð Málbrú hefur reynst vel við að auka íslenskukunnáttu starfsfólks hjúkrunarheimila sem er af erlendum uppruna. Þar lærir fólk orð sem tengjast faginu og fær æfingu á vinnutíma. 35% starfsfólks á hjúkrunarheimilum er með annað móður",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-24T13:04:50.749436+00:00",
+  "id": 5
+ },
+ "b00da4bd4a2f07a2": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Dagskráin – Suðurland",
+  "date": "2026-10-24",
+  "url": "https://www.dfs.is/frettir/frett/heppilegra-ad-vera-vedurtepptur-a-vettvangi-en-i-langri-fjarlaegd/",
+  "title": "„Heppilegra að vera veðurtepptur á vettvangi en í langri fjarlægð“",
+  "sum": "Í sumar hefur Heilbrigðisstofnun Suðurlands haldið úti viðbragði á virkjanasvæði Landsvirkjunar á Þjórsár- og Tungnaársvæðinu. Sjúkraflutningamaður HSU er á svæðinu frá morgni til kvölds og á bakvakt þess á milli. Þjónustan er því veitt all",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-24T13:04:50.749436+00:00",
+  "id": 3
  }
 }
