@@ -24636,5 +24636,68 @@
   "tsort": "",
   "first_seen": "2026-10-24T13:04:50.749436+00:00",
   "id": 3
+ },
+ "4054262ae2dc6c6a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-24",
+  "url": "https://www.visir.is/g/20262953167d/sjo-thusund-kronur-seu-ekki-nog",
+  "title": "Sjö þúsund krónur séu ekki nóg",
+  "sum": "María Rut Kristinsdóttir, þingmaður Viðreisnar, segir fyrirhugaða breytingu á afsláttarkerfinu Loftbrú ekki duga nóg. Hún hafi miklar áhyggjur af stöðu innanlandsflugsins.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-24T16:27:02.883682+00:00",
+  "id": 1
+ },
+ "403ebc0c8d1febc2": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-24",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-24-hyggjast-motmaela-breytingum-a-loftbru-vid-aetlum-ekki-ad-saetta-okkur-vid-thetta-490817/",
+  "title": "Hyggjast mótmæla breytingum á Loftbrú: „Við ætlum ekki að sætta okkur við þetta“",
+  "sum": "Innviðaráðherra, tilkynnti í gær breytingar á fyrirkomulagi Loftbrúar sem taka gildi frá og með áramótum. Formaður Sambands sveitarfélaga á Austurlandi segir breytingarnar kaldar kveðjur til íbúa á landsbyggðinni. „Blaut tuska frá ríkisstjó",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-24T16:27:02.883682+00:00",
+  "id": 2
+ },
+ "bbc0cd540e082b85": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-24",
+  "url": "https://byggingar.is/sjovinnu-vid-fossvogsbru-lokid-bruin-tekur-ad-risa-a-naesta-ari/?utm_source=rss&utm_medium=rss&utm_campaign=sjovinnu-vid-fossvogsbru-lokid-bruin-tekur-ad-risa-a-naesta-ari",
+  "title": "Sjóvinnu við Fossvogsbrú lokið – brúin tekur að rísa á næsta ári",
+  "sum": "Sjóvinnu við Fossvogsbrú lokið – brúin tekur að rísa á næsta ári Mikilvægum áfanga er lokið við smíði Fossvogsbrúar, Öldu, en sjóvinnu við undirstöður og burðarása brúarinnar í Fossvogi er nú lokið á þessu ári. Framkvæmdir við brúna halda á",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-24T16:27:02.883682+00:00",
+  "id": 3
  }
 }
