@@ -24699,5 +24699,154 @@
   "tsort": "",
   "first_seen": "2026-10-24T16:27:02.883682+00:00",
   "id": 3
+ },
+ "dc9fc9dff8738410": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-25",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/25/ofmeta_og_oftulka_utbodsreglur/",
+  "title": "Ofmeta og oftúlka útboðsreglur",
+  "sum": "Í lok september kvað kærunefnd útboðsmála upp úrskurð í máli lækningatækjarisans Abbott Medical gegn Landspítalanum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-25T13:32:58.069509+00:00",
+  "id": 1
+ },
+ "a49436a5e1b3ff40": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-24",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/24/hlemmtorg_tekur_a_sig_mynd/",
+  "title": "Hlemmtorg tekur á sig mynd",
+  "sum": "Framkvæmdir við endurgerð Hlemmtorgs eru vel á veg komnar og styttist í að fyrstu hlutar torgsins verði tilbúnir.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-25T13:32:58.069509+00:00",
+  "id": 5
+ },
+ "ce41a105c7cfc8ac": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-25",
+  "url": "https://www.visir.is/g/20262953407d/ekki-bodadur-a-stjornarfundi-thetta-hefur-aldrei-gerst-adur-i-sogu-landsvirkjunar-",
+  "title": "Ekki boðaður á stjórnarfundi: „Þetta hefur aldrei gerst áður í sögu Lands­virkjunar“",
+  "sum": "Hörður Arnarsson, sem lét af störfum sem forstjóri Landsvirkjunar í byrjun mánaðar, segir að stjórnarfundir hafi verið haldnir án þess að honum hafi veri boðið líkt og lög kveði á um.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-25T13:32:58.069509+00:00",
+  "id": 2
+ },
+ "6500d1d6e2723bcd": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-25",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-25-segir-ad-endurskoda-thurfi-breytingar-a-loftbru-490851/",
+  "title": "Segir að endurskoða þurfi breytingar á Loftbrú",
+  "sum": "Þingmaður Flokks fólksins í Norðvesturkjördæmi telur að innviðaráðherra þurfi að endurskoða boðaðar breytingar á niðurgreiðslu vegna Loftbrúar. Sjö þúsund krónur nægi ekki til að mæta háum flugfargjöldum. Upphæð niðurgreiðslu of lág Innviða",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-25T13:32:58.069509+00:00",
+  "id": 3
+ },
+ "1528067364fc89d1": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-24",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-24-brenna-vidarperlur-til-ad-kynda-klakahollina-490826/",
+  "title": "Brenna viðarperlur til að kynda „Klakahöllina“",
+  "sum": "Skólatorfan á Reyðarfirði, knattspyrnuhöll, íþróttahús og skólamannvirki verða kynt með brennslu á viðarperlum. Framkvæmdir eru langt komnar við nýja kyndistöð Tandraorku. Viðarperlurnar, sem eru framleiddar á Eskifirði úr grisjunarviði úr ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-25T13:32:58.069509+00:00",
+  "id": 6
+ },
+ "87501a41be62da18": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-24",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-24-gagnrynisraddir-a-breytingu-a-loftbru-skiljanlegar-490831/",
+  "title": "Gagnrýnisraddir á breytingu á Loftbrú skiljanlegar",
+  "sum": "María Rut Kristinsdóttir, formaður umhverfis- og samgöngunefndar Alþingis og þingmaður Viðreisnar, segir gagnrýnisraddir um breytingu á niðurgreiðslu Loftbrúar skiljanlegar. Hún sjálf hafi efasemdir um upphæð niðurgreiðslunnar. Íbúar á land",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-25T13:32:58.069509+00:00",
+  "id": 7
+ },
+ "90c5413e93811c8c": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "3,9 ma.kr.",
+  "verk": [
+   "Ístak",
+   "ÞG verk",
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-25",
+  "url": "https://byggingar.is/gufudalssveit-badum-tilbodum-hafnad-og-samkeppnisvidraedur-hafnar/?utm_source=rss&utm_medium=rss&utm_campaign=gufudalssveit-badum-tilbodum-hafnad-og-samkeppnisvidraedur-hafnar",
+  "title": "Gufudalssveit – Báðum tilboðum hafnað og samkeppnisviðræður hafnar",
+  "sum": "Gufudalssveit – Báðum tilboðum hafnað og samkeppnisviðræður hafnar Vegagerðin hefur ákveðið að hafna báðum tilboðum sem bárust í lokaáfanga Vestfjarðavegar um Gufudalssveit. ÞG verktakar buðu tæpa 3,9 milljarða króna í verkið og Ístak tæpa ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-25T13:32:58.069509+00:00",
+  "id": 4
  }
 }
