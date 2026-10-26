@@ -25226,5 +25226,89 @@
   "tsort": "",
   "first_seen": "2026-10-26T15:49:42.389959+00:00",
   "id": 11
+ },
+ "28f16b334825da41": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-26",
+  "url": "https://www.visir.is/g/20262953997d/-vid-eigum-bara-ad-thegja-og-saetta-okkur-vid-thetta-",
+  "title": "„Við eigum bara að þegja og sætta okkur við þetta“",
+  "sum": "Ingibjörg Isaksen, þingmaður Framsóknarflokksins í Norðausturkjördæmi, segir Loftbrú snúast um að jafna stöðuna milli höfuðborgarsvæðisins og landsbyggðarinnar. Áhyggjuefni sé að ákvörðunum sé slengt fram án aðkomu sveitarfélaganna og lands",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-26T19:03:07.154839+00:00",
+  "id": 1
+ },
+ "e89c172e354ec75f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Vísir – allt",
+  "date": "2026-10-26",
+  "url": "https://www.visir.is/g/20262953992d/hjukrunarheimili-i-nyherjahusid",
+  "title": "Hjúkrunar­heimili í Ný­herja­húsið",
+  "sum": "Reitum hefur borist tilkynning frá Framkvæmdasýslunni – Ríkiseignum þess efnis að Borgartún 37 hafi verið valið í markaðskönnun um hjúkrunarheimili á höfuðborgarsvæðinu en mat tilboða byggðist meðal annars á verði, stærð, staðsetningu og ör",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-26T19:03:07.154839+00:00",
+  "id": 2
+ },
+ "debed5f541b74992": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-26",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-26-mestu-fjarframlog-til-loftbruar-nokkru-sinni-490953/",
+  "title": "„Mestu fjárframlög til Loftbrúar nokkru sinni“",
+  "sum": "Eyjólfur Ármannsson mun leggja fram breytingu á fyrirhugaðri breytingu á Loftbrú. Í frumvarpi til fjárlaga næsta árs var gert ráð fyrir 600 milljónum til Loftbrúar en nú þarf að óska eftir viðbót við það, um tvö hundruð milljónum. „Jú, við ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-26T19:03:07.154839+00:00",
+  "id": 3
+ },
+ "a72cf91c6fce268c": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-26",
+  "url": "https://byggingar.is/raetur-verktakar-ehf-laegstbjodendur-i-endurbaetur-a-mulaborg/?utm_source=rss&utm_medium=rss&utm_campaign=raetur-verktakar-ehf-laegstbjodendur-i-endurbaetur-a-mulaborg",
+  "title": "Rætur verktakar ehf. lægstbjóðendur í endurbætur á Múlaborg",
+  "sum": "Rætur verktakar ehf. lægstbjóðendur í endurbætur á Múlaborg Rætur verktakar ehf. áttu lægsta tilboðið í endurbætur á þaki, gluggum og klæðningu Múlaborgar í Reykjavík. Tilboð fyrirtækisins hljóðaði upp á 69,1 milljón króna, eða 90,87% af ko",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-26T19:03:07.154839+00:00",
+  "id": 4
  }
 }
