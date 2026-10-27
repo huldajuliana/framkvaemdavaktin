@@ -25646,5 +25646,90 @@
   "tsort": "",
   "first_seen": "2026-10-27T15:06:45.347486+00:00",
   "id": 14
+ },
+ "f53ae302aea21d55": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-27",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/27/virkjanaleyfi_a_innan_vid_18_manudum/",
+  "title": "Virkjanaleyfi á innan við 18 mánuðum",
+  "sum": "Afgreiða á virkjunarleyfi og tengd leyfi sem eitt leyfi á innan við 18 mánuðum frá því að fullnægjandi umsókn berst samkvæmt nýju frumvarpi sem var afgreitt á ríkisstjórnarfundi í morgun.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-27T18:34:38.316296+00:00",
+  "id": 1
+ },
+ "6f040d50b6dd7cbc": {
+  "region": "Suðurland",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-27",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/27/byggja_hotel_upp_af_fjadrargljufri/",
+  "title": "Byggja hótel upp af Fjaðrárgljúfri",
+  "sum": "„Það gæti dregið til tíðinda með vorinu,“ segir Torfi G. Yngvason, einn eigenda Steina resort ehf. sem áformar mikla hóteluppbyggingu í landi Heiðarsels í Skaftárhreppi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-27T18:34:38.316296+00:00",
+  "id": 2
+ },
+ "80a856844337feed": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "4,68 ma.kr.",
+  "verk": [
+   "Suðurverk",
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-27",
+  "url": "https://byggingar.is/sudurverk-og-fossvelar-fa-468-milljarda-framkvaemd-vid-kjalarnes/?utm_source=rss&utm_medium=rss&utm_campaign=sudurverk-og-fossvelar-fa-468-milljarda-framkvaemd-vid-kjalarnes",
+  "title": "Suðurverk og Fossvélar fá 4,68 milljarða framkvæmd við Kjalarnes",
+  "sum": "Suðurverk og Fossvélar fá 4,68 milljarða framkvæmd við Kjalarnes Vegagerðin hefur samið við Suðurverk hf. og Fossvélar ehf. um annan áfanga breikkunar Hringvegar á Kjalarnesi. Tilboð fyrirtækjanna hljóðaði upp á 4,68 milljarða króna, eða um",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-27T18:34:38.316296+00:00",
+  "id": 3
+ },
+ "1effec4ac838d706": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "338,1 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-10-27",
+  "url": "https://bb.is/2026/10/gjaldheimta-eykst-en-framkvaemdir-dragast-saman/",
+  "title": "Gjaldheimta eykst en framkvæmdir dragast saman",
+  "sum": "Ný greining Samtaka iðnaðarins (SI) bendir til þess að sífellt stærra bil sé að myndast milli þess sem ríkið innheimtir af ökutækjum, eldsneyti og akstri annars vegar og þess sem varið er til vegasamgangna hins vegar. Á árunum 2019 til 2025",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-27T18:34:38.316296+00:00",
+  "id": 4
  }
 }
