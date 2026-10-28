@@ -25878,5 +25878,47 @@
   "tsort": "2026-01",
   "first_seen": "2026-10-28T15:43:14.574407+00:00",
   "id": 7
+ },
+ "46fffdd0e0416f3d": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-28",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-28-medalnidurgreidsla-loftbruar-9242-kronur-arid-2025-491157/",
+  "title": "Meðalniðurgreiðsla Loftbrúar 9.242 krónur árið 2025",
+  "sum": "Árið 2025 voru rétt rúmlega 80 þúsund flugleggir keyptir með Loftbrú. Kostnaður ríkisins við niðurgreiðsluna nam rúmlega 740 milljónum. Til stendur að gera breytingar á Loftbrú og greiða 9000 krónur af hverjum fluglegg í stað 40%. Verði nýt",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-28T18:40:41.115542+00:00",
+  "id": 1
+ },
+ "cdbab48c03fe2af1": {
+  "region": "Vestfirðir",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-10-28",
+  "url": "https://bb.is/2026/10/throun-og-framtidarhorfur-bygginga-og-skipulagsmala-a-vestfjordum/",
+  "title": "Þróun og framtíðarhorfur bygginga- og skipulagsmála á Vestfjörðum",
+  "sum": "Fimmtudaginn 29. október halda HMS og Tryggð byggð í samstarfi við Vestfjarðarstofu opinn fund um þróun og framtíðahorfur íbúðamarkaðar, bygginga og skipulagsmála á Vestfjörðum. Fundurinn verður haldinn í húsakynnum Vestfjarðarstofu við Suð",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-28T18:40:41.115542+00:00",
+  "id": 2
  }
 }
