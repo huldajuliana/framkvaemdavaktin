@@ -26088,5 +26088,47 @@
   "tsort": "",
   "first_seen": "2026-10-29T15:49:47.501181+00:00",
   "id": 8
+ },
+ "a74a4c2ad9f4b8ec": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-29",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/29/rikid_vill_skrifstofuhusnaedi_fyrir_allt_ad_625_man/",
+  "title": "Ríkið vill skrifstofuhúsnæði fyrir allt að 625 manns",
+  "sum": "Framkvæmdasýslan sem fer með ríkiseignir leitar að allt að tíu þúsund fermetra skrifstofuhúsnæði á höfuðborgarsvæðinu fyrir ríkisstofnanir.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-29T18:49:21.343944+00:00",
+  "id": 1
+ },
+ "a45f0e307054a0f6": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "ÞG verk"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-29",
+  "url": "https://www.visir.is/g/20262955508d/stjarnan-ir-fa-heimamenn-langthradan-sigur-",
+  "title": "Stjarnan - ÍR | Fá heima­menn langþráðan sigur?",
+  "sum": "Hér fer fram textalýsing frá leik Stjörnunnar og ÍR í fjórðu umferð Bónus-deildar karla í körfubolta. Flautað verður til leiks í ÞG Verk höllinni klukkan 19.15. Leikurinn er sýndur í beinni útsendingu á Sýn Sport Ísland 3.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-29T18:49:21.343944+00:00",
+  "id": 2
  }
 }
