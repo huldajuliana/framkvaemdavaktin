@@ -10,7 +10,11 @@ import config as C
 def _text(item: dict) -> str:
     # Fjarlægja mjúk bandstrik (U+00AD) sem sumir miðlar setja inni í orð í
     # fyrirsögnum (t.d. "Hag\u00adnýt", "hval\u00adveiðum") — þau brjóta orðaleit.
-    return (item["title"] + " " + item.get("summary", "")).replace("\u00ad", "").lower()
+    t = (item["title"] + " " + item.get("summary", "")).replace("\u00ad", "").lower()
+    # "ÞG Verk höllin" er ÍÞRÓTTAHÖLL (nafngreind eftir verktakanum ÞG Verk) —
+    # viðburðir þar (körfubolti o.fl.) mega ekki kveikja á verktaka-nafninu.
+    t = t.replace("þg verk höll", " ")
+    return t
 
 
 # Markaðs-/talningarefni um húsnæði — íbúðamarkaður, leigumarkaður, talningar HMS o.fl.
@@ -201,6 +205,9 @@ _HARD_NEGATIVES = [
     "leiksýning",
     # íþróttir
     "landslið", "deildarmeistar", "íslandsmeistar", "leikmaður", "leikmenn",
+    # körfubolti/leikjafréttir — "textalýsing frá leik", "Sýn Sport", "deildar
+    # karla/kvenna". (EKKI "fótbolt" — "útboð á gerð fótboltavallar" er framkvæmd.)
+    "körfubolt", "textalýsing", "sýn sport", "deildar karla", "deildar kvenna",
     # stjórnmál / utanríkismál (orðið "framkvæmd" á líka við um framkvæmd samninga)
     "utanríkisráðherra", "ees-samning", "evrópska efnahagssvæð", "evrópusamband",
     "þjóðaratkvæð", "sendiherra", "aðalræðismaður", "fullveldi", "alþjóðasamning",
