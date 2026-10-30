@@ -26110,25 +26110,132 @@
   "first_seen": "2026-10-29T18:49:21.343944+00:00",
   "id": 1
  },
- "a45f0e307054a0f6": {
+ "d95ca5c7c2f2bb98": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Suðurverk",
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-30",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/30/breikkun_vegar_a_kjalarnesi_hefst/",
+  "title": "Breikkun vegar á Kjalarnesi hefst",
+  "sum": "Vegagerðin hefur skrifað undir samning við Suðurverk hf. og Fossvélar ehf. um framkvæmd á 2. áfanga breikkunar hringvegarins frá Vallá til Hvalfjarðarvegar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-30T14:08:57.492138+00:00",
+  "id": 1
+ },
+ "493bba9e73d86fd8": {
   "region": "Landið allt",
   "type": "Innviðir",
   "scale": "Miðlungs",
   "scaleFig": "—",
   "verk": [
-   "ÞG verk"
+   "Óútboðið"
   ],
   "status": "Skipulag",
-  "src": "Vísir – allt",
-  "date": "2026-10-29",
-  "url": "https://www.visir.is/g/20262955508d/stjarnan-ir-fa-heimamenn-langthradan-sigur-",
-  "title": "Stjarnan - ÍR | Fá heima­menn langþráðan sigur?",
-  "sum": "Hér fer fram textalýsing frá leik Stjörnunnar og ÍR í fjórðu umferð Bónus-deildar karla í körfubolta. Flautað verður til leiks í ÞG Verk höllinni klukkan 19.15. Leikurinn er sýndur í beinni útsendingu á Sýn Sport Ísland 3.",
+  "src": "mbl.is – innlent",
+  "date": "2026-10-30",
+  "url": "https://www.mbl.is/frettir/innlent/2026/10/30/hefur_ahyggjur_af_trausti_til_landsvirkjunar/",
+  "title": "Hefur áhyggjur af trausti til Landsvirkjunar",
+  "sum": "Daði Már hefur áhyggjur af því hvaða áhrif mál Harðar Arnarsonar, fráfarandi forstjóra Landsvirkjunar, hefur á traust þjóðarinnar til fyrirtækisins.",
   "tender": "",
   "start": "",
   "end": "",
   "tsort": "",
-  "first_seen": "2026-10-29T18:49:21.343944+00:00",
+  "first_seen": "2026-10-30T14:08:57.492138+00:00",
   "id": 2
+ },
+ "b90d7e6216873d80": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-10-30",
+  "url": "https://www.visir.is/g/20262955753d/hadegisverdurinn-er-hvorki-okeypis-ne-an-afleidinga",
+  "title": "Há­degis­verðurinn er hvorki ó­keypis né án af­leiðinga",
+  "sum": "Millistjórnendur ræða fátt annað en samskiptavandann sem virðist hafa verið á milli stjórnar og fráfarandi forstjóra Landsvirkjunar – vanda sem leiddi til þess að Hörður Arnarson sagði að lokum upp störfum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-30T14:08:57.492138+00:00",
+  "id": 3
+ },
+ "a5d1a31ef66b4eff": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-10-30",
+  "url": "https://www.ruv.is/frettir/innlent/2026-10-30-blautt-vestan-til-en-bjartara-fyrir-nordan-og-austan-491283/",
+  "title": "Blautt vestan til en bjartara fyrir norðan og austan",
+  "sum": "Íbúar á vestanverðu landinu geta búið sig undir skúraleiðingar í dag. Norðan og austan til verður þurrt og sést meira að segja til sólar á köflum. Á morgun versnar veður nokkuð með meiri vindi og kaldara veðri. Vegagerðin er að kanna aðstæð",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-30T14:08:57.492138+00:00",
+  "id": 4
+ },
+ "21215065f629345d": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-30",
+  "url": "https://byggingar.is/vogar-bjoda-ut-1-150-metra-gongu-og-hjolastig-a-vogastapa/?utm_source=rss&utm_medium=rss&utm_campaign=vogar-bjoda-ut-1-150-metra-gongu-og-hjolastig-a-vogastapa",
+  "title": "12.11.2026 Vogar bjóða út 1.150 metra göngu- og hjólastíg á Vogastapa",
+  "sum": "Vogar bjóða út 1.150 metra göngu- og hjólastíg á Vogastapa Sveitarfélagið Vogar óskar eftir tilboðum í gerð 1.150 metra langs göngu- og hjólastígs frá Vogum í átt að mislægum gatnamótum Reykjanesbrautar við Grindavíkurveg. Um er að ræða fyr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-10-30T14:08:57.492138+00:00",
+  "id": 5
+ },
+ "bf3aeeaa635172d5": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)",
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-10-30",
+  "url": "https://byggingar.is/vegagerdin-bydur-ut-honnun-bradabirgdatengingar-borgarlinu-um-nesbrautarbru/?utm_source=rss&utm_medium=rss&utm_campaign=vegagerdin-bydur-ut-honnun-bradabirgdatengingar-borgarlinu-um-nesbrautarbru",
+  "title": "01.12.2026 Vegagerðin býður út hönnun bráðabirgðatengingar Borgarlínu um Nesbrautarbrú",
+  "sum": "Vegagerðin býður út hönnun bráðabirgðatengingar Borgarlínu um Nesbrautarbrú Vegagerðin og Veitur ohf. óska eftir tilboðum í for- og verkhönnun bráðabirgðatengingar Borgarlínu um Nesbrautarbrú í Reykjavík. Verkefnið felur í sér breytingar á ",
+  "tender": "2026",
+  "start": "",
+  "end": "",
+  "tsort": "2026-01",
+  "first_seen": "2026-10-30T14:08:57.492138+00:00",
+  "id": 6
  }
 }
