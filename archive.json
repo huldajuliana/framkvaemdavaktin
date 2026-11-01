@@ -26531,5 +26531,26 @@
   "tsort": "",
   "first_seen": "2026-11-01T15:43:54.391570+00:00",
   "id": 3
+ },
+ "005de5bd34d9fb4a": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-01",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/01/hefjast_handa_vid_ad_dypka_i_eyjum/",
+  "title": "Hefjast handa við að dýpka í Eyjum",
+  "sum": "Framkvæmdir við að stytta Hörgaeyrargarð, norður hafnargarðinn í Vestmannaeyjahöfn eru hafnar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-01T18:17:18.521353+00:00",
+  "id": 1
  }
 }
