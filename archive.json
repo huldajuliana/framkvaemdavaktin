@@ -26468,5 +26468,68 @@
   "tsort": "",
   "first_seen": "2026-10-31T14:59:59.808673+00:00",
   "id": 10
+ },
+ "f56002513a2d71af": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-01",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/01/heilsugaeslan_liklega_a_nyjan_stad/",
+  "title": "Heilsugæslan líklega á nýjan stað",
+  "sum": "Útlit er fyrir að heilsugæslan í Garðabæ verði færð af Garðatorgi og yfir í Vetrarmýri, en þar er nú unnið að uppbyggingu nýs hverfis sem teygir sig frá Vífilsstöðum og upp á Hnoðraholtið.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-01T15:43:54.391570+00:00",
+  "id": 1
+ },
+ "3f7c4da21ca9f3d0": {
+  "region": "Norðurland vestra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-01-nyr-vegkafli-til-ad-stytta-hringveginn-ekki-a-adalskipulagi-hunabyggdar-491252/",
+  "title": "Nýr vegkafli til að stytta hringveginn ekki á aðalskipulagi Húnabyggðar",
+  "sum": "Húnabyggð varð til við sameiningu Húnavatnshrepps og Blönduósbæjar 2022. Þörf er á að endurskoða aðalskipulag sveitarfélagsins en þrjú eru í gildi, frá Blönduósbæ, frá Húnavatnshreppi og frá Skagabyggð. Nú á að sameina þau í eitt. 33 umsagn",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-01T15:43:54.391570+00:00",
+  "id": 2
+ },
+ "c892d0dcd434ea51": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-01",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-01-mikill-ahugi-a-vadolduveri-og-400-storf-vid-hvammsvirkjun-491110/",
+  "title": "Mikill áhugi á Vaðölduveri og 400 störf við Hvammsvirkjun",
+  "sum": "Þá eru framkvæmdir við Hvammsvirkjun hafnar en um 400 manns munu fá vinnu við virkjunina. Eins og kunnugt er þá voru fyrstu vindmyllurnar fluttar í Vaðölduver og settar upp þar í sumar og voru fyrstu vindmyllurnar formlega gangsettar 15. se",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-01T15:43:54.391570+00:00",
+  "id": 3
  }
 }
