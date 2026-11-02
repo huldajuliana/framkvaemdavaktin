@@ -26552,5 +26552,68 @@
   "tsort": "",
   "first_seen": "2026-11-01T18:17:18.521353+00:00",
   "id": 1
+ },
+ "bf5dbf3a823be2e2": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-02",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/02/stjorn_landsvirkjunar_sendir_fra_ser_yfirlysingu/",
+  "title": "Stjórn Landsvirkjunar sendir frá sér yfirlýsingu",
+  "sum": "Stjórn Landsvirkjunar hafnar því að hafa farið út fyrir lögbundið hlutverk sitt eða heimildir og segir ekkert hafa komið fram við yfirferð athugasemda Harðar Arnarsonar, fyrrverandi forstjóra fyrirtækisins, sem bendi til annars.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-02T19:09:01.106298+00:00",
+  "id": 1
+ },
+ "6729a1999a6e2e52": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-02",
+  "url": "https://www.visir.is/g/20262957319d/breytt-vinnubrogd-skopudu-nuning-milli-forstjora-og-stjornar",
+  "title": "Breytt vinnu­brögð sköpuðu núning milli for­stjóra og stjórnar",
+  "sum": "Stjórn Landsvirkjunar segir að skoðun óháðra aðila á athugasemdum Harðar Arnarsonar, fyrrverandi forstjóra, um stjórnarhætti hafi leitt í ljós að stjórnin hafi ekki farið út fyrir lögbundið hlutverk sitt eða heimildir. Þá hafi Herði ekki ve",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-02T19:09:01.106298+00:00",
+  "id": 2
+ },
+ "88a75728294ee10f": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-02",
+  "url": "https://www.visir.is/g/20262956099d/traust-byggist-a-vondudum-vinnubrogdum",
+  "title": "Traust byggist á vönduðum vinnu­brögðum",
+  "sum": "Undanfarnar vikur hefur verið mikil umræða í Hafnarfirði um fyrirhugaða uppbyggingu við Krýsuvíkurveg og Hvaleyrarvatnsveg. Málið hefur vakið sterkar tilfinningar, fjölmargar spurningar og ekki síst mikilvæga umræðu um samráð við íbúa, ákva",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-02T19:09:01.106298+00:00",
+  "id": 3
  }
 }
