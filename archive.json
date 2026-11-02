@@ -26615,5 +26615,47 @@
   "tsort": "",
   "first_seen": "2026-11-02T19:09:01.106298+00:00",
   "id": 3
+ },
+ "a21408c7ba7b3d56": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-02",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/02/radherra_raeddi_landsnetsdeilu_an_forstjora/",
+  "title": "Ráðherra ræddi Landsnetsdeilu án forstjóra",
+  "sum": "Daði Már Kristófersson fjármála- og efnahagsráðherra ræddi ágreining Landsvirkjunar og Landsnets við stjórn Landsvirkjunar á fundi 6. janúar síðastliðinn, án þess að Hörður Arnarson, þáverandi forstjóri fyrirtækisins, væri viðstaddur. Ráðhe",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-02T22:11:07.263797+00:00",
+  "id": 1
+ },
+ "7b342ca769ea6538": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-02",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-02-ottadist-ad-politisk-afskipti-myndu-gera-landsvirkjun-ostarfhaefa-491525/",
+  "title": "Óttaðist að pólitísk afskipti myndu gera Landsvirkjun óstarfhæfa",
+  "sum": "Hörður Arnarson, forstjóri Landsvirkjunar, hóf að gera athugasemdir við starfshætti stjórnar og fjármálaráðuneytisins í lok síðasta árs. Hann taldi afskipti stjórnarinnar af starfi fyrirtækisins óeðlileg og jafnvel ólögleg og óttaðist að þa",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-02T22:11:07.263797+00:00",
+  "id": 2
  }
 }
