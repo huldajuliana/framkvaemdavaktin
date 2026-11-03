@@ -26867,5 +26867,88 @@
   "tsort": "",
   "first_seen": "2026-11-03T16:48:55.810204+00:00",
   "id": 10
+ },
+ "97462aa1e3f0a8d9": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-03",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/03/framkvaemdin_i_uppnami_og_verktakar_sendir_heim/",
+  "title": "Framkvæmdin í uppnámi og verktakar sendir heim",
+  "sum": "Öllum verktökum við byggingu hótelturnsins við Skúlagötu í Reykjavík var vísað af byggingarstað og honum lokað eftir að viðskiptabanki Rauðsvíkur lokaði fyrir frekari fjárveitingar til verkefnisins, samkvæmt heimildum RÚV.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-03T19:58:52.392200+00:00",
+  "id": 1
+ },
+ "d59bb8edcc7e4f0a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-03",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/03/segir_tveimur_fundum_ruglad_saman/",
+  "title": "Segir tveimur fundum ruglað saman",
+  "sum": "Daði Már hafnar því að hafa óskað eftir að funda með stjórn Landsvirkjunar án Harðar Arnarsonar þáverandi forstjóra.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-03T19:58:52.392200+00:00",
+  "id": 2
+ },
+ "5bdbc7e5ec727cf2": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-03",
+  "url": "https://www.visir.is/g/20262957999d/uppbygging-umdeilds-hotels-i-uppnami",
+  "title": "Upp­bygging umdeilds hótels í upp­námi",
+  "sum": "Uppbygging sautján hæða hótelturns Radisson Red við Skúlagötu er sögð í uppnámi eftir að verktakar voru óvænt sendir heim í gær og byggingarsvæðinu lokað. Banki er sagður hafa lokað fyrir greiðslur til framkvæmdafyrirtækisins.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-03T19:58:52.392200+00:00",
+  "id": 3
+ },
+ "21ea8386083ab797": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-03",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-03-verktakar-sendir-heim-og-framkvaemdin-stodvud-491630/",
+  "title": "Verktakar sendir heim og framkvæmdin stöðvuð",
+  "sum": "Framkvæmdir við sautján hæða risahótel við Skúlagötu í Reykjavík eru í uppnámi eftir að öllum verktökum var vísað af byggingarstað í gær og honum lokað. Turnbyggingin við Skúlagötu hefur ekki farið fram hjá neinum sem keyrir Sæbraut. Mikið ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-03T19:58:52.392200+00:00"
  }
 }
