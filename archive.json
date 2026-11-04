@@ -27371,5 +27371,47 @@
   "tsort": "",
   "first_seen": "2026-11-04T16:49:23.856944+00:00",
   "id": 19
+ },
+ "8e4835ec85a645fa": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-04",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/04/bersynilegt_ad_politisk_afskipti_hafa_aukist/",
+  "title": "Bersýnilegt að pólitísk afskipti hafa aukist",
+  "sum": "Sigurður Ingi Jóhannsson, þingmaður Framsóknarflokksins, segir bersýnilegt að pólitísk afskipti af Landsvirkjun hafi aukist eftir að fyrirkomulagi var breytt á þann hátt að ráðherra skipi alla stjórnarmenn fyrirtækisins.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-04T20:18:19.183099+00:00",
+  "id": 1
+ },
+ "6dd4ffa3ecda6b57": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Reykjavíkurborg – fréttir",
+  "date": "2026-11-04",
+  "url": "https://reykjavik.is/frettir/2026/annar-afangi-framkvaemda-vid-nautholsveg-og-hr-ad-hefjast",
+  "title": "Annar áfangi framkvæmda við Nauthólsveg og HR að hefjast",
+  "sum": "Annar áfangi framkvæmda við Nauthólsveg og HR að hefjast",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-04T20:18:19.183099+00:00",
+  "id": 2
  }
 }
