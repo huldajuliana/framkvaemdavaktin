@@ -27686,5 +27686,47 @@
   "tsort": "",
   "first_seen": "2026-11-05T17:04:25.066681+00:00",
   "id": 13
+ },
+ "f0de5d757d52e8bf": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-05",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-05-itrekadar-athugasemdir-fra-vinnueftirlitinu-og-ibuar-ordnir-langthreyttir-491922/",
+  "title": "Ítrekaðar athugasemdir frá Vinnueftirlitinu og íbúar orðnir langþreyttir",
+  "sum": "Vinnueftirlitið hefur gert ítrekaðar athugasemdir við frágang á byggingu hótelturnsins við Skúlagötu. Götur hafa verið lokaðar kringum byggingarstaðinn árum saman og íbúar hafa kvartað. Enginn græðir á því að bygging hótelsins sé stopp eins",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-05T20:29:14.357149+00:00",
+  "id": 1
+ },
+ "b52560d292c33a9d": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "3,9 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-05",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-05-verktaki-sem-kopavogsbaer-krefur-um-milljarda-er-i-greidslustodvun-491890/",
+  "title": "Verktaki sem Kópavogsbær krefur um milljarða er í greiðslustöðvun",
+  "sum": "Kópa­vogs­bær sækir full­ar heimt­ur vegna van­efnda verk­taka við bygg­ingu Barna­skóla Kárs­ness. Svona hljóðaði yfirskrift fréttatilkynningar frá Kópavogsbæ um miðjan síðasta mánuð. Þar kom fram að bærinn hygðist krefja ítalska verktakaf",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-05T20:29:14.357149+00:00",
+  "id": 2
  }
 }
