@@ -27833,5 +27833,26 @@
   "tsort": "",
   "first_seen": "2026-11-06T16:34:44.001117+00:00",
   "id": 5
+ },
+ "610c9f8dbecfe9ed": {
+  "region": "Suðurland",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Dagskráin – Suðurland",
+  "date": "2026-11-06",
+  "url": "https://www.dfs.is/frettir/frett/selfoss-og-sudurland-hvert-stefnir/",
+  "title": "Selfoss og Suðurland, hvert stefnir?",
+  "sum": "Hvernig hefur Selfoss þróast á undanförnum árum, hvað ræður búsetuvali fólks og hvaða áhrif hefur vöxtur bæjarins á atvinnulíf, samfélag og byggðaþróun á Suðurlandi? Þetta eru meðal þeirra spurninga sem ræddar verða á opnu málþingi á Hótel ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-06T19:52:14.352136+00:00",
+  "id": 1
  }
 }
