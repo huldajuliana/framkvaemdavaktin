@@ -27854,5 +27854,68 @@
   "tsort": "",
   "first_seen": "2026-11-06T19:52:14.352136+00:00",
   "id": 1
+ },
+ "d077bab92206ee59": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-07",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/07/afleidingar_ef_rangt_var_farid_med/",
+  "title": "Afleiðingar ef rangt var farið með",
+  "sum": "Daði Már Kristófersson fjármálaráðherra segir að það muni hafa afleiðingar ef rétt reynist að stjórnarformaður Landsvirkjunar hafi farið með rangt mál gagnvart Herði Arnarsyni, fyrrverandi forstjóra fyrirtækisins, um ástæður þess að fundur ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-07T15:23:53.813510+00:00",
+  "id": 1
+ },
+ "d61fa68be9ef124d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "20 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Vísir – allt",
+  "date": "2026-11-07",
+  "url": "https://www.visir.is/g/20262959703d/hver-gaetir-vardanna-",
+  "title": "Hver gætir varðanna?",
+  "sum": "Nýstofnað ríkisfyrirtæki, Göng og brú ohf., hefur auglýst útboð á umfangsmikilli ráðgjafaþjónustu vegna fyrirhugaðra samgönguframkvæmda. Áætlað heildarvirði samningsins er 150 milljónir evra, jafnvirði um 20 milljarða króna.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-07T15:23:53.813510+00:00",
+  "id": 2
+ },
+ "ad7e1bcd42b8208f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-07",
+  "url": "https://www.visir.is/g/20262959648d/almenningur-hefur-brugdist-stjorn-landsvirkjunar-og-carbfix",
+  "title": "Al­menningur hefur brugðist stjórn Lands­virkjunar og Car­b­fix",
+  "sum": "Áform Daða Más Kristinssonar fjármálaráðherra um að koma á „faglegri“ skipan í stjórnir ríkisfyrirtækja hafa gengið sérstaklega vel eftir. Nú, átján mánuðum eftir að fjármálaráðherra skipti út öllum stjórnarmönnum og setti sitt fólk í staði",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-07T15:23:53.813510+00:00",
+  "id": 3
  }
 }
