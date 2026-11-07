@@ -27917,5 +27917,26 @@
   "tsort": "",
   "first_seen": "2026-11-07T15:23:53.813510+00:00",
   "id": 3
+ },
+ "55411ba92d1f07c8": {
+  "region": "Norðurland eystra",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-07",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-07-grafa-tilraunaholur-a-bakka-fyrir-vaentanlegt-gagnaver-491904/",
+  "title": "Grafa tilraunaholur á Bakka fyrir væntanlegt gagnaver",
+  "sum": "Skipulags- og framkvæmdaráð í Norðurþingi hefur lagt til að fyrirtæki sem vill byggja gagnaver fái úthlutaða lóð á Bakka, norðan Húsavíkur. Fyrirtækið hefur eins óskað eftir því að grafa rannsóknarholur á Bakka í nóvember. Greinilegur vilji",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-07T17:57:35.111299+00:00",
+  "id": 1
  }
 }
