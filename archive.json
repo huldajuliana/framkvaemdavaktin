@@ -28105,5 +28105,320 @@
   "tsort": "",
   "first_seen": "2026-11-08T15:46:09.706251+00:00",
   "id": 7
+ },
+ "339bb05a03f2e4fe": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-09",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/09/dadi_bodar_afhendingu_gagna_um_landsvirkjun/",
+  "title": "Daði boðar afhendingu gagna um Landsvirkjun",
+  "sum": "Öll gögn í fjármála- og efnahagsráðuneytinu sem varða umrætt mál Landsvirkjunar verða lögð fram, að sögn Daða Más Kristóferssonar fjármála- og efnahagsráðherra. Hann treystir sér hins vegar ekki til að fullyrða hvort hægt verði að afhenda f",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 1
+ },
+ "21109fdedde309e8": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-09",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/09/engar_ahyggjur_af_adkomu_esa/",
+  "title": "Engar áhyggjur af aðkomu ESA",
+  "sum": "Kristrún Frostadóttir forsætisráðherra segist ekki hafa áhyggjur af aðkomu ESA að málefnum Landsvirkjunar vegna mögulegra pólitískra afskipta hér á landi. Þetta kom fram í máli hennar í óundirbúnum fyrirspurnartíma á þinginu í dag.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 2
+ },
+ "887c35f61f9d6886": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-11-09",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/09/fjarmalaraduneytid_ordid_of_valdamikid/",
+  "title": "Fjármálaráðuneytið orðið of valdamikið",
+  "sum": "Sigurður Ingi Jóhannsson, fyrrverandi fjármálaráðherra, segir að samskipti stjórnar Landsvirkjunar við fjármálaráðuneytið hafi tekið óeðlilegum breytingum eftir að ný stjórn tók við fyrirtækinu.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 3
+ },
+ "1242753aeab9e5f9": {
+  "region": "Suðurland",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-11-09",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/09/vilji_til_ad_reisa_gagnaver_i_olfusi/",
+  "title": "Vilji til að reisa gagnaver í Ölfusi",
+  "sum": "Viljayfirlýsing um mögulegt gagnaver í Ölfusi var samþykkt samhljóða á bæjarráðsfundi á fimmtudag.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 4
+ },
+ "afc9c9767f783783": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-11-09",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/09/afhendir_ekki_tolvupostana/",
+  "title": "Afhendir ekki tölvupóstana",
+  "sum": "Brynja Baldursdóttir stjórnarformaður Landsvirkjunar neitar að afhenda Morgunblaðinu tölvupóstsamskiptin.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 5
+ },
+ "ff871651c1d6ff95": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-09",
+  "url": "https://www.visir.is/g/20262960758d/icelandair-aetti-ad-horfa-til-akureyrar",
+  "title": "Icelandair ætti að horfa til Akur­eyrar",
+  "sum": "Það er kominn tími til að Icelandair hefji beint áætlunarflug milli Akureyrar og Kaupmannahafnar. Þróun síðustu ára hefur styrkt rökin fyrir þeirri leið: easyJet hefur fest sig í sessi með flugi frá London og Manchester, innviðir Akureyrarf",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 6
+ },
+ "23a3e1da004221e6": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-09",
+  "url": "https://www.visir.is/g/20262960654d/vardi-spurningar-um-landsnet-a-fundi-an-hardar",
+  "title": "Varði spurningar um Lands­net á fundi án Harðar",
+  "sum": "Daði Már Kristófersson fjármálaráðherra sagði á Alþingi í dag að hann hefði sjálfur spurt um lokagreiðslu ríkisins vegna kaupa á hlut Landsvirkjunar í Landsneti. Hann bar spurninguna upp á fundi með stjórn Landsvirkjunar í fjármálaráðuneyti",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 7
+ },
+ "1ae7c555787fa184": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-09",
+  "url": "https://www.visir.is/g/20262960615d/vildi-vita-hvort-kristrun-vissi-af-vidvorunum-hardar-fyrir-fundinn",
+  "title": "Vildi vita hvort Krist­rún vissi af við­vörunum Harðar fyrir fundinn",
+  "sum": "Guðrún Hafsteinsdóttir spurði Kristrúnu Frostadóttur forsætisráðherra á Alþingi í dag hvort hún hefði vitað af viðvörunum Harðar Arnarsonar um hættu á pólitískum afskiptum af Landsvirkjun fyrir fundinn með Herði 1. október. Hún spurði líka ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 8
+ },
+ "1d1e2c4f8eca549b": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-08",
+  "url": "https://www.visir.is/g/20262960120d/malbika-i-reykjavik-og-gardabae",
+  "title": "Mal­bika í Reykja­vík og Garða­bæ",
+  "sum": "Á morgun, mánudaginn 9. nóvember, er stefnt að malbiksframkvæmdum á rampi af Miklubraut að Réttarholtsvegi og á gatnamótum Vífilstaðavegar og Hafnafjarðarvegar. Vegfarendur eru beðnir um að virða merkingar og hraðatakmarkanir og sýna aðgát ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 14
+ },
+ "3fc3be83bdbc24a5": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-08",
+  "url": "https://www.visir.is/g/20262960088d/ofugsnuin-stada-ad-umhverfisradherra-se-hardasti-virkjunarsinni-landsins-",
+  "title": "Öfug­snúin staða að um­hverfis­ráð­herra sé „harðasti virkjunarsinni landsins“",
+  "sum": "Vinstri græn lýsa yfir þungum áhyggjum af „metnaðarleysi“ umhverfisráðherra og ríkisstjórnarinnar í umhverfis- og loftslagsmálum. Varaborgarfulltrúi flokksins segir það öfugsnúna stöðu að vera með „harðasta virkjunarsinna landsins“ sem umhv",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 15
+ },
+ "eda5b77d0d6c5914": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-09",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-09-halda-afram-ad-thrysta-a-rikisstjornina-vegna-afsagnar-hardar-492218/",
+  "title": "Halda áfram að þrýsta á ríkisstjórnina vegna afsagnar Harðar",
+  "sum": "Fjórar af fimm fyrirspurnum dagsins í óundirbúnum fyrirspurnatíma á Alþingi snerust um afsögn forstjóra Landsvirkjunar og aðdraganda hennar. Stjórnarandstaðan beindi spjótum sínum að forsætisráðherra og fjármálaráðherra. Guðrún Hafsteinsdót",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 9
+ },
+ "a5129982c438ac1e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-09",
+  "url": "https://byggingar.is/godur-gangur-hja-alverki-vid-byggingu-70-namsmannaibuda-i-arnarbakka/?utm_source=rss&utm_medium=rss&utm_campaign=godur-gangur-hja-alverki-vid-byggingu-70-namsmannaibuda-i-arnarbakka",
+  "title": "Góður gangur hjá Alverki við byggingu 70 námsmannaíbúða í Arnarbakka",
+  "sum": "Góður gangur hjá Alverki við byggingu 70 námsmannaíbúða í Arnarbakka Framkvæmdir Alverks ehf. við byggingu 70 námsmannaíbúða fyrir Byggingafélag námsmanna (BN) í Arnarbakka í Breiðholti ganga vel. Þetta kemur fram í nýlegri tilkynningu verk",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 10
+ },
+ "7c7d59f213ee1a34": {
+  "region": "Vesturland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Veitur (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-09",
+  "url": "https://byggingar.is/vinna-vid-hafin-a-akranesi-vegna-rannsoknarborunar-eftir-heitu-vatni/?utm_source=rss&utm_medium=rss&utm_campaign=vinna-vid-hafin-a-akranesi-vegna-rannsoknarborunar-eftir-heitu-vatni",
+  "title": "Vinna við hafin á Akranesi vegna rannsóknarborunar eftir heitu vatni",
+  "sum": "Vinna við hafin á Akranesi vegna rannsóknarborunar eftir heitu vatni Veitur hafa hafið undirbúning að rannsóknarborun eftir heitu vatni við Jaðarsbakka á Akranesi. Samkvæmt framkvæmdaáætlun á vinna við borplan að fara fram í nóvember, en í ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 11
+ },
+ "8f8b9cfbe70ad731": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-09",
+  "url": "https://byggingar.is/byggja-innvidi-borgarlinunnar/?utm_source=rss&utm_medium=rss&utm_campaign=byggja-innvidi-borgarlinunnar",
+  "title": "Byggja innviði borgarlínunnar",
+  "sum": "Byggja innviði borgarlínunnar Nú er að hefjast annar áfangi framkvæmda við uppbyggingu innviða við Nauthólsveg og Háskólann í Reykjavík (HR). Verkið er hluti af borgarlínu og felur í sér breytingar á götusniði Nauthólsvegar, Menntavegar og ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 12
+ },
+ "68beebc0609becb9": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-11-09",
+  "url": "https://bb.is/2026/11/husnaedisbaetur-voru-skertar-hja-rumlega-helmingi-heimila-i-oktober/",
+  "title": "Húsnæðisbætur voru skertar hjá rúmlega helmingi heimila í október",
+  "sum": "Húsnæðis- og mannvirkjastofnun greiddi 966 milljónir króna í húsnæðisstuðning til 18.087 heimila á leigumarkaði vegna leigu í október 2026. Rúmlega helmingur þeirra fékk greiddar skertar húsnæðisbætur, en ástæður skerðingar má ýmist rekja t",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T19:28:24.606251+00:00",
+  "id": 13
  }
 }
