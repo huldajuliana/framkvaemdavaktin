@@ -28420,5 +28420,68 @@
   "tsort": "",
   "first_seen": "2026-11-09T19:28:24.606251+00:00",
   "id": 13
+ },
+ "c4ce9af8a1a410b8": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-09",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/09/hofn_verdi_afangastadur_framtidar/",
+  "title": "Höfn verði áfangastaður framtíðar",
+  "sum": "„Uppbygging nýs miðbæjar hér mun breyta miklu fyrir staðinn. Höfn fær nýjan svip; bær sem í dag er áningarstaður margra en gæti orðið, ef vel tekst til, áfangastaður þar sem ferðafólk staldrar við í nokkra daga og nýtur þess sem býðst hér u",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T22:53:38.423564+00:00",
+  "id": 1
+ },
+ "da967d8a2045a196": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "130 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-09",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/09/eg_veit_ekki_hvar_hann_faer_thessa_130_milljarda/",
+  "title": "„Ég veit ekki hvar hann fær þessa 130 milljarða“",
+  "sum": "„Ég veit ekki hvar hann fær þessa 130 milljarða en Guð minn góður, ef ég hef nefnt 130 milljarða, þá er það spurning um það: Verða göng eða brú. Það er það sem skiptir máli,“ sagði Eyjólfur Ármannsson innviðaráðherra.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T22:53:38.423564+00:00",
+  "id": 2
+ },
+ "6a54c3e9825c2a37": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-09",
+  "url": "https://www.visir.is/g/20262960269d/ekkert-verid-ad-studa-i-studinu",
+  "title": "Ekkert verið að stuða í stuðinu",
+  "sum": "Það var líf, fjör og heilmikið stuð í frumsýningarpartíi í Bíó Paradís í síðustu viku. Fjöldi stjarna úr tónlistarheiminum mætti á sviðið þegar StuðStreymi, nýjar tónleikamyndir frá virkjunum Orkusölunnar, voru sýndar í fyrsta sinn.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-09T22:53:38.423564+00:00",
+  "id": 3
  }
 }
