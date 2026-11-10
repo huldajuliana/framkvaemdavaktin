@@ -28735,5 +28735,26 @@
   "tsort": "",
   "first_seen": "2026-11-10T16:46:02.311660+00:00",
   "id": 12
+ },
+ "f385adb67f38dd8f": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-10",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/10/miklar_umferdartafir_i_artunsbrekku/",
+  "title": "Miklar umferðartafir í Ártúnsbrekku",
+  "sum": "Samkvæmt vef Vegagerðarinnar voru ramparnir á Víkurvegi inn og út úr Grafarholti malbikaðir og voru lokaðir.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-10T20:17:26.185812+00:00",
+  "id": 1
  }
 }
