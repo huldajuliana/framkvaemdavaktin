@@ -28756,5 +28756,236 @@
   "tsort": "",
   "first_seen": "2026-11-10T20:17:26.185812+00:00",
   "id": 1
+ },
+ "4fa61c1f648e75fa": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-11",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/11/segir_stjorn_landsvirkjunar_bera_alla_abyrgd/",
+  "title": "Segir stjórn Landsvirkjunar bera alla ábyrgð",
+  "sum": "„Stjórn Landsvirkjunar er sjálfstæð stjórn og mér finnst hún í rauninni bera alla ábyrgð á málunum eins og þeim er fyrir komið í dag,“ sagði Inga.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-11T16:52:06.408723+00:00",
+  "id": 1
+ },
+ "0373273443b95f3a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-11",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/11/11/fleiri_samningar_fyrstu_kaupenda_thratt_fyrir_samdr/",
+  "title": "Fleiri samningar fyrstu kaupenda þrátt fyrir samdrátt",
+  "sum": "Kaupsamningum fyrstu kaupenda á húsnæðismarkaði fjölgaði á síðasta ári þótt kaupsamningum í heild fækkaði.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-11T16:52:06.408723+00:00",
+  "id": 2
+ },
+ "86c6c8b9cc8d2a79": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-11-11",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/11/11/vilja_byggja_framleidslustod_vid_theistareyki/",
+  "title": "Vilja byggja framleiðslustöð við Þeistareyki",
+  "sum": "Stefnt er að því að framkvæmdir við fyrsta áfanga hefjist á næsta ári.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-11T16:52:06.408723+00:00",
+  "id": 3
+ },
+ "15538432fc789eaa": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-11",
+  "url": "https://www.visir.is/g/20262961786d/telur-stjorn-landsvirkjunar-bera-alla-abyrgd",
+  "title": "Telur stjórn Lands­virkjunar bera alla á­byrgð",
+  "sum": "Stjórn Landsvirkjunar ber alla ábyrgð á þeirri stöðu sem er komin upp hjá fyrirtækinu að mati Ingu Sæland, mennta- og barnamálaráðherra. Hún bætti við í svari sínu á Alþingi í dag að deilan um samskipti Landsvirkjunar og fjármálaráðuneytisi",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-11T16:52:06.408723+00:00",
+  "id": 4
+ },
+ "e0f050c25b57fd2b": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-11",
+  "url": "https://www.visir.is/g/20262961539d/framleidsla-i-vadolduveri-undir-vaentingum-landsvirkjunar",
+  "title": "Fram­leiðsla í Vaðöldu­veri undir væntingum Lands­virkjunar",
+  "sum": "Gert er ráð fyrir tilraunarekstri á vindmyllum í Vaðölduveri út veturinn. Landsvirkjun segir framleiðslu undir væntingum og vísar til milds veðurs. Allar fjórtán vindmyllurnar hafa verið í gangi í að minnsta kosti tíu daga en þó misjafnt hv",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-11T16:52:06.408723+00:00",
+  "id": 5
+ },
+ "0549aa6334eb59c7": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-11",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-11-visar-allri-abyrgdinni-a-stjorn-landsvirkjunar-492400/",
+  "title": "Vísar allri ábyrgðinni á stjórn Landsvirkjunar",
+  "sum": "„Stjórn Landsvirkjunar er sjálfstæð stjórn og mér finnst í rauninni hún bera alla ábyrgð á málunum eins og þeim er fyrir komið í dag.“ Þetta sagði Inga Sæland, formaður Flokks fólksins og mennta- og barnamálaráðherra, á Alþingi í dag. Stjór",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-11T16:52:06.408723+00:00",
+  "id": 6
+ },
+ "9d4364400a6ec934": {
+  "region": "Norðurland eystra",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Í byggingu",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-11",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-11-vindorkumal-reyna-a-samstodu-i-sveitarfelogum-492366/",
+  "title": "Vindorkumál reyna á samstöðu í sveitarfélögum",
+  "sum": "Rúmlega 1200 hafa skrifað undir lista til að mótmæla hugmyndum um uppbyggingu vindorkuvers á Hólaheiði við Hnotastein í Norðurþingi. Franska fyrirtækið Qair vill reisa þrjátíu 200 metra háar vindmyllur sem geta framleitt um 216 megavött af ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-11T16:52:06.408723+00:00",
+  "id": 7
+ },
+ "bd1c58125ab4a23a": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-11",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-11-gul-vidvorun-vegna-hvassvidris-492356/",
+  "title": "Gul viðvörun vegna hvassviðris",
+  "sum": "Hvöss norðvestanátt verður austanlands og gul viðvörun vegna vinds á Austfjörðum og sunnan Vatnajökuls. Á vef Vegagerðarinnar segir að ófært sé vegna hvassviðris í Hamarsfirði og Álftafirði. Í öðrum landshlutum er mun hægari vindur og víða ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-11T16:52:06.408723+00:00",
+  "id": 8
+ },
+ "c83e6497d843c604": {
+  "region": "Austurland",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-11",
+  "url": "https://byggingar.is/nytt-husnaedi-svn-verdur-tilbuid-i-mars/?utm_source=rss&utm_medium=rss&utm_campaign=nytt-husnaedi-svn-verdur-tilbuid-i-mars",
+  "title": "Nýtt húsnæði SVN verður tilbúið í mars",
+  "sum": "Nýtt húsnæði SVN verður tilbúið í mars Framkvæmdir við skrifstofuhúsnæði Síldarvinnslunnar (SVN) að Hafnarbraut 6 í Neskaupstað eru sagðar ganga vel. „Ofan á húsið var þriðja hæðin byggð og önnur hæðin verður endurinnréttuð. Auk þess var by",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-11T16:52:06.408723+00:00",
+  "id": 9
+ },
+ "47c1e4bd1ce32700": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-11-11",
+  "url": "https://bb.is/2026/11/althingi-veggjold-af-sundbraut-fjarmagna-fljotagong/",
+  "title": "Alþingi: veggjöld af Sundbraut fjármagna Fljótagöng?",
+  "sum": "Birt hefur verið svar fjármálaráðherra Daða Más Kristóferssonar (C) við fyrirspurn Ólafs Adolfssonar, alþm. (D) um fjármögnun Fljótaganga. Spurt var Hversu hátt eiginfjárframlag ríkissjóður þurfi að leggja til félagsins Ganga og brúar ohf. ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-11T16:52:06.408723+00:00",
+  "id": 10
+ },
+ "a4858116c96f1af5": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-11-11",
+  "url": "https://bb.is/2026/11/arneshreppur-skipulagsbreytingar-vegna-hvalarvirkjunar/",
+  "title": "Árneshreppur: skipulagsbreytingar vegna Hvalárvirkjunar",
+  "sum": "Hreppsnefnd Árneshrepps samþykkti í byrjun október breytingar á aðalskipulagi sveitarfélagins 2005–2025 vegna jarðstrengs frá Melum í Trékyllisvík að Hvalá og lagfæringa á Ófeigsfjarðarvegi, með þeim breytingum og lagfæringum sem gerðar vor",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-11T16:52:06.408723+00:00",
+  "id": 11
  }
 }
