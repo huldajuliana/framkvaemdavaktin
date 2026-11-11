@@ -28987,5 +28987,47 @@
   "tsort": "",
   "first_seen": "2026-11-11T16:52:06.408723+00:00",
   "id": 11
+ },
+ "ecade879c303ef81": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-11",
+  "url": "https://www.visir.is/g/20262961855d/spyr-hvort-verid-se-ad-nyta-ser-neyd-folks-og-lata-thad-taka-fjarhagslegan-skell",
+  "title": "Spyr hvort verið sé að nýta sér neyð fólks og láta það taka fjár­hags­legan skell",
+  "sum": "Grindvíkingur fordæmir að ríkið vilji selja íbúðir í bænum til íbúa á sama verði og þær voru keyptar á eftir eldsumbrot. Fasteignafélagið Þórkatla kynnti endurkaupaáætlun sína í gær og býður fólki ýmist að kaupa íbúðir sínar til baka, fá ei",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-11T20:01:24.660660+00:00",
+  "id": 1
+ },
+ "2b1483cc6bbb3262": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Vísir – allt",
+  "date": "2026-11-11",
+  "url": "https://www.visir.is/g/20262961802d/onnur-hver-ny-ibud-selst-undir-asettu-verdi",
+  "title": "Önnur hver ný í­búð selst undir á­settu verði",
+  "sum": "Önnur hver ný íbúð á höfuðborgarsvæðinu selst nú undir auglýstu söluverði og hefur hlutfallið farið hækkandi undanfarin tvö ár. Enn algengara er að eldri íbúðir seljist undir ásettu verði, eða í nær 85 prósent tilvika. Fasteignasalar segja ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-11T20:01:24.660660+00:00",
+  "id": 2
  }
 }
