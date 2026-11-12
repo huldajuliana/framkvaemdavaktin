@@ -29427,5 +29427,68 @@
   "end": "",
   "tsort": "",
   "first_seen": "2026-11-12T17:20:06.355447+00:00"
+ },
+ "595bd07f7176dc78": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "17 ma.kr.",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-12",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-12-inga-saeland-nu-getum-vid-bodid-heim-492551/",
+  "title": "Inga Sæland: „Nú getum við boðið heim“",
+  "sum": "Framkvæmdir eru hafnar við nýja Þjóðarhöll í Laugardal en byggingin er samstarfsverkefni ríkis og borgar. Mennta- og barnamálaráðherra segir að nú sé hægt að fara að bjóða öðrum þjóðum heim til kappleikja. Lengi hefur staðið til að hefja fr",
+  "tender": "",
+  "start": "",
+  "end": "janúar 2030",
+  "tsort": "2030-01",
+  "first_seen": "2026-11-12T20:40:21.526941+00:00",
+  "id": 1
+ },
+ "c8fbc5b5304449e9": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-12",
+  "url": "https://www.ruv.is/frettir/erlent/2026-11-12-sprungur-hofdu-myndast-fyrir-hrunid-tvo-born-medal-hinna-latnu-492554/",
+  "title": "Sprungur höfðu myndast fyrir hrunið: Tvö börn meðal hinna látnu",
+  "sum": "Zohran Mamdani, borgarstjóri New York, segist verulega uggandi yfir fregnum um að framkvæmdir hafi haldið áfram nærri húsi sem hrundi í Brooklyn-hverfi borgarinnar í dag, þrátt fyrir viðvaranir um hættuástand. Minnst átta létust þegar þrigg",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-12T20:40:21.526941+00:00",
+  "id": 2
+ },
+ "3abac75309a3ad43": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "16,8 ma.kr.",
+  "verk": [
+   "ÍAV"
+  ],
+  "status": "Hafnar",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-12",
+  "url": "https://byggingar.is/iav-hefur-framkvaemdir-vid-168-milljarda-thjodarholl-i-laugardal/?utm_source=rss&utm_medium=rss&utm_campaign=iav-hefur-framkvaemdir-vid-168-milljarda-thjodarholl-i-laugardal",
+  "title": "ÍAV hefur framkvæmdir við 16,8 milljarða Þjóðarhöll í Laugardal",
+  "sum": "ÍAV hefur framkvæmdir við 16,8 milljarða Þjóðarhöll í Laugardal Fyrsta skóflustunga að nýrri Þjóðarhöll í Laugardal var tekin í dag, fimmtudaginn 12. nóvember 2026, og eru framkvæmdir við þetta umfangsmikla mannvirki þar með formlega hafnar",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-12T20:40:21.526941+00:00",
+  "id": 3
  }
 }
