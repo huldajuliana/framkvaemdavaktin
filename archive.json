@@ -29805,5 +29805,68 @@
   "tsort": "",
   "first_seen": "2026-11-13T16:56:06.021372+00:00",
   "id": 15
+ },
+ "ed6478ec8543df31": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-13",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/13/konur_inn_ur_kuldanum_i_sundhollinni/",
+  "title": "Konur inn úr kuldanum í Sundhöllinni",
+  "sum": "Framkvæmdum við kvennaklefann í Sundhöll Reykjavíkur er nú lokið og var hann opnaður í dag.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T20:21:20.862633+00:00",
+  "id": 1
+ },
+ "d2ce385972e9bcd0": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Verklok",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-13",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-13-kvennaklefinn-i-sundhollinni-opnadur-a-ny-492702/",
+  "title": "Kvennaklefinn í Sundhöllinni opnaður á ný",
+  "sum": "Framkvæmdum við kvennaklefann í Sundhöll Reykjavíkur er lokið og var hann opnaður aftur í dag eftir miklar endurbætur. Þetta kemur fram í fréttatilkynningu á vef Reykjavíkurborgar. Kvennaklefinn hefur verið lokaður vegna framkvæmda síðan la",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T20:21:20.862633+00:00",
+  "id": 2
+ },
+ "8300f346db41054f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "980 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-13",
+  "url": "https://byggingar.is/fsre-bydur-ut-nyja-jardraektarmidstod-a-hvanneyri/?utm_source=rss&utm_medium=rss&utm_campaign=fsre-bydur-ut-nyja-jardraektarmidstod-a-hvanneyri",
+  "title": "09.02.2027 FSRE býður út nýja jarðræktarmiðstöð á Hvanneyri",
+  "sum": "FSRE býður út nýja jarðræktarmiðstöð á Hvanneyri Framkvæmdasýslan – Ríkiseignir (FSRE) hefur auglýst útboð á hönnun og byggingu nýrrar jarðræktarmiðstöðvar fyrir Landbúnaðarháskóla Íslands á Hvanneyri í Borgarfirði. Fyrirhuguð bygging er sö",
+  "tender": "9. febrúar 2027",
+  "start": "",
+  "end": "",
+  "tsort": "2027-02",
+  "first_seen": "2026-11-13T20:21:20.862633+00:00",
+  "id": 3
  }
 }
