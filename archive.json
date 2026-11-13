@@ -29490,5 +29490,320 @@
   "tsort": "",
   "first_seen": "2026-11-12T20:40:21.526941+00:00",
   "id": 3
+ },
+ "5e6a8dc93f5e6da3": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "69 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-13",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/11/13/maeta_thorf_fyrir_minni_ibudir/",
+  "title": "Mæta þörf fyrir minni íbúðir",
+  "sum": "Flestar þeirra 69 íbúða sem Fasteignaþróunarfélagið Spilda í Gufunesi í Reykjavík auglýsti til sölu í júní síðastliðnum eru þegar seldar, eða 59 talsins.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 1
+ },
+ "b97f1db74966fc03": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-13",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/13/getur_stjorn_landsvirkjunar_radid_nyjan_forstjora/",
+  "title": "Getur stjórn Landsvirkjunar ráðið nýjan forstjóra?",
+  "sum": "Í Spursmálum dagsins er fjallað áfram um málefni Landsvirkjunar og hvort núverandi stjórn hafi umboð til að ráða nýjan forstjóra. Glæpasagnameistarar mæta á vettvang og fleiri góðir gestir.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 2
+ },
+ "d717c40423a9081d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-13",
+  "url": "https://www.mbl.is/vidskipti/frettir/2026/11/13/arion_er_ekki_eins_og_landsvirkjun/",
+  "title": "Arion er ekki eins og Landsvirkjun",
+  "sum": "Það er misskilningur að hjá Arion banka hafi tíðkast sams konar forfundir stjórnar og tíðkast hafi hjá stjórn Landsvirkjunar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 3
+ },
+ "b6bf1b08100f4416": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "Vísir – allt",
+  "date": "2026-11-13",
+  "url": "https://www.visir.is/g/20262962885d/konurnar-hafa-fengid-inni",
+  "title": "Konurnar hafa fengið inni",
+  "sum": "Framkvæmdum við kvennaklefann í Sundhöll Reykjavíkur er nú lokið og hann var opnaður aftur í dag eftir endurbætur. Með opnuninni færist starfsemi Sundhallarinnar aftur í hefðbundið horf.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 4
+ },
+ "4d97c4727b33940c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Hafnar",
+  "src": "Vísir – allt",
+  "date": "2026-11-13",
+  "url": "https://www.visir.is/g/20262962871d/nyja-thjorsarbruin-opnud-eftir-thrju-ar",
+  "title": "Nýja Þjórsárbrúin opnuð eftir þrjú ár",
+  "sum": "Vegagerðin hefur samið við Borgarverk um lagningu Búðafossvegar og smíði nýrrar Þjórsárbrúar á móts við þorpið Árnes. Framkvæmdir hefjast um næstu áramót og á þeim að ljúka í árslok 2029, eftir þrjú ár, samkvæmt tímaáætlun.",
+  "tender": "",
+  "start": "lok 2029",
+  "end": "",
+  "tsort": "2029-12",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 5
+ },
+ "8e9c7d4db474a0fe": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-13",
+  "url": "https://www.visir.is/g/20262962772d/ardur-leysir-hord-ekki-undan-abyrgd",
+  "title": "Arður leysir Hörð ekki undan á­byrgð",
+  "sum": "Þegar stjórnartíð Harðar Arnarsonar hjá Landsvirkjun er gerð upp nægir ekki að telja arðgreiðslur og lækkun skulda.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 6
+ },
+ "7c84d0f0bec1c8ff": {
+  "region": "Landið allt",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-13",
+  "url": "https://www.visir.is/g/20262958917d/thau-bokudu-skopudu-og-stigu-ut-fyrir-thaegindarammann",
+  "title": "Þau bökuðu, sköpuðu og stigu út fyrir þæginda­rammann",
+  "sum": "Margrét Gunnarsdóttir, bakaranemi hjá Gulla Arnari, sigraði í nemakeppni Kornax 2026. Fimmtán nemar tóku þátt í forkeppninni og sex komust í úrslit, þar sem reyndi jafnt á tækni, skipulag og sköpunargáfu. Á lokasýningu í Hótel- og matvælask",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 7
+ },
+ "feafa77d22f95a7f": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-13",
+  "url": "https://www.visir.is/g/20262962646d/verkleg-hagfraedi-a-vidsjarverdum-timum",
+  "title": "Verk­leg hag­fræði á við­sjár­verðum tímum",
+  "sum": "Það hefur ekki farið framjá neinum að brotthvarf Harðar Arnarsonar úr forstjórastóli Landsvirkjunar bar nokkuð brátt að. Eftir sautján ár í starfi hefði mátt ætla að starfslok óumdeilds forstjóra yrðu með öðrum hætti. Samskiptin við stjórn ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 8
+ },
+ "47f5140f6b6afe33": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Stór",
+  "scaleFig": "14 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-13",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-13-askrift-fengist-i-alla-falbodna-hluti-blaa-lonsins-492690/",
+  "title": "Áskrift fengist í alla falboðna hluti Bláa lónsins",
+  "sum": "Áskrift hefur fengist í alla þá hluti Bláa lónsins hf. sem boðnir voru út í almennu útboði sem hófst á þriðjudaginn var. Áskriftartímabilinu lauk samkvæmt áætlun núna klukkan fjögur síðdegis samkvæmt tilkynningu Bláa lónsins til Kauphallari",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 9
+ },
+ "8b034d245f49aeb2": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-13",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-13-deila-um-hvort-laxeldid-myndi-valda-veidibanni-innan-sjavarjarda-492638/",
+  "title": "Deila um hvort laxeldið myndi valda veiðibanni innan sjávarjarða",
+  "sum": "Fyrirhugað laxeldi Kaldvíkur í Seyðisfirði er umdeilt og Samtökin Vá berjast gegn eldinu. Segja má að þau andi kröftuglega niður um hálsmálið á Húsnæðis-, mannvirkja- og skipulagsstofnun. Hún á enn eftir að veita byggingarleyfi fyrir sjókví",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 10
+ },
+ "46457dbb718eb622": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "2,5 ma.kr.",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-13",
+  "url": "https://byggingar.is/borgarverk-semur-um-25-milljarda-framkvaemd-vid-budafossveg-og-nyja-thjorsarbru/?utm_source=rss&utm_medium=rss&utm_campaign=borgarverk-semur-um-25-milljarda-framkvaemd-vid-budafossveg-og-nyja-thjorsarbru",
+  "title": "Borgarverk semur um 2,5 milljarða framkvæmd við Búðafossveg og nýja Þjórsárbrú",
+  "sum": "Borgarverk semur um 2,5 milljarða framkvæmd við Búðafossveg og nýja Þjórsárbrú Vegagerðin hefur undirritað samning við Borgarverk ehf. um nýbyggingu Búðafossvegar milli Þjórsárdalsvegar og Landvegar ásamt 204 metra langri brú yfir Þjórsá. T",
+  "tender": "",
+  "start": "2026",
+  "end": "2027",
+  "tsort": "2026-01",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 11
+ },
+ "0674c54a9e2a5c7c": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "3.000 m²",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-13",
+  "url": "https://byggingar.is/fimm-honnunaradilar-valdir-i-utbod-a-3-000-fermetra-hafnarhusi-i-sundahofn/?utm_source=rss&utm_medium=rss&utm_campaign=fimm-honnunaradilar-valdir-i-utbod-a-3-000-fermetra-hafnarhusi-i-sundahofn",
+  "title": "Fimm hönnunaraðilar valdir í útboð á 3.000 fermetra Hafnarhúsi í Sundahöfn",
+  "sum": "Fimm hönnunaraðilar valdir í útboð á 3.000 fermetra Hafnarhúsi í Sundahöfn Faxaflóahafnir hafa valið fimm umsækjendur til þátttöku í lokuðu útboði á fullnaðarhönnun nýs Hafnarhúss við Viðeyjarsund í Sundahöfn. Alls bárust tólf umsóknir í fo",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 12
+ },
+ "b96d2d2ab4045158": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-13",
+  "url": "https://byggingar.is/30-11-2026-arborg-bydur-ut-endurnyjun-radhustrappa-a-selfossi/?utm_source=rss&utm_medium=rss&utm_campaign=30-11-2026-arborg-bydur-ut-endurnyjun-radhustrappa-a-selfossi",
+  "title": "30.11.2026 Árborg býður út endurnýjun ráðhústrappa á Selfossi",
+  "sum": "Árborg býður út endurnýjun ráðhústrappa á Selfossi Sveitarfélagið Árborg hefur auglýst að nýju framkvæmdir við endurnýjun ráðhústrappanna að Austurvegi 2 á Selfossi. Í fyrra útboði barst aðeins eitt tilboð, að fjárhæð tæplega 110 milljónir ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 13
+ },
+ "5203f621fafb496e": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-13",
+  "url": "https://byggingar.is/verktakar-vilja-byggja-til-ad-fara-ekki-a-hausinn/?utm_source=rss&utm_medium=rss&utm_campaign=verktakar-vilja-byggja-til-ad-fara-ekki-a-hausinn",
+  "title": "Verktakar vilja byggja til að „fara ekki á hausinn“",
+  "sum": "Verktakar vilja byggja til að „fara ekki á hausinn“ Margir verktakar eiga lóðir og eru tilbúnir að byggja innan almenna íbúðakerfisins „til að hreinlega fara ekki á hausinn“, að sögn Ragnars Þórs Ingólfssonar, félags- og húsnæðismálaráðherr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 14
+ },
+ "e38098bae4822c1d": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "311 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-11-13",
+  "url": "https://bb.is/2026/11/vill-selja-landsbankann-og-fjarmagna-samgongusattmala-hofudborgarsvaedisins/",
+  "title": "Vill selja Landsbankann og fjármagna samgöngusáttmála höfuðborgarsvæðisins",
+  "sum": "Ásdís Kristjánsdóttir, bæjarstjóri í Kópavogi vill að ríkið selji Landsbankann og notil andvirðið til þess fjármagna hlut ríkisins í samgöngusáttmála höfuðborgarsvæðsins. Hún hafnar að skattleggja höfuðborgarbúa vegna uppbyggingar samgöngus",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-13T16:56:06.021372+00:00",
+  "id": 15
  }
 }
