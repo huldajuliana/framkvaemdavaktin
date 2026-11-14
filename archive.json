@@ -29868,5 +29868,131 @@
   "tsort": "2027-02",
   "first_seen": "2026-11-13T20:21:20.862633+00:00",
   "id": 3
+ },
+ "7e7fb92b788c2a8d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-14",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/14/stjornin_geti_ekki_radid_nyjan_forstjora/",
+  "title": "Stjórnin geti ekki ráðið nýjan forstjóra",
+  "sum": "Björn Ingi Hrafnsson, aðstoðarmaður formanns Miðflokksins, telur ekki hægt að sætta sig við að stjórn Landsvirkjunar ráði nýjan forstjóra á meðan stjórnarhættir fyrirtækisins séu til skoðunar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-14T15:31:22.411891+00:00",
+  "id": 1
+ },
+ "d8b48df88d8fb6de": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-14",
+  "url": "https://www.visir.is/g/20262962785d/bruin-verdur-ad-na-alla-leid",
+  "title": "Brúin verður að ná alla leið",
+  "sum": "Ímyndum okkur að við ákveðum að reisa brú. Brú sem á að tryggja að allir komist örugglega leiðar sinnar og ekki síst þeir sem eiga erfiðast með að komast yfir á eigin spýtur.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-14T15:31:22.411891+00:00",
+  "id": 2
+ },
+ "ae0d850c2d9897b7": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "15,3 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-14",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-14-syni-ad-almenningur-og-fjarfestar-hafi-somu-tru-a-felaginu-og-stjornendur-492777/",
+  "title": "Sýni að almenningur og fjárfestar hafi sömu trú á félaginu og stjórnendur",
+  "sum": "Fjögur þúsund nýir hluthafar bætast í hluthafahóp Bláa lónsins eftir að áskrift fékkst að öllum þeim 150 milljón hlutum sem boðnir voru upp í almennu útboði félagsins, á 95 krónur á hlut. Útboðinu lauk í gær. Í lýsingu útboðsins sagði að 30",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-14T15:31:22.411891+00:00",
+  "id": 3
+ },
+ "fb47ba69dd22a955": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-14",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-14-ofaert-og-vida-halka-snjothekja-og-thaefingur-a-vegum-492765/",
+  "title": "Ófært og víða hálka, snjóþekja og þæfingur á vegum",
+  "sum": "Unnið verður að mokstri með morgninum að því er segir á vef Vegagerðarinnar . Einnig er þungfært víða á láglendi og ófært norður í Árneshrepp. Heiðavegir á Vestfjörðum eru sagðir opnir en víða hálka, snjóþekja eða þæfingur. Holtavörðuheiði ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-14T15:31:22.411891+00:00",
+  "id": 4
+ },
+ "d8cdf16579fd32d3": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-14",
+  "url": "https://byggingar.is/undirbua-utbod-vegna-nyrrar-hafnaradstodu-i-helguvik/?utm_source=rss&utm_medium=rss&utm_campaign=undirbua-utbod-vegna-nyrrar-hafnaradstodu-i-helguvik",
+  "title": "Undirbúa útboð vegna nýrrar hafnaraðstöðu í Helguvík",
+  "sum": "Undirbúa útboð vegna nýrrar hafnaraðstöðu í Helguvík Unnið er að hönnun útboðsgagna vegna uppbyggingar nýrrar hafnaraðstöðu og eldsneytisbirgðastöðvar á hafnarsvæði Helguvíkurhafnar. Farið var yfir stöðu undirbúningsins á fundi atvinnu- og ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-14T15:31:22.411891+00:00",
+  "id": 5
+ },
+ "8dee36cd10369fab": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-14",
+  "url": "https://byggingar.is/afangauttektir-og-starfsleyfiskrafa-byggingarstjora-falli-nidur-samkvaemt-nyju-frumvarpi/?utm_source=rss&utm_medium=rss&utm_campaign=afangauttektir-og-starfsleyfiskrafa-byggingarstjora-falli-nidur-samkvaemt-nyju-frumvarpi",
+  "title": "Áfangaúttektir og starfsleyfiskrafa byggingarstjóra falli niður samkvæmt nýju frumvarpi",
+  "sum": "Áfangaúttektir og starfsleyfiskrafa byggingarstjóra falli niður samkvæmt nýju frumvarpi Stjórnvöld leggja til umfangsmiklar breytingar á byggingareftirliti á Íslandi með frumvarpi til breytinga á lögum um mannvirki sem birt hefur verið í Sa",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-14T15:31:22.411891+00:00",
+  "id": 6
  }
 }
