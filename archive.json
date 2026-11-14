@@ -29994,5 +29994,47 @@
   "tsort": "",
   "first_seen": "2026-11-14T15:31:22.411891+00:00",
   "id": 6
+ },
+ "96d42f81ef670be4": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-14",
+  "url": "https://byggingar.is/stodvadi-innkaupaferli-borgarinnar-vegna-umferdarljosa/?utm_source=rss&utm_medium=rss&utm_campaign=stodvadi-innkaupaferli-borgarinnar-vegna-umferdarljosa",
+  "title": "Stöðvaði innkaupaferli borgarinnar vegna umferðarljósa",
+  "sum": "Stöðvaði innkaupaferli borgarinnar vegna umferðarljósa Kærunefnd útboðsmála stöðvaði í september innkaupaferli Reykjavíkurborgar vegna umferðarljósabúnaðar við tvenn gatnamót á Snorrabraut. Nefndin taldi verulegar líkur á broti gegn lögum u",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-14T18:39:42.816470+00:00",
+  "id": 1
+ },
+ "57f775bd93b15741": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-14",
+  "url": "https://byggingar.is/oseldar-ibudir-teknar-upp-i-skuldir/?utm_source=rss&utm_medium=rss&utm_campaign=oseldar-ibudir-teknar-upp-i-skuldir",
+  "title": "Óseldar íbúðir teknar upp í skuldir?",
+  "sum": "Óseldar íbúðir teknar upp í skuldir? Arion og Lands­bankinn kannast ekki við slíkar ráð­stafnir en Ís­lands­banki segist leita lausna í samráði við við­skipta­vini. Viðskiptablaðið hefur að undanförnu fjallað ítarlega um nýbyggingaverkefni ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-14T18:39:42.816470+00:00",
+  "id": 2
  }
 }
