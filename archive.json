@@ -30036,5 +30036,68 @@
   "tsort": "",
   "first_seen": "2026-11-14T18:39:42.816470+00:00",
   "id": 2
+ },
+ "8fca9078c010cb41": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Basalt arkitektar (hönnun)"
+  ],
+  "status": "Í byggingu",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-15",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/15/samkeppni_um_nytt_hafnarhus/",
+  "title": "Samkeppni um nýtt Hafnarhús",
+  "sum": "Fimm fyrirtæki öðluðust þátttökurétt í lokuðu útboði á fullnaðarhönnun nýs Hafnarhúss, sem rísa mun í Sundahöfn. Eftirtalin fyrirtæki taka þátt í útboðinu: Basalt Arkitektar, Hornsteinar arkitektar, Teiknistofan Tröð, Verkís og VSÓ Ráðgjöf",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-15T16:03:18.521013+00:00",
+  "id": 1
+ },
+ "a32854b9c14a7465": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-15",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/15/fjarmalaradherra_sagdi_osatt_um_arion_banka/",
+  "title": "Fjármálaráðherra sagði ósatt um Arion banka",
+  "sum": "Daði Már Kristófersson fullyrti að stjórnarhættir Arion banka væru með sama hætti og hjá þeirri stjórn Landsvirkjunar sem hann skipaði í heild í fyrra. Bankinn kannast ekkert við þær lýsingar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-15T16:03:18.521013+00:00",
+  "id": 2
+ },
+ "2e14b1c43d7b440d": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-15",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-15-faerri-heimili-a-leigumarkadi-492833/",
+  "title": "Færri heimili á leigumarkaði",
+  "sum": "Húsnæðis-, mannvirkja- og skipulagsstofnun hefur endurmetið áætlaðan fjölda heimila á leigumarkaði hér á landi og eru þau færri en áður var talið. Þetta kemur fram í tilkynningu á vef HMS . Stofnunin telur nú að heimilin séu allt að 48 þúsu",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-15T16:03:18.521013+00:00",
+  "id": 3
  }
 }
