@@ -30099,5 +30099,91 @@
   "tsort": "",
   "first_seen": "2026-11-15T16:03:18.521013+00:00",
   "id": 3
+ },
+ "fc96cca629acbca1": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-16",
+  "url": "https://www.visir.is/g/20262963888d/-their-hlaeja-oft-haest-og-tomast-sem-hafa-yfir-minnstu-ad-hlaeja-",
+  "title": "„Þeir hlæja oft hæst og tómast sem hafa yfir minnstu að hlæja“",
+  "sum": "Sigurður Ingi Jóhannsson, þingmaður Framsóknarflokksins, er afar ósáttur við það sem hann kallar að veist hafi verið að sér fjarstöddum í umræðu um skipan stjórnar Landsvirkjunar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-16T19:14:37.248399+00:00",
+  "id": 1
+ },
+ "eef27c324b74eacd": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Ístak",
+   "ÞG verk",
+   "Eykt"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-16",
+  "url": "https://byggingar.is/eykt-istak-mannverk-og-thg-verk-saekjast-eftir-byggingu-stora-hrauns/?utm_source=rss&utm_medium=rss&utm_campaign=eykt-istak-mannverk-og-thg-verk-saekjast-eftir-byggingu-stora-hrauns",
+  "title": "Eykt, Ístak, Mannverk og ÞG verk sækjast eftir byggingu Stóra-Hrauns",
+  "sum": "Eykt, Ístak, Mannverk og ÞG verk sækjast eftir byggingu Stóra-Hrauns Eykt ehf., Ístak hf., Mannverk ehf. og ÞG verktakar ehf. hafa sótt um þátttöku í forvali Framkvæmdasýslunnar – Ríkiseigna (FSRE) vegna hönnunar og byggingar nýs öryggisfan",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-16T19:14:37.248399+00:00",
+  "id": 2
+ },
+ "a16000584527b961": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-16",
+  "url": "https://byggingar.is/kopavogsbaer-greidslustodvun-verktaka-var-ekki-meginastaeda-frettatilkynningar/?utm_source=rss&utm_medium=rss&utm_campaign=kopavogsbaer-greidslustodvun-verktaka-var-ekki-meginastaeda-frettatilkynningar",
+  "title": "Kópavogsbær: Greiðslustöðvun verktaka var ekki meginástæða fréttatilkynningar",
+  "sum": "Kópavogsbær: Greiðslustöðvun verktaka var ekki meginástæða fréttatilkynningar Kópavogsbær reynir að fá kröfur sínar gegn ítölskum verktaka greiddar til fulls. Verktakinn byggði nýjan skóla á Kársnesi að hluta þar til bærinn rifti samningi v",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-16T19:14:37.248399+00:00",
+  "id": 3
+ },
+ "c78e2a3d07264138": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-11-16",
+  "url": "https://bb.is/2026/11/isafjardarbaer-ny-stada-deildarstjora/",
+  "title": "Ísafjarðarbær: ný staða deildarstjóra",
+  "sum": "Bæjarráð Ísafjarðarbæjar samþykkti í síðustu viku breytingar á skipuriti umhverfis- og eignasviðs með stofnun nýrrar stöðu deildarstjóra og uppskiptingu sviðsins í tvær megindeildir, skipulag og mannvirki, annars vegar, og umhverfi og framk",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-16T19:14:37.248399+00:00",
+  "id": 4
  }
 }
