@@ -30606,5 +30606,26 @@
   "tsort": "",
   "first_seen": "2026-11-17T18:07:38.939851+00:00",
   "id": 19
+ },
+ "8e0eb122dd57b8da": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-17",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/17/nytt_uppbyggingartimabil_a_halendinu_hafid/",
+  "title": "Nýtt uppbyggingartímabil á hálendinu hafið",
+  "sum": "Endurbygging nýs Skagfjörðsskála í Langadal í Þórsmörk markar upphaf nýs uppbyggingartímabils og endurnýjunar á skálum Ferðafélags Íslands á hálendinu, bæði á Laugaveginum og á Kjalvegi hinum forna.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-17T21:31:38.512448+00:00",
+  "id": 1
  }
 }
