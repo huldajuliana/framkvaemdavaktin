@@ -31299,5 +31299,26 @@
   "tsort": "",
   "first_seen": "2026-11-20T17:31:38.160365+00:00",
   "id": 10
+ },
+ "e4eaf67763742c1d": {
+  "region": "Austurland",
+  "type": "Innviðir",
+  "scale": "Stór",
+  "scaleFig": "7 ma.kr.",
+  "verk": [
+   "Vegagerðin (verkkaupi)"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-20",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-20-naer-ad-byrja-a-gongum-en-ad-setja-marga-milljarda-i-veginn-yfir-fjardarheidi-493371/",
+  "title": "Nær að byrja á göngum en að setja marga milljarða í veginn yfir Fjarðarheiði",
+  "sum": "Bæjaryfirvöld í Múlaþingi þrýsta á Vegagerðina að ráðast í endurbætur á Fjarðarheiði og heimastjórnin á Seyðisfirði krafðist þess í bókun á síðasta fundi sínum að sett yrði sérstök fjárveiting í styrkingu og endurbætur vegarins. Þetta er hæ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-20T20:57:17.730595+00:00",
+  "id": 1
  }
 }
