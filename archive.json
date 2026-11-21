@@ -31320,5 +31320,47 @@
   "tsort": "",
   "first_seen": "2026-11-20T20:57:17.730595+00:00",
   "id": 1
+ },
+ "742f7e28d85630ea": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-21",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-21-vikulokin-stadan-i-stjornmalunum-husnaedismarkadurinn-og-leidtogafundur-493454/",
+  "title": "Vikulokin: Staðan í stjórnmálunum, húsnæðismarkaðurinn og leiðtogafundur",
+  "sum": "Kafað verður í fréttamál vikunnar í Vikulokunum sem eru á sínum stað í útvarpi og á vef strax á eftir fréttum klukkan 11:00. Í fyrsta hluta þáttarins verður rætt um stöðuna í stjórnmálunum, vistaskipti Ingvars Þóroddssonar og náttúru- og in",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-21T16:35:45.788792+00:00",
+  "id": 1
+ },
+ "738d60cfd0e353c1": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-20",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-20-urgur-vegna-utbods-stafraennar-heilsu-493430/",
+  "title": "Urgur vegna útboðs Stafrænnar heilsu",
+  "sum": "Í næstu viku rennur út útboðsfrestur á einu stærsta verkefni sem ríkið hefur ráðist í á þessu sviði. Það heitir Stafræn heilsa og miðar að því að innleiða stafrænar lausnir í heilbrigðisgeiranum og ná fram hagræðingu. Sigurður Þórarinsson, ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-21T16:35:45.788792+00:00",
+  "id": 2
  }
 }
