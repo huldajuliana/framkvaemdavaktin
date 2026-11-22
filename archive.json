@@ -31425,5 +31425,47 @@
   "tsort": "",
   "first_seen": "2026-11-22T16:53:08.753632+00:00",
   "id": 3
+ },
+ "d34ac707b7450d15": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-22",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/22/vidbygging_vid_laeknagard_verdur_staekkud/",
+  "title": "Viðbygging við Læknagarð verður stækkuð",
+  "sum": "Efnt verður til útboðs á næstunni vegna innanhússfrágangs í nýrri viðbyggingu Læknagarðs undir Heilbrigðisvísindasvið Háskóla Íslands (HÍ).",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-22T20:11:28.102521+00:00",
+  "id": 1
+ },
+ "ec2e15c1235a4bf9": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-22",
+  "url": "https://www.visir.is/g/20262966730d/byggingargeirinn-eigi-skell-i-vaendum",
+  "title": "Byggingargeirinn eigi skell í vændum",
+  "sum": "Sigurður Hannesson, framkvæmdastjóri Samtaka iðnaðarins, segir að staðan í byggingariðnaði eigi eftir að versna á næstu mánuðum. Verst sé ástandið í íbúðauppbyggingu. Nýjar íbúðir seljist nú á tvöfalt lengri tíma en fyrir tveimur árum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-22T20:11:28.102521+00:00",
+  "id": 2
  }
 }
