@@ -31362,5 +31362,68 @@
   "tsort": "",
   "first_seen": "2026-11-21T16:35:45.788792+00:00",
   "id": 2
+ },
+ "9e0c84f1a0139f2f": {
+  "region": "Suðurland",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-22",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/22/vilja_kanna_byggingu_namsmannaibuda_samhlida_heimav/",
+  "title": "Vilja kanna byggingu námsmannaíbúða samhliða heimavist",
+  "sum": "Samtök sunnlenskra sveitarfélaga vilja kanna hvort hagkvæmt sé að byggja námsmannaíbúðir á Selfossi samhliða nýrri heimavist við Fjölbrautaskóla Suðurlands.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-22T16:53:08.753632+00:00",
+  "id": 1
+ },
+ "7d9ab4e15a0f7388": {
+  "region": "Vesturland",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-21",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/21/lett_a_lodagjoldum_a_akranesi/",
+  "title": "Létt á lóðagjöldum á Akranesi",
+  "sum": "Bæjarstjórn Akraneskaupstaðar ákvað nú í vikunni að gera ýmsar breytingar á innheimtu gjalda fyrir lóðir sem úthlutað er, bæði fyrir íbúðabyggingar og atvinnuhúsnæði. Sérstaklega verður lengt í frestum á byggingarréttar- og gatnagerðargjöld",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-22T16:53:08.753632+00:00",
+  "id": 2
+ },
+ "d845b2929bbeff1b": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-21",
+  "url": "https://www.visir.is/g/20262966457d/ny-taekni-sem-hvert-mannsbarn-getur-notad-til-ad-greina-thjodfelagid",
+  "title": "Ný tækni sem hvert manns­barn getur notað til að greina þjóð­fé­lagið",
+  "sum": "Í áratugi höfum við Íslendingar rætt um stórar ákvarðanir – kvótakerfið, húsnæðismál, opinberar framkvæmdir, orkukostnað og skattbyrði – án þess að almenningur hafi haft aðgang að verkfærum sem sýna afleiðingarnar skýrt.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-22T16:53:08.753632+00:00",
+  "id": 3
  }
 }
