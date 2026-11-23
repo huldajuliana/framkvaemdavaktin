@@ -31467,5 +31467,173 @@
   "tsort": "",
   "first_seen": "2026-11-22T20:11:28.102521+00:00",
   "id": 2
+ },
+ "5652718a12afbfcb": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Risa",
+  "scaleFig": "16,7 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-11-23",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/23/rikid_breytti_16_7_milljarda_krona_krofu_i_hlutafe/",
+  "title": "Ríkið breytti 16,7 milljarða króna kröfu í hlutafé",
+  "sum": "Ríkið breytti 16,7 milljarða króna kröfu á hendur Vaðlaheiðargöngum hf. í hlutafé 1. júlí þegar félaginu var breytt í opinbera innviðafélagið Göng og brú ohf.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-23T20:51:28.394756+00:00",
+  "id": 1
+ },
+ "ce91e56d8b3be703": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "mbl.is – viðskipti",
+  "date": "2026-11-22",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/22/hofnun_straeto_a_tilbodi_i_hledslulausn_felld_ur_gi/",
+  "title": "Höfnun Strætó á tilboði í hleðslulausn felld úr gildi",
+  "sum": "Kærunefnd útboðsmála hefur fellt úr gildi ákvörðun Strætó um að hafna tilboði YES-EU ehf. í hleðslulausn fyrir rafmagnsvagna. Strætó ber að veita félaginu stuttan frest til að leggja fram frekari gögn um skil opinberra gjalda og meta þau áð",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-23T20:51:28.394756+00:00",
+  "id": 8
+ },
+ "7d5624c7924c41bb": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Vísir – allt",
+  "date": "2026-11-23",
+  "url": "https://www.visir.is/g/20262967007d/blaa-lonid-er-gervigreind-ad-breyta-leiknum-",
+  "title": "Bláa lónið: Er gervi­greind að breyta leiknum?",
+  "sum": "Ég fór sjálfur yfir útboðsgögn Bláa lónsins með aðstoð gervigreindar. Útkoman var verðmat sem var töluvert lægra en útboðsverðið. Mig grunar að fleiri hafi gert hið sama. Ég hef þó ekki gögn um hversu margir það voru eða hvort slíkar greini",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-23T20:51:28.394756+00:00",
+  "id": 2
+ },
+ "2b97f92262cad962": {
+  "region": "Vesturland",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "1,5 ma.kr.",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-23",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-23-einn-og-halfur-milljardur-krona-i-studning-vid-brothaettar-byggdir-493383/",
+  "title": "Einn og hálfur milljarður króna í stuðning við brothættar byggðir",
+  "sum": "Verkefnið Brothættar byggðir hófst á Raufarhöfn árið 2012. Þar voru þá miklir erfiðleikar, íbúum hafði fækkað um 46% á tólf árum, allur kvóti var horfinn úr byggðarlaginu og fiskimjölsverksmiðjan lokuð. „Það voru engin ráð tiltæk til að snú",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-23T20:51:28.394756+00:00",
+  "id": 3
+ },
+ "d1f6b5c09e21df18": {
+  "region": "Suðurnes",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-23",
+  "url": "https://www.ruv.is/frettir/erlent/2026-11-23-aetla-ad-staekka-flugvollinn-a-kastrup-umtalsvert-493575/",
+  "title": "Ætla að stækka flugvöllinn á Kastrup umtalsvert",
+  "sum": "Til stendur að stækka Kaupmannahafnarflugvöll umtalsvert. Áætlanir gera ráð fyrir að flugvöllurinn geti tekið á móti 55 milljónum farþega árlega að framkvæmdum loknum. Búist er við að 34,5 milljónir farþega fari um flugvöllinn í ár. Til sam",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-23T20:51:28.394756+00:00",
+  "id": 4
+ },
+ "23345079adab7b19": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Reykjavíkurborg (verkkaupi)"
+  ],
+  "status": "Skipulag",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-23",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-23-geta-ekki-sagt-hve-lengi-flugoryggisljos-voru-ovirk-493554/",
+  "title": "Geta ekki sagt hve lengi flugöryggisljós voru óvirk",
+  "sum": "Slökkt var á flugöryggisljósum á byggingarkrana við hótelturn Radisson Red við Skúlagötu í Reykjavík um tíma eftir að framkvæmdum þar var hætt. Isavia innanlandsflugvellir segist ekki geta staðfest hvenær ljósin urðu óvirk í svari við fyrir",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-23T20:51:28.394756+00:00",
+  "id": 5
+ },
+ "9e131170abc812cd": {
+  "region": "Suðurland",
+  "type": "Atvinna",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Dagskráin – Suðurland",
+  "date": "2026-11-23",
+  "url": "https://www.dfs.is/frettir/frett/hvad-faer-folk-til-ad-flytja-vera-eda-snua-heim/",
+  "title": "Hvað fær fólk til að flytja, vera eða snúa heim?",
+  "sum": "Þróun Selfoss, búsetuval, samfélagsbreytingar og framtíð Suðurlands voru til umræðu á fjölmennu málþingi sem haldið var á Hótel Selfossi þriðjudaginn 10. nóvember. Fjallað var um niðurstöður rannsókna á byggðaþróun og persónuleg reynsla hei",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-23T20:51:28.394756+00:00",
+  "id": 6
+ },
+ "b9ffb930d63346e4": {
+  "region": "Landið allt",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-11-23",
+  "url": "https://bb.is/2026/11/isafjardarbaer-framlengir-nidurfellingu-gatnagerdargjaldda/",
+  "title": "Ísafjarðarbær: framlengir niðurfellingu gatnagerðargjalda",
+  "sum": "Bæjarráð Ísafjarðarbæjar hefur samþykkt að að framlengja um 10 mánuði frest sem húsbyggjendur hafa til lokaúttektar á nýbyggingu til að öðlast niðurfellingu gatnagerðargjalda. Um er að ræða byggingu íbúðarhúsnæðis á þeim lóðum sem úthlutað ",
+  "tender": "",
+  "start": "2022",
+  "end": "2023",
+  "tsort": "2022-01",
+  "first_seen": "2026-11-23T20:51:28.394756+00:00",
+  "id": 7
  }
 }
