@@ -31824,5 +31824,68 @@
   "tsort": "",
   "first_seen": "2026-11-24T19:56:00.898159+00:00",
   "id": 8
+ },
+ "fb787657672291ed": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Ístak"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-24",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/24/stodin_i_staekkun/",
+  "title": "Stöðin í stækkun",
+  "sum": "Framkvæmdir eru hafnar við stækkun Sigöldustöðvar og byrjað er að grafa fyrir stækkun stöðvarhússins. Ístak annast verkið og mun jafnframt sjá um að byggja mannvirki vegna stækkunarinnar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-24T22:56:27.464772+00:00",
+  "id": 1
+ },
+ "de040d881ddabd08": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-24",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-24-fjogur-koma-til-greina-i-forstjorastolinn-493702/",
+  "title": "Fjögur koma til greina í forstjórastólinn",
+  "sum": "Fjórir umsækjendur koma til greina í starf forstjóra Landsvirkjunar eftir starfsviðtöl síðustu vikna. Viðskiptablaðið greinir frá. Samkvæmt heimildum Viðskiptablaðsins koma þau Sigurður Hannesson, framkvæmdastjóri Samtaka iðnaðarins, Kristí",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-24T22:56:27.464772+00:00",
+  "id": 2
+ },
+ "bab0171a6b8bb10e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Jáverk"
+  ],
+  "status": "Útboð",
+  "src": "RÚV – fréttir",
+  "date": "2026-11-24",
+  "url": "https://www.ruv.is/frettir/innlent/2026-11-24-efasemdir-um-stafraena-heilsu-493604/",
+  "title": "Efasemdir um Stafræna heilsu",
+  "sum": "Áður en Alþingi hefur samþykkt lög um Stafræna heilsu er heilbrigðisráðuneytið á lokametrum með umfangsmikið útboð vegna verkefnisins. Frestur til að skila tilboðum í hugbúnaðarsmíðina rennur út á morgun. Gagnrýni hefur komið frá bæði Lands",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-24T22:56:27.464772+00:00",
+  "id": 3
  }
 }
