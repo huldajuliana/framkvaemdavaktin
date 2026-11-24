@@ -31635,5 +31635,26 @@
   "tsort": "2022-01",
   "first_seen": "2026-11-23T20:51:28.394756+00:00",
   "id": 7
+ },
+ "723103565c74251e": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-23",
+  "url": "https://www.visir.is/g/20262967252d/-bland-i-blokk-a-kostnad-ibudakaupenda",
+  "title": "„Bland í blokk“ á kostnað íbúða­kaup­enda",
+  "sum": "Þegar borgaryfirvöld kynntu uppbyggingu á þéttingarreitum á síðasta áratug var allt lagt upp undir merkjum gagnsæis, jafnræðis og sanngirni. Í bók sinni Nýja Reykjavík lýsir Dagur B. Eggertsson, þáverandi borgarstjóri, því hvernig borgin ha",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-24T00:37:28.058200+00:00",
+  "id": 1
  }
 }
