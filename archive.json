@@ -32202,5 +32202,26 @@
   "tsort": "",
   "first_seen": "2026-11-26T18:49:14.445777+00:00",
   "id": 5
+ },
+ "d7df0275c6ce9523": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Stór",
+  "scaleFig": "200 íbúðir",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-26",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/26/rumlega_tvo_hundrud_seldar_a_arinu/",
+  "title": "Rúmlega tvö hundruð seldar á árinu",
+  "sum": "Rúmlega 200 íbúðir hafa selst á þéttingarreitum nærri miðborg Reykjavíkur frá síðustu áramótum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-26T22:09:12.990273+00:00",
+  "id": 1
  }
 }
