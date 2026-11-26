@@ -32097,5 +32097,110 @@
   "tsort": "",
   "first_seen": "2026-11-25T18:58:24.546286+00:00",
   "id": 10
+ },
+ "eba6d89145bbdb75": {
+  "region": "Suðurland",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-26",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/26/missa_tekjurnar_vid_nyjan_utreikning/",
+  "title": "Missa tekjurnar við nýjan útreikning",
+  "sum": "Bæjarráð Hveragerðis gerir alvarlegar athugasemdir við tæknilega útfærslu reiknilíkans í frumvarpi innviðaráðherra um fasteignaskatt á orkumannvirki, en frumvarpinu, verði það að lögum, er ætlað að tryggja að skatttekjur skili sér til þeirr",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-26T18:49:14.445777+00:00",
+  "id": 1
+ },
+ "7aa045d03ddb4319": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-26",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/26/dadi_mar_svarar_spurningum_um_landsvirkjun/",
+  "title": "Daði Már svarar spurningum um Landsvirkjun",
+  "sum": "Stjórnskipunar- og eftirlitsnefnd Alþingis heldur opinn fund miðvikudaginn 2. desember til að fjalla um verklag fjármála- og efnahagsráðherra í tengslum við málefni Landsvirkjunar.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-26T18:49:14.445777+00:00",
+  "id": 2
+ },
+ "7db5e58c9742f201": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "mbl.is – innlent",
+  "date": "2026-11-26",
+  "url": "https://www.mbl.is/frettir/innlent/2026/11/26/ahofnin_sem_vann_bjorgunarafrekid/",
+  "title": "Áhöfnin sem vann björgunarafrekið",
+  "sum": "Áhöfnin á TF-Gró, þyrlu Landhelgisgæslunnar, sem framkvæmdu mikið björgunarafrek þegar þeir komu skipverjum af Jökli SH um borð í þyrluna í gærkvöldi.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-26T18:49:14.445777+00:00",
+  "id": 3
+ },
+ "076af8d81241ce0e": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Vísir – allt",
+  "date": "2026-11-26",
+  "url": "https://www.visir.is/g/20262968819d/situr-fyrir-svorum-um-landsvirkjunarmalid",
+  "title": "Situr fyrir svörum um Landsvirkjunarmálið",
+  "sum": "Stjórnskipunar- og eftirlitsnefnd Alþingis hefur boðað til opins fundar miðvikudaginn 2. desember til að fjalla um verklag fjármála- og efnahagsráðherra í tengslum við málefni Landsvirkjunar. Ráðherra verður gestur á fundinum.",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-26T18:49:14.445777+00:00",
+  "id": 4
+ },
+ "e6f58572ee16fd3c": {
+  "region": "Höfuðborgarsvæðið",
+  "type": "Íbúðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "Vísir – allt",
+  "date": "2026-11-26",
+  "url": "https://www.visir.is/g/20262968676d/allt-ad-24-milljona-krona-afslattur-a-svortum-fostudegi",
+  "title": "Allt að 24 milljóna króna af­sláttur á svörtum föstu­degi",
+  "sum": "Fasteignasalan Helgafell hefur auglýst íbúðir í nýbyggingu í Hafnarfirði á tuttugu prósenta afslætti í eina viku í tilefni svarts föstudags. Formaður félags fasteignasala segist telja um frumlega markaðssetningu að ræða og bendir á að undan",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-26T18:49:14.445777+00:00",
+  "id": 5
  }
 }
