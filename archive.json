@@ -32307,5 +32307,68 @@
   "tsort": "",
   "first_seen": "2026-11-27T21:50:25.569422+00:00",
   "id": 1
+ },
+ "0e83daa53743ca3c": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Verklok",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-28",
+  "url": "https://byggingar.is/ny-tilbod-fra-bjodendum-i-bru-yfir-djupafjord/?utm_source=rss&utm_medium=rss&utm_campaign=ny-tilbod-fra-bjodendum-i-bru-yfir-djupafjord",
+  "title": "Ný tilboð frá bjóð­endum í brú yfir Djúpa­fjörð",
+  "sum": "Ný tilboð frá bjóð­endum í brú yfir Djúpa­fjörð Samkeppnisviðræðum við þá tvo verktaka sem buðu í gerð brúar yfir Djúpafjörð í Gufudalssveit er lokið. Báðum tilboðum var hafnað og því farið í svo kallaðar samkeppnisviðræður við báða bjóðend",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-28T17:21:00.218112+00:00",
+  "id": 1
+ },
+ "814c5b17b3f2a987": {
+  "region": "Landið allt",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Útboð",
+  "src": "byggingar.is – byggingarfréttir",
+  "date": "2026-11-28",
+  "url": "https://byggingar.is/kaerunefnd-telur-verulegar-likur-a-broti-rarik-vid-utbod-a-jokuldal/?utm_source=rss&utm_medium=rss&utm_campaign=kaerunefnd-telur-verulegar-likur-a-broti-rarik-vid-utbod-a-jokuldal",
+  "title": "Kærunefnd telur verulegar líkur á broti RARIK við útboð á Jökuldal",
+  "sum": "Kærunefnd telur verulegar líkur á broti RARIK við útboð á Jökuldal Kærunefnd útboðsmála telur verulegar líkur á að RARIK hafi brotið gegn reglum um opinber innkaup þegar fyrirtækið hafnaði lægsta tilboði í lagningu rafstrengs á Jökuldal og ",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-28T17:21:00.218112+00:00",
+  "id": 2
+ },
+ "382299441aa735b3": {
+  "region": "Vestfirðir",
+  "type": "Innviðir",
+  "scale": "Miðlungs",
+  "scaleFig": "—",
+  "verk": [
+   "Óútboðið"
+  ],
+  "status": "Skipulag",
+  "src": "Bæjarins besta – Vestfirðir",
+  "date": "2026-11-28",
+  "url": "https://bb.is/2026/11/isafjardarbaer-18-m-kr-i-vidhald-gatna-og-gangstetta/",
+  "title": "Ísafjarðarbær : 18 m.kr. í viðhald gatna og gangstétta",
+  "sum": "Bæjarráð Ísafjarðarbæjar leggur til að fjárveiting til viðhalds gatna og gangstétta á þessu ári verði aukin um 18 m.kr. úr samtals 65 m.kr. í 83 m.kr. Stærstu kostnaðarliðirnir eru malbiksframkvæmdir, um 58,2 m.kr., og framkvæmdir við gangs",
+  "tender": "",
+  "start": "",
+  "end": "",
+  "tsort": "",
+  "first_seen": "2026-11-28T17:21:00.218112+00:00",
+  "id": 3
  }
 }
